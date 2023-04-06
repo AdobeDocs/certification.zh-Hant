@@ -5,10 +5,10 @@ solution: Marketo Engage
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '994'
-ht-degree: 5%
+source-wordcount: '1020'
+ht-degree: 4%
 
 ---
 
@@ -46,15 +46,13 @@ ht-degree: 5%
 
 **考試詳細資訊：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 30/40
-Time: 80 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: AD5-E824 - Adobe [!DNL Marketo Engage] Business Practitioner expert renewal exam
-```
+* 級別：專家（1-3年經驗）
+* 傳遞分數：30/40
+* 時間：80分鐘
+* 傳送：隨選/非監控
+* 可用語言：英文
+* 成本：免費
+* 考試ID:AD5-E824 -Adobe [!DNL Marketo Engage] 業務從業人員專家續期考試
 
 **範圍和目標：**
 

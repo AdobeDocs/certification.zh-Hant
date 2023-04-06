@@ -4,9 +4,9 @@ description: 了解如何續約Adobe [!DNL Campaign Standard] 認證，才能過
 solution: Campaign Standard
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1442'
+source-wordcount: '1491'
 ht-degree: 11%
 
 ---
@@ -47,15 +47,13 @@ ht-degree: 11%
 
 **考試詳細資訊：**
 
-```
-Passing Score: 23/30
-Time: 110 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Business Practitioner expert certification
-Exam ID: AD5-E822
-```
+* 傳遞分數：23/30
+* 時間：110分鐘
+* 成本：自由/非監督
+* 傳送：隨選
+* 可用語言：英文
+* 先決條件：當前（未過期）Adobe [!DNL Campaign Standard] 業務從業者專家認證
+* 考試ID:AD5-E822
 
 **範圍和目標**
 
@@ -133,15 +131,13 @@ Exam ID: AD5-E822
 
 **考試詳細資訊：**
 
-```
-Passing Score: 23/30
-Time: 60 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Developer Expert certification
-Exam ID: AD5-E821
-```
+* 傳遞分數：23/30
+* 時間：60分鐘
+* 成本：自由/非監督
+* 傳送：隨選
+* 可用語言：英文
+* 先決條件：當前（未過期）Adobe [!DNL Campaign Standard] 開發人員專家認證
+* 考試ID:AD5-E821
 
 **範圍和目標**
 

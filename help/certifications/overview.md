@@ -1,11 +1,11 @@
 ---
 title: 認證首頁
-description: 了解 [!DNL Experience Cloud] Adobe認證。 了解獲得認證對您有什麼幫助。
+description: 了解 [!DNL Experience Cloud] Adobe認證。 了解獲得認證能為您做什麼。
 mini-toc-levels: 1
-source-git-commit: 2dee616ff2304a6a92ba3edeae5e11da637bb235
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '398'
-ht-degree: 0%
+source-wordcount: '399'
+ht-degree: 3%
 
 ---
 
@@ -28,7 +28,7 @@ Adobe明白擁有適當資歷以在您的職業生涯中前進並保持領先於
 * **驗證您的技能：** Adobe認證向潛在客戶或雇主證明您具備使用所需的技能和知識 [!DNL Experience Cloud] 產品。
 * **職業發展：** Adobe認證可以幫助你在擁擠的就業市場中脫穎而出，並增加你在當前工作中被聘用或晉升的機會。
 * **增加收入潛力：** 經認證的個人往往比未經認證的同行掙得更多，因為他們的證書驗證了他們的技能和知識。
-* **存取專屬資源：** 獲得Adobe認證後，您就可以訪問專屬資源，例如培訓材料、測試版軟體版本和支援論壇，這些資源可以幫助您隨時了解業界最新的軟體開發和趨勢。
+* **存取專屬資源：** 當您獲得Adobe認證後，便可存取專屬資源。 這些資源包括培訓材料、測試版軟體版本和支援論壇，可幫助您隨時了解業界最新的軟體開發和趨勢。
 * **免費練習：** Adobe提供免費的練習考試，可幫助您為認證考試做準備，並確保您完全準備好參加考試。
 * **認證續訂：** Adobe認證有效期為兩年，您可以參加隨選、未監控的考試或完成一組持續學習活動，以續訂認證。
 

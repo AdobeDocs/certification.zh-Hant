@@ -5,9 +5,9 @@ solution: Commerce
 role: Developer
 badge: label="Exam AD0-E716" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '2007'
+source-wordcount: '2031'
 ht-degree: 0%
 
 ---
@@ -49,15 +49,13 @@ ht-degree: 0%
 
 **考試詳細資訊：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 41/69
-Time: 138 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E716
-```
+* 級別：專家（1-3年經驗）
+* 傳遞分數：41/69
+* 時間：138分鐘
+* 傳送：線上監控（需要攝像頭訪問）
+* 可用語言：英文
+* 成本：225美元（全球）/150美元（印度）
+* 考試ID:AD0-E716
 
 **準備情況自評**
 

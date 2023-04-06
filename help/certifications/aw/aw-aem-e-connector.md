@@ -5,9 +5,9 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E906" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '972'
 ht-degree: 0%
 
 ---
@@ -52,15 +52,13 @@ ht-degree: 0%
 
 **考試詳細資訊：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 34/55
-Time: 110 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E906
-```
+* 級別：專家（1-3年經驗）
+* 傳遞分數：34/55
+* 時間：110分鐘
+* 傳送：線上監控（需要攝像機訪問）或測試中心監控
+* 可用語言：英文
+* 成本：225美元（全球）/150美元（印度）
+* 考試ID:AD0-E906
 
 **考試目標和範圍**
 

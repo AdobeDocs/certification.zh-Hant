@@ -5,9 +5,9 @@ solution: Experience Manager Sites
 role: Developer
 badge: label="考試AD0-E123" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '812'
 ht-degree: 15%
 
 ---
@@ -40,15 +40,13 @@ ht-degree: 15%
 
 **考試詳細資訊：**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E123
-```
+* 級別：專業（0-12個月經驗）
+* 傳遞分數：31/50
+* 時間：100分鐘
+* 傳送：線上監控（需要攝像頭訪問）
+* 可用語言：英文
+* 成本：125美元（全球）/95美元（印度）
+* 考試ID:AD0-E123
 
 **準備情況自評**
 

@@ -5,9 +5,9 @@ solution: Experience Manager Sites
 role: Developer
 badge: label="考試AD0-E121" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1305'
+source-wordcount: '1334'
 ht-degree: 6%
 
 ---
@@ -68,15 +68,7 @@ ht-degree: 6%
 
 **考試詳細資訊：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 32/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English & Japanese
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E121
-```
+級別：專家（1-3年經驗）通過分數：32/50時間：100分鐘傳送：線上監控（需要攝像頭訪問）或測試中心監控可用語言：英文和日文成本：$225（全球）/ $150（印度）考試ID:AD0-E121
 
 **準備情況自評**
 

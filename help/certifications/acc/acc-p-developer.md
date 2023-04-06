@@ -5,9 +5,9 @@ solution: Campaign Classic
 role: Developer
 badge: label="Exam AD0-E331" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1283'
+source-wordcount: '1311'
 ht-degree: 10%
 
 ---
@@ -42,15 +42,13 @@ ht-degree: 10%
 
 **考試詳細資訊：**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 33/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E331
-```
+* 級別：專業（0-12個月經驗）
+* 傳遞分數：33/50
+* 時間：100分鐘
+* 傳送：線上監控（需要攝像機訪問）或測試中心監控
+* 可用語言：英文
+* 成本：125美元（全球）/95美元（印度）
+* 考試ID:AD0-E331
 
 **準備情況自評**
 
