@@ -5,10 +5,10 @@ solution: Analytics
 role: Developer
 badge: label="考試AD0-E212" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 29b489ffc67674c52a978277ed1fb22bcb557a24
 workflow-type: tm+mt
-source-wordcount: '849'
-ht-degree: 14%
+source-wordcount: '874'
+ht-degree: 13%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 14%
 * 行銷背景或來自行銷角色，但可能來自各種工作角色。
 * 對數位分析量度和維度的基本熟悉。
 * 能夠使用Analytics建立報表及回答業務問題，並傳達結果。
-* 了解基本數位分析概念，例如區段、建立報表、標準量度定義。
+* 了解基本的數位分析概念，例如區段、報告建立、標準量度定義。
 
 >[!NOTE]
 >
@@ -48,15 +48,13 @@ ht-degree: 14%
 
 **考試詳細資訊：**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E212
-```
+* 級別：專業（0-12個月經驗）
+* 傳遞分數：31/50
+* 時間：100分鐘
+* 傳送：線上監控（需要攝像頭訪問）
+* 可用語言：英文
+* 成本：125美元（全球）/95美元（印度）
+* 考試ID:AD0-E212
 
 **準備情況自評**
 
