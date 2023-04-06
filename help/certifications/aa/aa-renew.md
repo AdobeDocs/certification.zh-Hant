@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '543'
 ht-degree: 6%
 
 ---
@@ -79,4 +79,4 @@ ht-degree: 6%
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ 請發送電子郵件 `certif@adobe.com`.
+其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。

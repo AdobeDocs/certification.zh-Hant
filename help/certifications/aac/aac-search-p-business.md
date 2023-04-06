@@ -5,9 +5,9 @@ solution: Advertising
 role: Developer
 badge: label="Exam AD0-E501" type="positive"
 mini-toc-levels: 1
-source-git-commit: 29b489ffc67674c52a978277ed1fb22bcb557a24
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '987'
+source-wordcount: '989'
 ht-degree: 3%
 
 ---
@@ -175,4 +175,4 @@ Adobe使用兩家供應商管理監督考試、PSI和 [!DNL Examity].
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ 請發送電子郵件 `certif@adobe.com`.
+其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。

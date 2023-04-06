@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '5355'
+source-wordcount: '5357'
 ht-degree: 8%
 
 ---
@@ -738,4 +738,4 @@ Adobe重啟計畫是允許過期的個人的計畫 [!DNL Experience Cloud] 認�
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ 請發送電子郵件 `certif@adobe.com`.
+其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。

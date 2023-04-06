@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1042'
 ht-degree: 2%
 
 ---
@@ -188,4 +188,4 @@ ht-degree: 2%
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ 請發送電子郵件 `certif@adobe.com`.
+其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
