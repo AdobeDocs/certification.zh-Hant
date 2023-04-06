@@ -3,9 +3,9 @@ title: 開始使用Adobe認證
 description: 開始使用 [!DNL Experience Cloud] 認證。 了解計畫和此網站。
 solution: Experience Cloud
 mini-toc-levels: 1
-source-git-commit: 529ac3568da1f1cc35c93022b87c8e765205b267
+source-git-commit: 0d051bce7ef44105da136303b72fcf5cc22e7e17
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '945'
 ht-degree: 0%
 
 ---
@@ -86,9 +86,12 @@ Adobe認證考試可自訂為三個不同的工作角色。 請閱讀以下資�
 
 >[!ENDTABS]
 
+[!BADGE 取得認證]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en newtab=true"}
+
 **問題**
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ 請發送電子郵件 `certif@adobe.com`.
+其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+
 
