@@ -5,9 +5,9 @@ solution: Campaign Classic
 role: Architect
 badge: label="Exam AD0-E328" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1090'
+source-wordcount: '1119'
 ht-degree: 9%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 9%
 * 描述和演示產品特性和功能的能力
 * 能夠將產品功能對應至高使用案例
 * 支援售前團隊的經驗
-* 提供案頭輔導（例如產品最佳實務、報表量度等）的能力
+* 提供案頭輔導（產品最佳實務、報告量度等）的能力
 * 說明部署模型之間差異的經驗
 
 >[!NOTE]
@@ -54,15 +54,13 @@ ht-degree: 9%
 
 **考試詳細資訊：**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 30/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E328
-```
+* 級別：碩士（3-5年經驗）
+* 傳遞分數：30/50
+* 時間：100分鐘
+* 傳送：線上監控（需要攝像機訪問）或測試中心監控
+* 可用語言：英文
+* 成本：225美元（全球）/150美元（印度）
+* 考試ID:AD0-E328
 
 **準備情況自我評估**
 

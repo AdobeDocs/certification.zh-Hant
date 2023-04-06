@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1164'
+source-wordcount: '1194'
 ht-degree: 11%
 
 ---
@@ -26,8 +26,8 @@ ht-degree: 11%
 * 將業務需求轉譯為量度或KPI的能力
 * 建立和解譯報表的能力
 * 能夠交流結果，並能夠根據報告分析提出行動方針
-* 幫助客戶了解如何提取/提取他們想要的資訊（例如幫助他們定義業務問題）
-* 從功能的角度了解技術如何運作並了解客戶的實施（例如資料的存放位置、收集方式、追蹤方式）
+* 幫助客戶了解如何提取/提取他們想要的資訊（例如，幫助他們定義業務問題）
+* 從功能的角度了解技術如何運作並了解客戶的實作（例如，資料的位置、收集方式、追蹤方式）
 * 至少一年 [!DNL Adobe Analytics] 實際操作體驗
 * 對數位分析如何篩選/建構資料的基本了解
 * 對整合 [!DNL Adobe Analytics] 搭配其他Adobe解決方案
@@ -67,15 +67,14 @@ ht-degree: 11%
 
 **考試詳細資訊：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 31/50
-Time: 120 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E208
-```
+>* **級別：** 專家（1-3年經驗）
+>* **傳遞分數：** 31/50
+>* **時間：** 120分鐘
+>* **傳送：** 線上監控（需要攝像頭訪問）或測試中心監控
+>* **可用語言：** 英文
+>* **成本：** 225美元（全球）/150美元（印度）
+>* **考試ID:** AD0-E208
+
 
 **準備情況自評**
 
@@ -112,16 +111,16 @@ Exam ID: AD0-E208
 第4節：一般工具知識與疑難排解(12%)
 
 * 分析報表並識別資料品質問題
-* 定義中現有的不同類型的維度和參數 [!DNL Adobe Analytics] （evar、prop和事件）
+* 定義中現有的不同類型的維度和參數 [!DNL Adobe Analytics] （eVar、prop和事件）
 * 決定如何將資料帶入和移出 [!DNL Adobe Analytics]
 * 識別行銷URL中的資訊
 
 第5節：管理(10%)
 
-* 套用程式以使用行銷管道處理規則來設定行銷管道報表
+* 套用程式以設定 [!UICONTROL 行銷管道] 報表 [!UICONTROL 行銷管道] 處理規則
 * 套用程式以設定分類匯入工具和規則產生器
 * 套用程式，以根據現有區段設定虛擬報表套裝
-* 使用資料摘要管理員管理員UI
+* 使用 [!UICONTROL 資料摘要] 管理員管理員UI
 * 了解資料控管
 
 >[!TAB 預備]

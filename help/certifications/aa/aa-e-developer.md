@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E209" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1052'
+source-wordcount: '1082'
 ht-degree: 8%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 8%
 環境:
 
 * 前端Web開發環境
-* 行動應用程式的相關知識（限制和差異，例如為何與網路不同）
+* 行動應用程式的知識（限制和差異，例如為何與網路不同）
 * 數位行銷領域
 * 對後端開發環境(包括PC、Mac、Android/iOS作業系統)的了解最少（基本操作，而非開發）
 
@@ -61,15 +61,13 @@ ht-degree: 8%
 
 **考試詳細資訊：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 31/50
-Time: 120 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) and $150 (India)
-Exam ID: AD0-E209
-```
+* 級別：專家（1-3年經驗）
+* 傳遞分數：31/50
+* 時間：120分鐘
+* 傳送：線上監控（需要攝像機訪問）或測試中心監控
+* 可用語言：英文
+* 成本：225美元（全球）和150美元（印度）
+* 考試ID:AD0-E209
 
 **準備情況自評**
 

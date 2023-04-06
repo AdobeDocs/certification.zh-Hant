@@ -5,9 +5,9 @@ solution: Experience Manager Sites
 role: Developer
 badge: label="考試AD0-E117" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1564'
+source-wordcount: '1594'
 ht-degree: 22%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 22%
 * 建立和提供基礎架構/部署圖表
 * 確定要與AEM應用程式一起使用的資訊模型
 * 定義驗證和授權安全模型和概念
-* 根據客戶的需求（如二進位儲存、部署方案等）確定持久性模型
+* 根據客戶的需求（二進位儲存、部署方案等）確定持久性模型
 * 為業務流程設計工作流模型
 * 制定平台效能和滲透/安全測試策略
 * 跨多個頻道重複使用內容
@@ -65,15 +65,13 @@ ht-degree: 22%
 
 **考試詳細資訊：**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 29/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English, Japanese
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E117
-```
+* 級別：碩士（3-5年經驗）
+* 傳遞分數：29/50
+* 時間：100分鐘
+* 傳送：線上監控（需要攝像機訪問）或測試中心監控
+* 可用語言：英語、日語
+* 成本：225美元（全球）/150美元（印度）
+* 考試ID:AD0-E117
 
 **準備情況自我評估**
 

@@ -5,9 +5,9 @@ solution: Advertising
 role: Developer
 badge: label="Exam AD0-E502" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ ht-degree: 0%
 
 熟悉下列工具和技術：
 
-* 廣告測試/偵錯軟體（例如VAST INSPECTOR、Chrome開發人員工具）
-* 分析工具(例如Adobe Analytics、Google Analytics)
-* 協力廠商標籤軟體(例如Sizmek、Google標籤管理程式)
-* 協力廠商媒體品質工具（例如IAS、MOAT）
+* 廣告測試/偵錯軟體（VAST INSPECTOR, Chrome開發人員工具）
+* Analytics工具(Adobe Analytics、Google Analytics)
+* 協力廠商標籤軟體(Sizmek、Google標籤管理程式)
+* 協力廠商媒體品質工具(IAS、MOAT)
 * 主要瀏覽器
 * 廣告交換、SSP和DMP
 
@@ -50,15 +50,13 @@ ht-degree: 0%
 
 **考試詳細資訊：**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 44/69
-Time: 138 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E502
-```
+* 級別：專業（0-12個月經驗）
+* 傳遞分數：44/69
+* 時間：138分鐘
+* 傳送：線上監控（需要攝像機訪問）或測試中心監控
+* 可用語言：英文
+* 成本：125美元（全球）/95美元（印度）
+* 考試ID:AD0-E502
 
 **考試目標和範圍**
 

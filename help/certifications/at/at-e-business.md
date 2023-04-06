@@ -5,10 +5,10 @@ solution: Target
 role: Developer
 badge: label="Exam AD0-E406" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1393'
-ht-degree: 1%
+source-wordcount: '1420'
+ht-degree: 0%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 1%
 * 統計概念和資料分析的知識，與其應用於優化時一樣
 * 深入了解三步驟工作流程（體驗、鎖定目標、目標和設定，包括所有報表來源）
 * 將活動報表結果轉譯為可操作的深入分析和建議的能力
-* 了解變更技術對Target的影響(例如ITP、GDPR/CCPA、SPA)
+* 了解變更技術對Target的影響(ITP、GDPR/CCPA、SPA)
 * 了解如何將建議活動用作解決方案
 
 此外，您也應熟悉下列技術和環境：
@@ -81,15 +81,13 @@ ht-degree: 1%
 
 **考試詳細資訊：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 46/68
-Time: 136 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E406
-```
+* 級別：專家（1-3年經驗）
+* 傳遞分數：46/68
+* 時間：136分鐘
+* 傳送：線上監控（需要攝像機訪問）或測試中心監控
+* 可用語言：英文
+* 成本：225美元（全球）/150美元（印度）
+* 考試ID:AD0-E406
 
 **考試目標和範圍**
 
