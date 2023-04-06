@@ -2,12 +2,12 @@
 title: 業務從業者認證
 description: 了解如何獲得Adobe業務從業專家認證 [!DNL Adobe Analytics]
 solution: Analytics
-role: Developer
+role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1196'
 ht-degree: 11%
 
 ---
@@ -202,4 +202,4 @@ Adobe使用兩家供應商管理監督考試、PSI和 [!DNL Examity].
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ 請發送電子郵件 `certif@adobe.com`.
+其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。

@@ -2,12 +2,12 @@
 title: Adobe認證續約計畫
 description: 了解如何在認證過期之前續約。
 solution: Real-time Customer Data Platform
-role: Developer
+role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '376'
 ht-degree: 2%
 
 ---
@@ -56,4 +56,4 @@ Adobe提供各種資源和工具，協助您續約認證，包括：
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ 請發送電子郵件 `certif@adobe.com`.
+其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。

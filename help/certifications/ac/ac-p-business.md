@@ -2,12 +2,12 @@
 title: 業務從業人員專業認證
 description: 了解如何成為經認證的Adobe業務從業人員專業Adobe [!DNL Commerce].
 solution: Commerce
-role: Developer
+role: User
 badge: label="Exam AD0-E712" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '1096'
+source-wordcount: '1098'
 ht-degree: 2%
 
 ---
@@ -198,4 +198,4 @@ Adobe使用兩家供應商來管理監督考試（PSI和Examity）。
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ 請發送電子郵件 `certif@adobe.com`.
+其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。

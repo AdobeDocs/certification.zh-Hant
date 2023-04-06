@@ -1,13 +1,13 @@
 ---
 title: 增強連接器專家認證
-description: 了解如何成為認證的Adobe認證Adobe專家 [!DNL Workfront] for [!DNL Experience Manager]
+description: 了解如何成為認證的Adobe認證專家，Adobe [!DNL Workfront] for [!DNL Experience Manager]
 solution: Workfront
 role: Developer
 badge: label="Exam AD0-E906" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '972'
+source-wordcount: '974'
 ht-degree: 0%
 
 ---
@@ -166,5 +166,5 @@ Adobe使用兩家供應商來管理監督考試（PSI和Examity）。
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ 請發送電子郵件 `certif@adobe.com`.
+其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
 

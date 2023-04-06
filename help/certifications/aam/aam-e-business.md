@@ -2,12 +2,12 @@
 title: 業務從業者專家認證
 description: 了解如何取得認證為Adobe [!DNL Audience Manager] 業務經理專家。
 solution: Audience Manager
-role: Developer
+role: User
 badge: label="Exam AD0-E457" type="positive"
 mini-toc-levels: 1
-source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '1207'
+source-wordcount: '1209'
 ht-degree: 6%
 
 ---
@@ -195,4 +195,4 @@ Adobe使用兩家供應商來管理監督考試（PSI和Examity）。
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ 請發送電子郵件 `certif@adobe.com`.
+其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
