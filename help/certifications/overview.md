@@ -2,9 +2,9 @@
 title: 認證首頁
 description: 了解 [!DNL Experience Cloud] Adobe認證。 了解獲得認證對您有什麼幫助。
 mini-toc-levels: 1
-source-git-commit: c125ff68ecd1b982c5dd6aa6a374070c37d9973c
+source-git-commit: 2dee616ff2304a6a92ba3edeae5e11da637bb235
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -34,5 +34,6 @@ Adobe明白擁有適當資歷以在您的職業生涯中前進並保持領先於
 
 我們的認證計畫專為各領域的專業人士而設計，包括開發人員、業務從業人員和架構師。 通過多種不同的認證途徑，您可以在Adobe中展示自己的熟練程度和專業技能 [!DNL Experience Cloud] 讓客戶和雇主都印象深刻。
 
-那為什麼要等？ 邁出釋放您的專業潛力的第一步， [探索我們目前的認證途徑](https://experienceleague.adobe.com/docs/certification/certification/getting-started.html?lang=en){target="_blank"}!
+那為什麼要等？ 邁出釋放您的專業潛力的第一步，並探索當今的認證途徑！
 
+[!BADGE 立即開始]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html?lang=en newtab=true"}
