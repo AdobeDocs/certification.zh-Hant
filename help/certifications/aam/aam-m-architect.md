@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 badge: label="Exam AD0-E454" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '824'
+source-wordcount: '854'
 ht-degree: 13%
 
 ---
@@ -53,15 +53,13 @@ ht-degree: 13%
 
 **考試詳細資訊**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 29/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E454
-```
+* 級別：碩士（3-5年經驗）
+* 傳遞分數：29/50
+* 時間：100分鐘
+* 傳送：線上監控（需要攝像機訪問）或測試中心監控
+* 可用語言：英文
+* 成本：225美元（全球）/150美元（印度）
+* 考試ID:AD0-E454
 
 **準備情況自評**
 
@@ -74,7 +72,7 @@ Exam ID: AD0-E454
 * 決定如何將AAM作為獨立產品或雲端解決方案的一部分，用於引導和支援實作
 * 分析對外目的地選項，並建議AAM實作方法
 * 為業務使用案例確定資料上線策略
-* 識別訪客設定檔檢視器、標籤、RBAC等功能。 與業務目標一致
+* 識別符合業務目標的訪客資料檢視器、標籤、RBAC等功能
 * 決定如何設計和測試建立區段和特徵所需的像素
 
 第二節：解決方案設計與建議(18%)

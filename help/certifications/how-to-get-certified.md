@@ -3,9 +3,9 @@ title: 通過Adobe認證
 description: 了解如何通過Adobe獲得認證。 找到認證前、認證期間和認證後所需的所有資源。
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1462'
+source-wordcount: '1464'
 ht-degree: 1%
 
 ---

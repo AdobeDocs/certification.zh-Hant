@@ -5,10 +5,10 @@ solution: Target
 role: Developer
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1201'
-ht-degree: 19%
+source-wordcount: '1228'
+ht-degree: 18%
 
 ---
 
@@ -31,10 +31,10 @@ ht-degree: 19%
 
 技術：
 
-* 多個Adobe Experience Cloud程式(例如Adobe Analytics、Adobe Campaign、Adobe Experience Manager、Adobe Experience Cloud Debugger、Target API)
+* 多個Adobe Experience Cloud程式(Adobe Analytics、Adobe Campaign、Adobe Experience Manager、Adobe Experience Cloud Debugger、Target API)
 * JavaScript（Ajax、JQuery等）
-* 以瀏覽器為基礎的除錯工具（例如Chrome開發人員工具、VEC helper）、JSON，用於偵錯來自Target的回應
-* 原生應用程式的除錯工具（例如Charles Proxy、Fiddler）
+* 以瀏覽器為基礎的除錯工具（Chrome開發人員工具、VEC helper）、JSON，用於偵錯來自Target的回應
+* 原生應用程式的除錯工具(Charles Proxy, Fiddler)
 * HTML, CSS, HTTP, XML配置
 * 原生行動開發IDE、iOS開發基本概念、Android開發基本概念
 * API工具，例如Postman
@@ -71,15 +71,13 @@ ht-degree: 19%
 
 **考試詳細資訊：**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 34/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E407
-```
+* 級別：碩士（3-5年經驗）
+* 傳遞分數：34/50
+* 時間：100分鐘
+* 傳送：線上監控（需要攝像機訪問）或測試中心監控
+* 可用語言：英文
+* 成本：225美元（全球）/150美元（印度）
+* 考試ID:AD0-E407
 
 **考試目標和範圍**
 

@@ -4,9 +4,9 @@ description: 取得Adobe認證計畫相關問題的解答。 了解認證的優�
 role: Developer
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 76a3cea2c92ac32fc20031c32e13d7b88999363c
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1884'
+source-wordcount: '1889'
 ht-degree: 0%
 
 ---
@@ -169,7 +169,7 @@ Adobe認證會在兩年後到期。 您可以參加並通過最新版的適用Ad
 
 登入 [Adobe憑據管理系統](https://www.certmetrics.com/adobe/){target="_blank"}. 您可以在此處查看憑證何時到期。 您也應檢查您的設定檔，並確認您的連絡人、次要電子郵件和工作資訊正確無誤。
 
-認證過期前一個月，您會收到電子郵件通知。 但如果您已變更工作，且未更新電子郵件，則可能不會收到通知。 新增次要電子郵件（例如Gmail、Hotmail、Yahoo等） 在您的CertMetrics帳戶中，即使您變更公司，仍會收到憑證過期提醒電子郵件。
+認證過期前一個月，您會收到電子郵件通知。 但如果您已變更工作，且未更新電子郵件，則可能不會收到通知。 在您的CertMetrics帳戶中新增次要電子郵件（例如Gmail、Hotmail、Yahoo等），如此一來，即使您變更公司，您也會收到憑證過期提醒電子郵件。
 
 +++
 

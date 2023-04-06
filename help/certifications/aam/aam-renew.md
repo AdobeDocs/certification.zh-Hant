@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '1040'
 ht-degree: 2%
 
 ---
@@ -46,15 +46,13 @@ ht-degree: 2%
 
 **考試詳細資訊：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 68 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: AD5-E826 - Adobe Audience Manager Business Practitioner expert renewal
-```
+* 級別：專家（1-3年經驗）
+* 傳遞分數：23/30
+* 時間：68分鐘
+* 傳送：隨選/非監控
+* 可用語言：英文
+* 成本：免費
+* 考試ID:AD5-E826 -Adobe Audience Manager業務從業人員專家續聘
 
 **考試目標和範圍**
 
@@ -124,15 +122,13 @@ Exam ID: AD5-E826 - Adobe Audience Manager Business Practitioner expert renewal
 
 **考試詳細資訊：**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 22/29
-Time: 58 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: AD5-E825 - Adobe Audience Manager Architect Master renewal
-```
+* 級別：碩士（3-5年經驗）
+* 傳遞分數：22/29
+* 時間：58分鐘
+* 傳送：隨選/非監控
+* 可用語言：英文
+* 成本：免費
+* 考試ID:AD5-E825 -Adobe Audience Manager架構師續約總師
 
 **範圍和目標：**
 
@@ -141,7 +137,7 @@ Exam ID: AD5-E825 - Adobe Audience Manager Architect Master renewal
 * 決定如何將AAM作為獨立產品或雲端解決方案的一部分，用於引導和支援實作
 * 分析對外目的地選項，並建議AAM實作方法
 * 為業務使用案例確定資料上線策略
-* 識別訪客設定檔檢視器、標籤、RBAC等功能。 與業務目標一致
+* 識別符合業務目標的訪客資料檢視器、標籤、RBAC等功能
 * 決定如何設計和測試建立區段和特徵所需的像素
 
 第二節：解決方案設計與Recommendations(17%)

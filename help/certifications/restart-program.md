@@ -6,10 +6,10 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '5197'
-ht-degree: 9%
+source-wordcount: '5355'
+ht-degree: 8%
 
 ---
 
@@ -166,15 +166,14 @@ Adobe重啟計畫是允許過期的個人的計畫 [!DNL Experience Cloud] 認�
 
 **考試詳細資訊：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 68 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E826 - Adobe Audience Manager Business Practitioner expert restart
-```
+* 級別：專家（1-3年經驗）
+* 傳遞分數：23/30
+* 時間：68分鐘
+* 傳送：隨選/非監控
+* 可用語言：英文
+* 成本：免費
+* 考試ID:ADS-E826 -Adobe Audience Manager業務從業者專家重啟
+
 
 **考試目標和範圍**
 
@@ -242,15 +241,13 @@ Exam ID: ADS-E826 - Adobe Audience Manager Business Practitioner expert restart
 
 **考試詳細資訊：**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 22/29
-Time: 58 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E825 - Adobe Audience Manager Architect Master restart
-```
+* 級別：碩士（3-5年經驗）
+* 傳遞分數：22/29
+* 時間：58分鐘
+* 傳送：隨選/非監控
+* 可用語言：英文
+* 成本：免費
+* 考試ID:ADS-E825 -Adobe Audience Manager架構師主重新啟動
 
 **範圍和目標：**
 
@@ -259,7 +256,7 @@ Exam ID: ADS-E825 - Adobe Audience Manager Architect Master restart
 * 決定如何將AAM作為獨立產品或雲端解決方案的一部分，用於引導和支援實作
 * 分析對外目的地選項，並建議AAM實作方法
 * 為業務使用案例確定資料上線策略
-* 識別訪客設定檔檢視器、標籤、RBAC等功能。 與業務目標一致
+* 識別符合業務目標的功能，例如訪客設定檔檢視器、標籤、RBAC等
 * 決定如何設計和測試建立區段和特徵所需的像素
 
 第二節：解決方案設計與Recommendations(17%)
@@ -344,15 +341,13 @@ Exam ID: ADS-E825 - Adobe Audience Manager Architect Master restart
 
 **考試詳細資訊：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 60 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E821 - Adobe Campaign Standard Developer expert restart
-```
+* 級別：專家（1-3年經驗）
+* 傳遞分數：23/30
+* 時間：60分鐘
+* 傳送：隨選/非監控
+* 可用語言：英文
+* 成本：免費
+* 考試ID:ADS-E821 -Adobe Campaign Standard開發人員專家重新啟動
 
 **範圍和目標：**
 
@@ -452,15 +447,13 @@ Exam ID: ADS-E821 - Adobe Campaign Standard Developer expert restart
 
 **考試詳細資訊：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 60 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E822 - Campaign Standard Business Practitioner expert restart
-```
+* 級別：專家（1-3年經驗）
+* 傳遞分數：23/30
+* 時間：60分鐘
+* 傳送：隨選/非監控
+* 可用語言：英文
+* 成本：免費
+* 考試ID:ADS-E822 -Campaign Standard業務從業者專家重啟
 
 **範圍和目標：**
 
@@ -527,15 +520,13 @@ Exam ID: ADS-E822 - Campaign Standard Business Practitioner expert restart
 
 **考試詳細資訊：**
 
-```
-Level: Expert (1-3 years' experience) and Master (3-5 years' experience)
-Passing Score: 42/55
-Time: 110 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E823 - Adobe [!DNL Campaign Classic] expert and/or master restart
-```
+* 級別：專家（1-3年經驗）與碩士（3-5年經驗）
+* 傳遞分數：42/55
+* 時間：110分鐘
+* 傳送：隨選/非監控
+* 可用語言：英文
+* 成本：免費
+* 考試ID:ADS-E823 -Adobe [!DNL Campaign Classic] 專家和/或主重啟
 
 **範圍和目標**
 
@@ -634,15 +625,13 @@ Exam ID: ADS-E823 - Adobe [!DNL Campaign Classic] expert and/or master restart
 
 **考試詳細資訊：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 30/40
-Time: 80 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E824 - Adobe Marketo Engage Business Practitioner expert restart
-```
+* 級別：專家（1-3年經驗）
+* 傳遞分數：30/40
+* 時間：80分鐘
+* 傳送：隨選/非監控
+* 可用語言：英文
+* 成本：免費
+* 考試ID:ADS-E824 -Adobe Marketo Engage業務從業者專家重啟
 
 **範圍和目標：**
 
