@@ -2,12 +2,13 @@
 title: AEM Forms後端開發人員專業認證
 description: 了解如何成為認證AdobeAEM Forms後端開發人員專業人員。
 solution: Experience Manager Forms
+product: Experience Manager
 role: Developer
 badge: label="考試AD0-E127" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '912'
 ht-degree: 8%
 
 ---
@@ -172,4 +173,4 @@ Adobe使用兩家供應商來管理監督考試（PSI和Examity）。
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}.

@@ -2,12 +2,13 @@
 title: 業務從業者認證
 description: 了解如何獲得Adobe業務從業專家認證 [!DNL Adobe Analytics]
 solution: Analytics
+product: Analytics
 role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1194'
 ht-degree: 11%
 
 ---
@@ -67,14 +68,13 @@ ht-degree: 11%
 
 **考試詳細資訊：**
 
->* **級別：** 專家（1-3年經驗）
->* **傳遞分數：** 31/50
->* **時間：** 120分鐘
->* **傳送：** 線上監控（需要攝像頭訪問）或測試中心監控
->* **可用語言：** 英文
->* **成本：** 225美元（全球）/150美元（印度）
->* **考試ID:** AD0-E208
-
+* **級別：** 專家（1-3年經驗）
+* **傳遞分數：** 31/50
+* **時間：** 120分鐘
+* **傳送：** 線上監控（需要攝像頭訪問）或測試中心監控
+* **可用語言：** 英文
+* **成本：** 225美元（全球）/150美元（印度）
+* **考試ID:** AD0-E208
 
 **準備情況自評**
 
@@ -202,4 +202,4 @@ Adobe使用兩家供應商管理監督考試、PSI和 [!DNL Examity].
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}.

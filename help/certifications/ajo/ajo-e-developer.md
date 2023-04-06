@@ -1,10 +1,11 @@
 ---
 title: 專家認證
-description: 了解如何成為認證Adobe [!DNL Journey Optimizer] 專家。
+description: 了解如何成為認證Adobe [!DNL Journey Optimizer] 開發人員專家。
 solution: Journey Optimizer
+product: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E603" type="positive"
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '926'
 ht-degree: 12%
@@ -13,7 +14,7 @@ ht-degree: 12%
 
 # 認證Adobe [!DNL Journey Optimizer] 開發人員專家
 
-了解如何成為認證Adobe [!DNL Journey Optimizer] 專家。
+了解如何成為認證Adobe [!DNL Journey Optimizer] 開發人員專家。
 
 ## 最低體驗
 
@@ -211,4 +212,4 @@ Adobe使用兩家供應商來管理監督考試（PSI和Examity）。
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}.

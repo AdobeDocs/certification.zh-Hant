@@ -2,12 +2,13 @@
 title: 架構師主認證
 description: 了解如何成為認證的Adobe架構師Adobe [!DNL Marketo Engage].
 solution: Marketo Engage
-role: Architect
+product: Marketo
+role: Data Architect
 badge: label="Exam AD0-E556" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '1071'
+source-wordcount: '1069'
 ht-degree: 1%
 
 ---
@@ -184,4 +185,4 @@ Adobe使用兩家供應商來管理監督考試（PSI和Examity）。
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}.

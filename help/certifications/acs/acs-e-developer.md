@@ -1,13 +1,14 @@
 ---
 title: 開發人員專家認證
-description: 了解如何成為經認證的Adobe Developer專家Adobe [!DNL Campaign Standard].
+description: 了解如何成為經認證的Adobe Developer ExpertAdobe [!DNL Campaign Standard].
 solution: Campaign Standard
+product: Campaign
 role: Developer
 badge: label="Exam AD0-E306" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '1303'
+source-wordcount: '1301'
 ht-degree: 11%
 
 ---
@@ -191,4 +192,4 @@ Adobe使用兩家供應商來管理監督考試（PSI和Examity）。
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}.

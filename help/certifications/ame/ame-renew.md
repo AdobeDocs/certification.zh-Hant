@@ -2,12 +2,13 @@
 title: 認證續訂
 description: 了解如何續約Adobe [!DNL Marketo Engage] 認證，才能過期。
 solution: Marketo Engage
-role: Developer
+product: Marketo
+role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '1022'
+source-wordcount: '1020'
 ht-degree: 4%
 
 ---
@@ -159,4 +160,4 @@ ht-degree: 4%
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}.

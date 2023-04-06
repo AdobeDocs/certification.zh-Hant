@@ -2,12 +2,13 @@
 title: 業務從業者專家認證
 description: 了解如何成為 [!DNL Experience Manager Sites].
 solution: Experience Manager Sites
+product: Experience Manager
 role: User
 badge: label="考試AD0-E121" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '1336'
+source-wordcount: '1334'
 ht-degree: 6%
 
 ---
@@ -206,4 +207,4 @@ Adobe使用兩家供應商來管理監督考試（PSI和Examity）。
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}.

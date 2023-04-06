@@ -2,11 +2,12 @@
 title: 認證續訂
 description: 了解如何續約您的 [!DNL Experience Manager Sites] 認證，才能過期。
 solution: Experience Manager Sites
-role: Developer
+product: Experience Manager
+role: User,Developer,Data Architect
 hidefromtoc: true
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '602'
 ht-degree: 2%
 
 ---
@@ -84,4 +85,4 @@ ht-degree: 2%
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}.

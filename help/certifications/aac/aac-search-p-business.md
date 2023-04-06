@@ -2,12 +2,13 @@
 title: 業務從業人員專業認證
 description: 了解如何取得認證為Adobe [!DNL Advertising Search] 商業從業者專業。
 solution: Advertising
-role: Developer
+product: Advertising Cloud
+role: User
 badge: label="Exam AD0-E501" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '989'
+source-wordcount: '987'
 ht-degree: 3%
 
 ---
@@ -175,4 +176,4 @@ Adobe使用兩家供應商管理監督考試、PSI和 [!DNL Examity].
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}.
