@@ -1,16 +1,16 @@
 ---
-user-guide-title: 認證Adobe
-breadcrumb-title: 認證Adobe
-user-guide-description: 了解 [!DNL Experience Cloud] Adobe認證。 了解獲得認證對您有什麼幫助。
+user-guide-title: Adobe 的認證
+breadcrumb-title: Adobe 的認證
+user-guide-description: 了解 [!DNL Experience Cloud] Adobe認證。 了解獲得認證能為您做什麼。
 source-git-commit: b54476f453ffdc46ccf009aab1891cce768d383f
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 39%
+ht-degree: 48%
 
 ---
 
 
-# 認證Adobe {#certification}
+# Adobe 的認證 {#certification}
 
 + [認證首頁](overview.md)
 + [開始使用](getting-started.md)
