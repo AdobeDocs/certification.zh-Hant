@@ -6,9 +6,9 @@ product: Experience Manager
 role: User
 badge: label="考試AD0-E126" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+source-git-commit: cab58fef51e04bacba47e0f9c809a7a9f011c71b
 workflow-type: tm+mt
-source-wordcount: '939'
+source-wordcount: '979'
 ht-degree: 10%
 
 ---
@@ -72,10 +72,14 @@ ht-degree: 10%
 * 識別要在何處定義角色和權限
 * 在案例中，定義可用的快取方法
 
-第3節：設定與實作(13%)
+第3節：業務分析(43%)
 
-* 識別使用內容元件的最佳AEM實務
-* 在案例中，找出功能的正確實作
+* 在案例中，找出可解決客戶業務問題的AEM標準模組
+* 識別AEM模組的內容管理概念
+* 確定典型的項目利害關係方
+* 確定相關團隊之間切合實際的協作方案
+* 在某種情況下，描述在預算和/或範圍內實現業務目標的正確方法
+* 確定將業務目標與開發團隊聯繫起來的方法
 
 第4節：設定與實作(13%)
 
