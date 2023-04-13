@@ -4,24 +4,41 @@ description: 了解如何成為 [!DNL Customer Journey Analytics]
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-badge: label="Exam AD0-EXXX" type="positive"
+badge: label="Exam AD0-E604" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
+source-git-commit: 57cdc5c07bef404b368f51fb6ffd03735ed5008c
 workflow-type: tm+mt
-source-wordcount: '510'
-ht-degree: 7%
+source-wordcount: '582'
+ht-degree: 0%
 
 ---
 
-
 # 認證Adobe [!DNL Customer Journey Analytics] 專家
 
-了解如何成為認證Adobe
+了解如何成為認證的Adobe Analytics Customer Journey Developer。
 
 ## 最低體驗
 
-您應：
+您應在Adobe Customer Journey Analytics中擁有12至24個月的使用經驗，並能執行下列工作：
+
+* 閱讀並了解XDM結構（類別）
+* 展示對平台介面的熟悉程度
+* 驗證資料（查詢服務），在資料集中查看您的資料
+* 了解不同存取層級所需的管理員權限
+* 閱讀並了解QA指令碼
+* 定義QC指令碼以將其交給AEP工程師
+* 使用主要身分設定連線（人員ID）
+* 使用多個資料集設定連線
+* 設定資料檢視（量度/維度設定）
+* 設定CJA
+* 在維度和量度中轉換資料
+* 分析工作區的基本知識（視覺效果、歸因設定、篩選器、計算量度）
+* 了解CJA(DULE)中的資料控管
+* 跨管道量度或以人物為基礎的篩選器建置
+* 區分/了解AEP中的沙箱
+* 了解受眾發佈（共用）
 
 >[!NOTE]
 >
@@ -33,29 +50,49 @@ ht-degree: 7%
 
 **目標受眾：**
 
+* 技術架構師
+* 技術經理
+* 資料分析人員
+* 資料架構師/工程師
+* 解決方案架構師
+* Enterprise Architect
+* 實作專家
+* 行銷技術領導
 
 **考試詳細資訊：**
 
 * 級別：專家（1-3年經驗）
-* 傳遞分數：
-* 時間:
+* 傳遞分數：33/50
+* 時間：100分鐘
 * 傳送：線上監控（需要攝像機訪問）或測試中心監控
 * 可用語言：英文
 * 成本：225美元（全球）/150美元（印度）
-
-**準備情況自評**
-
-完成 [線上準備問卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} 來查看您目前的體驗是否符合建議的最低候選資格。
+* 考試ID:AD0-E604
 
 **考試目標和範圍**
 
-第1節：
+第1節：連線(22%)
 
-第二節：
+* 使用適當的設定設計CJA連線
+* 從AEP中可供沙箱使用的XDM資料集建立CJA連線
 
-第3節：
+第二節：資料檢視(30%)
 
-第4節：
+* 設定資料檢視以進行報告和分析
+* 修改資料檢視中的元件
+
+第3節：資料驗證和疑難排解(34%)
+
+* 驗證資料正確且完整地填入
+* 疑難排解連線和資料檢視
+* 建立或疑難排解元件
+* 監控使用情況以合法
+
+第4節：報告與啟用(14%)
+
+* 使用Analysis Workspace以適當的視覺化呈現跨管道客戶歷程
+* 將CJA篩選器的成員傳送至RTCDP對象
+* 跨資料集設計和建立篩選器
 
 >[!TAB 預備]
 
@@ -63,21 +100,7 @@ ht-degree: 7%
 
 以下是一些建議的資源，可協助您準備：
 
-**第1節：**
-
-* [添加資源](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"}
-
-**第二節：**
-
-* [添加資源](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"}
-
-**第3節：**
-
-* [添加資源](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"}
-
-**第4節：**
-
-* [添加資源](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"}
+_即將推出!_
 
 >[!TAB 取得認證]
 
@@ -88,16 +111,6 @@ ht-degree: 7%
 
 **現在您已成功登入，您將可直接存取下列連結。**
 
-**參加練習測試**
-
-建議您在開始之前參加免費練習測試。 您可以不受限制地訪問Adobe專家級考試的所有可用練習測試。
-
-我們的練習測試都是從與現場考試相同的藍圖上開發的。 練習測試將幫助您了解即時考試中涵蓋的主題。
-
-請記住，通過練習考試並不保證您將通過認證考試。
-
-前往 [Adobe認證考試準備門戶](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 現在來做個練習測試。
-
 **參加認證考試**
 
 Adobe使用兩家供應商來管理監督考試（PSI和Examity）。
@@ -107,9 +120,9 @@ Adobe使用兩家供應商來管理監督考試（PSI和Examity）。
 
 要排程、重新計畫或取消您的考試，只需按一下所選供應商，然後按照螢幕上提供的說明操作即可。 就這麼簡單！
 
-### 考試次數：AD0-EXXX
+### 考試次數：AD0-E604
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E134 newtab=true"}[!BADGE 範例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E604 newtab=true"}[!BADGE 範例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E604 newtab=true"}
 
 您可以通過憑單或信用卡支付認證考試的費用。 要購買考試憑單，請轉至： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
