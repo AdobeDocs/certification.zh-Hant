@@ -6,7 +6,8 @@ product: Campaign
 role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
+source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
 workflow-type: tm+mt
 source-wordcount: '1491'
 ht-degree: 11%
@@ -113,7 +114,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->這門考試是免費的、開放的，沒有監督的。 你最多可以參加三次考試。 如果三次嘗試後未能收到75%，則必須等待 **30天** 重試。 若未遵守，可能會導致您的認證遭撤銷。
+>這門考試是免費的、開放的，沒有監督。 你最多可以參加三次考試。 如果第三次嘗試後失敗，則必須等待 **30天** 重試。 若未遵守，可能會導致您的認證遭撤銷。
 
 +++
 
