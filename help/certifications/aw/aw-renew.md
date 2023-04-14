@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
+source-git-commit: ec82b4d83d7965901150f73c53eb069289900c52
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '790'
 ht-degree: 0%
 
 ---
@@ -83,19 +83,21 @@ ht-degree: 0%
 
 **第1節：核心繫統管理與設定**
 
-新增
+* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} -Adobe Workfront Fusion中的功能、Adobe Workfront Fusion中的組織、Adobe Workfront Fusion中的模組、Adobe Workfront Fusion中的情況
 
 **第二節：方案設計與架構**
 
-新增
+* [Workfront融合情境最佳化](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html?lang=en){target="_blank"}  — 教學課程
+* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} -Adobe Workfront Fusion中的模組
 
 **第3節：測試和錯誤處理**
 
-新增
+* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} -Adobe Workfront Fusion中的「案例設定」面板、Adobe Workfront Fusion中的錯誤、Adobe Workfront Fusion中的函式
 
 **第4節：使用API**
 
-新增
+* [Workfront檔案](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - HTTP模組、Adobe Workfront Fusion中的連線、Adobe Workfront Fusion中的模組
+* [Adobe Workfront API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html?lang=en){target="_blank"}
 
 ## 續訂認證
 
