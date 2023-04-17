@@ -6,9 +6,10 @@ product: Campaign
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: af895356-3e6b-424f-a637-a695b916aa47
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '912'
 ht-degree: 9%
 
 ---
@@ -136,15 +137,13 @@ ht-degree: 9%
 
 ### 續訂認證
 
->[!IMPORTANT]
->
->下列章節和連結將可運作 **僅限**  之後 **成功登入** 到 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
-
-**現在您已成功登入，您將可直接存取下列連結。**
-
-這門考試是免費的、開放的，沒有監督。 你最多可以參加三次考試。 如果第三次嘗試後失敗，則必須等待 **30天** 重試。 若未遵守，可能會導致您的認證遭撤銷。
+請確定您已遵循上述步驟1，並成功登入 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"} 第一個。 接著，若要續約憑證，請按一下下方的Campaign Classic續約 — AD5-823連結。
 
 [取用Adobe [!DNL Campaign Classic] 立即續訂業務從業人員、開發人員和架構師考試 — AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
+
+>[!NOTE]
+>
+>這門考試是免費的、開放的，沒有監督。 你最多可以參加三次考試。 如果第三次嘗試後失敗，則必須等待 **30天** 重試。 若未遵守，可能會導致您的認證遭撤銷。
 
 >[!ENDTABS]
 

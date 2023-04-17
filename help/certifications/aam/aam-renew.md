@@ -6,9 +6,10 @@ product: Audience Manager
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1116'
 ht-degree: 2%
 
 ---
@@ -103,9 +104,14 @@ ht-degree: 2%
 
 **重新開始認證**
 
-這門考試是免費的、開放的，沒有監督。 你最多可以參加三次考試。 如果第三次嘗試後失敗，則必須等待 **30天** 重試。 若未遵守，可能會導致您的認證遭撤銷。
+請確定您已遵循上述步驟1，並成功登入 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"} 第一個。 接著，若要續訂認證，請按一下下方的Adobe Audience Manager Business Prociper Expert - AD5-E826連結。
 
-[!BADGE 以Adobe Audience Manager商業從業者專家續期考試AD5-E826為例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+[!BADGE 參加Adobe Audience Manager商業從業者專家續期考試AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+
+>[!NOTE]
+>
+>這門考試是免費的、開放的，沒有監督。 你最多可以參加三次考試。 如果第三次嘗試後失敗，則必須等待 **30天** 重試。 若未遵守，可能會導致您的認證遭撤銷。
+
 
 >[!TAB 主版]
 
@@ -177,11 +183,16 @@ ht-degree: 2%
 * [AAM:進階功能](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
 * [ 啟動培訓與資源](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
-### 重新開始認證
+### 續訂認證
 
-這門考試是免費的、開放的，沒有監督。 你最多可以參加三次考試。 如果第三次嘗試後失敗，則必須等待 **30天** 重試。 若未遵守，可能會導致您的認證遭撤銷。
+請確定您已遵循上述步驟1，並成功登入 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"} 第一個。 接著，若要續約憑證，請按一下下方的Adobe Audience Manager Architect主續約 — AD5-E825連結。
 
 [!BADGE 參加Adobe Audience Manager架構師續約總考試AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+
+>[!NOTE]
+>
+>這門考試是免費的、開放的，沒有監督。 你最多可以參加三次考試。 如果第三次嘗試後失敗，則必須等待 **30天** 重試。 若未遵守，可能會導致您的認證遭撤銷。
+
 
 >[!ENDTABS]
 

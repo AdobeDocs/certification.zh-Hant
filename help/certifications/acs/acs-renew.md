@@ -7,7 +7,7 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
 source-wordcount: '1460'
 ht-degree: 11%
@@ -222,7 +222,7 @@ ht-degree: 11%
 
 ## 續訂認證
 
-請確定您已遵循上述步驟1，並成功登入 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"} 第一個。 然後，若要續訂考試，請按一下「[!DNL Campaign Standard] 開發人員續約 — 下方的AD5-821」連結。
+請確定您已遵循上述步驟1，並成功登入 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"} 第一個。 然後，若要續訂認證，請按一下 [!DNL Campaign Standard] 開發人員續約 — 下方的AD5-821連結。
 
 * [[!DNL Campaign Standard] 開發人員續約 — AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 

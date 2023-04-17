@@ -6,9 +6,10 @@ product: Marketo
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1056'
 ht-degree: 4%
 
 ---
@@ -148,13 +149,18 @@ ht-degree: 4%
 * [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} （使用方案、電子郵件行銷、A/B測試）
 * [AdobeMarketo國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （請留意您的QA程式）
 
-### 重新開始認證
+### 續訂認證
 
-這門考試是免費的、開放的，沒有監督。 你最多可以參加三次考試。 如果第三次嘗試後失敗，則必須等待 **30天** 重試。 若未遵守，可能會導致您的認證遭撤銷。
+請確定您已遵循上述步驟1，並成功登入 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"} 第一個。 然後，若要續訂您的認證，請按一下以下的Marketo Engage業務從業人員專家續約連結。
 
-[!BADGE取得Adobe [!DNL Marketo Engage] 業務從業者專家重新考試AD5-E824]{type=Infertifity url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[!BADGE取得Adobe [!DNL Marketo Engage] 業務從業者專家續訂考試AD5-E824]{type=Infertifity url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+
+>[!NOTE]
+>
+>這門考試是免費的、開放的，沒有監督。 你最多可以參加三次考試。 如果第三次嘗試後失敗，則必須等待 **30天** 重試。 若未遵守，可能會導致您的認證遭撤銷。
 
 >[!ENDTABS]
+
 
 ### 問題
 
