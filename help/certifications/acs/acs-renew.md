@@ -7,9 +7,9 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
+source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
 workflow-type: tm+mt
-source-wordcount: '1491'
+source-wordcount: '1460'
 ht-degree: 11%
 
 ---
@@ -108,7 +108,7 @@ ht-degree: 11%
 
 ## 續訂認證
 
-要續訂考試，請按一下 _[!DNL Campaign Standard]業務從業人員續訂 — 下面的AD5-822連結_. 這會將您重新導向至Adobe憑證管理系統，您可以按一下 **[!UICONTROL 續訂認證]** 標籤，然後搜尋 [!DNL Adobe Campaign] 查看續訂考試的連結。
+請確定您已遵循上述步驟1，並成功登入 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"} 第一個。 然後，若要續訂考試，請按一下 [!DNL Campaign Standard] 業務從業人員續訂 — 下面的AD5-822連結。
 
 * [[!DNL Campaign Standard] 業務從業人員續訂 — AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
@@ -222,7 +222,7 @@ ht-degree: 11%
 
 ## 續訂認證
 
-要續訂考試，請按一下「[!DNL Campaign Standard] 開發人員續約 — 下方的AD5-821」連結。 這會將您重新導向至Adobe憑證管理系統，您可以在此按一下畫面右側的「續訂認證」標籤，然後搜尋Adobe Campaign，查看續訂測試的連結。
+請確定您已遵循上述步驟1，並成功登入 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"} 第一個。 然後，若要續訂考試，請按一下「[!DNL Campaign Standard] 開發人員續約 — 下方的AD5-821」連結。
 
 * [[!DNL Campaign Standard] 開發人員續約 — AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 
