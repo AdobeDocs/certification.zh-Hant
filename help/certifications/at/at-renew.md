@@ -6,9 +6,10 @@ product: Target
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
+source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '506'
 ht-degree: 1%
 
 ---
@@ -54,7 +55,7 @@ ht-degree: 1%
 
 **審核客戶參考後，Adobe憑證團隊會通知您。**
 
-課程評估是免費的。 沒有必要安排它們的時間，而且它們不受監督。 如果您持有多份Adobe Experience Manager Expert和主要層級認證，您只需完成下列需求，所有AEM認證都將續訂。
+課程評估是免費的。 沒有必要安排它們的時間，而且它們不受監督。 如果您持有多份Adobe Target專家和主要層級認證，您只需完成以下要求，且此層級的所有Adobe Target認證都會續約。
 
 [客戶參考表 [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
@@ -70,7 +71,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->您可以重複，直到成功完成三個活動或完成客戶參考表。
+>您可以重複，直到成功完成三個活動或完成兩個活動，再加上客戶參考表單。
 
 >[!ENDTABS]
 

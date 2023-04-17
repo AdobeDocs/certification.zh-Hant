@@ -5,9 +5,10 @@ solution: Experience Manager Sites
 product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
+source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '608'
 ht-degree: 2%
 
 ---
@@ -57,7 +58,7 @@ ht-degree: 2%
 
 **審核客戶參考後，Adobe憑證團隊會通知您。**
 
-課程評估是免費的。 沒有必要安排它們的時間，而且它們不受監督。 如果您持有多份Adobe Experience Manager Expert和主要層級認證，您只需完成下列需求，所有AEM認證都將續訂。
+課程評估是免費的。 沒有必要安排它們的時間，而且它們不受監督。 如果您持有多份Adobe Experience Manager專家和主要層級認證，您只需完成以下要求，且此層級的所有AEM認證都會續約。
 
 [Adobe Experience Manager的客戶參考表](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA100){target="_blank"}
 
@@ -77,7 +78,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->您可以重複，直到成功完成三個活動或完成客戶參考表。
+>您可以重複，直到成功完成三個活動或完成兩個活動，加上客戶參考表單。
 
 >[!ENDTABS]
 
