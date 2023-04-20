@@ -6,7 +6,8 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
+source-git-commit: f1aa8e1e15924f2f79b555fbc2fbcfcd74860827
 workflow-type: tm+mt
 source-wordcount: '5355'
 ht-degree: 8%
@@ -15,7 +16,7 @@ ht-degree: 8%
 
 # 從過期轉為經過認證，重新開始認證歷程
 
-此限時計畫 **2023年4月17日至2023年10月20日**，您就有機會在快速變化的數位環境中更新技能，並保持在曲線前沿。
+此限時計畫 **2023年4月24日至2023年10月20日**，您就有機會在快速變化的數位環境中更新技能，並保持在曲線前沿。
 
 從2020年到2023年4月23日，認證過期的個人均符合此資格 **免費** 程式。
 
