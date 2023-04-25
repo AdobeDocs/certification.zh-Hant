@@ -3,7 +3,8 @@ title: 商務認證概述
 description: Adobe Commerce認證選項概觀
 solution: Commerce
 product: Magento
-source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
+exl-id: 31e38071-d2a2-4b99-93c0-62cf5a2a9c03
+source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 14%

@@ -2,7 +2,8 @@
 title: Workfront認證概述
 description: Adobe Workfront認證選項概觀
 solution: Workfront
-source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
+exl-id: 0bd627c8-6ba2-49bb-b0e7-477d61b6ce3e
+source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 6%
@@ -23,4 +24,3 @@ ht-degree: 6%
 * [AEM Enhanced Connector](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
 造訪 [續訂認證](/help/certifications/renew.md) 頁面，查看此產品是否有續約選項。
-
