@@ -4,9 +4,9 @@ description: 開始使用 [!DNL Experience Cloud] 認證。 了解本計劃和�
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 341ad8d663af57e1461494d7b612fc54df2d9037
+source-git-commit: 6d77e4b81d05f41d398c657cce1116f73e8a7e1f
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: '947'
 ht-degree: 1%
 
 ---
@@ -38,18 +38,11 @@ Adobe [!DNL Experience Cloud] 提供三種不同級別的認證：專業、專�
 
 這些級別反映了熟練程度和知識的進步，專業認證是初級認證，專家是中級認證，碩士是最高級認證。
 
+| 徽章 | 說明 |
+| ------- | ------- |
 | ![專業徽章](/help/certifications/assets/professional-badge-Xsmall.png) | **專業認證** 驗證候選人是否基本了解Adobe的數位行銷解決方案。 認證考試涵蓋Adobe的基本概念和功能 [!DNL Experience Cloud]. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![專家徽章](/help/certifications/assets/expert-badge-Xsmall.png) | **專家認證** 適用於對Adobe的數位行銷解決方案有更深入了解的專業人員。 認證考試涵蓋更複雜的Adobe概念和功能 [!DNL Experience Cloud]，包括實作和疑難排解。 |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![主徽章](/help/certifications/assets/master-badge-Xsmall.png) | **主認證** 適用於對Adobe的數位行銷解決方案有深入了解，且在多個Adobe領域具備專業知識的專業人員 [!DNL Experience Cloud]. 認證測試涵蓋進階主題和案例，包括複雜的整合、自訂和疑難排解。 |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
@@ -57,18 +50,11 @@ Adobe [!DNL Experience Cloud] 提供三種不同級別的認證：專業、專�
 
 Adobe認證考試可自訂為三個不同的工作角色。 請閱讀以下資訊，找到適合您職業生涯的認證。
 
+| 標誌 | 說明 |
+| ------- | ------- |
 | ![業務從業人員徽章](/help/certifications/assets/business_practitioner_blk_small.png) | **業務從業人員** 負責使用Adobe來設計、執行和管理行銷活動 [!DNL Experience Cloud] 解決方案。 他們應該能基本了解Adobe的數位行銷解決方案，以及行銷和廣告的體驗。 業務從業者認證可驗證他們有效使用Adobe的數位行銷解決方案來達成業務目標的能力。 |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![開發人員徽章](/help/certifications/assets/developer_blk_small.png) | **開發人員** 負責實作及整合Adobe [!DNL Experience Cloud] 解決方案整合至組織的技術堆疊中。 他們應該擁有軟體開發經驗，並熟悉網頁技術，例如HTML、CSS、JavaScript和RESTful API。 開發人員認證可驗證他們有效實施和自訂Adobe的數位行銷解決方案以符合業務需求的能力。 |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![架構師徽章](/help/certifications/assets/architect_blk_small.png) | **建築師** 負責使用Adobe來設計和實施企業級解決方案 [!DNL Experience Cloud] 解決方案。 他們應該對Adobe的數位行銷解決方案有廣泛的知識，並在軟體架構、整合和定制方面有豐富的經驗。 架構師認證可驗證他們使用Adobe的數位行銷解決方案來設計和實作複雜解決方案的能力。 |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
