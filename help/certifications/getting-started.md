@@ -1,13 +1,13 @@
 ---
 title: 開始使用Adobe認證
-description: 開始使用 [!DNL Experience Cloud] 認證。 了解計畫和此網站。
+description: 開始使用 [!DNL Experience Cloud] 認證。 了解本計劃和本網站。
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
+source-git-commit: 341ad8d663af57e1461494d7b612fc54df2d9037
 workflow-type: tm+mt
 source-wordcount: '943'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -39,7 +39,7 @@ Adobe [!DNL Experience Cloud] 提供三種不同級別的認證：專業、專�
 這些級別反映了熟練程度和知識的進步，專業認證是初級認證，專家是中級認證，碩士是最高級認證。
 
 | ![專業徽章](/help/certifications/assets/professional-badge-Xsmall.png) | **專業認證** 驗證候選人是否基本了解Adobe的數位行銷解決方案。 認證考試涵蓋Adobe的基本概念和功能 [!DNL Experience Cloud]. |
-| --------- | ------- |
+| ------- | ------- |
 
 {style="table-layout:auto"}
 
