@@ -1,6 +1,6 @@
 ---
 title: 常見問題集
-description: 取得Adobe認證計畫相關問題的解答。 了解認證的優點、如何註冊，以及您可以聯絡誰。
+description: 取得有關 Adobe 認證計劃問題的答案。了解認證的好處、如何註冊以及聯絡窗口。
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
@@ -8,7 +8,7 @@ exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
 source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
 workflow-type: tm+mt
 source-wordcount: '2665'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
