@@ -3,7 +3,8 @@ title: 通過Adobe認證
 description: 了解如何通過Adobe獲得認證。 找到認證前、認證期間和認證後所需的所有資源。
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
+source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
 workflow-type: tm+mt
 source-wordcount: '1464'
 ht-degree: 1%
@@ -88,9 +89,9 @@ Adobe憑證團隊與供應商合作，協助支援計畫的計畫和目標。  �
 | 供應商名稱 | 說明 | 支援頁面/電子郵件 |
 | ------- | ------- | ------- |
 | 陰鬱 | 徽章管理系統 | [支援](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
-| 範例 | 測試傳送供應商（僅線上監控） | support@examity.com或855-Examity(855-392-6489) |
-| PSI | 在某地或日文中測試傳送供應商的跟蹤考試 | adobe.psisupport@psionline.com |
-| Xvoucher -Adobe認證憑證中心 | 購買個人或批量憑單的憑單中心 | support@xvoucher.com或 [線上說明](https://help.xvoucher.com/hc/en-us){target="_blank"} |
+| 範例 | 測試傳送供應商（僅線上監控） | [電子郵件](mailto:support@examity.com){target="_blank"} 或855例(855-392-6489) |
+| PSI | 在某地或日文中測試傳送供應商的跟蹤考試 | [電子郵件](mailto:adobe.psisupport@psionline.com){target="_blank"} |
+| Xvoucher -Adobe認證憑證中心 | 購買個人或批量憑單的憑單中心 | [電子郵件](mailto:support@xvoucher.com){target="_blank"} 或 [線上說明](https://help.xvoucher.com/hc/en-us) |
 
 其他供應商資源：
 
