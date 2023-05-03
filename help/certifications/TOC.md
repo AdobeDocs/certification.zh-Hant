@@ -13,7 +13,7 @@ ht-degree: 42%
 # Adobe 的認證 {#program}
 
 + [認證首頁](overview.md)
-+ [開始使用](getting-started.md)
++ [快速入門](getting-started.md)
 + [如何取得認證](how-to-get-certified.md)
 + [續訂認證](renew.md)
 + [重新啟動程式](restart-program.md)

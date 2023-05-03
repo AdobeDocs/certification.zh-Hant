@@ -11,7 +11,7 @@ ht-degree: 1%
 
 ---
 
-# 開始使用 {#getting-started}
+# 快速入門 {#getting-started}
 
 Adobe的認證旨在驗證使用我們的數位行銷解決方案的專業人士的知識和技能。 使用以下頁簽開始了解認證計畫。
 
