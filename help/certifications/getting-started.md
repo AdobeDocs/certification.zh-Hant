@@ -1,13 +1,13 @@
 ---
 title: 開始使用Adobe認證
-description: 開始使用 [!DNL Experience Cloud] 認證。 了解本計劃和本網站。
+description: ' [!DNL Experience Cloud]  認證快速入門了解本計劃和本網站。'
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
 source-git-commit: 6d77e4b81d05f41d398c657cce1116f73e8a7e1f
 workflow-type: tm+mt
 source-wordcount: '947'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
