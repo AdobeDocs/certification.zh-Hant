@@ -6,18 +6,23 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '149'
 ht-degree: 1%
 
 ---
 
 # 續訂Adobe [!DNL Real-Time CDP] 認證
 
-通過認證考試後，您的認證有效期為兩年。
+您的Adobe認證有效期為兩年。 如果您接近兩年的關口，您可以更新認證以保持其活動狀態。
 
-我們很高興宣佈，您現在可以以新的免費格式續訂認證。 它涉及使用隨需Experience League課程和教學課程，只需完成三項活動即可免費續訂認證。 您必須在認證過期前續訂，否則需要參加完整考試才能再次獲得認證。
+首先，在下面的頁簽上（「專業」、「專家」或「主版」）選擇適當級別。 然後仔細檢查您需要執行什麼操作才能續訂認證。
+
+在認證過期之前，請務必提供充足的時間完成所有要求。
+
+請務必注意，如果您的認證過期，您必須重新參加認證考試，這是不免費的。
 
 >[!IMPORTANT]
 >

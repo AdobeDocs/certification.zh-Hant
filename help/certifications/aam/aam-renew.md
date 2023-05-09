@@ -7,18 +7,22 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '1116'
+source-wordcount: '1134'
 ht-degree: 2%
 
 ---
 
 # 續訂Adobe [!DNL Audience Manager] 認證
 
-通過認證考試後，您的認證有效期為兩年。
+您的Adobe認證有效期為兩年。 如果您接近兩年的關口，您可以更新認證以保持其活動狀態。
 
-我們很高興宣佈，您現在可以以新的免費格式續訂認證。 它涉及使用隨需Experience League課程和教學課程，只需完成三項活動即可免費續訂認證。 您必須在認證過期前續訂，否則需要參加完整考試才能再次獲得認證。
+首先，在下面的頁簽上（「專業」、「專家」或「主版」）選擇適當級別。 然後仔細檢查您需要執行什麼操作才能續訂認證。
+
+在認證過期之前，請務必提供充足的時間完成所有要求。
+
+請務必注意，如果您的認證過期，您必須重新參加認證考試，這是不免費的。
 
 >[!IMPORTANT]
 >
