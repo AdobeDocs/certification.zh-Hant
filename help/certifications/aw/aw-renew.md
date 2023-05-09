@@ -6,18 +6,22 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: e10f50a8e8a62d88d6c3ed5175a6d155760dc37c
+source-git-commit: bc3c4c4ebf3b3c34bbf21409040856a8b0dd1135
 workflow-type: tm+mt
-source-wordcount: '3197'
+source-wordcount: '3215'
 ht-degree: 0%
 
 ---
 
 # 續訂Adobe [!DNL Workfront] 認證
 
-通過認證考試後，您的認證有效期為兩年。
+您的Adobe認證有效期為兩年。 如果您接近兩年的關口，您可以更新認證以保持其活動狀態。
 
-我們很高興宣佈，您現在可以以新的免費格式續訂認證。 它涉及使用隨需Experience League課程和教學課程，只需完成三項活動即可免費續訂認證。 您必須在認證過期前續訂，否則需要參加完整考試才能再次獲得認證。
+首先，在下面的頁簽上（「專業」、「專家」或「主版」）選擇適當級別。 然後仔細檢查您需要執行什麼操作才能續訂認證。
+
+在認證過期之前，請務必提供充足的時間完成所有要求。
+
+請務必注意，如果您的認證過期，您必須重新參加認證考試，這是不免費的。
 
 >[!IMPORTANT]
 >
