@@ -2,7 +2,7 @@
 user-guide-title: Adobe 的認證
 breadcrumb-title: Adobe 的認證
 user-guide-description: 了解 Adobe 的  [!DNL Experience Cloud]  認證。了解獲得認證能為您做什麼。
-source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
+source-git-commit: 20ea813247ee551b425c98d93d0de8bd62ec10e6
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 44%
@@ -109,7 +109,7 @@ ht-degree: 44%
    + Adobe [!DNL Document Cloud] {#adc}
       + [Document Cloud概述](/help/certifications/adc/adc-overview.md)
       + 專業 {#adc-professional}
-         + [商業從業人員](/help/certifications/adc/adc-professional.md)
+         + [商業從業人員](/help/certifications/adc/adc-p-business.md)
       + [續約](/help/certifications/adc/adc-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
       + [Real-Time CDP概述](/help/certifications/rtcdp/rtcdp-overview.md)
