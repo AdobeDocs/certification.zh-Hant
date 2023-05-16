@@ -1,12 +1,13 @@
 ---
 title: 開發人員專家認證
 description: 了解如何成為Adobe Developer的認證專家 [!DNL Campaign Classic].
-solution: Campaign Classic
+solution: Campaign Classic v7
 product: Campaign
 role: Developer
 badge: label="Exam AD0-E330" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
+source-git-commit: 0246f6b1118fd9d6f7f1c63a92593e5a0dda8d42
 workflow-type: tm+mt
 source-wordcount: '1350'
 ht-degree: 9%
