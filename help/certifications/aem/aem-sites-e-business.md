@@ -1,12 +1,13 @@
 ---
 title: 業務從業者專家認證
 description: 了解如何成為 [!DNL Experience Manager Sites].
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
 badge: label="考試AD0-E121" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 0b533269-0826-4921-a539-d281c74da63d
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '1334'
 ht-degree: 6%

@@ -1,13 +1,13 @@
 ---
 title: 業務從業人員專業認證
 description: 了解如何成為認證Adobe業務從業人員 [!DNL Campaign Classic].
-solution: Campaign Classic v7
+solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
 badge: label="Exam AD0-E329" type="positive"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: 0246f6b1118fd9d6f7f1c63a92593e5a0dda8d42
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '1333'
 ht-degree: 9%
