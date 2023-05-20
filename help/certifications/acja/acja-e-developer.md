@@ -1,10 +1,10 @@
 ---
 title: 專家認證
-description: 了解如何成為 [!DNL Customer Journey Analytics]
+description: 瞭解如何成為IT部門的認證專家Adobe [!DNL Customer Journey Analytics]
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-badge: label="Exam AD0-E604" type="positive"
+badge: label="考試AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
 source-git-commit: bf6dae64ce1334611f7a40d14733dba7504fae20
@@ -16,142 +16,142 @@ ht-degree: 16%
 
 # 認證Adobe [!DNL Customer Journey Analytics] 專家
 
-了解如何成為認證的Adobe Analytics Customer Journey Developer。
+瞭解如何成為認證的Adobe Analytics客戶旅程開發人員。
 
 ## 最低體驗
 
-您應在Adobe Customer Journey Analytics中擁有12至24個月的使用經驗，並能執行下列工作：
+您應在Adobe Customer Journey Analytics有12至24個月的經驗，並能夠執行以下任務：
 
-* 閱讀並了解XDM結構（類別）
-* 展示對平台介面的熟悉程度
-* 驗證資料（查詢服務），在資料集中查看您的資料
-* 了解不同存取層級所需的管理員權限
-* 閱讀並了解QA指令碼
-* 定義QC指令碼以將其交給AEP工程師
-* 使用主要身分設定連線（人員ID）
-* 使用多個資料集設定連線
-* 設定資料檢視（量度/維度設定）
-* 設定CJA
-* 在維度和量度中轉換資料
-* 分析工作區的基本知識（視覺效果、歸因設定、篩選器、計算量度）
-* 了解CJA(DULE)中的資料控管
-* 跨管道量度或以人物為基礎的篩選器建置
-* 區分/了解AEP中的沙箱
-* 了解受眾發佈（共用）
+* 讀取和瞭解XDM架構（類）
+* 演示對平台介面的熟悉程度
+* 驗證資料（查詢服務），查看資料集中的資料
+* 瞭解不同訪問級別所需的管理權限
+* 閱讀和瞭解QA指令碼
+* 定義QC指令碼以轉交給AEP工程師
+* 配置主標識（人員ID）的連接
+* 配置具有多個資料集的連接
+* 配置資料視圖（度量/維配置）
+* 配置CJA
+* 在維和度量內轉換資料
+* 分析工作區基礎知識（可視化、屬性設定、篩選器、計算度量）
+* 瞭解CJA(DULE)中的資料管理
+* 跨渠道指標或基於人員的篩選器構建
+* 區分/理解AEP中的沙箱
+* 瞭解受眾發佈（共用）
 
 >[!NOTE]
 >
->你的認證有效期為兩年。 建議您盡可能使用較新版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為2年，從您通過認證之日起。 我們建議盡可能採用較新版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備好]
 
 **目標受眾：**
 
 * 技術架構師
 * 技術經理
-* 資料分析人員
+* 資料分析員
 * 資料架構師/工程師
 * 解決方案架構師
-* Enterprise Architect
-* 實作專家
-* 行銷技術領導
+* 企業架構師
+* 實施專家
+* 營銷技術領導
 
 **考試詳細資訊：**
 
 * 級別：專家（1-3年經驗）
-* 傳遞分數：33/50
+* 通過分數：33/50
 * 時間：100分鐘
-* 傳送：線上監控（需要攝像機訪問）或測試中心監控
-* 可用語言：英文
+* 交貨：線上監控（需要攝像頭訪問）或test中心監控
+* 可用語言：英語
 * 成本：225美元（全球）/150美元（印度）
 * 考試ID:AD0-E604
 
 **考試目標和範圍**
 
-第1節：連線(22%)
+第1節：連接(22%)
 
-* 使用適當的設定設計CJA連線
-* 從AEP中可供沙箱使用的XDM資料集建立CJA連線
+* 設計具有適當設定的CJA連接
+* 通過沙盒從AEP中可用的XDM資料集建立CJA連接
 
-第二節：資料檢視(30%)
+第二節：資料視圖(30%)
 
-* 設定資料檢視以進行報告和分析
-* 修改資料檢視中的元件
+* 配置資料視圖以用於報告和分析
+* 修改資料視圖中的元件
 
-第3節：資料驗證和疑難排解(34%)
+第三節：資料驗證和故障排除(34%)
 
-* 驗證資料正確且完整地填入
-* 疑難排解連線和資料檢視
-* 建立或疑難排解元件
-* 監控使用情況以合法
+* 驗證資料是否正在準確、完整地填充
+* 排除連接和資料視圖故障
+* 構建或排除元件故障
+* 監視使用情況以確保
 
-第4節：報告與啟用(14%)
+第四節：報告和激活(14%)
 
-* 使用Analysis Workspace以適當的視覺化呈現跨管道客戶歷程
-* 將CJA篩選器的成員傳送至RTCDP對象
+* 使用Analysis Workspace演示具有適當可視化效果的跨渠道客戶行程
+* 將CJA篩選器的成員發送到RTCDP受眾
 * 跨資料集設計和建立篩選器
 
->[!TAB 預備]
+>[!TAB 準備]
 
-在參加考試之前，您不需要完成培訓，單靠培訓將無法提供通過考試所需的知識和技能。 培訓與成功的在職體驗相結合對於為您提供通過考試所需的儲存庫至關重要。
+在參加考試之前，您不必完成培訓，而僅憑培訓無法為您提供通過考試所需的知識和技能。 培訓與成功的在職體驗相結合對於為您提供通過考試所需的儲存庫至關重要。
 
-以下是一些建議的資源，可協助您準備：
+以下是一些建議的資源，可幫助您進行準備：
 
-**第1節：連線**
+**第1節：連接**
 
 * [連線總覽](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html?lang=zh-Hant){target="_blank"}
 * [建立連線](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=zh-Hant){target="_blank"}
 
-**第二節：資料檢視**
+**第二節：資料視圖**
 
 * [資料檢視總覽](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=zh-Hant){target="_blank"}
 * [元件設定](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html?lang=zh-Hant){target="_blank"}
 
-**第3節：資料驗證和疑難排解**
+**第三節：資料驗證和故障排除**
 
 * [資料檢視總覽](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=zh-Hant){target="_blank"}
 * [建立或編輯資料檢視](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=zh-Hant){target="_blank"}
 * [元件設定](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html?lang=zh-Hant){target="_blank"}
 * [標準元件參考](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=zh-Hant){target="_blank"}
 
-**第4節：報告與啟用**
+**第四節：報告和激活**
 
 * [視覺效果概觀](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html?lang=en){target="_blank"}
-* [Analysis Workspace 總覽](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html?lang=en){target="_blank"}
+* [Analysis Workspace 概觀](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html?lang=en){target="_blank"}
 * [資料檢視總覽](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=zh-Hant){target="_blank"}
 
->[!TAB 取得認證]
+>[!TAB 獲得認證]
 
 >[!IMPORTANT]
 >
->下列章節和連結將可運作 **僅限**  之後 **成功登入** 到 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和連結將起作用 **僅**  在 **成功登錄** 到 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"}。
 
 
-**現在您已成功登入，您將可直接存取下列連結。**
+**現在您已成功登錄，將直接訪問以下連結。**
 
 **參加認證考試**
 
-Adobe使用兩家供應商來管理監督考試（PSI和Examity）。
+Adobe使用兩家供應商來管理受監督的考試，即PSI和Examity。
 
-* **PSI** 提供測試中心和日文考試選項（如有）
-* **[!DNL Examity]** 提供遠程聯機選項
+* **PSI** 提供test中心和日語考試選項（如果可用）
+* **[!DNL Examity]** 提供遠程線上選項
 
-要排程、重新計畫或取消您的考試，只需按一下所選供應商，然後按照螢幕上提供的說明操作即可。 就這麼簡單！
+要計畫、重新安排或取消您的考試，只需按一下選擇的供應商，然後按照螢幕上提供的說明進行操作。 就這麼簡單！
 
-### 考試次數：AD0-E604
+### 考試編號：AD0-E604
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E604 newtab=true"}[!BADGE 範例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E604 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E604 newtab=true"}[!BADGE 示例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E604 newtab=true"}
 
-您可以通過憑單或信用卡支付認證考試的費用。 要購買考試憑單，請轉至： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以通過憑單或信用卡為認證考試付費。 要購買考試憑單，請轉至： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}。
 
-您可以在排程考試時套用憑單代碼。 如果您有折扣，則在結帳時適用。
+您可以在計畫考試時應用憑單代碼。 如果您有折扣，則在結帳時適用。
 
 >[!ENDTABS]
 
 **問題**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看證書 [常見問題](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}。
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}。

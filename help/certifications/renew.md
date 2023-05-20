@@ -1,6 +1,6 @@
 ---
-title: Adobe認證續約計畫
-description: 了解如何在認證過期之前續約。
+title: Adobe認證續訂計畫
+description: 瞭解如何在證書過期前續訂。
 solution: Real-time Customer Data Platform
 role: User
 recommendations: disable, exclude
@@ -13,33 +13,33 @@ ht-degree: 3%
 
 ---
 
-# 續訂認證 {#renew}
+# 續訂證書 {#renew}
 
-若要維護Adobe認證，您必須每24個月續約一次。 若未在指定的時間範圍內續訂認證，認證將會過期，而您需要再次參加完整認證考試才能重新獲得認證。
+要維護您的Adobe認證，您必須每24個月續訂一次。 在指定的時限內無法續訂您的證書將導致證書過期，您需要再次參加完整的證書考試才能重新獲得認證。
 
-若要避免對認證狀態造成任何中斷，請追蹤您的認證續約日期，並確保您在到期日前完成續約程式。
+為避免對您的認證狀態造成任何中斷，請跟蹤您的認證續訂日期，並確保在到期日之前完成續訂過程。
 
-在「認證」標籤的 [Adobe憑證管理系統](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
+在「認證」頁籤中，查看當前和過期的認證 [Adobe憑據管理系統](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}。
 
-## 如何續訂認證？
+## 如何續訂證書？
 
-續約Adobe認證相當容易！ 根據您的認證級別、解決方案或工作角色，您將通過持續學習活動和通過評估，或通過非監控的按需工作角色考試來完成續訂。
+續訂Adobe認證很簡單！ 根據您的認證級別、解決方案或工作角色，您將通過持續學習活動和通過評估或通過非監督的按需工作角色考試來完成續訂。
 
-Adobe提供各種資源和工具，協助您續約認證，包括：
+Adobe提供各種資源和工具，幫助您續訂認證，包括：
 
 * 訪問線上課程
 * 教學課程
-* 研究材料
+* 學習材料
 
-## 它要多少錢？
+## 多少錢？
 
-您可以續訂認證 **免費**. 這為您提供了一種經濟實惠的方法，可維護您的認證並保持您的解決方案技能最新。
+您可以續訂證書 **免費**。 這為您提供了一種經濟高效的方法來維護您的認證，並保持您的解決方案技能保持最新。
 
-憑借Adobe的支援和資源，續約Adobe Experience Cloud認證是一個簡單明瞭的流程，使您能夠保持您的專業技能並在數字市場中保持競爭力。
+有了Adobe的支援和資源，續訂Adobe Experience Cloud認證是一個簡單易行的過程，使您能夠保持您的專業知識並保持在數字市場上的競爭力。
 
-## 可用的續訂選項
+## 可用續訂選項
 
-您現在可以透過持續學習或參加隨選續約考試來續約認證。 若要了解如何在目前的認證過期之前續約，請選取下方的解決方案。
+您現在可以通過持續學習或參加按需續約考試來續訂您的認證。 要瞭解如何在當前證書過期前續訂，請在下面選擇解決方案。
 
 ### 解決方案
 
@@ -55,6 +55,6 @@ Adobe提供各種資源和工具，協助您續約認證，包括：
 
 ### 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看證書 [常見問題](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}。
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}。

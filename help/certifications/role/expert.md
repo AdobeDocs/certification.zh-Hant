@@ -12,26 +12,26 @@ ht-degree: 35%
 
 **Analytics**
 
-* [業務執行者](/help/certifications/aa/aa-e-business.md) <!--AD0-E208-->
+* [商務實踐者](/help/certifications/aa/aa-e-business.md) <!--AD0-E208-->
 * [Developer](/help/certifications/aa/aa-e-developer.md) <!--AD0-E209-->
 
 **Audience Manager**
 
-* [業務執行者](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
+* [商務實踐者](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
 
 **Campaign Classic**
 
-* [業務執行者](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
+* [商務實踐者](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
 * [Developer](/help/certifications/acc/acc-e-developer.md) <!--AD0-E330-->
 
 **Campaign Standard**
 
-* [業務執行者](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
+* [商務實踐者](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
 * [Developer](/help/certifications/acs/acs-e-developer.md) <!--AD0-E306-->
 
 **Commerce**
 
-* [業務執行者](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
+* [商務實踐者](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
 * [Developer](/help/certifications/ac/ac-e-developer.md) <!--AD0-E716-->
 * [Developer](/help/certifications/ac/ac-e-fedeveloper.md) <!--AD0-E710-->
 
@@ -41,15 +41,15 @@ ht-degree: 35%
 
 **Experience Manager**
 
-* [業務實踐（站點）](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
-* [開發人員（網站）](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
-* [DevOps](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
+* [業務實踐者（站點）](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
+* [開發人員（站點）](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
+* [開發操作](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
 * [開發人員(Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
-* [Cloud Service移轉](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
+* [Cloud Service遷移](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
 
 **Marketo Engage**
 
-* [業務執行者](/help/certifications/ame/ame-e-business.md) <!--AD0-E559-->
+* [商務實踐者](/help/certifications/ame/ame-e-business.md) <!--AD0-E559-->
 
 **Real-Time CDP**
 
@@ -57,12 +57,12 @@ ht-degree: 35%
 
 **Target**
 
-* [業務執行者](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
+* [商務實踐者](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
 
 **Workfront**
 
 * [開發人員（核心）](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
-* [AEM Enhanced Connector](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
+* [增AEM強連接器](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
 >[!MORELIKETHIS]
 >

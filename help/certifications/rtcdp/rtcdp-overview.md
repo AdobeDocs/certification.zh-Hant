@@ -1,12 +1,12 @@
 ---
 title: Real-Time CDP認證概述
-description: Adobe Real-Time CDP認證選項概觀
+description: Adobe Real-Time CDP 認證選項概觀
 solution: Real-time Customer Data Platform
 exl-id: 389377d8-5a73-418a-afb4-9428d3aef990
 source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
 workflow-type: tm+mt
 source-wordcount: '39'
-ht-degree: 7%
+ht-degree: 28%
 
 ---
 
@@ -18,6 +18,6 @@ ht-degree: 7%
 
 **專家**
 
-* [技術實踐者](/help/certifications/rtcdp/rtcdp-e-technical.md) <!--AD0-E600 and E601-->
+* [技術操作員](/help/certifications/rtcdp/rtcdp-e-technical.md) <!--AD0-E600 and E601-->
 
-造訪 [續訂認證](/help/certifications/renew.md) 頁面，查看此產品是否有續約選項。
+訪問 [續訂證書](/help/certifications/renew.md) 頁，查看此產品是否有續訂選項。

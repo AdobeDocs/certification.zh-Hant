@@ -1,65 +1,66 @@
 ---
-title: 業務從業人員專業認證
-description: 了解如何取得認證，成為 [!DNL Adobe Analytics] 商業從業者專業。
+title: 業務從業者專業認證
+description: 瞭解如何獲得認證 [!DNL Adobe Analytics] 業務從業人員。
 solution: Analytics
 product: Analytics
 role: User
 badge: label="考試AD0-E212" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '874'
-ht-degree: 13%
+ht-degree: 14%
 
 ---
 
-# 的認證歷程 [!DNL Adobe Analytics] 業務從業人員
+# 認證之旅 [!DNL Adobe Analytics] 業務從業人員
 
-了解如何成為認證的Analytics業務從業者專業人員。
+瞭解如何成為認證的分析業務從業人員。
 
 ## 最低體驗
 
-您至少應有3個月的經驗 [!DNL Adobe Analytics] 以及下列體驗：
+你至少應該有3個月的 [!DNL Adobe Analytics] 以及以下經驗：
 
-* 行銷背景或來自行銷角色，但可能來自各種工作角色。
-* 對數位分析量度和維度的基本熟悉。
-* 能夠使用Analytics建立報表及回答業務問題，並傳達結果。
-* 了解基本的數位分析概念，例如區段、報告建立、標準量度定義。
+* 市場營銷背景或來自市場營銷角色，但可能來自各種工作角色。
+* 基本熟悉數字分析指標和維度。
+* 使用分析構建報告和回答業務問題並傳遞結果的能力。
+* 對基本數字分析概念的理解，如分段、報告構建、標準度量定義。
 
 >[!NOTE]
 >
->你的認證有效期為兩年。 建議您盡可能使用較新版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為2年，從您通過認證之日起。 我們建議盡可能採用較新版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備好]
 
 **目標受眾：**
 
-* 數位行銷人員
-* 業務分析人員
+* 數字營銷
+* 業務分析員
 * 業務顧問
-* 資料分析人員
-* 網路分析人員
-* 數位分析人員
-* 媒體/行銷分析人員
-* 產品擁有者和經理
+* 資料分析員
+* 網路分析員
+* 數字分析師
+* 媒體/營銷分析員
+* 產品所有者和經理
 * UI分析員
-* 轉換/最佳化專家
+* 轉換/優化專家
 
 **考試詳細資訊：**
 
 * 級別：專業（0-12個月經驗）
-* 傳遞分數：31/50
+* 通過分數：31/50
 * 時間：100分鐘
-* 傳送：線上監控（需要攝像頭訪問）
-* 可用語言：英文
+* 交貨：線上監控（需要攝像頭訪問）
+* 可用語言：英語
 * 成本：125美元（全球）/95美元（印度）
 * 考試ID:AD0-E212
 
-**準備情況自評**
+**就緒性自我評估**
 
-完成 [線上準備問卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"} 來查看您目前的體驗是否符合建議的最低候選資格。
+完成 [線上準備調查表](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"} 查看您當前的經驗是否與推薦的最低候選人資格相符。
 
 **考試目標和範圍**
 
@@ -67,44 +68,44 @@ ht-degree: 13%
 
 * 根據業務需要/問題，確定適當的報告策略以執行分析
 * 分析資料以回答業務問題
-* 識別轉換漏斗（作為了解業務分析的概念）
-* 請參閱解決方案設計參考(SDR)，以判斷哪些資料可用於報表
-* 分析報告資料，總結並得出結論
-* 識別報表中的離群值和異常
+* 確定轉換渠道（作為理解業務分析的概念）
+* 請查閱解決方案設計參考(SDR)，以確定報告中提供哪些資料
+* 分析報告資料以總結並得出結論
+* 識別報表中的異常值和異常
 
-第二節：專案的報告和控制面板(38%)
+第二節：項目報告和儀表板(38%)
 
-* 請考量根據指定案例使用特定視覺效果的優點
-* 比較流失和流量視覺效果
-* 套用程式以為不同的使用者和/或群組排程和共用專案
-* 套用程式來查詢及結合維度、量度、日期範圍和區段
-* 套用程式以建立視覺效果
-* 在案例中，決定要使用的適當項目
-* 行銷活動績效報告
+* 考慮基於給定方案使用特定可視化效果的優點
+* 比較沈降物和流動可視化
+* 應用流程以為不同的用戶和/或組安排和共用項目
+* 應用該流程以查找和組合維、度量、日期範圍和段
+* 應用進程以建立可視化
+* 給定方案，確定要使用的適當項
+* 營銷活動績效報告
 
-第3節：區段和計算量度(19%)
+第三節：細分和計算的度量(19%)
 
-* 使用最佳實務來判斷如何開發和設定基本區段
-* 套用程式以與組織中的其他人共用區段
-* 將區段套用至專案和元件
-* 套用程式以產生基本計算和/或分段量度
+* 確定如何使用最佳做法開發和配置基本資料段
+* 應用此流程以與組織中的其他人共用段
+* 將段應用於項目和元件
+* 應用該流程以生成基本計算和/或分段度量
 
-第4節：一般工具知識與疑難排解(9%)
+第四節：一般工具知識和故障排除(9%)
 
-* 了解中現有的不同類型的維度和參數 [!DNL Adobe Analytics] （evar、prop和事件）
-* 決定如何從 [!DNL Adobe Analytics]
+* 瞭解中存在的不同類型的尺寸和參數 [!DNL Adobe Analytics] （Evars、道具和活動）
+* 確定如何從 [!DNL Adobe Analytics]
 
->[!TAB 預備]
+>[!TAB 準備]
 
-在參加考試之前，您不需要完成培訓，單靠培訓將無法提供通過考試所需的知識和技能。 培訓與成功的在職體驗相結合對於為您提供通過考試所需的儲存庫至關重要。
+在參加考試之前，您不必完成培訓，而僅憑培訓無法為您提供通過考試所需的知識和技能。 培訓與成功的在職體驗相結合對於為您提供通過考試所需的儲存庫至關重要。
 
-以下是一些建議的資源，可協助您準備：
+以下是一些建議的資源，可幫助您進行準備：
 
-**範例問題**
+**示例問題**
 
-範例問題可讓您查看在實際考試中遇到的項目類型和格式。 不需要登錄。 不會儲存範例問題的結果，也不會預測您的實際測試結果。
+示例問題允許您查看在實際考試中遇到的項的類型和格式。 不需要登錄。 示例問題的結果未儲存，不預測實際test結果。
 
-[請參閱範例問題](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+[查看示例問題](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
 
 **第1節：業務分析**
 
@@ -113,53 +114,53 @@ ht-degree: 13%
 * [實作 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
 * [Data Workbench 說明](https://experienceleague.adobe.com/docs/data-workbench/using/home.html?lang=en){target="_blank"}
 
-**第二節：專案的報表和控制面板**
+**第二節：項目報告和儀表板**
 
 * [Analytics 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hant){target="_blank"}
 * [Analytics 工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=zh-Hant){target="_blank"}
-* [視覺效果概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=en#quick-viz){target="_blank"}
+* [可視化概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=zh-Hant#quick-viz){target="_blank"}
 * [Analytics 元件指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
 * [Customer Journey Analytics 指南](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hant){target="_blank"}
 
-**第3節：區段與計算量度**
+**第三節：分段和計算的度量**
 
 * [Analytics 元件指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
 
-**第4節：一般工具知識與疑難排解**
+**第四節：一般工具知識和故障排除**
 
 * [實作 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
 * [Analytics 元件指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
 
->[!TAB 取得認證]
+>[!TAB 獲得認證]
 
 >[!IMPORTANT]
 >
->下列章節和連結將可運作 **僅限**  之後 **成功登入** 到 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和連結將起作用 **僅**  在 **成功登錄** 到 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"}。
 
 
-**現在您已成功登入，您將可直接存取下列連結。**
+**現在您已成功登錄，將直接訪問以下連結。**
 
 **參加認證考試**
 
-Adobe使用兩家供應商來管理監督考試（PSI和Examity）。
+Adobe使用兩家供應商來管理受監督的考試，即PSI和Examity。
 
-* **PSI** 提供測試中心和日文考試選項（如有）
-* **[!DNL Examity]** 提供遠程聯機選項
+* **PSI** 提供test中心和日語考試選項（如果可用）
+* **[!DNL Examity]** 提供遠程線上選項
 
-要排程、重新計畫或取消您的考試，只需按一下所選供應商，然後按照螢幕上提供的說明操作即可。 就這麼簡單！
+要計畫、重新安排或取消您的考試，只需按一下選擇的供應商，然後按照螢幕上提供的說明進行操作。 就這麼簡單！
 
-### 考試次數：AD0-E212
+### 考試編號：AD0-E212
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E212 newtab=true"}[!BADGE 範例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E212 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E212 newtab=true"}[!BADGE 示例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E212 newtab=true"}
 
-您可以通過憑單或信用卡支付認證考試的費用。 要購買考試憑單，請轉至： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以通過憑單或信用卡為認證考試付費。 要購買考試憑單，請轉至： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}。
 
-您可以在排程考試時套用憑單代碼。 如果您有折扣，則在結帳時適用。
+您可以在計畫考試時應用憑單代碼。 如果您有折扣，則在結帳時適用。
 
 >[!ENDTABS]
 
 **問題**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看證書 [常見問題](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}。
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}。

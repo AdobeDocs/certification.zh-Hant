@@ -16,6 +16,6 @@ ht-degree: 21%
 
 **專業**
 
-* [業務從業人員（搜索）](/help/certifications/adc/adc-p-business.md) <!--AD0-??-->
+* [業務從業者（搜索）](/help/certifications/adc/adc-p-business.md) <!--AD0-??-->
 
-造訪 [續訂認證](/help/certifications/renew.md) 頁面，查看此產品是否有續約選項。
+訪問 [續訂證書](/help/certifications/renew.md) 頁，查看此產品是否有續訂選項。

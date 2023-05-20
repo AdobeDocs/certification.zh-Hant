@@ -1,10 +1,10 @@
 ---
 title: 專業認證
-description: 了解如何成為認證AdobeDoc Cloud Professional。
+description: 瞭解如何成為認證AdobeDoc Cloud Professional。
 solution: Document Cloud
 product: Document Cloud
 role: User
-badge: label="AdobeDoc Cloud將於2023年5月推出" type="positive"
+badge: label="Adobe文檔雲將於2023年5月推出" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 ---
 
-# Doc Cloud Professional的認證Adobe
+# Adobe文檔雲專業認證之旅
 
-了解如何成為認證AdobeDoc Cloud Professional。
+瞭解如何成為認證AdobeDoc Cloud Professional。
 
 ## 最低體驗
 
 >[!NOTE]
 >
->2023年5月即將推出
+>2023年5月

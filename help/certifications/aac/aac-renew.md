@@ -1,12 +1,13 @@
 ---
 title: 認證續訂
-description: 了解如何續約Adobe [!DNL Advertising] 認證，才能過期。
+description: 瞭解如何續訂Adobe [!DNL Advertising] 在證書過期之前進行驗證。
 solution: Advertising
 product: Advertising Cloud
 role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 1%
@@ -15,13 +16,13 @@ ht-degree: 1%
 
 # 續訂 [!DNL Advertising] 認證
 
-通過認證考試後，您的認證有效期為兩年。
+通過認證考試後，認證有效期為兩年。
 
-我們很高興宣佈，您現在可以以新的免費格式續訂認證。 這包括使用隨需Experience League課程和教學課程 — 只需完成三項活動即可免費續約您的認證。 您必須在認證過期前續訂，否則需要參加完整考試才能再次獲得認證。
+我們很高興地宣佈，您現在可以通過一種新的無成本格式續訂您的認證。 它涉及使用按需Experience League課程和教程 — 只需完成三項活動即可免費續訂您的認證。 您必須在認證過期前續訂，否則您需要參加完整的考試才能再次獲得認證。
 
 >[!IMPORTANT]
 >
->以下考試連結將 **僅限** 函式 **成功登入** 到 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下考試連結將 **僅** 函式 **成功登錄** 到 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"}。
 
 >[!BEGINTABS]
 
@@ -29,24 +30,24 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->職業更新即將推出。
+>專業的更新即將到來。
 
 >[!TAB 專家]
 
 >[!NOTE]
 >
->專家續約即將推出。
+>專家續約即將到來。
 
->[!TAB 主版]
+>[!TAB 母版]
 
 >[!NOTE]
 >
->主更新即將推出。
+>主更新即將到來。
 
 >[!ENDTABS]
 
 **問題**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看證書 [常見問題](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}。
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}。

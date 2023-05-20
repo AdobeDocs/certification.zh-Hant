@@ -1,6 +1,6 @@
 ---
 title: 主技術認證
-description: 主用戶認證選項概述
+description: 主用戶的認證選項概述
 source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
 workflow-type: tm+mt
 source-wordcount: '38'

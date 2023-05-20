@@ -12,41 +12,41 @@ ht-degree: 30%
 
 **Advertising**
 
-* [業務從業人員（搜索）](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
+* [業務從業者（搜索）](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
 * [業務從業者(DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
 **Analytics**
 
-* [業務執行者](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
+* [商務實踐者](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
 * [Developer](/help/certifications/aa/aa-p-developer.md) <!--AD0-E213-->
 
 
 **Audience Manager**
 
-* [業務執行者](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
+* [商務實踐者](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
 
 **Campaign Classic**
 
-* [業務執行者](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
+* [商務實踐者](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
 * [Developer](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
 
 **Commerce**
 
-* [業務執行者](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
+* [商務實踐者](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
 * [Developer](/help/certifications/ac/ac-p-developer.md) <!--AD0-E717-->
 * [Developer](/help/certifications/ac/ac-p-fedeveloper.md) <!--AD0-E719-->
 
 **Experience Manager**
 
-* [業務執行者](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
-* [開發人員（網站）](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
-* [開發人員（資產）](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
+* [商務實踐者](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
+* [開發人員（站點）](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
+* [開發商（資產）](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
 * [後端開發人員(Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
 * [技術基礎](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
 
 **Marketo Engage**
 
-* [認證專業人員](/help/certifications/ame/ame-p.md) <!--AD0-E555-->
+* [認證專家](/help/certifications/ame/ame-p.md) <!--AD0-E555-->
 
 **Real-Time CDP**
 
@@ -54,11 +54,11 @@ ht-degree: 30%
 
 **Target**
 
-* [認證專業人員](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
+* [認證專家](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
 
 **Workfront**
 
-* [開發人員(Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
+* [開發者(Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
 * [Project Manager](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
 * [開發人員（核心）](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
 

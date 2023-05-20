@@ -1,11 +1,12 @@
 ---
 title: 認證續訂
-description: 了解如何續約Adobe [!DNL Journey Optimizer] 認證，才能過期。
+description: 瞭解如何續訂Adobe [!DNL Journey Optimizer] 在證書過期之前進行驗證。
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 393255d0-dff1-4a49-93cd-e767b9b14fc5
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -14,19 +15,19 @@ ht-degree: 0%
 
 # 續訂Adobe [!DNL Journey Optimizer] 認證
 
-通過認證考試後，您的認證有效期為兩年。
+通過認證考試後，認證有效期為兩年。
 
-我們很高興宣佈，您現在可以以新的免費格式續訂認證。 它涉及使用隨需Experience League課程和教學課程，只需完成三項活動即可免費續訂認證。 您必須在認證過期前續訂，否則需要參加完整考試才能再次獲得認證。
+我們很高興地宣佈，您現在可以通過一種新的無成本格式續訂您的認證。 它涉及使用按需Experience League課程和教程 — 只需完成三項活動即可免費續訂您的認證。 您必須在認證過期前續訂，否則您需要參加完整的考試才能再次獲得認證。
 
 >[!IMPORTANT]
 >
->下列章節和連結將可運作 **僅限** 之後 **成功登入** 到 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和連結將起作用 **僅** 在 **成功登錄** 到 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"}。
 
 >[!NOTE]
->專家續約即將推出。
+>專家續約即將到來。
 
 **問題**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看證書 [常見問題](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}。
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}。

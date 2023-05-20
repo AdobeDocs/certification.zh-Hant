@@ -1,12 +1,13 @@
 ---
 title: 專業認證
-description: 了解如何成為認證Adobe [!DNL Marketo Engage] 專業。
+description: 瞭解如何成為認證Adobe [!DNL Marketo Engage] 專業。
 solution: Marketo Engage
 product: Marketo
 role: User
-badge: label="Exam AD0-E555" type="positive"
+badge: label="考試AD0-E555" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1098'
 ht-degree: 0%
@@ -15,179 +16,179 @@ ht-degree: 0%
 
 # 認證Adobe [!DNL Marketo Engage] 專業
 
-了解如何成為認證Adobe [!DNL Marketo] 專業。
+瞭解如何成為認證Adobe [!DNL Marketo] 專業。
 
 ## 最低體驗
 
-您應：
+您應該：
 
-* 約6個月的實際操作體驗
-* 了解按任務要求表示的行銷需求以應用技術解決方案的能力
+* 大約6個月的實際操作經驗
+* 瞭解任務要求所表達的營銷需求以應用技術解決方案的能力
 * 從頭到尾構建簡單程式的能力
-* 建立智慧清單和智慧促銷活動的功能
-* 了解如何建立區段
-* 了解資料檢閱（清除）
-* 了解資料庫（如何建立人員、活動日誌、取消訂閱、封鎖清單、電子郵件無效概念）
-* 了解隱私權法規重要性的能力
-* 了解電子郵件行銷
+* 建立智慧清單和智慧市場活動的能力
+* 瞭解如何建立分段
+* 對資料審查（清理）的理解
+* 瞭解資料庫（如何建立人員、活動日誌、取消訂閱、阻止清單、電子郵件無效概念）
+* 理解隱私法規重要性的能力
+* 瞭解電子郵件營銷
 
-此外，您也應熟悉下列工具和技術：
+而且，您應該熟悉以下工具和技術：
 
 * Adobe [!DNL Marketo Engage]
-* Excel或Google工作表/檔案
+* Excel或Google工作表/文檔
 
 >[!NOTE]
 >
->你的認證有效期為兩年。 建議您盡可能使用較新版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為2年，從您通過認證之日起。 我們建議盡可能採用較新版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備好]
 
 **目標受眾：**
 
-* 行銷活動業務專家/協調員
-* 資料庫行銷經理/專家/協調員
+* 市場活動運營專家/協調員
+* 資料庫營銷經理/專家/協調員
 * 需求生成角色
-* 數位行銷專員
-* 電子郵件行銷協助/協調者
+* 數字營銷專家
+* 電子郵件營銷協會/協調員
 * 活動組織者/協調員
-* 行銷自動化角色
-* 行銷開發角色
-* 行銷活動角色
-* 行銷通訊角色
-* 行銷營運專員/協調員
-* 行銷技術協調員/專家/協理
-* 行銷團隊成員
+* 市場營銷自動化角色
+* 市場營銷生成角色
+* 市場營銷活動角色
+* 市場營銷溝通角色
+* 營銷運營專家/協調員
+* 營銷技術協調員/專家/助理
+* 市場營銷團隊成員
 
 **考試詳細資訊：**
 
 * 級別：專業（0-12個月經驗）
-* 傳遞分數：36/55
+* 通過分數：36/55
 * 時間：110分鐘
-* 傳送：線上監控（需要攝像機訪問）或測試中心監控
-* 可用語言：英文
+* 交貨：線上監控（需要攝像頭訪問）或test中心監控
+* 可用語言：英語
 * 成本：125美元（全球）/95美元（印度）
 * 考試ID:AD0-E555
 
-**準備情況自評**
+**就緒性自我評估**
 
-完成 [線上準備問卷](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"} 來查看您目前的體驗是否符合建議的最低候選資格。
+完成 [線上準備調查表](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"} 查看您當前的經驗是否與推薦的最低候選人資格相符。
 
 **考試目標和範圍**
 
-第1節：建立和管理方案(39%)
+第1節：(39%)
 
 * 根據業務需要/問題，確定適當的報告策略以執行分析
 * 分析資料以回答業務問題
-* 識別轉換漏斗（作為了解業務分析的概念）
-* 請參閱解決方案設計參考(SDR)，以判斷哪些資料可用於報表
-* 分析報告資料，總結並得出結論
-* 識別報表中的離群值和異常
+* 確定轉換渠道（作為理解業務分析的概念）
+* 請查閱解決方案設計參考(SDR)，以確定報告中提供哪些資料
+* 分析報告資料以總結並得出結論
+* 識別報表中的異常值和異常
 
 第二節：建築資產(19%)
 
-* 在Design Studio中處理檔案（上傳/替換影像和檔案）。
+* 在Design Studio中處理檔案（上載/替換影像和檔案）。
 * 使用表單編輯器建立/修改表單。
 * 使用電子郵件編輯器建立/編輯電子郵件。
-* 使用登錄頁面編輯器建立/編輯登錄頁面。
-* 在程式碼片段編輯器中建立/編輯程式碼片段。
+* 使用登錄頁編輯器建立/編輯登錄頁。
+* 在代碼段編輯器中建立/編輯代碼段。
 * 區分草稿和核准資產之間的差異。
-* 區分本機和全域資產之間的差異。
+* 區分本地資產和全球資產之間的差異。
 
-第3節：定義和鎖定對象(33%)
+第三節：定義和針對受眾(33%)
 
 * 建立/修改智慧清單。
-* 了解智慧型促銷活動流程步驟。
-* 了解如何排程和/或啟用智慧型行銷活動。
-* 解譯智慧型促銷活動結果。
-* 說明區段的用途及其使用方式。
-* 標識和導航資料庫。
-* 說明如何在Adobe中設定隱私權設定 [!DNL Marketo Engage].
+* 瞭解智慧市場活動流程步驟。
+* 瞭解如何安排和/或激活智慧市場活動。
+* 解釋Smart Campaign結果。
+* 描述分段的目的和用途。
+* 標識並導航資料庫。
+* 解釋如何在Adobe中設定隱私設定 [!DNL Marketo Engage]。
 * 區分智慧清單和靜態清單。
 * 定義系統智慧清單。
-* 比較和對比不同類型的智慧型促銷活動。
-* 了解Smart Campaign觸發和篩選器的運作方式。
-* 區分不同的清單匯入。
+* 比較和對比不同類型的智慧市場活動。
+* 瞭解智慧市場活動觸發器和篩選器的工作原理。
+* 區分不同的清單導入。
 
-第4節：分析和建立報告(9%)
+第四節：分析和構建報告(9%)
 
-* 說明標準Adobe [!DNL Marketo Engage] 報表及其應使用的時間（電子郵件連結效能、電子郵件效能、登陸頁面效能、人員效能、方案效能、網頁活動等）
-* 理解控制面板資訊和量度（電子郵件方案控制面板、參與方案控制面板）
-* 了解電子郵件前瞻分析量度
+* 解釋標準Adobe [!DNL Marketo Engage] 報告和應使用時間（電子郵件連結效能、電子郵件效能、登錄頁效能、人員效能、程式效能、網頁活動等）
+* 瞭解儀表板資訊和指標（電子郵件程式儀表板、項目計畫儀表板）
+* 瞭解Email Insights指標
 
->[!TAB 預備]
+>[!TAB 準備]
 
-在參加考試之前，您不需要完成培訓，單靠培訓將無法提供通過考試所需的知識和技能。 培訓與成功的在職體驗相結合對於為您提供通過考試所需的儲存庫至關重要。
+在參加考試之前，您不必完成培訓，而僅憑培訓無法為您提供通過考試所需的知識和技能。 培訓與成功的在職體驗相結合對於為您提供通過考試所需的儲存庫至關重要。
 
-以下是一些建議的資源，可協助您準備：
+以下是一些建議的資源，可幫助您進行準備：
 
-**範例問題**
+**示例問題**
 
-範例問題可讓您查看在實際考試中遇到的項目類型和格式。 不需要登錄。 不會儲存範例問題的結果，也不會預測您的實際測試結果。
+示例問題允許您查看在實際考試中遇到的項的類型和格式。 不需要登錄。 示例問題的結果未儲存，不預測實際test結果。
 
-[請參閱範例問題](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
+[查看示例問題](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
 
 **第1節：建立和管理方案**
 
-* [了解方案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html){target="_blank"}
-* [了解電子郵件方案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html){target="_blank"}
-* [了解參與計畫](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
-* [了解事件方案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
-* [了解程式中的代號](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html){target="_blank"}
-* [Marketo字彙表](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html){target="_blank"}
-* [了解方案會籍](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
+* [瞭解程式](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html){target="_blank"}
+* [瞭解電子郵件程式](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html){target="_blank"}
+* [瞭解項目計畫](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
+* [瞭解事件程式](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
+* [瞭解程式中的「我的令牌」](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html){target="_blank"}
+* [Marketo辭彙表](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html){target="_blank"}
+* [瞭解計畫成員資格](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
 
-**第二節：建立資產**
+**第二節：建築資產**
 
-* [了解方案中的本機資產](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.html){target="_blank"}
-* [建立表單](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form.html){target="_blank"}
-* [Token概述](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.html){target="_blank"}
-* [了解登錄頁面](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.html){target="_blank"}
+* [瞭解程式中的本地資產](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.html){target="_blank"}
+* [建立窗體](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form.html){target="_blank"}
+* [令牌概述](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.html){target="_blank"}
+* [瞭解登錄頁](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.html){target="_blank"}
 
-**第3節：定義和鎖定對象**
+**第三節：定義和針對受眾**
 
-* [了解智慧型行銷活動](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html){target="_blank"}
-* [智慧清單最佳作法](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html?lang=en){target="_blank"}
-* [建立區段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
-* [了解動態內容](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.html){target="_blank"}
+* [瞭解智慧活動](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html){target="_blank"}
+* [智慧清單的最佳做法](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html?lang=en){target="_blank"}
+* [建立分段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
+* [瞭解動態內容](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.html){target="_blank"}
 
-**第4節：分析和建立報告**
+**第四節：分析和構建報告**
 
-* [在方案中建立報表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.html){target="_blank"}
-* [了解智慧清單](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.html){target="_blank"}
-* [報表類型概觀](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
+* [在程式中建立報告](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.html){target="_blank"}
+* [瞭解智慧清單](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.html){target="_blank"}
+* [報表類型概述](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
 * [管理報表訂閱](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html){target="_blank"}
 
->[!TAB 取得認證]
+>[!TAB 獲得認證]
 
 >[!IMPORTANT]
 >
->下列章節和連結將可運作 **僅限**  之後 **成功登入** 到 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下部分和連結將起作用 **僅**  在 **成功登錄** 到 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"}。
 
-**現在您已成功登入，您將可直接存取下列連結。**
+**現在您已成功登錄，將直接訪問以下連結。**
 
 **參加認證考試**
 
-Adobe使用兩家供應商來管理監督考試（PSI和Examity）。
+Adobe使用兩家供應商來管理受監督的考試，即PSI和Examity。
 
-* **PSI** 提供測試中心和日文考試選項（如有）
-* **[!DNL Examity]** 提供遠程聯機選項
+* **PSI** 提供test中心和日語考試選項（如果可用）
+* **[!DNL Examity]** 提供遠程線上選項
 
-要排程、重新計畫或取消您的考試，只需按一下所選供應商，然後按照螢幕上提供的說明操作即可。 就這麼簡單！
+要計畫、重新安排或取消您的考試，只需按一下選擇的供應商，然後按照螢幕上提供的說明進行操作。 就這麼簡單！
 
-### 考試次數：AD0-E555
+### 考試編號：AD0-E555
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E555 newtab=true"}[!BADGE 範例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E555 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E555 newtab=true"}[!BADGE 示例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E555 newtab=true"}
 
-您可以通過憑單或信用卡支付認證考試的費用。 要購買考試憑單，請轉至： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+您可以通過憑單或信用卡為認證考試付費。 要購買考試憑單，請轉至： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}。
 
-您可以在排程考試時套用憑單代碼。 如果您有折扣，則在結帳時適用。
+您可以在計畫考試時應用憑單代碼。 如果您有折扣，則在結帳時適用。
 
 >[!ENDTABS]
 
 **問題**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+查看證書 [常見問題](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}。
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}。
