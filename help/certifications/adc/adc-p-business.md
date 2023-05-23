@@ -8,9 +8,9 @@ badge: label="考試AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: bad41c3fcc4529bde82b3a3742761cd24af8d3ab
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '869'
 ht-degree: 0%
 
 ---
@@ -135,6 +135,10 @@ Adobe使用兩家供應商來管理受監督的考試，即PSI和Examity。
 * **[!DNL Examity]** 提供遠程線上選項
 
 要計畫、重新安排或取消您的考試，只需按一下選擇的供應商，然後按照螢幕上提供的說明進行操作。 就這麼簡單！
+
+Adobe憑據管理系統中的配置檔案名稱必須與政府ID完全匹配。 如果資訊不相同或不匹配，則檢查員將終止考試，並要求您除支付額外的考試費用外，還要重新安排約會。
+
+如果在預定的考試約會前48小時之前開始，則可能取消和重新安排。 候選人必須自行修改此約會。
 
 Adobe憑據管理系統中的配置檔案名稱必須與政府ID完全匹配。 如果資訊不相同或不匹配，則檢查員將終止考試，並要求您除支付額外的考試費用外，還要重新安排約會。
 

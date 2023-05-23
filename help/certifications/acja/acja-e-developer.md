@@ -7,10 +7,10 @@ product: Customer Journey Analytics
 badge: label="考試AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: bf6dae64ce1334611f7a40d14733dba7504fae20
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '728'
-ht-degree: 16%
+source-wordcount: '796'
+ht-degree: 14%
 
 ---
 
@@ -139,6 +139,10 @@ Adobe使用兩家供應商來管理受監督的考試，即PSI和Examity。
 * **[!DNL Examity]** 提供遠程線上選項
 
 要計畫、重新安排或取消您的考試，只需按一下選擇的供應商，然後按照螢幕上提供的說明進行操作。 就這麼簡單！
+
+Adobe憑據管理系統中的配置檔案名稱必須與政府ID完全匹配。 如果資訊不相同或不匹配，則檢查員將終止考試，並要求您除支付額外的考試費用外，還要重新安排約會。
+
+如果在預定的考試約會前48小時之前開始，則可能取消和重新安排。 候選人必須自行修改此約會。
 
 ### 考試編號：AD0-E604
 

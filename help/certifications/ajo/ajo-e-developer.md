@@ -6,10 +6,10 @@ product: Journey Optimizer
 role: Developer
 badge: label="考試AD0-E603" type="positive"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '926'
-ht-degree: 12%
+source-wordcount: '994'
+ht-degree: 11%
 
 ---
 
@@ -196,6 +196,10 @@ Adobe使用兩家供應商來管理受監督的考試，即PSI和Examity。
 * **[!DNL Examity]** 提供遠程線上選項
 
 要計畫、重新安排或取消您的考試，只需按一下選擇的供應商，然後按照螢幕上提供的說明進行操作。 就這麼簡單！
+
+Adobe憑據管理系統中的配置檔案名稱必須與政府ID完全匹配。 如果資訊不相同或不匹配，則檢查員將終止考試，並要求您除支付額外的考試費用外，還要重新安排約會。
+
+如果在預定的考試約會前48小時之前開始，則可能取消和重新安排。 候選人必須自行修改此約會。
 
 ### 考試編號：AD0-E603
 
