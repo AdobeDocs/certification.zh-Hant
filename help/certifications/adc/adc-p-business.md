@@ -8,9 +8,9 @@ badge: label="考試AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: ffe9c479418f5d7e3d900a17b2d7740474fabfcf
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '889'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ ht-degree: 0%
 您應該：
 
 * 在Adobe Document Cloud至少有0-12個月的經驗
+* 能夠確定和傳達業務需求
+* 能夠執行有關Adobe Document Cloud解決方案的產品支援建議。
 
 >[!NOTE]
 >
