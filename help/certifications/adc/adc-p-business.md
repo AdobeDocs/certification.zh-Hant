@@ -8,9 +8,9 @@ badge: label="考試AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: f17e87b65196b339c82026d3b65b57801b03355e
+source-git-commit: 06daf394510ac4b9c4d0fb0bc3de0676f1a76216
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '895'
 ht-degree: 0%
 
 ---
@@ -79,8 +79,6 @@ ht-degree: 0%
 在參加考試之前，您不必完成培訓，而僅憑培訓無法為您提供通過考試所需的知識和技能。 培訓與成功的在職體驗相結合對於為您提供通過考試所需的儲存庫至關重要。
 
 以下是一些建議的資源，可幫助您進行準備：
-
-**第1節：教育**
 
 **第1節：用例發現**
 
