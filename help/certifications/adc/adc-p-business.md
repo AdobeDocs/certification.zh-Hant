@@ -8,14 +8,14 @@ badge: label="考試AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 06daf394510ac4b9c4d0fb0bc3de0676f1a76216
+source-git-commit: 8019f2ab918628ff90655faa9b7a673fe1ce0811
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '894'
 ht-degree: 0%
 
 ---
 
-# AdobeDoc雲業務從業人員認證之旅
+# Adobe Document Cloud商業從業人員認證之旅
 
 瞭解如何成為認證的Adobe業務從業者專業人員。
 
@@ -40,7 +40,6 @@ ht-degree: 0%
 * 解決方案顧問
 * 業務分析師
 * 銷售
-* Developer
 
 **考試詳細資訊：**
 
@@ -59,7 +58,7 @@ ht-degree: 0%
 * 詢問確認問題以確定Document Cloud機會
 * 定義高級業務使用案例
 
-第二節：業務流程評估(34)
+第二節：業務流程評估(34%)
 
 * 確定流程改進和解決方案適合的關鍵領域
 * 使業務目標與Document Cloud功能相協調
