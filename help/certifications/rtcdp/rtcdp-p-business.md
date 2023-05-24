@@ -1,10 +1,10 @@
 ---
 title: 專業認證
-description: 瞭解如何獲得認證 [!DNL Experience Platform] 專業 [!DNL Real-Time Customer Data Platform]
+description: 瞭解如何成為認證 [!DNL Experience Platform] 專業領域 [!DNL Real-Time Customer Data Platform]
 solution: Real-time Customer Data Platform
 role: User
 recommendations: disable, exclude
-badge: label="考試AD0-E602" type="positive"
+badge: label="Exam AD0-E602" type="positive"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
 source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
@@ -14,169 +14,169 @@ ht-degree: 3%
 
 ---
 
-# 認證Adobe [!DNL Real-Time CDP] 業務從業人員
+# Adobe的認證歷程 [!DNL Real-Time CDP] 商務從業者專業人士
 
 瞭解如何成為認證Adobe [!DNL Experience Platform] 專業。
 
 ## 最低體驗
 
-您應該：
+您應該具備：
 
-* 使用一個或多個Real-Time CDP環境的體驗
-* 熟悉數字營銷技術堆棧和各種平台整合
-* 對資料流（ID類型、ID同步、受眾、段、資料模型）的理解
-* 使用CDP建立和激活觀眾6-12個月的經驗
+* 使用一或多個Real-Time CDP環境的體驗
+* 熟悉數位行銷技術棧疊和各種平台整合
+* 瞭解資料流程（ID型別、ID同步、對象、區段、資料模型）
+* 使用CDP建立和啟用受眾的6至12個月經驗
 
-體驗包括：
+經驗涵蓋下列工作：
 
-* 在Real-Time CDP建立受眾（段），將這些受眾映射到目的地（激活這些目的地）
-* 理解和應用檔案合併的概念，資料拼接在Real-Time CDP的作用
-* 導航UI
-* 瞭解策略(DULE)，並在適用時應用這些策略
-* 理解標識命名空間和標識圖的概念
-* 瞭解AEP及其服務的高級功能和特性
-* 配置新目標
+* 在Real-Time CDP中建立受眾（區段），將受眾對應至目的地（啟用受眾）
+* 瞭解並套用設定檔合併的概念，資料彙整在Real-Time CDP中的運作方式
+* 導覽UI
+* 瞭解原則(DULE)並在適用時套用原則
+* 瞭解身分名稱空間和身分圖表的概念
+* 瞭解AEP及其服務的高階功能和特色
+* 設定新目的地
 
 >[!NOTE]
 >
->您的認證有效期為2年，從您通過認證之日起。 我們建議盡可能採用較新版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備好]
+>[!TAB 準備就緒]
 
-**目標受眾：**
+**目標對象：**
 
 * 解決方案顧問
-* 資料分析員
-* 營銷經理
-* 市場活動營銷分析師
-* 業務分析師
-* 市場活動經理
+* 資料分析人員
+* 行銷經理
+* 行銷活動行銷分析人員
+* 業務分析人員
+* 行銷活動管理員
 * CDP顧問
-* 轉換/優化顧問
-* 市場營銷產品所有者
-* 營銷分析師
+* 轉換/最佳化顧問
+* 行銷產品所有者
+* 行銷分析人員
 
-**考試詳細資訊：**
+**考試詳細資料：**
 
-* 級別：專業（0-12個月經驗）
-* 通過分數：28/50
+* 等級：專業（0至12個月經驗）
+* 及格分數：28/50
 * 時間：100分鐘
-* 交貨：線上監控（需要攝像頭訪問）或test中心監控
-* 可用語言：英語
-* 成本：125美元（全球）/95美元（印度）
-* 考試ID:AD0-E602
+* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E602
 
-**考試目標和範圍**
+**考試目標與範圍**
 
-第1節：分段和激活(32%)
+區段1：區段和啟動(32%)
 
-* 建立段並激活到目標
-* 配置新目標
-* 應用目標標識所需的概念
-* 標識屬性映射和到目標的段的調度
+* 建立區段並啟用至目的地
+* 設定新目的地
+* 套用目標身分識別所需的概念（在目的地中）
+* 識別屬性對應和將區段排程至目的地
 
-第二節：隱私和資料治理(20%)
+第2節：隱私權與資料控管(20%)
 
-* 演示對DULE策略及其對目標資料可用性的影響的瞭解
-* 確保遵循隱私和資料合規性措施
+* 展示對DULE原則及其對於目的地資料可用性之影響的瞭解
+* 確保遵循隱私權和資料規範措施
 
-第三節：業務分析(30%)
+第3節：業務分析(30%)
 
-* 確定與業務KPI關聯的使用案例
-* 對平台中的客戶段執行資料分析
-* 演示對資料流概念的理解
+* 識別繫結回業務KPI的使用案例
+* 在Platform中對客戶區段執行資料分析
+* 展示對資料流程概念的瞭解
 
-第四節：架構和配置檔案(18%)
+第4節：方案和設定檔(18%)
 
 * 展示對Adobe的理解 [!DNL Experience Platform] 概念
-* 使用配置檔案功能
+* 使用設定檔功能
 
->[!TAB 準備]
+>[!TAB 準備就緒]
 
-在參加考試之前，您不必完成培訓，而僅憑培訓無法為您提供通過考試所需的知識和技能。 培訓與成功的在職體驗相結合對於為您提供通過考試所需的儲存庫至關重要。
+您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些建議的資源，可幫助您進行準備：
+以下是一些協助您準備的建議資源：
 
-**示例問題**
+**範例問題**
 
-示例問題允許您查看在實際考試中遇到的項的類型和格式。 不需要登錄。 示例問題的結果未儲存，不預測實際test結果。
+範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
 
-[查看示例問題](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
 
-**第1節：段和激活**
+**區段1：區段和啟用**
 
-* [分段服務概述](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=en){target="_blank"}
-* [建立順序段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-sequential-segments.html?lang=en){target="_blank"}
-* [評估和訪問段結果](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html?lang=en){target="_blank"}
-* [分段服務UI指南](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/overview.html?lang=en#scheduled-segmentation){target="_blank"}
+* [Segmentation Service概述](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=en){target="_blank"}
+* [建立循序區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-sequential-segments.html?lang=en){target="_blank"}
+* [評估並存取區段結果](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html?lang=en){target="_blank"}
+* [Segmentation Service UI指南](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/overview.html?lang=en#scheduled-segmentation){target="_blank"}
 * [目的地概觀](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en){target="_blank"}
-* [目標類型和類別](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=en){target="_blank"}
-* [激活受眾資料以流式處理配置檔案導出目標](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html?lang=en){target="_blank"}
-* [建立新目標連接](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=en){target="_blank"}
+* [目的地型別和類別](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=en){target="_blank"}
+* [將受眾資料啟用至串流設定檔匯出目的地](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html?lang=en){target="_blank"}
+* [建立新的目的地連線](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=en){target="_blank"}
 
-**第二節：身份和資料治理**
+**第2節：身分和資料控管**
 
-* [Identity命名空間概述](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html?lang=en){target="_blank"}
-* [資料治理概述](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=zh-Hant){target="_blank"}
+* [身分名稱空間總覽](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html?lang=en){target="_blank"}
+* [資料控管概觀](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=zh-Hant){target="_blank"}
 
-**第三節：業務分析**
+**第3節：業務分析**
 
-* [資料接收概述](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en){target="_blank"}
-* [監視Adobe中的資料流 [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html?lang=en){target="_blank"}
+* [資料擷取概觀](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en){target="_blank"}
+* [監視Adobe中的資料流程 [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html?lang=en){target="_blank"}
 * [Privacy Service和Experience Cloud應用程式](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html?lang=en){target="_blank"}
-* [策略實施概述](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html?lang=en){target="_blank"}
+* [原則執行概觀](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html?lang=en){target="_blank"}
 
-**第四節：架構和配置檔案**
+**第4節：方案和設定檔**
 
 * [XDM 系統概觀](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=zh-Hant){target="_blank"}
-* [即時客戶概要資訊概述](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html?lang=en){target="_blank"}
-* [聯合架構UI指南](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html?lang=zh-Hant?lang=tw){target="_blank"}
+* [即時客戶個人檔案總覽](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html?lang=en){target="_blank"}
+* [聯合結構描述UI指南](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html?lang=zh-Hant?lang=tw){target="_blank"}
 
->[!TAB 獲得認證]
+>[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下部分和連結將起作用 **僅**  在 **成功登錄** 到 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"}。
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**現在您已成功登錄，將直接訪問以下連結。**
+**現在您已成功登入，可直接存取下列連結。**
 
-**練習test**
+**參加練習測試**
 
-我們建議在您開始之前先享受免費練習test。 您將可以不受限制地訪問所有可用的練習test，以便進行Adobe的專家級考試。
+建議您開始前先參加免費的練習測試。 您將可以不受限制地存取所有可用的練習測試，以進行Adobe的專家級考試。
 
-我們的實踐test都是從與現場考試相同的藍圖發展出來的。 練習test將幫助您瞭解即時考試所涵蓋的主題。
+我們的練習測試都是從與即時考試相同的藍圖開發的。 練習測試有助於您瞭解即時測試涵蓋的主題。
 
-請記住，通過練習test並不保證您會通過認證考試。
+請記住，通過練習測驗並不保證您會通過認證測驗。
 
-轉到 [Adobe認證考試準備門戶](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 現在去做一個練習test。
+前往 [Adobe認證考試準備入口網站](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 現在進行練習測試。
 
 **參加認證考試**
 
-Adobe使用兩家供應商來管理受監督的考試，即PSI和Examity。
+Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
-* **PSI** 提供test中心和日語考試選項（如果可用）
-* **[!DNL Examity]** 提供遠程線上選項
+* **PSI** 提供測試中心和日文考試選項（如果有的話）
+* **[!DNL Examity]** 提供遠端線上選項
 
-要計畫、重新安排或取消您的考試，只需按一下選擇的供應商，然後按照螢幕上提供的說明進行操作。 就這麼簡單！
+若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
 
-Adobe憑據管理系統中的配置檔案名稱必須與政府ID完全匹配。 如果資訊不相同或不匹配，則檢查員將終止考試，並要求您除支付額外的考試費用外，還要重新安排約會。
+您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
 
-如果在預定的考試約會前48小時之前開始，則可能取消和重新安排。 候選人必須自行修改此約會。
+如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
 
 ### 考試編號：AD0-E602
 
-[!BADGE 示例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E602 newtab=true"}
+[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E602 newtab=true"}
 
-您可以通過憑單或信用卡為認證考試付費。 要購買考試憑單，請轉至： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}。
+您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可以在計畫考試時應用憑單代碼。 如果您有折扣，則在結帳時適用。
+您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
 
 >[!ENDTABS]
 
 **問題**
 
-查看證書 [常見問題](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}。
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}。
+其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

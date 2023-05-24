@@ -4,7 +4,7 @@ description: 瞭解如何成為認證Adobe [!DNL Experience Manager] 專家。
 solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
-badge: label="考試AD0-E136" type="positive"
+badge: label="Exam AD0-E136" type="positive"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
 source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
@@ -14,175 +14,175 @@ ht-degree: 10%
 
 ---
 
-# 認證Adobe [!DNL Experience Manager] as a Cloud Service遷移專家
+# Adobe的認證歷程 [!DNL Experience Manager] as a Cloud Service移轉專家
 
 瞭解如何成為認證Adobe [!DNL Experience Manager] 專家。
 
 ## 最低體驗
 
-您應該：
+您應該具備：
 
-* 瞭解從任何服務（自管、AMS或任何第三方雲）到AEMas a Cloud Service時體系結構和功能的整體變AEM化。
-* 1-3年使用Adobe開發Web應用程式的經驗 [!DNL Experience Manager]
-* 使用AEM Forms、資產和站點的實踐經驗
-* 能夠指導客戶完成遷移過程，為項目的所有階段提供咨詢和參AEM與
+* 瞭解從任何AEM服務（自行管理、AMS或任何第三方雲端）移轉到AEMas a Cloud Service時，架構和功能的整體變更。
+* 使用Adobe開發Web應用程式的1至3年經驗 [!DNL Experience Manager]
+* 使用AEM Forms、資產和網站的實際操作體驗
+* 能夠引導客戶完成移轉程式，提供意見並參與AEM專案的所有階段
 
-此外，您應熟悉以下技術和環境：
+此外，您也應熟悉下列技術和環境：
 
 * 索引轉換工具
-* 工作流轉換工具
-* 調度程式工具
-* 內容分發網路(CDN)
+* 工作流程轉換工具
+* Dispatcher工具
+* 內容傳遞網路(CDN)
 * Best Practices Analyzer
-* 現代AEM化
+* AEM現代化
 * 存放庫瀏覽器
 * 開發人員控制台
-* 用於IMSAdobe的用戶映射工具
-* I/O命令工具
+* IMSAdobe的使用者對應工具
+* I/O cmd工具
 * New Relic
-* 本地雲SDK
-* 開發、階段、產品作者、發佈和預覽服務
-* 使用Docker的本地調度程式設定
-* 跟蹤本地環境中的雲日誌
-* 雲控制台介面
+* 本機Cloud SDK
+* Development、Stage、Prod Author、Publish和Preview服務
+* 使用Docker的本機Dispatcher設定
+* 在本機環境中追蹤雲端記錄
+* Cloud Console介面
 
 >[!NOTE]
 >
->您的認證有效期為2年，從您通過認證之日起。 我們建議盡可能採用較新版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備好]
+>[!TAB 準備就緒]
 
-**目標受眾：**
+**目標對象：**
 
 * 具有Adobe經驗的開發人員 [!DNL Experience Manager]
-* 參與至少一次雲遷移的開發人員
-* Adobe [!DNL Experience Manager] 站點開發人員
-* Adobe [!DNL Experience Manager] 站點架構師
-* Adobe [!DNL Experience Manager] 資產開發商
-* Adobe [!DNL Experience Manager] Forms開發商
-* 開發人員/DevOps/領導/架構師，他們參與了多AEM次部署，使用Adobe至少有2-3年的Web應用程式開發經驗 [!DNL Experience Manager]
+* 至少參與過一次雲端移轉的開發人員
+* Adobe [!DNL Experience Manager] Sites開發人員
+* Adobe [!DNL Experience Manager] 網站架構者
+* Adobe [!DNL Experience Manager] 資產開發人員
+* Adobe [!DNL Experience Manager] Forms開發人員
+* 曾參與多次AEM部署、至少具有2至3年使用Adobe開發Web應用程式經驗的開發人員/DevOps/銷售機會/架構師 [!DNL Experience Manager]
 
-**考試詳細資訊**
+**考試詳細資料**
 
-* 級別：專家（1-3年經驗）
-* 通過分數：31/50
+* 等級：專家（1-3年經驗）
+* 及格分數： 31/50
 * 時間：100分鐘
-* 交貨：線上監控（需要攝像頭訪問）或test中心監控
-* 可用語言：英語
-* 成本：125美元（全球）/95美元（印度）
-* 考試ID:AD0-E136
+* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E136
 
-**考試目標和範圍**
+**考試目標與範圍**
 
 第1節：評估(32%)
 
 * 使用BPA
-* 準備和估計遷移計畫
-* 評估需要移動哪些用戶、組和權限
-* 查看不建議使用的功能
-* 確定工作流要求
-* 解釋內容傳輸要求
-* 解釋與資產相關的實施及其影響
-* 確定與Dispatcher相關的要求
+* 準備並評估移轉計畫
+* 評估哪些使用者、群組和許可權需要移動
+* 檢閱已棄用的功能
+* 決定工作流程需求
+* 說明內容轉移的需求
+* 說明資產相關實作及其影響
+* 識別Dispatcher相關需求
 
-第二節：設計(16%)
+區段2：設計(16%)
 
-* 查看現有元件並使用最新版本進行驗證
-* 為資產微服務準備配置
-* 解釋快取策略
+* 檢閱現有元件並使用最新版本進行驗證
+* 準備資產微服務的設定
+* 說明快取策略
 
-第三節：部署(16%)
+第3節：部署(16%)
 
-* 配置Cloud Manager管道並將其與環境綁定
-* 設定AEMaaCS環境（開發、階段、生產作者、發佈、預覽）
-* 借助AdobeIO CLI管理部署過程
+* 設定Cloud Manager管道並將連結至環境
+* 布建AEMaaCS環境（開發、階段、prod — 作者、發佈、預覽）
+* 藉助AdobeIO CLI管理部署流程
 
-第四節：遷移(20%)
+第4節：移轉(20%)
 
-* 執行test
-* 準備資產遷移策略
-* 準備初始/基本內容遷移策略
-* 執行遷移工具（內容傳輸、現代化、重構）。 報告和改進結果，特別是未通過工具處理的關鍵結果
-* 計畫上線支援
+* 執行測試
+* 準備資產移轉策略
+* 準備初始/基本內容移轉策略
+* 執行移轉工具（內容轉移、現代化、重構）。 報告並調整結果，尤其是工具未處理的關鍵結果
+* 規劃上線後支援
 
-第五節：執行(16%)
+第5節：實作(16%)
 
-* 將多個項目合併到要通過Adobe管道部署的單個項目中
-* 管理用戶/組權限的重點指令碼
-* 設定本地SDK
-* 根據as a Cloud Service上可用的運行模式更新配AEM置
+* 將多個專案合併為單一專案，以透過Adobe管道部署
+* 管理使用者/群組許可權的報告指令碼
+* 設定本機SDK
+* 根據AEMas a Cloud Service上可用的執行模式更新設定
 
->[!TAB 準備]
+>[!TAB 準備就緒]
 
-在參加考試之前，您不必完成培訓，而僅憑培訓無法為您提供通過考試所需的知識和技能。 培訓與成功的在職體驗相結合對於為您提供通過考試所需的儲存庫至關重要。
+您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些建議的資源，可幫助您進行準備：
+以下是一些協助您準備的建議資源：
 
 **第1節：評估**
 
 
 * [[!DNL Experience Manager] as a Cloud Service使用手冊](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=zh-Hant){target="_blank"}
-* [遷移指南到Adobe [!DNL Experience Manager] as a Cloud Service於合作夥伴](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html?lang=en){target="_blank"}
+* [Adobe移轉指南 [!DNL Experience Manager] 適用於合作夥伴的as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html?lang=en){target="_blank"}
 * [ AEM as a Cloud Service 重大變更](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html?lang=zh-Hant){target="_blank"}
 
-**第二節：設計**
+**第2節：設計**
 
-* [Adobe [!DNL Experience Manager] as a Cloud Service文檔](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=zh-Hant){target="_blank"}
+* [Adobe [!DNL Experience Manager] as a Cloud Service檔案](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=zh-Hant){target="_blank"}
 * [簡介](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html){target="_blank"}
 
-**第三節：部署**
+**第3節：部署**
 
 * [程式碼品質測試](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html?lang=zh-Hant){target="_blank"}
 * [新增自訂網域名稱](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/add-custom-domain-name.html?lang=en){target="_blank"}
 * [正在設定 DNS 設定](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/configure-dns-settings.html?lang=en){target="_blank"}
 
-**第四節：遷移**
+**第4節：移轉**
 
 * [在發佈執行個體上執行內容轉移工具](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/running-content-transfer-tool-publish-instance.html?lang=en){target="_blank"}
 * [內容轉移工具的先決條件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html?lang=en){target="_blank"}
 * [以記錄檔為 AEM as a Cloud Service 除錯](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html?lang=en){target="_blank"}
 
-**第五節：實施**
+**第5節：實作**
 
-* [在Adobe雲管理器中使用CI/CD管道](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html?lang=en){target="_blank"}
+* [在Adobe Cloud Manager中使用CI/CD管道](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html?lang=en){target="_blank"}
 * [部署至 AEM as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html?lang=en){target="_blank"}
 
->[!TAB 獲得認證]
+>[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下部分和連結將起作用 **僅**  在 **成功登錄** 到 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"}。
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**現在您已成功登錄，將直接訪問以下連結。**
+**現在您已成功登入，可直接存取下列連結。**
 
 **參加認證考試**
 
-Adobe使用兩家供應商來管理受監督的考試，即PSI和Examity。
+Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
-* **PSI** 提供test中心和日語考試選項（如果可用）
-* **[!DNL Examity]** 提供遠程線上選項
+* **PSI** 提供測試中心和日文考試選項（如果有的話）
+* **[!DNL Examity]** 提供遠端線上選項
 
-要計畫、重新安排或取消您的考試，只需按一下選擇的供應商，然後按照螢幕上提供的說明進行操作。 就這麼簡單！
+若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
 
-Adobe憑據管理系統中的配置檔案名稱必須與政府ID完全匹配。 如果資訊不相同或不匹配，則檢查員將終止考試，並要求您除支付額外的考試費用外，還要重新安排約會。
+您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
 
-如果在預定的考試約會前48小時之前開始，則可能取消和重新安排。 候選人必須自行修改此約會。
+如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
 
 ### 考試編號：AD0-E136
 
-[!BADGE 示例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E136 newtab=true"}
+[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E136 newtab=true"}
 
-您可以通過憑單或信用卡為認證考試付費。 要購買考試憑單，請轉至： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}。
+您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可以在計畫考試時應用憑單代碼。 如果您有折扣，則在結帳時適用。
+您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
 
 >[!ENDTABS]
 
 **問題**
 
-查看證書 [常見問題](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}。
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}。
+其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

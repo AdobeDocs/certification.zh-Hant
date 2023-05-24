@@ -1,6 +1,6 @@
 ---
 title: Audience Manager認證概述
-description: Adobe Audience Manager認證選項概述
+description: Adobe Audience Manager的認證選項概觀
 solution: Audience Manager
 product: Audience Manager
 exl-id: a278740d-7175-4e23-8b46-310dbf6fd97f
@@ -15,14 +15,14 @@ ht-degree: 4%
 
 **專業**
 
-* [商務實踐者](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
+* [商務從業人員](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
 
 **專家**
 
-* [商務實踐者](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
+* [商務從業人員](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
 
-**母版**
+**主版**
 
 * [架構師](/help/certifications/aam/aam-m-architect.md) <!--AD0-E454-->
 
-訪問 [續訂證書](/help/certifications/renew.md) 頁，查看此產品是否有續訂選項。
+造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。

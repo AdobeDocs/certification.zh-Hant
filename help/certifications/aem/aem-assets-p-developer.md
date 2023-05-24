@@ -4,7 +4,7 @@ description: 瞭解如何成為認證Adobe [!DNL Experience Manager] 專業。
 solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
-badge: label="考試AD0-E129" type="positive"
+badge: label="Exam AD0-E129" type="positive"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
 source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
@@ -14,177 +14,177 @@ ht-degree: 4%
 
 ---
 
-# 認證Adobe [!DNL Experience Manager] 資產開發人員專業人員
+# Adobe的認證歷程 [!DNL Experience Manager] Assets開發人員專業版
 
-瞭解如何獲得認證 [!DNL Experience Manager] 專業。
+瞭解如何成為認證 [!DNL Experience Manager] 專業。
 
 ## 最低體驗
 
-您應該很輕鬆地在Adobe托管服務和Adobe中工作 [!DNL Experience Manager as a Cloud Service]，並能夠設定Adobe [!DNL Experience Manager] 環境和基礎架構。
+您應該熟悉使用Adobe Managed Services和Adobe [!DNL Experience Manager as a Cloud Service]，且能設定Adobe [!DNL Experience Manager] 環境和基礎結構。
 
-您應該：
+您應該具備：
 
 * 6個月以上的CMS經驗
-* 6個月以上AEM Assets經驗
+* 6個月以上的AEM Assets體驗
 * 6個月以上的Java開發人員經驗
-* 內部部署和雲體驗
+* 內部部署和雲端體驗
 
-此外，您應具備以下技術和環境方面的經驗：
+此外，您還應具備下列技術和環境的經驗：
 
 * Cloud Manager
-* AdobeIO CLI
+* ADOBEIO CLI
 * Git CLI
-* 雲過渡工具
-* 調度器轉換器
-* 儲存庫現代化器
-* 開發準備和生產
-* 開發沙盒
-* 本地環境
+* 雲端轉換工具
+* Dispatcher轉換工具
+* 存放庫現代化工具
+* 開發測試和生產
+* 開發沙箱
+* 本機環境
 
 >[!NOTE]
 >
->您的認證有效期為2年，從您通過認證之日起。 我們建議盡可能採用較新版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備好]
+>[!TAB 準備就緒]
 
-**目標受眾：**
+**目標對象：**
 
-* 開發AEM人員
+* AEM開發人員
 * DevOps工程師
-* 建築師AEM
-* 雲工程師
-* 站點可靠性工程師
-* 技術經理
+* AEM架構師
+* 雲端工程師
+* 網站可靠性工程師
+* 技術管理員
 * 應用程式操作工程師
 * 系統工程師
 
-**考試詳細資訊：**
+**考試詳細資料：**
 
-* 級別：專業（0-12個月經驗）
-* 通過分數：30/50
+* 等級：專業（0至12個月經驗）
+* 及格分數：30/50
 * 時間：100分鐘
-* 交貨：線上監控（需要攝像頭訪問）
-* 可用語言：英語
-* 成本：125美元（全球）/95美元（印度）
-* 考試ID:AD0-E129
+* 傳遞：線上監護（需要相機存取）
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E129
 
-**準備情況自我評估**
+**整備程度自我評估**
 
-完成 [線上準備調查表](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} 查看您當前的經驗是否與推薦的最低候選人資格相符。
+完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
 
-**考試目標和範圍**
+**考試目標與範圍**
 
-第1節：資產工作流(24%)
+第1節：資產工作流程(24%)
 
-* 解釋自定義OOTB工作流的過程
-* 確定何時建立或自定義資產工作流以實施客戶要求
-* 描述工作流啟動程式的用途以及如何配置它們
-* 區分雲和內部工作流
-* 描述如何使用工作流控制台監視狀態和進度
+* 說明自訂OOTB工作流程的流程
+* 識別何時建立或自訂資產工作流程，以實作客戶需求
+* 說明工作流程啟動器的用途及設定方式
+* 區分雲端和內部部署工作流程
+* 說明如何使用「工作流程」主控台來監控狀態和進度
 
-第二節：資產組織和資產控制台(22%)
+第2節：資產組織和資產主控台(22%)
 
-* 演示如何在集合中建立和組織資產
-* 演示如何使用標籤組織資產
-* 確定如何利用OOTB搜索篩選器和小平面
-* 介紹如何配置和生成資AEM產報告
-* 描述如何管理資產資料夾上的用戶權限
+* 示範如何建立和組織收藏集中的資產
+* 示範如何使用標籤來組織資產
+* 瞭解如何運用OOTB搜尋篩選條件和Facet
+* 說明如何設定和產生AEM Asset報表
+* 說明如何管理資產資料夾的使用者許可權
 
-第三節：資產元資料(24%)
+第3節：資產中繼資料(24%)
 
-* 定義元資料架構
-* 給定方案，確定如何調整適當的元資料架構
-* 給定一個方案，確定如何利用元資料配置檔案來滿足要求
-* 瞭解級聯元資料架構的工作方式
+* 定義中繼資料結構
+* 在特定的情況下，請決定如何調整適當的中繼資料結構
+* 在案例中，決定如何運用中繼資料設定檔來符合需求
+* 瞭解階層式中繼資料結構的運作方式
 
-第四節：資產類型(18%)
+區段4：資產型別(18%)
 
-* 描述可用於資產類型的OOTB功能
-* 解釋內容片段和內容片段模型
-* 演示如何和何時使用內容片段變體
+* 說明可用於資產型別的OOTB功能
+* 說明內容片段和內容片段模型
+* 示範如何使用及何時使用內容片段變數
 
-第五節：資產功能集和功能(12%)
+第5節：資產功能集和功能(12%)
 
-* 描述使用Brand Portal的常見使用案例和好處
-* 描述使用Dynamic Media的常見使用案例和好處
-* 描述使用Creative CloudAEM的選項
+* 說明使用Brand Portal的常見使用案例和優點
+* 說明使用Dynamic Media的常見使用案例和優點
+* 說明使用Creative Cloud運用AEM的選項
 
->[!TAB 準備]
+>[!TAB 準備就緒]
 
-在參加考試之前，您不必完成培訓，而僅憑培訓無法為您提供通過考試所需的知識和技能。 培訓與成功的在職體驗相結合對於為您提供通過考試所需的儲存庫至關重要。
+您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些建議的資源，可幫助您進行準備：
+以下是一些協助您準備的建議資源：
 
-**示例問題**
+**範例問題**
 
-示例問題允許您查看在實際考試中遇到的項的類型和格式。 不需要登錄。 示例問題的結果未儲存，不預測實際test結果。
+範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
 
-[查看示例問題](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
 
-**第1節：資產工作流**
+**第1節：資產工作流程**
 
 * [建立工作流程模型](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html?lang=en#sync-your-workflow-generate-a-runtime-model){target="_blank"}
 * [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=en){target="_blank"}
 
-**第二節：資產組織和資產控制台**
+**第2節：資產組織和資產主控台**
 
-* [AEM Assets視頻和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=en){target="_blank"}
+* [AEM Assets影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=en){target="_blank"}
 * [搜尋 Facet](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html?lang=en#restoring-default-search-facets){target="_blank"}
 * [資產報表](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html?lang=en){target="_blank"}
 
-**第三節：資產元資料**
+**第3節：資產中繼資料**
 
 * [中繼資料結構](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html?lang=en#default-metadata-schema-forms){target="_blank"}
-* [瞭解元資料概念](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html?lang=en){target="_blank"}
-* [中繼資料設定檔](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html?lang=en#:~:text=Add%20a%20metadata%20profile.%20點擊%20或%20按一下%20,%20配置%20it%20屬性%20in%20t%20設定%20頁籤。){target="_blank"}
+* [瞭解中繼資料概念](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html?lang=en){target="_blank"}
+* [中繼資料設定檔](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html?lang=en#:~:text=Add%20a%20metadata%20profile.%20Tap%20or%20click%20the，和%20configure%20its%20properties%20in%20the%20Settings%20tab。){target="_blank"}
 
-**第四節：資產類型**
+**第4節：資產型別**
 
 * [管理影片資產](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html?lang=en#uploading-and-previewing-video-assets){target="_blank"}
 * [內容片段模型](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html?lang=en#creating-a-content-fragment-model){target="_blank"}
 * [變化 - 編寫片段內容](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html?lang=en#managing-variations){target="_blank"}
 
-**第五節：資產功能集和功能**
+**第5節：資產功能集和功能**
 
 * [概述 [!DNL Experience Manager] Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=en){target="_blank"}
 * [支援的檔案格式](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html?lang=en){target="_blank"}
 * [Dynamic Media 影片設定檔](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html?lang=en){target="_blank"}
 
->[!TAB 獲得認證]
+>[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下部分和連結將起作用 **僅**  在 **成功登錄** 到 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"}。
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**現在您已成功登錄，將直接訪問以下連結。**
+**現在您已成功登入，可直接存取下列連結。**
 
 **參加認證考試**
 
-Adobe使用兩家供應商來管理受監督的考試，即PSI和Examity。
+Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
-* **PSI** 提供test中心和日語考試選項（如果可用）
-* **[!DNL Examity]** 提供遠程線上選項
+* **PSI** 提供測試中心和日文考試選項（如果有的話）
+* **[!DNL Examity]** 提供遠端線上選項
 
-要計畫、重新安排或取消您的考試，只需按一下選擇的供應商，然後按照螢幕上提供的說明進行操作。 就這麼簡單！
+若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
 
-Adobe憑據管理系統中的配置檔案名稱必須與政府ID完全匹配。 如果資訊不相同或不匹配，則檢查員將終止考試，並要求您除支付額外的考試費用外，還要重新安排約會。
+您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
 
-如果在預定的考試約會前48小時之前開始，則可能取消和重新安排。 候選人必須自行修改此約會。
+如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
 
 ### 考試編號：AD0-E129
 
-[!BADGE 示例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E129 newtab=true"}
+[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E129 newtab=true"}
 
-您可以通過憑單或信用卡為認證考試付費。 要購買考試憑單，請轉至： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}。
+您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可以在計畫考試時應用憑單代碼。 如果您有折扣，則在結帳時適用。
+您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
 
 >[!ENDTABS]
 
 **問題**
 
-查看證書 [常見問題](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}。
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}。
+其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

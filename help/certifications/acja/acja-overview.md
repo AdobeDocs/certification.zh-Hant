@@ -17,4 +17,4 @@ ht-degree: 28%
 
 * [Developer](/help/certifications/acja/acja-e-developer.md) <!--AD0-E604-->
 
-訪問 [續訂證書](/help/certifications/renew.md) 頁，查看此產品是否有續訂選項。
+造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。

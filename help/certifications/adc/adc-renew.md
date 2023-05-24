@@ -1,6 +1,6 @@
 ---
-title: 認證續訂
-description: 瞭解如何續訂Adobe [!DNL Document Cloud] 在證書過期之前進行驗證。
+title: 認證續約
+description: 瞭解如何更新Adobe [!DNL Document Cloud] 憑證過期前的認證。
 solution: Document Cloud
 product: Document Cloud
 role: User
@@ -14,19 +14,19 @@ ht-degree: 0%
 
 ---
 
-# 續訂Adobe [!DNL Document Cloud] 認證
+# 續約您的Adobe [!DNL Document Cloud] 認證
 
-您的Adobe認證有效期為兩年。 如果您接近兩年，則是時候續訂證書以保持其活動狀態了。
+您的Adobe認證有效期為兩年。 如果您快要達到兩年期限，就應該更新您的認證，以保持其作用中。
 
-首先，在下面的頁籤（專業、專家或主要）中選擇相應的級別。 然後仔細檢查您需要執行什麼操作才能續訂證書。
+首先，在下列標籤上選取適當的層級（「專業」、「專家」或「主要」）。 接著，請仔細檢閱更新認證所需執行的動作。
 
-確保在認證過期之前提供充足的時間完成所有要求。
+在認證過期之前，請務必提供足夠的時間完成所有需求。
 
-請注意，如果您的認證過期，您將必須重新參加認證考試，這是不免費的。
+請務必注意，如果認證過期，您必須重新參加認證考試，這並非免費。
 
 >[!IMPORTANT]
 >
->以下部分和連結將起作用 **僅** 在 **成功登錄** 到 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"}。
+>以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -34,12 +34,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->2025年續聘。
+>2025年專業更新。
 
 >[!ENDTABS]
 
 **問題**
 
-查看證書 [常見問題](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}。
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}。
+其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

@@ -14,13 +14,13 @@ ht-degree: 23%
 
 **專業**
 
-* [開發者(Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
+* [開發人員(Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
 * [Project Manager](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
 * [開發人員（核心）](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
 
 **專家**
 
 * [開發人員（核心）](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
-* [增AEM強連接器](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
+* [AEM增強型聯結器](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
-訪問 [續訂證書](/help/certifications/renew.md) 頁，查看此產品是否有續訂選項。
+造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。

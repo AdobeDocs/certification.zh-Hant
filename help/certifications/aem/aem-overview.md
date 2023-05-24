@@ -14,22 +14,22 @@ ht-degree: 15%
 
 **專業**
 
-* [商務實踐者](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
-* [開發人員（站點）](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
-* [開發商（資產）](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
+* [商務從業人員](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
+* [開發人員（網站）](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
+* [開發人員（資產）](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
 * [後端開發人員(Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
 * [技術基礎](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
 
 **專家**
 
-* [業務實踐者（站點）](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
-* [開發人員（站點）](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
-* [開發操作](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
+* [商務從業人員（網站）](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
+* [開發人員（網站）](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
+* [DevOps](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
 * [開發人員(Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
-* [Cloud Service遷移](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
+* [Cloud Service移轉](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
 
-**母版**
+**主版**
 
-* [架構師（站點）](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
+* [架構者（網站）](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
-訪問 [續訂證書](/help/certifications/renew.md) 頁，查看此產品是否有續訂選項。
+造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。

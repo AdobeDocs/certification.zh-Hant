@@ -18,10 +18,10 @@ ht-degree: 24%
 
 **專家**
 
-* [商務實踐者](/help/certifications/ame/ame-e-business.md) <!--AD0-E559-->
+* [商務從業人員](/help/certifications/ame/ame-e-business.md) <!--AD0-E559-->
 
-**母版**
+**主版**
 
 * [架構師](/help/certifications/ame/ame-m-architect.md) <!--AD0-E556-->
 
-訪問 [續訂證書](/help/certifications/renew.md) 頁，查看此產品是否有續訂選項。
+造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。

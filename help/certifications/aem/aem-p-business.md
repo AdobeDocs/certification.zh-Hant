@@ -1,10 +1,10 @@
 ---
-title: 業務從業者專業認證
-description: 學習如何成為Adobe認證的業務從業人員 [!DNL Experience Manager]。
+title: 商務從業人員專業認證
+description: 瞭解如何成為Adobe的認證商務從業者專業人員 [!DNL Experience Manager].
 solution: Experience Manager
 product: Experience Manager
 role: User
-badge: label="考試AD0-E126" type="positive"
+badge: label="Exam AD0-E126" type="positive"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
 source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
@@ -14,163 +14,163 @@ ht-degree: 9%
 
 ---
 
-# 認證Adobe [!DNL Experience Manager] 業務從業人員
+# Adobe的認證歷程 [!DNL Experience Manager] 商務從業者專業人士
 
-瞭解如何成為認證的Adobe業務從業者專業人員。
+瞭解如何成為認證的Adobe商務從業人員專業人員。
 
 ## 最低體驗
 
-您應該：
+您應該具備：
 
-* 使用和配置Adobe雲管理器至少需要0到12個月的經驗
-* 至少需要0-12個月的特性和功AEM能經驗，讓開發人員找到業務解決方案
-* 配置、實施和管理連續整合/連續部署任務至少需要0到12個月的經驗
+* 使用及設定Adobe Cloud Manager的經驗至少0至12個月
+* 在AEM特色與功能方面累積至少0至12個月的經驗，協助開發人員尋找商業解決方案
+* 在設定、實作和管理持續整合/持續部署任務方面至少可享受0至12個月的經驗
 
-如果您願意在Adobe托管服務和Adobe中工作 [!DNL Experience Manager] as a Cloud Service，並且能夠設定Adobe [!DNL Experience Manager] 環境和基礎架構。
+如果您習慣於使用Adobe Managed Services和Adobe [!DNL Experience Manager] as a Cloud Service，且能設定Adobe [!DNL Experience Manager] 環境和基礎結構。
 
-此外，您應：
+此外，您應該具備：
 
-* 使用產品AEM管理內容以推動數字型驗的能力
-* 瞭解存在哪些模組
-* 更深入地瞭解模組(如站點、資產和Forms)
+* 使用AEM產品管理內容以推動數位體驗的能力
+* 瞭解目前顯示的模組
+* 深入分析Sites、Assets和Forms等模組
 
 >[!NOTE]
 >
->您的認證有效期為2年，從您通過認證之日起。 我們建議盡可能採用較新版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備好]
+>[!TAB 準備就緒]
 
-**目標受眾：**
+**目標對象：**
 
 * 解決方案顧問
 * 消費者體驗
-* 為正在設計和實施的解決方案而擁有產品的客戶、業務分析員、解決方案設計師
+* 正在設計與實作之解決方案的產品所有者、業務分析師、解決方案架構師
 
-**考試詳細資訊：**
+**考試詳細資料：**
 
-* 級別：專業（0-12個月經驗）
-* 通過分數：33/50
+* 等級：專業（0至12個月經驗）
+* 及格分數： 33/50
 * 時間：110分鐘
-* 交貨：線上監控（需要攝像頭訪問）
-* 可用語言：英語
-* 成本：125美元（全球）/95美元（印度）
-* 考試ID:AD0-E126
+* 傳遞：線上監護（需要相機存取）
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E126
 
-**考試目標和範圍**
+**考試目標與範圍**
 
 第1節：教育(22%)
 
-* 確定AEM功能和功能
-* 描述AEM滿足業務需求的功能
-* 描述為內容編輯員進行培訓所必需的程式概念
+* 識別AEM特性與功能
+* 說明符合業務需求的AEM功能
+* 說明為內容編輯進行培訓所需的程式概念
 
-第二節：體系結構(22%)
+第2節：架構(22%)
 
-* 使用預備或Adobe托管（雲）環境確定適合滿足業務需求的資訊體系結構
-* 描述與AEM第三方服務的連接方式
-* 確定定義角色和權限的位置
-* 給定一個方案，定義可用的快取方法
+* 使用內部部署或Adobe託管（雲端）環境，識別適合滿足業務需求的資訊架構
+* 說明AEM如何與協力廠商服務連線
+* 識別定義角色和許可權的位置
+* 在特定的情況下，定義可用的快取方法
 
-第三節：業務分析(43%)
+第3節：業務分析(43%)
 
-* 給定一個方案，確定解決客戶AEM業務問題的標準模組
-* 確定模組的內容管AEM理概念
-* 確定典型的項目利益相關方
-* 確定參與團隊之間切合實際的協作方案
-* 在假設情況下，描述在預算和/或範圍內保持不變的情況下實現業務目標的正確方法
-* 確定將業務目標與開發團隊聯繫起來的方法
+* 在案例中，識別可解決客戶業務問題的AEM標準模組
+* 識別AEM模組的內容管理概念
+* 識別典型的專案關係人
+* 識別相關團隊之間的實際共同作業案例
+* 在案例中，說明在預算和/或範圍內達成業務目標的正確方法
+* 找出將業務目標與開發團隊連結起來的方式
 
-第四節：設定和實施(13%)
+第4節：設定和實作(13%)
 
-* 確定使用AEM內容元件的最佳做法
-* 給定方案，確定功能的正確實施
+* 識別使用內容元件的最佳AEM實務
+* 在情景中，識別功能的正確實作
 
->[!TAB 準備]
+>[!TAB 準備就緒]
 
-在參加考試之前，您不必完成培訓，而僅憑培訓無法為您提供通過考試所需的知識和技能。 培訓與成功的在職體驗相結合對於為您提供通過考試所需的儲存庫至關重要。
+您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些建議的資源，可幫助您進行準備：
+以下是一些協助您準備的建議資源：
 
-**示例問題**
+**範例問題**
 
-示例問題允許您查看在實際考試中遇到的項的類型和格式。 不需要登錄。 示例問題的結果未儲存，不預測實際test結果。
+範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
 
-[查看示例問題](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
 
 **第1節：教育**
 
-* [創作指南概述](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
-* [基本配置概念](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring.html?lang=en){target="_blank"}
+* [製作指南概觀](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
+* [基本設定概念](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring.html?lang=en){target="_blank"}
 * [升級至 AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/upgrading/upgrade.html?lang=en){target="_blank"}
-* [瞭解AEM6.5功能](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"}
+* [瞭解AEM 6.5功能](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"}
 * [Adobe [!DNL Experience Manager] as a Cloud Service — 術語](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/terminology.html?lang=en){target="_blank"}
-* [[!DNL Experience Manager] as a Cloud Service文檔](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=zh-Hant){target="_blank"}
+* [[!DNL Experience Manager] as a Cloud Service檔案](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=zh-Hant){target="_blank"}
 * [使用Adobe資產連結管理資產](https://helpx.adobe.com/tw/enterprise/using/manage-assets-using-adobe-asset-link.html){target="_blank"}
 
-**第二節：建築**
+**第2節：架構**
 
 * [AEM 6.4 管理使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
 * [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=en){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] 文件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=zh-Hant){target="_blank"}
 * [Dispatcher 總覽](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
 
-**第三節：業務分析**
+**第3節：業務分析**
 
 * [AEM 6.4 Managing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/managing/home.html?lang=en){target="_blank"}
 * [AEM 6.5 管理使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
 * [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=en){target="_blank"}
 * [AEM 6.5 Authoring 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Manager] 6.5社區指南](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Manager] 6.5 Communities指南](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html?lang=en){target="_blank"}
 * [AEM 6.5 Developing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
 * [Adobe [!DNL Experience Manager] 6.5 [!DNL Forms] 指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
 * [AEM 6.5 Managing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/managing/home.html?lang=en){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] 文件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=zh-Hant){target="_blank"}
-* [[!DNL AEM Screens] 和最佳做法指南](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html?lang=en){target="_blank"}
+* [[!DNL AEM Screens] 和最佳實務指南](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html?lang=en){target="_blank"}
 
-**第四節：設定和實施**
+**第4節：設定與實作**
 
 * [AEM 6.4 Authoring 使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/home.html?lang=en){target="_blank"}
 * [AEM 6.4 Developing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
 * [AEM 6.5 管理使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
-* [開AEM發 — 指南和最佳做法](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=en){target="_blank"}
+* [AEM開發 — 指導方針與最佳作法](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=en){target="_blank"}
 * [與Adobe整合 [!DNL Target]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html?lang=en){target="_blank"}
-* [AEM [!DNL Sites] 視頻和教程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
+* [AEM [!DNL Sites] 影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
 
->[!TAB 獲得認證]
+>[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下部分和連結將起作用 **僅**  在 **成功登錄** 到 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"}。
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**現在您已成功登錄，將直接訪問以下連結。**
+**現在您已成功登入，可直接存取下列連結。**
 
 **參加認證考試**
 
-Adobe使用兩家供應商來管理受監督的考試，即PSI和Examity。
+Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
-* **PSI** 提供test中心和日語考試選項（如果可用）
-* **[!DNL Examity]** 提供遠程線上選項
+* **PSI** 提供測試中心和日文考試選項（如果有的話）
+* **[!DNL Examity]** 提供遠端線上選項
 
-要計畫、重新安排或取消您的考試，只需按一下選擇的供應商，然後按照螢幕上提供的說明進行操作。 就這麼簡單！
+若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
 
-Adobe憑據管理系統中的配置檔案名稱必須與政府ID完全匹配。 如果資訊不相同或不匹配，則檢查員將終止考試，並要求您除支付額外的考試費用外，還要重新安排約會。
+您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
 
-如果在預定的考試約會前48小時之前開始，則可能取消和重新安排。 候選人必須自行修改此約會。
+如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
 
 ### 考試編號：AD0-E126
 
-[!BADGE 示例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E126 newtab=true"}
+[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E126 newtab=true"}
 
-您可以通過憑單或信用卡為認證考試付費。 要購買考試憑單，請轉至： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}。
+您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可以在計畫考試時應用憑單代碼。 如果您有折扣，則在結帳時適用。
+您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
 
 >[!ENDTABS]
 
 **問題**
 
-查看證書 [常見問題](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}。
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}。
+其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

@@ -1,10 +1,10 @@
 ---
 title: 開發人員專業認證
-description: 瞭解如何獲得認證 [!DNL Adobe Analytics] 開發人員專業版。
+description: 瞭解如何成為認證的 [!DNL Adobe Analytics] 開發人員專業版。
 solution: Analytics
 product: Analytics
 role: Developer
-badge: label="考試AD0-E213" type="positive"
+badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
 source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
@@ -14,110 +14,110 @@ ht-degree: 14%
 
 ---
 
-# 認證之旅 [!DNL Adobe Analytics] 開發人員專業人員
+# 的認證歷程 [!DNL Adobe Analytics] 開發人員專業版
 
-瞭解如何獲得認證 [!DNL Analytics] 開發人員專業版。
+瞭解如何成為認證 [!DNL Analytics] 開發人員專業版。
 
 ## 最低體驗
 
-您應該：
+您應該具備：
 
-* 6-12個月的工作經驗 [!DNL Adobe Analytics] 實現（Web和移動應用）
-* 作為支援分析實施團隊的參與者，在IT和業務之間架起橋梁，瞭解業務要求如何轉化為技術解決方案(SDR)，並基於分析師提供的要求
-* 瞭解需要哪種類型的變數，在何處以及如何收集資料，設計資料模型（資料層），配置和維護標籤管理解決方案
+* 6至12個月的使用經驗 [!DNL Adobe Analytics] 實作（網頁和行動應用程式）
+* 在支援Analytics實作團隊在IT與業務之間架起橋樑，瞭解業務需求如何轉換為技術解決方案(SDR)的經驗，以及根據分析師提供的需求
+* 瞭解所需的變數型別、收集資料的位置和方式、設計資料模型（資料層）、設定和維護標籤管理解決方案
 
-體驗以下任務：
+體驗下列工作：
 
-* 解釋解決方案設計文檔(SDR)並瞭解所有 [!DNL Adobe Analytics] 收集的變數
-* 瞭解Adobe(Experience Platform)產品發佈並與其協作
-* 瞭解基線的配置 [!DNL Adobe Analytics] 維和事件頁名稱、連結名稱、Activity Map等，但將與專家開發人員協作以實現更多客戶實施 — 變數映射仍由專家級開發人員擁有
-* 按照AA專家提供的設計在啟動中建立和配置規則
-* 通過利用Web控制台調試程式或移動應用系統（如查爾斯日誌）測試和驗證在變數和事件觸發中捕獲的資料
-* 瞭解資料層是什麼並知道如何讀取JavaScript對象
-* 共用報告、段和請求訪問的過程，但不是如何管理用戶組、治理協定以及管理SDR。
-* 提供指導和配置移動/SDK解決方案
-* 瞭解視頻跟蹤（基於事件）的一般框架（給定知識庫文檔）
-* 從Analysis Workspace執行基本報告，並瞭解 [!DNL Adobe Analytics] Data Warehouse
-* Adobe Experience Platform Launch的基本經驗(Adobe發射)
+* 解讀解決方案設計檔案(SDR)並瞭解所有檔案的目的 [!DNL Adobe Analytics] 變數已收集
+* 瞭解並使用Adobe (Experience Platform) Launch
+* 瞭解基準線的設定 [!DNL Adobe Analytics] 維度和事件頁面名稱、連結名稱、Activity Map等，但將與專家開發人員合作，進行更多客戶實施 — 變數對應仍由專家級開發人員擁有
+* 遵循AA專家提供的設計，在Launch中建立和設定規則
+* 測試和驗證在變數和事件引發中擷取的資料，方法是利用Web主控台偵錯工具或Charles記錄檔之類的行動應用程式系統
+* 瞭解什麼是資料層，並知道如何讀取JavaScript物件
+* 共用報告、區段和請求存取權的程式，但不知道如何管理使用者群組、治理通訊協定以及管理SDR
+* 提供指引並設定行動/SDK解決方案
+* 瞭解視訊追蹤（事件型）背後的一般框架（提供知識庫檔案）
+* 從Analysis Workspace執行基本報告，並瞭解可用的資料輸出 [!DNL Adobe Analytics] Data Warehouse
+* Adobe Experience Platform Launch基本體驗(Adobe啟動)
 
 >[!NOTE]
 >
->您的認證有效期為2年，從您通過認證之日起。 我們建議盡可能採用較新版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
->[!TAB 準備好]
+>[!TAB 準備就緒]
 
-**目標受眾：**
+**目標對象：**
 
-* 實施專家/工程師
+* 實作專家/工程師
 * 開發人員
 * 架構師
 
-**考試詳細資訊：**
+**考試詳細資料：**
 
-* 級別：專業（0-12個月經驗）
-* 通過分數：31/50
+* 等級：專業（0至12個月經驗）
+* 及格分數： 31/50
 * 時間：100分鐘
-* 交貨：線上監控（需要攝像頭訪問）
-* 可用語言：英語
-* 成本：125美元（全球）和950美元（印度）
-* 考試ID:AD0-E213
+* 傳遞：線上監護（需要相機存取）
+* 可用語言：英文
+* 費用：125美元（全球）和950美元（印度）
+* 考試ID：AD0-E213
 
-**考試目標和範圍**
+**考試目標與範圍**
 
-第1節：Adobe Experience Cloud生態系統分析(14%)
+第1節：Adobe Experience Cloud生態系統中的Analytics (14%)
 
-* 確定Adobe Experience CloudID的特性和功能
-* 確定Adobe啟動的用途
-* 確定如何啟用/支援 [!DNL Adobe Analytics] Adobe Experience Cloud生態系統中的標籤
+* 識別Adobe Experience Cloud ID的特性和功能
+* 識別Adobe啟動的使用者
+* 瞭解如何啟用/支援 [!DNL Adobe Analytics] Adobe Experience Cloud生態系統中的標籤
 
-第二節：基於解決方案設計參考的分析策略和設計(12%)
+第2節：根據解決方案設計參考資料的分析策略和設計(12%)
 
-* 給定「解決方案設計參考」，確定需要填充哪些資料對象
-* 給定技術規格文檔的一部分，確定如何實施資料捕獲
+* 提供解決方案設計參考，確定必須填入哪些資料物件
+* 取得技術規格檔案的一部分，請確定如何實作資料擷取
 
-第三節：分析實施和配置(30%)
+第3節：Analytics實施與設定(30%)
 
-* 確定要部署的步驟 [!DNL Adobe Analytics] 代碼
-* 確定用於分析跟蹤的最小部署代碼的功能
-* 確定在中配置各種元件的步驟 [!DNL Adobe Analytics] UI
-* 確定 [!DNL Adobe Analytics] 報表套件和變數設定
-* 標識資料層和資料層值的特性
-* 確定用於跟蹤功能（如連結跟蹤和電子商務跟蹤）的App Measurement函式
+* 識別要部署的步驟 [!DNL Adobe Analytics] 程式碼
+* 識別Analytics追蹤所需的最低部署程式碼函式
+* 識別在中設定各種元件的步驟 [!DNL Adobe Analytics] UI
+* 識別的功能 [!DNL Adobe Analytics] 報告套裝和變數設定
+* 識別資料層和資料層值的特性
+* 識別用於追蹤功能（例如連結追蹤和電子商務追蹤）的應用程式測量功能
 
-第四節：標籤管理系統(18%)
+第4節：標籤管理系統(18%)
 
-* 使用標籤審核確定是否滿足要求
-* 確定使用「Adobe啟動」配置網站標籤的步驟
-* 給定一個方案，確定如何啟用、修改和排除Adobe啟動中的擴展
-* 確定如何建立規則和資料元素
+* 使用標籤稽核來識別是否符合需求
+* 確定使用Adobe啟動設定網站標籤的步驟
+* 在特定情況下，請識別如何啟用、修改和疑難排解Adobe Launch中的擴充功能
+* 識別如何建立規則和資料元素
 
-第五節：移動服務和API(8%)
+第5節：Mobile Services與API (8%)
 
-* 確定 [!DNL Adobe Analytics] API（資料饋送、倉庫、資料源、報告）
-* 確定處理規則和移動服務的特徵
+* 識別的功能 [!DNL Adobe Analytics] API （資料摘要、倉儲、資料來源、報表）
+* 識別處理規則和行動服務的特性
 
-第6節：測試、驗證和故障排除(18%)
+第6節：測試、驗證和疑難排解(18%)
 
-* 確定常見JavaScript錯誤的含義
-* 確定共同的含義 [!DNL Adobe Analytics] 變數錯誤
-* 給定一個方案，確定應遵循的測試和調試驗證最佳做法
-* 確定如何跟蹤 [!DNL Adobe Analytics] 伺服器在其生命週期中調用（即從信標請求到顯示在報告中）
+* 識別常見JavaScript錯誤的含義
+* 識別一般性的意義 [!DNL Adobe Analytics] 變數錯誤
+* 在某種情況下，請確定應遵循的測試和偵錯驗證最佳實務
+* 識別如何追蹤 [!DNL Adobe Analytics] 伺服器呼叫在其生命週期中（即從信標請求到顯示在報表中）
 
->[!TAB 準備]
+>[!TAB 準備就緒]
 
-在參加考試之前，您不必完成培訓，而僅憑培訓無法為您提供通過考試所需的知識和技能。 培訓與成功的在職體驗相結合對於為您提供通過考試所需的儲存庫至關重要。
+您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些建議的資源，可幫助您進行準備：
+以下是一些協助您準備的建議資源：
 
-**示例問題**
+**範例問題**
 
-示例問題允許您查看在實際考試中遇到的項的類型和格式。 不需要登錄。 示例問題的結果未儲存，不預測實際test結果。
+範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
 
-[查看示例問題](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
 
-**第1節：Adobe Experience Cloud生態系統分析**
+**第1節：Adobe Experience Cloud生態系統中的Analytics**
 
 * [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hant){target="_blank"}
 * [常見問題集](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html?lang=en){target="_blank"}
@@ -126,76 +126,76 @@ ht-degree: 14%
 * [標記總覽](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=zh-Hant){target="_blank"}
 * [實作 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
 
-**第二節：基於解決方案設計參考的分析策略和設計**
+**第2節：根據解決方案設計參考資料的分析策略和設計**
 
 * [Analytics 教學課程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
 * [實作 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
 * [Analytics 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hant){target="_blank"}
 
-**第三節：分析實施和配置**
+**第3節：Analytics實施與設定**
 
 * [實作 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
 * [標記總覽](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=zh-Hant){target="_blank"}
-* [分析工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=zh-Hant){target="_blank"}
+* [Analytics工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=zh-Hant){target="_blank"}
 * [Analytics 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hant){target="_blank"}
-* [開發人員即時：Adobe客戶端資料層：跟蹤訪問者資料](https://experienceleague.adobe.com/docs/adobe-developers-live-events/assets/adobe-client-data-layer.pdf?lang=en){target="_blank"}
-* [快速提示 — 將資料傳入啟動規則](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
+* [開發人員直播：Adobe使用者端資料層：追蹤訪客資料](https://experienceleague.adobe.com/docs/adobe-developers-live-events/assets/adobe-client-data-layer.pdf?lang=en){target="_blank"}
+* [快速秘訣 — 將資料傳入Launch規則](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
 
-**第四節：標籤管理系統**
+**第4節：標籤管理系統**
 
 * [標記總覽](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=zh-Hant){target="_blank"}
 * [標記管理](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
 * [概述](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"}
 * [Analytics 教學課程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
 
-**第五節：移動服務和API**
+**第5節：行動服務與API**
 
-* [[!DNL Adobe Analytics]:電子郵件營銷(ESP)整合案例分析](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
+* [[!DNL Adobe Analytics]：電子郵件行銷(ESP)整合個案研究](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
 * [[!DNL Adobe Analytics] API](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
 * [歡迎使用企業和團隊管理指南](https://helpx.adobe.com/tw/enterprise/admin-guide.html){target="_blank"}
-* [分析API入門](https://developer.adobe.com/analytics-apis/docs/2.0/guides/){target="_blank"}
+* [Analytics API快速入門](https://developer.adobe.com/analytics-apis/docs/2.0/guides/){target="_blank"}
 * [Analytics 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hant){target="_blank"}
 
-**第6節：測試、驗證和故障排除**
+**第6節：測試、驗證和疑難排解**
 
-* [JavaScript錯誤引用](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors){target="_blank"}
+* [JavaScript錯誤參考](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors){target="_blank"}
 * [Analytics 技術註解](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"}
 * [實作 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
 
->[!TAB 獲得認證]
+>[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下部分和連結將起作用 **僅**  在 **成功登錄** 到 [Adobe憑據管理系統](http://www.certmetrics.com/adobe){target="_blank"}。
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**現在您已成功登錄，將直接訪問以下連結。**
+**現在您已成功登入，可直接存取下列連結。**
 
 **參加認證考試**
 
-Adobe使用兩家供應商來管理受監督的考試，即PSI和Examity。
+Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
-* **PSI** 提供test中心和日語考試選項（如果可用）
-* **[!DNL Examity]** 提供遠程線上選項
+* **PSI** 提供測試中心和日文考試選項（如果有的話）
+* **[!DNL Examity]** 提供遠端線上選項
 
-要計畫、重新安排或取消您的考試，只需按一下選擇的供應商，然後按照螢幕上提供的說明進行操作。 就這麼簡單！
+若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
 
-Adobe憑據管理系統中的配置檔案名稱必須與政府ID完全匹配。 如果資訊不相同或不匹配，則檢查員將終止考試，並要求您除支付額外的考試費用外，還要重新安排約會。
+您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
 
-如果在預定的考試約會前48小時之前開始，則可能取消和重新安排。 候選人必須自行修改此約會。
+如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
 
 ### 考試編號：AD0-E213
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E213 newtab=true"}[!BADGE 示例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E213 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E213 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E213 newtab=true"}
 
-您可以通過憑單或信用卡為認證考試付費。 要購買考試憑單，請轉至： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}。
+您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-您可以在計畫考試時應用憑單代碼。 如果您有折扣，則在結帳時適用。
+您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
 
 >[!ENDTABS]
 
 **問題**
 
-查看證書 [常見問題](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}。
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}。
+其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

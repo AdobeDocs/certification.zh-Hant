@@ -1,5 +1,5 @@
 ---
-title: 廣告認證概述
+title: Advertising認證概述
 description: Adobe Advertising 認證選項概觀
 solution: Advertising
 product: Advertising Cloud
@@ -11,11 +11,11 @@ ht-degree: 18%
 
 ---
 
-# 廣告認證概述
+# Advertising認證概述
 
 **專業**
 
-* [業務從業者（搜索）](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
-* [業務從業者(DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
+* [商務從業人員（搜尋）](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
+* [商務從業人員(DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
-訪問 [續訂證書](/help/certifications/renew.md) 頁，查看此產品是否有續訂選項。
+造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。

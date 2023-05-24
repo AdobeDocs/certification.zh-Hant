@@ -18,6 +18,6 @@ ht-degree: 28%
 
 **專家**
 
-* [技術操作員](/help/certifications/rtcdp/rtcdp-e-technical.md) <!--AD0-E600 and E601-->
+* [技術從業人員](/help/certifications/rtcdp/rtcdp-e-technical.md) <!--AD0-E600 and E601-->
 
-訪問 [續訂證書](/help/certifications/renew.md) 頁，查看此產品是否有續訂選項。
+造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。

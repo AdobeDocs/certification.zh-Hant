@@ -15,16 +15,16 @@ ht-degree: 27%
 
 **專業**
 
-* [商務實踐者](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
+* [商務從業人員](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
 * [Developer](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
 
 **專家**
 
-* [商務實踐者](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
+* [商務從業人員](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
 * [Developer](/help/certifications/acc/acc-e-developer.md) <!--AD0-E330-->
 
-**母版**
+**主版**
 
 * [Developer](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
 
-訪問 [續訂證書](/help/certifications/renew.md) 頁，查看此產品是否有續訂選項。
+造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。

@@ -1,5 +1,5 @@
 ---
-title: 目標認證概述
+title: Target認證概述
 description: Adobe Target 認證選項概觀
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
@@ -10,7 +10,7 @@ ht-degree: 23%
 
 ---
 
-# 目標認證概述
+# Target認證概述
 
 **專業**
 
@@ -18,10 +18,10 @@ ht-degree: 23%
 
 **專家**
 
-* [商務實踐者](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
+* [商務從業人員](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
 
-**母版**
+**主版**
 
 * [架構師](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 
-訪問 [續訂證書](/help/certifications/renew.md) 頁，查看此產品是否有續訂選項。
+造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。

@@ -13,69 +13,69 @@ ht-degree: 2%
 
 # 快速入門 {#getting-started}
 
-Adobe的認證旨在驗證使用我們的數字營銷解決方案的專業人員的知識和技能。 使用以下頁籤開始學習認證程式。
+Adobe認證的設計目的，是要驗證使用數位行銷解決方案的專業人員的知識與技能。 使用下列標籤開始瞭解認證計畫。
 
 >[!BEGINTABS]
 
->[!TAB 考試類型]
+>[!TAB 考試型別]
 
-瞭解您在認證過程中遇到的考試類型之間的差異。
+瞭解您認證歷程中會遇到的測驗型別之間的差異。
 
 | 類型 | 說明 |
 | ------- | ------- |
-| 認證考試 | 認證是一種證書，用於識別個人在Adobe應用程式中的技能和能力。 通過認證考試的候選人將成為Adobe認證專家、專家或碩士，以獲得該考試所依據的產品和工作角色。 |
-| 續訂考試 | Adobe認證在兩年後到期。 通過續訂考試，您的認證證書將再延長兩年。 |
-| 課程評估 | 對於某些解決方案，Adobe提供了通過續訂考試以維護您的證書的替代方案。 將提供（通常）5至7門按需課程供審查。 每門課程都有與該課程相關的簡短評估，稱為 _課程評估_。 續簽認證的標準是通過基於課程的任何三項評估或通過兩項評估並提交經簽名的客戶參考表。 |
-| 實踐test | 實踐test是認證考試的完整版本，其內容（考試目標）與認證考試相同。 儘管這些問題與您在認證考試中回答的問題不同，但練習題與認證考試同時編寫。 雖然通過練習test無法保證您將通過認證考試，但它確實提供了您準備參加考試的出色指標 |
-| 示例問題 | 對於一些認證考試，Adobe尚未擁有全長練習test。 對於這些考試，提供一組具有代表性的示例問題。 |
-| 準備情況調查表 | 準備情況調查表是您評估參加認證考試的準備情況的另一種工具。 準備情況調查表包括根據考試目標確認陳述 — 通過對每項陳述回答「是」或「否」，您可以確定您對考試所涵蓋的主要內容領域的準備情況。 |
+| 認證考試 | 認證是辨識個人在Adobe應用程式中的技能與能力的認證。 通過認證測驗的應徵者會成為測驗所依據之產品與工作角色的Adobe認證專家、專家或專家。 |
+| 續約考試 | Adobe認證將在兩年後到期。 參加及通過更新測驗後，您的認證認證資格將再延長兩年。 |
+| 課程評估 | 對於某些解決方案，Adobe提供透過更新考試以維護您的認證憑證的替代方法。 通常會提供5至7個隨選課程給應徵者進行稽核。 每個課程都有與該課程相關的簡短評估，稱為 _課程評估_. 續約認證的標準為通過任何三項以課程為基礎的評量，或通過兩項評量，並提交經簽署的客戶推薦表。 |
+| 練習測試 | 練習測驗是認證測驗的完整版本，其內容與認證測驗相同（測驗目標）。 雖然練習題與您在認證考試中回答的問題不同，但練習題會與認證考試同時撰寫。 雖然通過練習測驗無法保證您能通過認證測驗，但它的確提供了您參加測驗的準備程度的突出指標 |
+| 範例問題 | 對於某些認證測驗，Adobe還沒有完整的練習測驗。 對於這些測驗，會提供一組代表性的範例問題。 |
+| 整備問卷 | 準備程度問卷是另一種工具，可用來評估您參加認證測驗的準備程度。 準備情況調查表包括根據考試目標確認陳述 — 透過對每份陳述回答「是」或「否」，您可以決定您對考試所涵蓋之主要內容領域的準備情況。 |
 
 {style="table-layout:auto"}
 
->[!TAB 認證級別]
+>[!TAB 認證層級]
 
-Adobe [!DNL Experience Cloud] 提供三個不同級別的認證：專業，專家，大師。 這些認證旨在驗證使用Adobe數字營銷解決方案的專業人員的技能和知識。
+Adobe [!DNL Experience Cloud] 提供三種不同等級的認證：專業、專家及優秀。 這些認證的設計目的，是要驗證使用Adobe數位行銷解決方案之專業人員的技能和知識。
 
-這些級別反映了熟練程度和知識的進步，專業證書是入門級證書，專家是中級證書，碩士是最高級證書。
+這些等級反映了熟練程度與知識的提升，專業認證為入門級認證，專家為中級認證，而碩士為最高級認證。
 
 | 徽章 | 說明 |
 | ------- | ------- |
-| ![職業徽章](/help/certifications/assets/professional-badge-Xsmall.png) | **專業認證** 驗證候選人對Adobe的數字營銷解決方案有基本的瞭解。 認證考試涵蓋Adobe的基本概念和功能 [!DNL Experience Cloud]。 |
-| ![專家徽章](/help/certifications/assets/expert-badge-Xsmall.png) | **專家認證** 是那些對Adobe的數字營銷解決方案有更深入瞭解的專業人員。 認證考試涵蓋更複雜的Adobe概念和功能 [!DNL Experience Cloud]包括實施和故障排除。 |
-| ![主徽章](/help/certifications/assets/master-badge-Xsmall.png) | **主認證** 專為對Adobe的數字營銷解決方案有深入瞭解並在多個Adobe領域具有專業技能的專業人員 [!DNL Experience Cloud]。 認證考試涵蓋高級主題和方案，包括複雜的整合、定制和故障排除。 |
+| ![專業徽章](/help/certifications/assets/professional-badge-Xsmall.png) | **專業認證** 驗證候選人是否對Adobe的數位行銷解決方案有基本的瞭解。 檢定測驗涵蓋Adobe的基本概念和功能 [!DNL Experience Cloud]. |
+| ![專家徽章](/help/certifications/assets/expert-badge-Xsmall.png) | **專家認證** 適用於對Adobe的數位行銷解決方案有更深入瞭解的專業人士。 檢定測驗涵蓋Adobe更複雜的概念和功能 [!DNL Experience Cloud]，包括實作和疑難排解。 |
+| ![主徽章](/help/certifications/assets/master-badge-Xsmall.png) | **主要認證** 適用於對Adobe的數位行銷解決方案有深入瞭解，並在多個Adobe領域具備專業知識的人員 [!DNL Experience Cloud]. 檢定測驗涵蓋進階主題和案例，包括複雜的整合、自訂和疑難排解。 |
 
 {style="table-layout:auto"}
 
->[!TAB 作業角色]
+>[!TAB 職位角色]
 
-Adobe認證考試定制為三個不同的作業角色。 閱讀以下資訊，找到適合您職業生涯的認證。
+Adobe認證考試可自訂為三種不同的職務角色。 請閱讀以下資訊，尋找適合您職業生涯的認證。
 
-| 標識 | 說明 |
+| 標誌 | 說明 |
 | ------- | ------- |
-| ![企業從業人員徽章](/help/certifications/assets/business_practitioner_blk_small.png) | **業務從業人員** 負責設計、執行和管理使用Adobe的營銷活動 [!DNL Experience Cloud] 解決方案。 他們應該對Adobe的數字營銷解決方案以及營銷和廣告方面的經驗有基本的瞭解。 業務從業者認證證明，他們能夠有效地使用Adobe的數字營銷解決方案來實現業務目標。 |
-| ![開發人員徽章](/help/certifications/assets/developer_blk_small.png) | **開發人員** 負責實施和整合Adobe [!DNL Experience Cloud] 解決方案進入公司的技術層。 他們應具有軟體開發經驗，並精通Web技術，如HTML、CSS、JavaScript和REST風格的API。 開發人員認證驗證了他們有效實施和定制Adobe的數字營銷解決方案以滿足業務需求的能力。 |
-| ![建築師徽章](/help/certifications/assets/architect_blk_small.png) | **建築師** 負責使用Adobe設計和實施企業級解決方案 [!DNL Experience Cloud] 解決方案。 他們應該對Adobe的數字營銷解決方案有廣泛的瞭解，並在軟體架構、整合和定制方面有豐富的經驗。 Architect認證驗證了他們使用Adobe的數字營銷解決方案設計和實施複雜解決方案的能力。 |
+| ![商務從業人員徽章](/help/certifications/assets/business_practitioner_blk_small.png) | **商務從業人員** 負責使用Adobe設計、執行及管理行銷活動 [!DNL Experience Cloud] 解決方案。 他們應該對Adobe的數位行銷解決方案有基本的瞭解，並在行銷和廣告方面有經驗。 商務從業人員認證可驗證其有效使用Adobe數位行銷解決方案達成業務目標的能力。 |
+| ![開發人員徽章](/help/certifications/assets/developer_blk_small.png) | **開發人員** 負責實作及整合Adobe [!DNL Experience Cloud] 解決方案融入組織的技術棧疊中。 他們應該具有軟體開發的經驗，並且精通Web技術，例如HTML、CSS、JavaScript和RESTful API。 開發人員認證會驗證他們是否有能力有效實作及自訂Adobe的數位行銷解決方案，以符合業務需求。 |
+| ![架構者徽章](/help/certifications/assets/architect_blk_small.png) | **架構師** 負責使用Adobe設計和實作企業級解決方案 [!DNL Experience Cloud] 解決方案。 他們應該對Adobe的數位行銷解決方案有廣泛的瞭解，並在軟體架構、整合和自訂方面有豐富的經驗。 架構師認證驗證他們使用Adobe的數位行銷解決方案設計和實作複雜解決方案的能力。 |
 
 {style="table-layout:auto"}
 
->[!TAB 認證之旅]
+>[!TAB 認證歷程]
 
-《認證旅程指南》是一個全面的工具，旨在為您提供準備認證考試所需的所有資訊。 本導軌分為三大部分：準備，準備，認證。
+認證歷程指南是全方位的工具，可提供您準備認證考試所需的所有資訊。 本指南分為三個主要部分：準備就緒、準備和獲得認證。
 
-| 節 | 說明 |
+| 區段 | 說明 |
 | ------- | ------- |
-| **準備好** | 旨在概括介紹考試，包括有關目標受眾的資訊、考試詳細資訊、準備情況自我評估、考試目標和範圍。 本部分幫助您瞭解考試及參加考試時的期望。 準備情況自我評估特別有幫助，因為它使您能夠確定您當前的知識水準並確定可能需要將學習工作集中到哪些領域。 |
-| **獲取預備** | 您可以在其中找到培訓和資源，幫助您準備考試。 本節包括有關學習材料和培訓課程的資訊和連結。 |
-| **獲得認證** | 提供有關如何註冊參加認證考試的寶貴資訊，包括有關註冊流程和可用付款方法的詳細資訊。 此外，本節還明確概述了考試過程。 請參閱本節以瞭解有用的資源，如指向Adobe認證準備門戶的連結，以獲取提供實踐test的考試，以及註冊認證考試的連結。 |
+| **準備就緒** | 旨在提供考試的概觀，包括目標對象、考試詳細資料、準備程度自我評估、考試目標和範圍的資訊。 本節可協助您瞭解測驗以及您進行測驗時的期望。 準備程度自我評估特別有用，因為它可讓您判斷目前的知識水準，並找出可能需要集中研究努力的領域。 |
+| **準備就緒** | 您可以在這裡找到培訓和資源，幫助您準備考試。 本節包含學習材料和訓練課程的相關資訊和連結。 |
+| **取得認證** | 提供如何註冊認證考試的重要資訊，包括註冊程式的詳細資訊和可用的付款方法。 此外，本節也提供考試程式的清楚概觀。 請參閱本節以取得實用資源，例如Adobe認證準備入口網站的連結（提供練習測驗），以及註冊認證測驗的連結。 |
 
 {style="table-layout:auto"}
 
 >[!ENDTABS]
 
-[!BADGE 獲得認證]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en newtab=true"}
+[!BADGE 取得認證]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en newtab=true"}
 
 **問題**
 
-查看證書 [常見問題](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}。
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-其他問題？ [聯繫我們](mailto:certif@adobe.com){target="_blank"}。
+其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

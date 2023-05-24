@@ -1,5 +1,5 @@
 ---
-title: 分析認證概述
+title: Analytics認證概述
 description: Adobe Analytics 認證選項概觀
 solution: Analytics
 product: Analytics
@@ -11,20 +11,20 @@ ht-degree: 27%
 
 ---
 
-# 分析認證概述
+# Analytics認證概述
 
 **專業**
 
-* [商務實踐者](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
+* [商務從業人員](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
 * [Developer](/help/certifications/aa/aa-p-developer.md) <!--AD0-E213-->
 
 **專家**
 
-* [商務實踐者](/help/certifications/aa/aa-e-business.md) <!--AD0-E208-->
+* [商務從業人員](/help/certifications/aa/aa-e-business.md) <!--AD0-E208-->
 * [Developer](/help/certifications/aa/aa-e-developer.md) <!--AD0-E209-->
 
-**母版**
+**主版**
 
 * [架構師](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
 
-訪問 [續訂證書](/help/certifications/renew.md) 頁，查看此產品是否有續訂選項。
+造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。

@@ -15,7 +15,7 @@ ht-degree: 27%
 
 **專家**
 
-* [商務實踐者](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
+* [商務從業人員](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
 * [Developer](/help/certifications/acs/acs-e-developer.md) <!--AD0-E306-->
 
-訪問 [續訂證書](/help/certifications/renew.md) 頁，查看此產品是否有續訂選項。
+造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。

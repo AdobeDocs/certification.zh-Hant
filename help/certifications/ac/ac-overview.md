@@ -1,5 +1,5 @@
 ---
-title: 商業認證概述
+title: Commerce認證概述
 description: Adobe Commerce 認證選項概觀
 solution: Commerce
 product: Magento
@@ -11,22 +11,22 @@ ht-degree: 30%
 
 ---
 
-# 商業認證概述
+# Commerce認證概述
 
 **專業**
 
-* [商務實踐者](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
+* [商務從業人員](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
 * [Developer](/help/certifications/ac/ac-p-developer.md) <!--AD0-E717-->
 * [Developer](/help/certifications/ac/ac-p-fedeveloper.md) <!--AD0-E719-->
 
 **專家**
 
-* [商務實踐者](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
+* [商務從業人員](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
 * [Developer](/help/certifications/ac/ac-e-developer.md) <!--AD0-E716-->
 * [Developer](/help/certifications/ac/ac-e-fedeveloper.md) <!--AD0-E710-->
 
-**母版**
+**主版**
 
 * [架構師](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
 
-訪問 [續訂證書](/help/certifications/renew.md) 頁，查看此產品是否有續訂選項。
+造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。
