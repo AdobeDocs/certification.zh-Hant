@@ -8,9 +8,9 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 354d65edf298c2b633f6b04a76bcf3ccaa796a1c
+source-git-commit: 79760903d5f61edf3a7a8edb7bf49809a1a56848
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '967'
 ht-degree: 0%
 
 ---
@@ -127,15 +127,13 @@ ht-degree: 0%
 
 **現在您已成功登入，可直接存取下列連結。**
 
-**參加練習測試**
+**參加練習測試 — 即將推出！**
 
 建議您開始前先參加免費的練習測試。 您將可以不受限制地存取所有可用的練習測試，以進行Adobe的專家級考試。
 
-我們的練習測試都是從與即時考試相同的藍圖開發的。 練習測試有助於您瞭解即時測試涵蓋的主題。
+我們的練習測試都是從與即時測驗相同的藍圖開發的。 練習測試有助於您瞭解即時測試涵蓋的主題。
 
 請記住，通過練習測驗並不保證您會通過認證測驗。
-
-前往 [Adobe認證考試準備入口網站](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 現在進行練習測試。
 
 **參加認證考試**
 
