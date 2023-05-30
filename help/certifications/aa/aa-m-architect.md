@@ -7,7 +7,7 @@ role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: a5d9e5afe6f1a0efe67724c8de7ee2a6871b1035
 workflow-type: tm+mt
 source-wordcount: '1031'
 ht-degree: 19%
@@ -67,7 +67,7 @@ ht-degree: 19%
 * 調查建立業務需求的使用者端需求
 * 指定情境，建立測量框架
 
-第2節：解決方案設計(26%)
+第2節：解決方案設計(54%)
 
 * 將業務需求轉換為變數和量度
 * 示範管理報表套裝設定的功能
