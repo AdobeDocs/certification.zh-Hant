@@ -7,10 +7,10 @@ role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: a5d9e5afe6f1a0efe67724c8de7ee2a6871b1035
+source-git-commit: 2aa4e37dd0afe520746892c2739c2a4f53342797
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 19%
+source-wordcount: '940'
+ht-degree: 21%
 
 ---
 
@@ -137,18 +137,7 @@ ht-degree: 19%
 >
 >以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
 
-
 **現在您已成功登入，可直接存取下列連結。**
-
-**參加練習測試**
-
-建議您開始前先參加免費的練習測試。 您將可以不受限制地存取所有可用的練習測試，以進行Adobe的專家級考試。
-
-我們的練習測試都是從與即時測驗相同的藍圖開發的。 練習測試有助於您瞭解即時測試涵蓋的主題。
-
-請記住，通過練習測驗並不保證您會通過認證測驗。
-
-前往 [Adobe認證考試準備入口網站](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 現在進行練習測試。
 
 **參加認證考試**
 
