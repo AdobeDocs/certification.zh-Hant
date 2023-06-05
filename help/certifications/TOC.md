@@ -2,7 +2,7 @@
 user-guide-title: Adobe 的認證
 breadcrumb-title: Adobe 的認證
 user-guide-description: 了解 Adobe 的  [!DNL Experience Cloud]  認證。了解獲得認證能為您做什麼。
-source-git-commit: be0a8c6898d021744eb4a9e69225b4f83a42d3b2
+source-git-commit: 007fd9851149994e3ef7a46291731a5aa91adc81
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 43%
@@ -80,6 +80,11 @@ ht-degree: 43%
       + 主版 {#ac-master}
          + [架構師](/help/certifications/ac/ac-m-architect.md)
       + [續約](/help/certifications/ac/ac-renew.md)
+   + Adobe [!DNL Document Cloud] {#adc}
+      + [Document Cloud概觀](/help/certifications/adc/adc-overview.md)
+      + 專業 {#adc-professional}
+         + [商業從業人員](/help/certifications/adc/adc-p-business.md)
+      + [續約](/help/certifications/adc/adc-renew.md)
    + Adobe [!DNL Experience Manager] {#aem}
       + [Experience Manager概觀](/help/certifications/aem/aem-overview.md)
       + 專業 {#aem-professional}
@@ -106,11 +111,6 @@ ht-degree: 43%
       + 主版 {#ame-master}
          + [架構師](/help/certifications/ame/ame-m-architect.md)
       + [續約](/help/certifications/ame/ame-renew.md)
-   + Adobe [!DNL Document Cloud] {#adc}
-      + [Document Cloud概觀](/help/certifications/adc/adc-overview.md)
-      + 專業 {#adc-professional}
-         + [商業從業人員](/help/certifications/adc/adc-p-business.md)
-      + [續約](/help/certifications/adc/adc-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
       + [Real-Time CDP概觀](/help/certifications/rtcdp/rtcdp-overview.md)
       + 專業 {#rtcdp-professional}
