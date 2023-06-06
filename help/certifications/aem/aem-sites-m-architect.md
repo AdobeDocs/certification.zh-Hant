@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exam AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
 workflow-type: tm+mt
-source-wordcount: '1570'
+source-wordcount: '1568'
 ht-degree: 17%
 
 ---
@@ -131,7 +131,7 @@ ht-degree: 17%
 * [Adobe [!DNL Experience Manager] 6.5 Communities指南](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
 * [AEM Sites影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 * [AEM 6.5 Managing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
-* [AEM as a cloud service簡介](http://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
+* [AEM as a cloud service簡介](https://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
 * [Cloud Manager 簡介](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
 * [AEM Foundation影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
 * [HTTP/2簡介](https://developers.google.com/web/fundamentals/performance/http2){target="_blank"}
@@ -146,7 +146,7 @@ ht-degree: 17%
 * [會議交談： Sling內容感知設定](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
 * [AEM Sites影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 * [如何根據AEM 6.4中的範本顯示/隱藏頁面屬性](https://blogs.perficient.com/2019/01/03/how-to-show-hide-page-properties-based-on-page-template-in-aem-6-4/){target="_blank"}
-* [AEM Granite自訂轉譯條件](http://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
+* [AEM Granite自訂轉譯條件](https://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
 * [在React應用程式中防止XSS](https://dev.to/spukas/preventing-xss-in-react-applications-5f5j){target="_blank"}
 * [AEM 6.5 管理使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [AEM 6.4 Mobile 使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
@@ -174,7 +174,7 @@ ht-degree: 17%
 * [Adobe Admin Console上的身分型別](https://helpx.adobe.com/ca/enterprise/using/identity.html){target="_blank"}
 * [Dispatcher 總覽](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
 * [AEM Sites 影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-* [Cloud Manager 簡介](https://docs.adobe.com/content/help/zh-Hant/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html){target="_blank"}
+* [Cloud Manager 簡介](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
 * [Adobe Target 指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [AEM 6.5 Authoring 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}

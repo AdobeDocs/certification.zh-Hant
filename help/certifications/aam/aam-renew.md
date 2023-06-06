@@ -7,10 +7,10 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
 workflow-type: tm+mt
-source-wordcount: '1132'
-ht-degree: 2%
+source-wordcount: '1130'
+ht-degree: 1%
 
 ---
 
@@ -101,7 +101,7 @@ ht-degree: 2%
 
 **資源:**
 
-* [Adobe [!DNL Audience Manager] 產品檔案](https://docs.adobe.com/content/help/zh-Hant/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [Adobe [!DNL Audience Manager] 產品檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe支援 — Experience Cloud對象](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
 * [Adobe Experience Cloud學習與支援](https://helpx.adobe.com/support/experience-cloud.html){target="_blank"}
 * [Experience League [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}

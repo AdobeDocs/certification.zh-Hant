@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
 workflow-type: tm+mt
-source-wordcount: '5191'
+source-wordcount: '5189'
 ht-degree: 8%
 
 ---
@@ -216,7 +216,7 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 **資源:**
 
-* [[!DNL Audience Manager] 產品檔案](https://docs.adobe.com/content/help/zh-Hant/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Audience Manager] 產品檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe支援 —  [!DNL Experience Cloud] 受眾](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
 * [[!DNL Experience Cloud] 學習與支援](https://helpx.adobe.com/support/experience-cloud.html){target="_blank"}
 * [Experience League - [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}

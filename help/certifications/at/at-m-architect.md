@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
 workflow-type: tm+mt
 source-wordcount: '1246'
-ht-degree: 15%
+ht-degree: 17%
 
 ---
 
@@ -147,7 +147,7 @@ ht-degree: 15%
 * [[!DNL Adobe Target] 商業從業者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [AEM Sites影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 * [對象建立選項](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=zh-Hant){target="_blank"}
-* [Adobe Experience Cloud 對象](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html){target="_blank"}
+* [Adobe Experience Cloud 對象](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=zh-Hant){target="_blank"}
 * [將Audience Manager與Target整合](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html){target="_blank"}
 * [Adobe.IO整合](http://developers.adobetarget.com/api/#introduction){target="_blank"}
 * [將體驗片段匯出至 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html#deleting-an-experience-fragment-already-exported-to-adobe-target){target="_blank"}
@@ -169,7 +169,7 @@ ht-degree: 15%
 * [[!DNL Adobe Target] 商業從業者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [已解決： [!DNL Adobe Target] iframe](https://experienceleaguecommunities.adobe.com/t5/adobe-target-questions/adobe-target-iframe/m-p/327224){target="_blank"}
 * [在行動應用程式教學課程中實作 Adobe Experience Cloud](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html){target="_blank"}
-* [Target API參考](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
+* [Target API參考](https://developer.adobe.com/client-sdks/documentation/adobe-target/api-reference/#getthirdpartyid){target="_blank"}
 
 **第5節：善用 [!DNL Adobe Target] recommendations**
 
@@ -181,7 +181,7 @@ ht-degree: 15%
 * [新增 [!DNL Adobe Target] 含標籤](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html){target="_blank"}
 * [客戶 ID 和驗證狀態](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=zh-Hant){target="_blank"}
 * [瞭解如何使用 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html){target="_blank"}
-* [Target API參考](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
+* [Target API參考](https://developer.adobe.com/client-sdks/documentation/adobe-target/api-reference/#getthirdpartyid){target="_blank"}
 * [[!DNL Adobe Target] 擴充功能概觀](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html){target="_blank"}
 * [裝置上決策簡介](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning){target="_blank"}
 * [何時使用裝置上決策與邊緣決策](https://adobetarget-sdks.gitbook.io/docs/best-practices/when-to-use-server-side-vs-on-device-decisioning){target="_blank"}
@@ -194,7 +194,7 @@ ht-degree: 15%
 * [清除各種瀏覽器的快取和Cookie](https://helpx.adobe.com/sign/kb/how-to-clear-Cache-Cookies-for-various-Browsers.html){target="_blank"}
 * [將體驗片段匯出至 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html#prerequisites){target="_blank"}
 * [已解決：為什麼我的歷史對象顯示為「正在收集資料」？](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
-* [Adobe Experience Cloud 對象](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html){target="_blank"}
+* [Adobe Experience Cloud 對象](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=zh-Hant){target="_blank"}
 
 >[!TAB 取得認證]
 
