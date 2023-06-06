@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E129" type="positive"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '978'
+source-wordcount: '948'
 ht-degree: 4%
 
 ---
@@ -125,38 +125,38 @@ ht-degree: 4%
 
 **第1節：資產工作流程**
 
-* [建立工作流程模型](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html?lang=en#sync-your-workflow-generate-a-runtime-model){target="_blank"}
-* [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=en){target="_blank"}
+* [建立工作流程模型](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html#sync-your-workflow-generate-a-runtime-model){target="_blank"}
+* [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
 
 **第2節：資產組織和資產主控台**
 
-* [AEM Assets影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=en){target="_blank"}
-* [搜尋 Facet](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html?lang=en#restoring-default-search-facets){target="_blank"}
-* [資產報表](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html?lang=en){target="_blank"}
+* [AEM Assets影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
+* [搜尋 Facet](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html#restoring-default-search-facets){target="_blank"}
+* [資產報表](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html){target="_blank"}
 
 **第3節：資產中繼資料**
 
-* [中繼資料結構](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html?lang=en#default-metadata-schema-forms){target="_blank"}
-* [瞭解中繼資料概念](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html?lang=en){target="_blank"}
-* [中繼資料設定檔](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html?lang=en#:~:text=Add%20a%20metadata%20profile.%20Tap%20or%20click%20the，和%20configure%20its%20properties%20in%20the%20Settings%20tab。){target="_blank"}
+* [中繼資料結構](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html#default-metadata-schema-forms){target="_blank"}
+* [瞭解中繼資料概念](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html){target="_blank"}
+* [中繼資料設定檔](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html#:~:text=Add%20a%20metadata%20profile.%20Tap%20or%20click%20the，和%20configure%20its%20properties%20in%20the%20Settings%20tab。){target="_blank"}
 
 **第4節：資產型別**
 
-* [管理影片資產](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html?lang=en#uploading-and-previewing-video-assets){target="_blank"}
-* [內容片段模型](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html?lang=en#creating-a-content-fragment-model){target="_blank"}
-* [變化 - 編寫片段內容](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html?lang=en#managing-variations){target="_blank"}
+* [管理影片資產](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html#uploading-and-previewing-video-assets){target="_blank"}
+* [內容片段模型](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html#creating-a-content-fragment-model){target="_blank"}
+* [變化 - 編寫片段內容](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html#managing-variations){target="_blank"}
 
 **第5節：資產功能集和功能**
 
-* [概述 [!DNL Experience Manager] Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=en){target="_blank"}
-* [支援的檔案格式](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html?lang=en){target="_blank"}
-* [Dynamic Media 影片設定檔](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html?lang=en){target="_blank"}
+* [概述 [!DNL Experience Manager] Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
+* [支援的檔案格式](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
+* [Dynamic Media 影片設定檔](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
 
 >[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **現在您已成功登入，可直接存取下列連結。**
 
@@ -185,6 +185,6 @@ Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
 **問題**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

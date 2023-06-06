@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1262'
+source-wordcount: '1230'
 ht-degree: 11%
 
 ---
@@ -132,40 +132,40 @@ ht-degree: 11%
 
 **第1節：業務分析**
 
-* [哪個 [!DNL Adobe Analytics] 我應該使用工具嗎？](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html?lang=en){target="_blank"}
+* [哪個 [!DNL Adobe Analytics] 我應該使用工具嗎？](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html){target="_blank"}
 * [[!DNL Adobe Analytics] 文件](https://helpx.adobe.com/tw/support/analytics.html){target="_blank"}
 * [關於資料彙集](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=zh-Hant){target="_blank"}
 * [Analytics 資料摘要總覽](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=zh-Hant){target="_blank"}
 
 **第2節：專案的報告和控制面板**
 
-* [開始使用 Reports &amp; Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=en){target="_blank"}
-* [[!DNL Adobe Analytics] 儀表板 — 概觀](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=zh-Hant){target="_blank"}
-* [專案總覽](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=en){target="_blank"}
+* [開始使用 Reports &amp; Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
+* [[!DNL Adobe Analytics] 儀表板 — 概觀](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html){target="_blank"}
+* [專案總覽](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=zh-Hant){target="_blank"}
 * [視覺效果概觀](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=zh-Hant){target="_blank"}
-* [智慧型警報總覽](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=zh-Hant){target="_blank"}
+* [智慧型警報總覽](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html){target="_blank"}
 
 **第3節：細分和計算量度**
 
-* [Analytics 分段](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html?lang=zh-Hant){target="_blank"}
-* [計算與進階計算 (衍生) 量度](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html?lang=en){target="_blank"}
+* [Analytics 分段](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html){target="_blank"}
+* [計算與進階計算 (衍生) 量度](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html){target="_blank"}
 
 **第4節：一般工具知識和疑難排解**
 
-* [Analytics 工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=zh-Hant){target="_blank"}
-* [Analysis Workspace概觀](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=zh-Hant){target="_blank"}
+* [Analytics 工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [Analysis Workspace概觀](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html){target="_blank"}
 
 **第5節：管理**
 
 * [Analytics 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hant){target="_blank"}
-* [常見問答](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html?lang=en){target="_blank"}
-* [分類規則產生器工作流程](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html?lang=en){target="_blank"}
+* [常見問答](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
+* [分類規則產生器工作流程](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html){target="_blank"}
 
 >[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **現在您已成功登入，可直接存取下列連結。**
@@ -205,6 +205,6 @@ Adobe使用兩家廠商來管理經認證的考試：PSI和 [!DNL Examity].
 
 **問題**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

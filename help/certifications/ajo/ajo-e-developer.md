@@ -6,10 +6,10 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E603" type="positive"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '994'
-ht-degree: 11%
+source-wordcount: '976'
+ht-degree: 9%
 
 ---
 
@@ -111,7 +111,7 @@ ht-degree: 11%
 
 **第1節：管理與設定**
 
-* [Adobe  [!DNL Journey Optimizer]  文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
+* [Adobe  [!DNL Journey Optimizer]  文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * 存取控制
    * 設定訊息
@@ -124,7 +124,7 @@ ht-degree: 11%
 
 **第2節：AEP Foundation**
 
-* [Adobe  [!DNL Experience Platform]  文件](https://experienceleague.adobe.com/docs/experience-platform.html?lang=zh-Hant){target="_blank"}
+* [Adobe  [!DNL Experience Platform]  文件](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
    * XDM指南
    * 即時客戶設定檔指南
@@ -142,7 +142,7 @@ ht-degree: 11%
 
 **第3節：Offer decisioning**
 
-* [Adobe  [!DNL Journey Optimizer]  文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
+* [Adobe  [!DNL Journey Optimizer]  文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * 決策管理
 
@@ -152,7 +152,7 @@ ht-degree: 11%
 
 **第4節：內容製作**
 
-* [Adobe  [!DNL Journey Optimizer]  文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
+* [Adobe  [!DNL Journey Optimizer]  文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * 設計內容
    * 歷程
@@ -162,7 +162,7 @@ ht-degree: 11%
 
 **第5節：Journey Orchestration**
 
-* [Adobe  [!DNL Journey Optimizer]  文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
+* [Adobe  [!DNL Journey Optimizer]  文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * 歷程
    * 追蹤和監視
@@ -173,7 +173,7 @@ ht-degree: 11%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **現在您已成功登入，可直接存取下列連結。**
@@ -182,7 +182,7 @@ ht-degree: 11%
 
 建議您開始前先參加免費的練習測試。 您將可以不受限制地存取所有可用的練習測試，以進行Adobe的專家級考試。
 
-我們的練習測試都是從與即時測驗相同的藍圖開發的。 練習測試有助於您瞭解即時測試涵蓋的主題。
+我們的練習測試都是從與即時考試相同的藍圖開發的。 練習測試有助於您瞭解即時測試涵蓋的主題。
 
 請記住，通過練習測驗並不保證您會通過認證測驗。
 
@@ -215,6 +215,6 @@ Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
 **問題**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

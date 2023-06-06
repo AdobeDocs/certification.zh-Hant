@@ -6,10 +6,10 @@ role: Developer
 badge: label="Exam AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '2099'
-ht-degree: 0%
+source-wordcount: '2067'
+ht-degree: 2%
 
 ---
 
@@ -156,30 +156,30 @@ ht-degree: 0%
 
 **區段1：Adobe [!DNL Commerce] 架構和自訂技術**
 
-* [[!DNL Commerce] 適用於開發人員 — 概觀](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-1-overview.html?lang=en#video-content){target="_blank"}
-* [[!DNL Commerce] 適用於開發人員 — 開發工作流程](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-2-workflow.html?lang=en){target="_blank"}
-* [[!DNL Commerce] 適用於開發人員 — 程式碼基底](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html?lang=en){target="_blank"}
-* [[!DNL Commerce] 開發人員適用的 — 練習](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-6-practice.html?lang=en){target="_blank"}
-* [Magento2開發要點](https://learning.adobe.com/catalog/adobe_commerce/cours000000000096867.html){target="_blank"}
+* [[!DNL Commerce] 適用於開發人員 — 概觀](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-1-overview.html#video-content){target="_blank"}
+* [[!DNL Commerce] 適用於開發人員 — 開發工作流程](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-2-workflow.html){target="_blank"}
+* [[!DNL Commerce] 適用於開發人員 — 程式碼基底](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html){target="_blank"}
+* [[!DNL Commerce] 開發人員適用的 — 練習](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-6-practice.html){target="_blank"}
+* [Magento2開發要點](https://learning.adobe.com/catalog/adobe_commerce/cours000000000099263.html){target="_blank"}
 * [Adobe [!DNL Commerce] 雲端：Magento Commerce — 後端開發人員](https://learning.adobe.com/learning-path/adobe_commerce/curra000000000006251.html){target="_blank"}
 * [Adobe [!DNL Commerce] 2.4開發人員指南](https://devdocs.magento.com/){target="_blank"}
 * [部分快取](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/partial-caching.html){target="_blank"}
 * [頁面快取](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"}
 * [將擴充功能屬性新增至實體](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/extension_attributes/adding-attributes.html){target="_blank"}
 * [類別 — 設計設定](https://docs.magento.com/user-guide/catalog/categories-custom-design.html){target="_blank"}
-* [建立模組](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=en){target="_blank"}
+* [建立模組](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html){target="_blank"}
 * [元件開發](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/module-development.html){target="_blank"}
-* [[!DNL Commerce] 適用於開發人員 — 開發基本知識](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-1-dev-basics.html?lang=en){target="_blank"}
-* [[!DNL Commerce] 適用於開發人員 — 安裝後](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-3-post-install.html?lang=en){target="_blank"}
-* [[!DNL Commerce] 適用於開發人員 — 路由](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-3-routing.html?lang=en){target="_blank"}
+* [[!DNL Commerce] 適用於開發人員 — 開發基本知識](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-1-dev-basics.html){target="_blank"}
+* [[!DNL Commerce] 適用於開發人員 — 安裝後](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-3-post-install.html){target="_blank"}
+* [[!DNL Commerce] 適用於開發人員 — 路由](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-3-routing.html){target="_blank"}
 * [建立新頁面](https://devdocs.magento.com/videos/fundamentals/create-a-new-page/){target="_blank"}
 * [頁面產生器](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
 * [什麼是頁面產生器](https://devdocs.magento.com/page-builder/docs/){target="_blank"}
 * [設定多個網站或商店](https://devdocs.magento.com/cloud/project/project-multi-sites.html){target="_blank"}
 * [多個網站或商店](https://devdocs.magento.com/guides/v2.4/config-guide/multi-site/ms_over.html){target="_blank"}
-* [相依性插入範例](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/dependency-injection.html?lang=en){target="_blank"}
+* [相依性插入範例](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/dependency-injection.html){target="_blank"}
 * [System.xml參考](https://devdocs.magento.com/guides/v2.4/config-guide/prod/config-reference-systemxml.html){target="_blank"}
-* [[!DNL Commerce] 適用於開發人員 — 安裝](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-2-install.html?lang=en){target="_blank"}
+* [[!DNL Commerce] 適用於開發人員 — 安裝](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-2-install.html){target="_blank"}
 * [套用修補程式](https://devdocs.magento.com/cloud/project/project-patch.html){target="_blank"}
 * [新增CLI命令](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cli-cmds/cli-add.html){target="_blank"}
 * [整合測試](https://devdocs.magento.com/guides/v2.4/test/integration/integration_test_execution.html){target="_blank"}
@@ -193,12 +193,12 @@ ht-degree: 0%
 
 **第2節：使用資料庫和EAV**
 
-* [建立產品屬性](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html?lang=en){target="_blank"}
+* [建立產品屬性](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html){target="_blank"}
 * [EAV和擴充功能屬性](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/attributes.html){target="_blank"}
 * [如何新增產品屬性](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/){target="_blank"}
 * [新增自訂文字欄位屬性](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/text-field.html){target="_blank"}
-* [[!DNL Commerce] 適用於開發人員 — 宣告式結構描述](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-2-declarative-schema.html?lang=en){target="_blank"}
-* [新增表格至資料庫](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/new-db-table.html?lang=en){target="_blank"}
+* [[!DNL Commerce] 適用於開發人員 — 宣告式結構描述](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-2-declarative-schema.html){target="_blank"}
+* [新增表格至資料庫](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/new-db-table.html){target="_blank"}
 * [宣告式結構描述](https://developer.adobe.com/commerce/php/development/components/declarative-schema/){target="_blank"}
 * [資料傳輸](https://docs.magento.com/user-guide/system/data-transfer.html){target="_blank"}
 * [自訂匯入實體](https://devdocs.magento.com/guides/v2.4/ext-best-practices/tutorials/custom-import-entity.html){target="_blank"}
@@ -207,7 +207,7 @@ ht-degree: 0%
 
 **第3節：使用管理員開發**
 
-* [[!DNL Commerce] 適用於開發人員 — 建立管理頁面](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-4-admin-page.html?lang=en){target="_blank"}
+* [[!DNL Commerce] 適用於開發人員 — 建立管理頁面](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-4-admin-page.html){target="_blank"}
 * [新增管理格線](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/admin-grid.html){target="_blank"}
 * [清單（格線）元件](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-listing-grid.html){target="_blank"}
 * [表單元件](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-form.html){target="_blank"}
@@ -251,7 +251,7 @@ ht-degree: 0%
 
 * [Pro專案工作流程](https://devdocs.magento.com/cloud/architecture/pro-develop-deploy-workflow.html){target="_blank"}
 * [雲端CLI](https://devdocs.magento.com/cloud/reference/cli-ref-topic.html){target="_blank"}
-* [[!DNL Commerce] 在雲端基礎結構上](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
+* [[!DNL Commerce] 在雲端基礎結構上](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html){target="_blank"}
 * [ECE-Tools套件](https://devdocs.magento.com/cloud/reference/ece-tools-reference.html){target="_blank"}
 
 
@@ -273,7 +273,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **現在您已成功登入，可直接存取下列連結。**
 
@@ -281,7 +281,7 @@ ht-degree: 0%
 
 建議您開始前先參加免費的練習測試。 您將可以不受限制地存取所有可用的練習測試，以進行Adobe的專家級考試。
 
-我們的練習測試都是從與即時測驗相同的藍圖開發的。 練習測試有助於您瞭解即時測試涵蓋的主題。
+我們的練習測試都是從與即時考試相同的藍圖開發的。 練習測試有助於您瞭解即時測試涵蓋的主題。
 
 請記住，通過練習測驗並不保證您會通過認證測驗。
 
@@ -312,6 +312,6 @@ Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
 **問題**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

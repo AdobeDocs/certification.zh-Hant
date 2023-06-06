@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1298'
-ht-degree: 14%
+source-wordcount: '1257'
+ht-degree: 10%
 
 ---
 
@@ -119,34 +119,34 @@ ht-degree: 14%
 
 **第1節：Adobe Experience Cloud生態系統中的Analytics**
 
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hant){target="_blank"}
-* [常見問題集](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html?lang=en){target="_blank"}
-* [AEM 6.5 Authoring 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
-* [概述](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"}
-* [標記總覽](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=zh-Hant){target="_blank"}
-* [實作 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
+* [常見問題集](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
+* [AEM 6.5 Authoring 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
+* [概述](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
+* [標記總覽](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
+* [實作 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=zh-Hant){target="_blank"}
 
 **第2節：根據解決方案設計參考資料的分析策略和設計**
 
-* [Analytics 教學課程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
-* [實作 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+* [Analytics 教學課程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
+* [實作 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=zh-Hant){target="_blank"}
 * [Analytics 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hant){target="_blank"}
 
 **第3節：Analytics實施與設定**
 
-* [實作 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [標記總覽](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=zh-Hant){target="_blank"}
-* [Analytics工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=zh-Hant){target="_blank"}
+* [實作 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=zh-Hant){target="_blank"}
+* [標記總覽](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
+* [Analytics工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
 * [Analytics 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hant){target="_blank"}
-* [開發人員直播：Adobe使用者端資料層：追蹤訪客資料](https://experienceleague.adobe.com/docs/adobe-developers-live-events/assets/adobe-client-data-layer.pdf?lang=en){target="_blank"}
+* [開發人員直播：Adobe使用者端資料層：追蹤訪客資料](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2021/feb2021/adobe-client-data-layer.html){target="_blank"}
 * [快速秘訣 — 將資料傳入Launch規則](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
 
 **第4節：標籤管理系統**
 
-* [標記總覽](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=zh-Hant){target="_blank"}
+* [標記總覽](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
 * [標記管理](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [概述](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"}
-* [Analytics 教學課程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [概述](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
+* [Analytics 教學課程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
 
 **第5節：行動服務與API**
 
@@ -159,14 +159,14 @@ ht-degree: 14%
 **第6節：測試、驗證和疑難排解**
 
 * [JavaScript錯誤參考](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors){target="_blank"}
-* [Analytics 技術註解](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"}
-* [實作 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+* [Analytics 技術註解](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=zh-Hant){target="_blank"}
+* [實作 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=zh-Hant){target="_blank"}
 
 >[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **現在您已成功登入，可直接存取下列連結。**
@@ -196,6 +196,6 @@ Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
 **問題**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

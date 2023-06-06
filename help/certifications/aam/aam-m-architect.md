@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Exam AD0-E454" type="positive"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '854'
-ht-degree: 13%
+source-wordcount: '832'
+ht-degree: 11%
 
 ---
 
@@ -110,36 +110,36 @@ ht-degree: 13%
 
 **第1節：實作分析**
 
-* [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
-* [Analytics 整合](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=en){target="_blank"}
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hant){target="_blank"}
+* [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [Analytics 整合](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=zh-Hant){target="_blank"}
+* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 **第2節：解決方案設計和Recommendations**
 
-* [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
-* [[!DNL Audience Manager] 教學課程](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Audience Manager] 教學課程](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
 **第3節：細分和啟用**
 
-* [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
-* [[!DNL Audience Manager] 教學課程](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] 教學課程](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
 **第4節：隱私權與資料控管**
 
-* [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
 * [Analytics 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hant){target="_blank"}
 
 **第5節：效能與報表**
 
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hant){target="_blank"}
+* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 >[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **現在您已成功登入，可直接存取下列連結。**
@@ -165,6 +165,6 @@ Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
 **問題**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

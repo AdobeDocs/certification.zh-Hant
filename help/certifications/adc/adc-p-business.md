@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 13671a4dceee486a2abba6ab3ab8f2fa781f5c86
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '963'
 ht-degree: 1%
 
 ---
@@ -96,7 +96,7 @@ ht-degree: 1%
 * [Adobe PDF內嵌API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
 * [為您的企業提供PDF和電子簽章工具。 Acrobat知道了。](https://www.adobe.com/acrobat/business.html){target="_blank"}
 * [Adobe Acrobat使用手冊](https://helpx.adobe.com/acrobat/user-guide.html){target="_blank"}
-* [整合概述 — 新增功能](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html?lang=en#what%E2%80%99s-new){target="_blank"}
+* [整合概述 — 新增功能](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new){target="_blank"}
 * [安全、彈性的線上簽章](https://www.adobe.com/sign/online-signature.html){target="_blank"}
 
 **第3節：定義Document Cloud(DC)功能**
@@ -122,7 +122,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **現在您已成功登入，可直接存取下列連結。**
 
@@ -163,7 +163,7 @@ Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
 **問題**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
 

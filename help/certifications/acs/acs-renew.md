@@ -7,9 +7,9 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1478'
+source-wordcount: '1404'
 ht-degree: 11%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 11%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -46,7 +46,7 @@ ht-degree: 11%
 
 ## 更新認證的說明：
 
-* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟1**：成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
 * **步驟2**：檢閱考試目標和資源
 * **步驟3**：參加並通過測驗
 
@@ -96,23 +96,23 @@ ht-degree: 11%
 
 **第1節：行銷活動管理**
 
-* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant){target="_blank"} （使用行銷活動、建立電子郵件內容、通訊頻道、傳送、設定頻道）
+* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} （使用行銷活動、建立電子郵件內容、通訊頻道、傳送、設定頻道）
 
 **第2節：傳遞管理**
 
-* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant){target="_blank"} （建立電子郵件內容、準備和測試訊息、通訊通道 — 電子郵件、應用程式設定）
+* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} （建立電子郵件內容、準備和測試訊息、通訊通道 — 電子郵件、應用程式設定）
 
 **第3節：工作流程設計和執行**
 
-* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant){target="_blank"} （管理流程和資料、管理對象、排程訊息、新增或擴充資源）
+* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} （管理流程和資料、管理對象、排程訊息、新增或擴充資源）
 
 **第4節：管理、監控及報告**
 
-* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant){target="_blank"} （執行工作流程、測試和傳送、自訂報表、設定檔和對象、使用者和安全性）
+* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} （執行工作流程、測試和傳送、自訂報表、設定檔和對象、使用者和安全性）
 
 ## 更新您的認證
 
-請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要更新考試，請按一下 [!DNL Campaign Standard] 商務從業者續約 — 下方的AD5-822連結。
+請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要更新考試，請按一下 [!DNL Campaign Standard] 商務從業者續約 — 下方的AD5-822連結。
 
 * [[!DNL Campaign Standard] 商務從業人員續約 — AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
@@ -130,7 +130,7 @@ ht-degree: 11%
 
 ## 更新認證的說明：
 
-* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟1**：成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
 * **步驟2**：檢閱考試目標和資源
 * **步驟3**：參加並通過測驗
 
@@ -183,50 +183,50 @@ ht-degree: 11%
 
 **第1節：資料模型化與管理**
 
-* [建立自訂資源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html?lang=enn){target="_blank"}
-* [建立或擴充資源](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html?lang=en){target="_blank"}
-* [設定自訂資源的熒幕定義](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html?lang=en){target="_blank"}
-* [設定熒幕定義](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html?lang=en){target="_blank"}
-* [連結自訂資源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html?lang=en){target="_blank"}
-* [設定資源的資料結構](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html?lang=en#defining-links-with-other-resources){target="_blank"}
+* [建立自訂資源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.htmln){target="_blank"}
+* [建立或擴充資源](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
+* [設定自訂資源的熒幕定義](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html){target="_blank"}
+* [設定熒幕定義](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
+* [連結自訂資源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html){target="_blank"}
+* [設定資源的資料結構](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html#defining-links-with-other-resources){target="_blank"}
 * [核准流程](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
-* [更新資料庫結構](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html?lang=en){target="_blank"}
+* [更新資料庫結構](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
 * [技術工作流程](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=zh-Hant){target="_blank"}
 
 **區段2：Campaign Management**
 
-* [方案與行銷活動](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=enn){target="_blank"}
-* [工作流程最佳實務](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=en){target="_blank"}
-* [方案與行銷活動](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=en){target="_blank"}
-* [開始使用設定檔和對象](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html?lang=en){target="_blank"}
-* [關於類型與類型規則](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html?lang=en){target="_blank"}
-* [篩選規則](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html?lang=en){target="_blank"}
-* [行銷活動範本](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html?lang=en){target="_blank"}
-* [設定登陸頁面](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html?lang=en){target="_blank"}
-* [訂閱服務](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html?lang=en){target="_blank"}
-* [傳送訊息的重要步驟](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html?lang=en){target="_blank"}
-* [追蹤和監視](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html?lang=en){target="_blank"}
-* [傳遞摘要](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html?lang=en){target="_blank"}
-* [Campaign 電子郵件設計工具](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=en#video){target="_blank"}
-* [開始使用動態報告](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html?lang=en){target="_blank"}
+* [方案與行銷活動](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.htmln){target="_blank"}
+* [工作流程最佳實務](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=zh-Hant){target="_blank"}
+* [方案與行銷活動](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=zh-Hant){target="_blank"}
+* [開始使用設定檔和對象](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html){target="_blank"}
+* [關於類型與類型規則](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html){target="_blank"}
+* [篩選規則](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html){target="_blank"}
+* [行銷活動範本](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html){target="_blank"}
+* [設定登陸頁面](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
+* [訂閱服務](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
+* [傳送訊息的重要步驟](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
+* [追蹤和監視](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
+* [傳遞摘要](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
+* [Campaign 電子郵件設計工具](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
+* [開始使用動態報告](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
 
 **第3節：管理**
 
-* [管理群組和使用者](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=zh-Hant){target="_blank"}
-* [組織單位](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html?lang=en){target="_blank"}
-* [管理套件](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html?lang=en){target="_blank"}
-* [匯出/匯入自訂資源](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html?lang=en){target="_blank"}
-* [外部帳戶](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html?lang=en){target="_blank"}
+* [管理群組和使用者](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
+* [組織單位](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html){target="_blank"}
+* [管理套件](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
+* [匯出/匯入自訂資源](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html){target="_blank"}
+* [外部帳戶](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html){target="_blank"}
 * [管理執行選項](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/managing-execution-options.html?lang=zh-Hant){target="_blank"}
-* [監控工作流程執行](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html?lang=zh-Hant){target="_blank"}
-* [品牌推廣](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html?lang=en){target="_blank"}
-* [關於頻道設定](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html?lang=en){target="_blank"}
-* [開始使用通訊頻道](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html?lang=en){target="_blank"}
+* [監控工作流程執行](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html){target="_blank"}
+* [品牌推廣](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html){target="_blank"}
+* [關於頻道設定](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
+* [開始使用通訊頻道](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
 
 
 ## 更新您的認證
 
-請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要更新您的認證，請按一下 [!DNL Campaign Standard] 開發人員續約 — 下方的AD5-821連結。
+請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要更新您的認證，請按一下 [!DNL Campaign Standard] 開發人員續約 — 下方的AD5-821連結。
 
 * [[!DNL Campaign Standard] 開發人員續約 — AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 
@@ -242,4 +242,4 @@ ht-degree: 11%
 
 對Adobe認證有任何問題嗎？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.

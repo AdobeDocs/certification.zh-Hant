@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '5355'
+source-wordcount: '5191'
 ht-degree: 8%
 
 ---
@@ -43,7 +43,7 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 選取 **三個活動** 完成並傳遞與每個課程相關的課程評量。
 
-* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟1**：成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
 * **步驟2**：學習Experience League的課程
 * **步驟3**：至少以80%完成並通過每個課程評估
 
@@ -64,14 +64,14 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 | 課程 | 課程評估 |
 | ------- | ------- |
-| [移至 Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html?lang=en){target="_blank"} | [ADS-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA101){target="_blank"} |
-| [規劃邁向Adobe Experience Manager as a Cloud Service之旅](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html?lang=en){target="_blank"} | [ADS-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA102){target="_blank"} |
-| [Adobe Experience Manager as a Cloud Service 簡介](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=en){target="_blank"} | [ADS-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA103){target="_blank"} |
-| [使用 GraphQL API 的無頭內容管理](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html?lang=en){target="_blank"} | [ADS-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA104){target="_blank"} |
-| [使用Adobe Experience Manager和Adobe Target個人化體驗](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html?lang=en){target="_blank"} | [ADS-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA105){target="_blank"} |
-| [將Experience Manager FormsCloud Service與Salesforce整合](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html?lang=en){target="_blank"} | [ADS-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA106){target="_blank"} |
-| [Adobe Experience Manager Cloud Manager技能培養](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html?lang=en){target="_blank"} | [ADS-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA107){target="_blank"} |
-| [適用於架構師的Adobe Experience Manager Sites](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html?lang=en){target="_blank"} | [ADS-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA108){target="_blank"} |
+| [移至 Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html){target="_blank"} | [ADS-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA101){target="_blank"} |
+| [規劃邁向Adobe Experience Manager as a Cloud Service之旅](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html){target="_blank"} | [ADS-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA102){target="_blank"} |
+| [Adobe Experience Manager as a Cloud Service 簡介](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"} | [ADS-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA103){target="_blank"} |
+| [使用 GraphQL API 的無頭內容管理](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html){target="_blank"} | [ADS-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA104){target="_blank"} |
+| [使用Adobe Experience Manager和Adobe Target個人化體驗](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html){target="_blank"} | [ADS-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA105){target="_blank"} |
+| [將Experience Manager FormsCloud Service與Salesforce整合](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADS-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA106){target="_blank"} |
+| [Adobe Experience Manager Cloud Manager技能培養](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADS-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA107){target="_blank"} |
+| [適用於架構師的Adobe Experience Manager Sites](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADS-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA108){target="_blank"} |
 
 >[!NOTE]
 >
@@ -83,7 +83,7 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 選取 **三個活動** 完成並傳遞與每個課程相關的課程評量。
 
-* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟1**：成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
 * **步驟2**：學習Experience League的課程
 * **步驟3**：至少以80%完成並通過每個課程評估
 
@@ -108,7 +108,7 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 | [使用自訂分段和日期篩選資料 — 第2課](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADS-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA203){target="_blank"} |
 | [引導式Analytics實施 — 第5課](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA204){target="_blank"} |
 | [ 實作與測量內部網站搜尋 — 第3和第4課](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
-| [Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html?lang=en){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
+| [Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
 
 >[!NOTE]
 >
@@ -120,7 +120,7 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 選取 **三個活動** 完成並傳遞與每個課程相關的課程評量。
 
-* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟1**：成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
 * **步驟2**：學習Experience League的課程
 * **步驟3**：至少以80%完成並通過每個課程評估
 
@@ -140,7 +140,7 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 | 課程 | 課程評估 |
 | ------- | ------- |
-| [Adobe [!DNL Target] 裝置上決策概觀](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html?lang=en){target="_blank"} | [ADS-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA401){target="_blank"} |
+| [Adobe [!DNL Target] 裝置上決策概觀](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADS-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA401){target="_blank"} |
 | [Adobe [!DNL Target] 個人化課程的創新](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADS-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA402){target="_blank"} |
 | [行動應用程式實作與個人化課程](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADS-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA403){target="_blank"} |
 | [開發人員適用的引導式行動和IoT啟動課程](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA404){target="_blank"} |
@@ -158,7 +158,7 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 **重新啟動認證的說明：**
 
-* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟1**：成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
 * **步驟2**：檢閱考試目標和資源
 * **步驟3**：參加並通過測驗
 
@@ -233,7 +233,7 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 **重新啟動認證的說明：**
 
-* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟1**：成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
 * **步驟2**：檢閱考試目標和資源
 * **步驟3**：參加並通過測驗
 
@@ -292,30 +292,30 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 **第1節：實作分析**
 
-* [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
-* [[!DNL Analytics] 整合](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hant){target="_blank"}
+* [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Analytics] 整合](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=zh-Hant){target="_blank"}
+* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 **第2節：解決方案設計和Recommendations**
 
-* [Audience Manager 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
-* [Audience Manager教學課程](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [Audience Manager 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [Audience Manager教學課程](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
 **第3節：細分和啟用**
 
-* [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] 社群](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
-* [[!DNL Audience Manager] 教學課程](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] 教學課程](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
 **第4節：隱私權與資料控管**
 
-* [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
 * [[!DNL Analytics] 管理員指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hant){target="_blank"}
 
 **第5節：效能與報表**
 
-* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hant){target="_blank"}
+* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 ### 重新啟動您的認證
 
@@ -333,7 +333,7 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 **重新啟動認證的說明：**
 
-* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟1**：成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
 * **步驟2**：檢閱考試目標和資源
 * **步驟3**：參加並通過測驗
 
@@ -383,49 +383,49 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 **第1節：資料模型化與管理**
 
-* [建立自訂資源（影片）](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html?lang=en){target="_blank"}
-* [建立資源](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html?lang=en){target="_blank"}
-* [設定熒幕定義與篩選（影片）](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html?lang=en){target="_blank"}
-* [設定螢幕定義](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html?lang=en){target="_blank"}
-* [設定篩選](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html?lang=en){target="_blank"}
-* [建立自訂連結（影片）](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html?lang=en){target="_blank"}
-* [設定金鑰、索引和連結](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html?lang=en#defining-links-with-other-resources){target="_blank"}
+* [建立自訂資源（影片）](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
+* [建立資源](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
+* [設定熒幕定義與篩選（影片）](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html){target="_blank"}
+* [設定螢幕定義](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
+* [設定篩選](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
+* [建立自訂連結（影片）](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html){target="_blank"}
+* [設定金鑰、索引和連結](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html#defining-links-with-other-resources){target="_blank"}
 * [核准程式學習路徑（課程模組）](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
-* [更新與發佈資源](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html?lang=en){target="_blank"}
-* [疑難排解資料模型](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html?lang=en){target="_blank"}
+* [更新與發佈資源](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
+* [疑難排解資料模型](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
 * [建立技術工作流程](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=zh-Hant){target="_blank"}
 
 **區段2：Campaign Management**
 
 * [疑難排解錯誤](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
-* [工作流程最佳實務](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=en){target="_blank"}
-* [建立行銷活動](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=en){target="_blank"}
-* [開始使用設定檔和對象](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html?lang=en){target="_blank"}
-* [關於類型與類型規則](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html?lang=en){target="_blank"}
-* [篩選規則](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html?lang=en){target="_blank"}
-* [建立和管理範本](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html?lang=en){target="_blank"}
-* [設定登陸頁面](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html?lang=en){target="_blank"}
-* [訂閱服務](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html?lang=en){target="_blank"}
-* [傳送傳遞的管道](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html?lang=en){target="_blank"}
-* [追蹤和監控傳遞](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html?lang=en){target="_blank"}
-* [傳遞摘要](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html?lang=en){target="_blank"}
-* [探索電子郵件設計工具（影片）](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=en#video){target="_blank"}
-* [Campaign 電子郵件設計工具](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=en){target="_blank"}
-* [自訂您的報表](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html?lang=en){target="_blank"}
-* [開始使用動態報告](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en){target="_blank"}
+* [工作流程最佳實務](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=zh-Hant){target="_blank"}
+* [建立行銷活動](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=zh-Hant){target="_blank"}
+* [開始使用設定檔和對象](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html){target="_blank"}
+* [關於類型與類型規則](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html){target="_blank"}
+* [篩選規則](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html){target="_blank"}
+* [建立和管理範本](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html){target="_blank"}
+* [設定登陸頁面](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
+* [訂閱服務](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
+* [傳送傳遞的管道](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
+* [追蹤和監控傳遞](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
+* [傳遞摘要](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
+* [探索電子郵件設計工具（影片）](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
+* [Campaign 電子郵件設計工具](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
+* [自訂您的報表](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
+* [開始使用動態報告](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html){target="_blank"}
 
 **第3節：管理**
 
-* [安全性群組](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=zh-Hant)
-* [組織單位](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html?lang=en)
-* [管理套件](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html?lang=en)
-* [匯出/匯入自訂資源](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html?lang=en)
-* [外部帳戶](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html?lang=en)
+* [安全性群組](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html)
+* [組織單位](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html)
+* [管理套件](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html)
+* [匯出/匯入自訂資源](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html)
+* [外部帳戶](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html)
 * [管理執行選項](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/managing-execution-options.html?lang=zh-Hant)
-* [監控工作流程執行](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html?lang=zh-Hant)
-* [建立新品牌](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html?lang=en)
-* [關於通道設定](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html?lang=en)
-* [開始使用通訊管道](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html?lang=en)
+* [監控工作流程執行](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html)
+* [建立新品牌](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html)
+* [關於通道設定](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html)
+* [開始使用通訊管道](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html)
 
 ### 重新啟動您的認證
 
@@ -439,7 +439,7 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 **重新啟動認證的說明：**
 
-* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟1**：成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
 * **步驟2**：檢閱考試目標和資源
 * **步驟3**：參加並通過測驗
 
@@ -486,19 +486,19 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 **第1節：行銷活動管理**
 
-* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant){target="_blank"} （使用行銷活動、建立電子郵件內容、通訊頻道、傳送、設定頻道）
+* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} （使用行銷活動、建立電子郵件內容、通訊頻道、傳送、設定頻道）
 
 **第2節：傳遞管理**
 
-* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant){target="_blank"} （建立電子郵件內容、準備和測試訊息、通訊通道 — 電子郵件、應用程式設定）
+* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} （建立電子郵件內容、準備和測試訊息、通訊通道 — 電子郵件、應用程式設定）
 
 **第3節：工作流程設計和執行**
 
-* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant){target="_blank"} （管理流程和資料、管理對象、排程訊息、新增或擴充資源）
+* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} （管理流程和資料、管理對象、排程訊息、新增或擴充資源）
 
 **第4節：管理、監控及報告**
 
-* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant){target="_blank"} （執行工作流程、測試和傳送、自訂報表、設定檔和對象、使用者和安全性）
+* [Adobe [!DNL Campaign Standard] 檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} （執行工作流程、測試和傳送、自訂報表、設定檔和對象、使用者和安全性）
 
 ### 重新啟動您的認證
 
@@ -512,7 +512,7 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 **重新啟動認證的說明：**
 
-* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟1**：成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
 * **步驟2**：檢閱考試目標和資源
 * **步驟3**：參加並通過測驗
 
@@ -579,30 +579,30 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 **第1節：安裝及系統組態**
 
-* [管理套件](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html?lang=en){target="_blank"}
-* [使用資料包](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=en){target="_blank"}
-* [部署執行個體](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html?lang=en)
-* [與 Adobe Campaign Classic 整合](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html?lang=en){target="_blank"}
+* [管理套件](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
+* [使用資料包](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
+* [部署執行個體](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html)
+* [與 Adobe Campaign Classic 整合](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html){target="_blank"}
 
 **第2節：自訂**
 
-* [JavaScript 指令碼和範本](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html?lang=en){target="_blank"}
+* [JavaScript 指令碼和範本](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
 * [資料模型最佳實務](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html?lang=zh-Hant){target="_blank"}
-* [建立及管理操作者](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html?lang=en){target="_blank"}
-* [管理對資料夾的存取](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html?lang=en){target="_blank"}
+* [建立及管理操作者](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
+* [管理對資料夾的存取](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
 
 **第3節：資料架構**
 
-* [ [!DNL Campaign Classic]  [!DNL Campaign] 從 v7 過渡到 v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=en){target="_blank"}
-* [使用來源和目的地](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=zh-Hant){target="_blank"}
-* [特定FFDA Campaign API](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html?lang=en){target="_blank"}
-* [關於Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html?lang=en){target="_blank"}
+* [ [!DNL Campaign Classic]  [!DNL Campaign] 從 v7 過渡到 v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=zh-Hant){target="_blank"}
+* [使用來源和目的地](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
+* [特定FFDA Campaign API](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
+* [關於Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html){target="_blank"}
 
 **第4節：行銷活動、工作流程、傳遞和報告**
 
 * [工作流程最佳實務](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=zh-Hant){target="_blank"}
-* [設定及管理核准流程](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=en){target="_blank"}
-* [擴充](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=en){target="_blank"}
+* [設定及管理核准流程](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html){target="_blank"}
+* [擴充](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html){target="_blank"}
 * [匯入和匯出的最佳實務](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=zh-Hant){target="_blank"}
 
 ### 重新啟動您的認證
@@ -617,7 +617,7 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 **重新啟動認證的說明：**
 
-* **步驟1**  — 已成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"} 然後返回此頁面
+* **步驟1**  — 已成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 然後返回此頁面
 * **步驟2**  — 檢閱考試目標和資源
 * **步驟3**  — 參加並通過測驗
 
@@ -697,33 +697,33 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 **第1節：管理與維護**
 
-* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} （欄位管理、CRM同步、稽核軌跡、使用者管理、工作區和分割區、智慧列示、自訂欄位）
+* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （欄位管理、CRM同步、稽核軌跡、使用者管理、工作區和分割區、智慧列示、自訂欄位）
 * [Adobe [!DNL Marketo] 國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （與Salesforce同步，CRM整合）
 
 **第2節：行銷活動/行銷活動管理**
 
 * [Adobe [!DNL Marketo] 國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (隨機範例、具有資料值的智慧行銷活動、引發等待步驟、member.webinar url、行銷活動檢測器、篩選邏輯、在電子郵件中使用權杖、透過表單填寫建立銷售機會、資產和工作區、管理Forms)
-* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} (智慧清單、智慧行銷活動、需求產生Forms、需求產生事件、電子郵件行銷、建立方案、事件、稽核軌跡、使用方案、管理標籤、滴管培養、登陸頁面、權杖、管理其他整合、Webhook、方案成員自訂欄位、工作區和人員分割)
+* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (智慧清單、智慧行銷活動、需求產生Forms、需求產生事件、電子郵件行銷、建立方案、事件、稽核軌跡、使用方案、管理標籤、滴管培養、登陸頁面、權杖、管理其他整合、Webhook、方案成員自訂欄位、工作區和人員分割)
 
 **第3節：銷售機會管理**
 
 * [Adobe [!DNL Marketo] 國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （製作銷售機會生命週期計畫影片，從電子郵件取消訂閱）
-* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} (智慧行銷活動， [!DNL Marketo] Sales Insight、有趣的時刻、管理智慧清單中的人員、系統管理欄位)
+* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (智慧行銷活動， [!DNL Marketo] Sales Insight、有趣的時刻、管理智慧清單中的人員、系統管理欄位)
 
 **第4節：資料管理**
 
 * [Adobe [!DNL Marketo] 國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (維護潛在客戶退回電子郵件目錄、如何管理傳遞能力支援部落格的Marketo資料庫、 [!DNL Marketo] 活動資料保留政策 — 隱藏文章)
-* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} （電子郵件行銷硬退信和軟退信、報表型別、個人化、動態內容）
+* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （電子郵件行銷硬退信和軟退信、報表型別、個人化、動態內容）
 
 **第5節：報表**
 
 * [AdobeMarketo國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （設定贏取最佳實務文章）
-* [Experience League-Marketo Engage產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} （報表、績效分析、方案績效報表、編輯報表、方案會籍）
+* [Experience League-Marketo Engage產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （報表、績效分析、方案績效報表、編輯報表、方案會籍）
 
 **第6節：最佳實務**
 
 * [潛在客戶評分的最終指南](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
-* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} （使用方案、電子郵件行銷、A/B測試）
+* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （使用方案、電子郵件行銷、A/B測試）
 * [AdobeMarketo國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （請留意您的QA程式）
 
 ### 重新啟動您的認證
@@ -736,6 +736,6 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 ### 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

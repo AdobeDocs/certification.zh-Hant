@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E710" type="positive"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1607'
+source-wordcount: '1599'
 ht-degree: 0%
 
 ---
@@ -140,7 +140,7 @@ ht-degree: 0%
 * [建立店面主題](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-create.html){target="_blank"}
 * [主題繼承](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-inherit.html){target="_blank"}
 * [擴充版面](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-extend.html){target="_blank"}
-* [電子郵件通訊](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html?lang=en){target="_blank"}
+* [電子郵件通訊](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html){target="_blank"}
 * [自訂電子郵件範本](https://docs.magento.com/user-guide/marketing/email-template-custom.html){target="_blank"}
 * [電子郵件範本](https://docs.magento.com/user-guide/marketing/email-template-list.html){target="_blank"}
 * [翻譯](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
@@ -183,7 +183,7 @@ ht-degree: 0%
 * [自訂Knockout.js繫結](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/concepts/knockout-bindings.html){target="_blank"}
 * [繫結語法](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/){target="_blank"}
 * [jQuery Widget](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/){target="_blank"}
-* [新增 JavaScript 模組](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/frontend-development/add-javascript-module.html?lang=en){target="_blank"}
+* [新增 JavaScript 模組](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/frontend-development/add-javascript-module.html){target="_blank"}
 
 **第5節：管理設定和PageBuilder**
 
@@ -198,7 +198,7 @@ ht-degree: 0%
 **第6節：工具（CLI和Grunt）**
 
 * [命令列工具](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html#config-new-cli-intro){target="_blank"}
-* [[!DNL Commerce] 適用於開發人員 — 程式碼基底](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html?lang=en){target="_blank"}
+* [[!DNL Commerce] 適用於開發人員 — 程式碼基底](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html){target="_blank"}
 * [解除安裝模組](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/uninstall-modules.html){target="_blank"}
 * [管理擴充功能](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure-store/extensions.html){target="_blank"}
 * [設定操作模式](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/set-mode.html){target="_blank"}
@@ -209,7 +209,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
-> 以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+> 以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **現在您已成功登入，可直接存取下列連結。**
 
@@ -248,6 +248,6 @@ Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
 **問題**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

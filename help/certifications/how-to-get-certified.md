@@ -4,9 +4,9 @@ description: 瞭解如何取得Adobe認證。 取得認證之前、期間和之�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1462'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Adobe使用兩個廠商來管理受監督的考試： [!DNL PSI] 和 [!DNL Exami
 
 **請依照下列步驟報名參加認證考試：**
 
-* **步驟1：** 成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+* **步驟1：** 成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 * **步驟2：** 返回此網站，然後按一下「技術認證」。
 * **步驟3：** 選擇您的Adobe解決方案、認證等級和角色
 * **步驟4：** 請依照以下提供的步驟操作 **取得認證** 區段。
@@ -50,7 +50,7 @@ Adobe使用兩個廠商來管理受監督的考試： [!DNL PSI] 和 [!DNL Exami
 
 Adobe支援或考試供應商都無法處理重新排程和取消請求。 48小時以內的取消作業，除了考試費外，還須支付重排費用。
 
-完成考試後，您會收到臨時合格或不及格的通知。 填入最終分數最多可能需要72小時的時間。 您會在「 」的「歷史記錄」標籤下找到您的結果和分數報表。 [Adobe認證管理員](http://www.certmetrics.com/adobe){target="_blank"}.
+完成考試後，您會收到臨時合格或不及格的通知。 填入最終分數最多可能需要72小時的時間。 您會在「 」的「歷史記錄」標籤下找到您的結果和分數報表。 [Adobe認證管理員](https://www.certmetrics.com/adobe){target="_blank"}.
 
 如果您在第一次嘗試時未能通過Adobe認證考試，則必須至少等待24小時再重新考試。 若未能通過第二次或後續的考試，則需經過14個工作歷天的等候時間，才能再次參加考試。 每一次嘗試都將產生單獨的考試費用。
 
@@ -212,6 +212,6 @@ _所有銷售都是最終結果。_ 不接受退貨與退款。 Adobe考試憑�
 
 **問題**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

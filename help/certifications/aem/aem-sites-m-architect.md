@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Exam AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1662'
-ht-degree: 21%
+source-wordcount: '1570'
+ht-degree: 17%
 
 ---
 
@@ -123,87 +123,87 @@ ht-degree: 21%
 
 **第1節：探索**
 
-* [AEM 6.5 Developing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
-* [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=en){target="_blank"}
-* [AEM 6.4 Mobile 使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html?lang=en){target="_blank"}
-* [AEM Assets影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=en){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] 文件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=zh-Hant){target="_blank"}
-* [Adobe [!DNL Experience Manager] 6.5 Communities指南](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html?lang=en){target="_blank"}
-* [AEM Sites影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
-* [AEM 6.5 Managing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html?lang=en){target="_blank"}
+* [AEM 6.5 Developing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
+* [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
+* [AEM 6.4 Mobile 使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
+* [AEM Assets影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] 文件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [Adobe [!DNL Experience Manager] 6.5 Communities指南](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
+* [AEM Sites影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
+* [AEM 6.5 Managing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
 * [AEM as a cloud service簡介](http://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
-* [Cloud Manager 簡介](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=zh-Hant){target="_blank"}
-* [AEM Foundation影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=en){target="_blank"}
+* [Cloud Manager 簡介](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
+* [AEM Foundation影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
 * [HTTP/2簡介](https://developers.google.com/web/fundamentals/performance/http2){target="_blank"}
-* [標記總覽](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=zh-Hant){target="_blank"}
-* [AEM 和 Adobe Target 快速入門](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-target-tutorial/overview.html?lang=en){target="_blank"}
+* [標記總覽](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
+* [AEM 和 Adobe Target 快速入門](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-target-tutorial/overview.html){target="_blank"}
 
 **第2節：解決方案設計**
 
-* [AEM Assets影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=en){target="_blank"}
+* [AEM Assets影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
 * [SPA/SEO： Google第一頁的單頁應用程式指南](https://snipcart.com/spa-seo){target="_blank"}
 * [Sling內容感知設定](https://cqdump.wordpress.com/2018/04/24/sling-context-aware-configuration/){target="_blank"}
 * [會議交談： Sling內容感知設定](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
-* [AEM Sites影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
+* [AEM Sites影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 * [如何根據AEM 6.4中的範本顯示/隱藏頁面屬性](https://blogs.perficient.com/2019/01/03/how-to-show-hide-page-properties-based-on-page-template-in-aem-6-4/){target="_blank"}
 * [AEM Granite自訂轉譯條件](http://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
 * [在React應用程式中防止XSS](https://dev.to/spukas/preventing-xss-in-react-applications-5f5j){target="_blank"}
-* [AEM 6.5 管理使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
-* [AEM 6.4 Mobile 使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html?lang=en){target="_blank"}
-* [核心元件簡介](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=zh-Hant){target="_blank"}
-* [AEM 6.5 Authoring 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
-* [AEM Sites影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
-* [AEM Screens最佳作法](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html?lang=en){target="_blank"}
+* [AEM 6.5 管理使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
+* [AEM 6.4 Mobile 使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
+* [核心元件簡介](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html){target="_blank"}
+* [AEM 6.5 Authoring 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
+* [AEM Sites影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
+* [AEM Screens最佳作法](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html){target="_blank"}
 * [Adobe說明檔案](https://helpx.adobe.com/tw/enterprise/using/adobe-asset-link.html){target="_blank"}
-* [AEM 6.5 Forms指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
-* [AEM 6.5 管理使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
-* [Dispatcher 總覽](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
+* [AEM 6.5 Forms指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [AEM 6.5 管理使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
+* [Dispatcher 總覽](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
 * [如何清除AEM中的Dispatcher快取](https://www.axamit.com/blog/adobe/dispatcher-4#:~:text=At%20the%20low%20level%20dispatcher,the%20root%20of%20htdocs%20directory.){target="_blank"}
 * [AEM Cloud Service Dispatcher轉換工具](https://github.com/adobe/aem-cloud-service-dispatcher-converter){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] 概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=zh-Hant){target="_blank"}
-* [HTL 指南](https://experienceleague.adobe.com/docs/experience-manager-htl/content/overview.html?lang=zh-Hant){target="_blank"}
-* [[!DNL AEM Sites as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/home.html?lang=en){target="_blank"}
-* [AEM 6.4 Deploying使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=zh-Hant){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] 概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [HTL 指南](https://experienceleague.adobe.com/docs/experience-manager-htl/content/overview.html){target="_blank"}
+* [[!DNL AEM Sites as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/home.html){target="_blank"}
+* [AEM 6.4 Deploying使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
 
 **第3節：實作**
 
-* [AEM 6.5 Deploying使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=zh-Hant){target="_blank"}
-* [Adobe 企業產品說明文件](https://experienceleague.adobe.com/docs/?lang=zh-Hant){target="_blank"}
-* [Adobe [!DNL Experience Manager] 案頭應用程式總覽](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html?lang=en){target="_blank"}
-* [AEM Foundation 影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=en){target="_blank"}
+* [AEM 6.5 Deploying使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
+* [Adobe 企業產品說明文件](https://experienceleague.adobe.com/docs/){target="_blank"}
+* [Adobe [!DNL Experience Manager] 案頭應用程式總覽](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html){target="_blank"}
+* [AEM Foundation 影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
 * [Adobe Admin Console上的身分型別](https://helpx.adobe.com/ca/enterprise/using/identity.html){target="_blank"}
-* [Dispatcher 總覽](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
-* [AEM Sites 影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
+* [Dispatcher 總覽](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
+* [AEM Sites 影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 * [Cloud Manager 簡介](https://docs.adobe.com/content/help/zh-Hant/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html){target="_blank"}
-* [Adobe Target 指南](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [AEM 6.5 Authoring 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
-* [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=en){target="_blank"}
-* [AEM Assets 影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=en){target="_blank"}
-* [AEM 6.4 Deploying使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=zh-Hant){target="_blank"}
-* [Experience Manager as a Cloud Service 概覽](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=zh-Hant){target="_blank"}
+* [Adobe Target 指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
+* [AEM 6.5 Authoring 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
+* [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
+* [AEM Assets 影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
+* [AEM 6.4 Deploying使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
+* [Experience Manager as a Cloud Service 概覽](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 
 
 **第4節：資產型別**
 
-* [AEM 6.5 管理使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
+* [AEM 6.5 管理使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [Oak TarMK記憶體對應檔案](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/oak-tarmk-memory-mapped-files/td-p/218220){target="_blank"}
-* [Dispatcher 總覽](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
+* [Dispatcher 總覽](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
 * [Apache Sling：資源解析的對應](https://sling.apache.org/documentation/the-sling-engine/mappings-for-resource-resolution.html){target="_blank"}
 * [AEM搜尋與Solr搜尋](https://blog.3sharecorp.com/aem-search-vs.-solr-search){target="_blank"}
 * [TarMK：事實與資料](https://adapt.to/content/dam/adaptto/production/presentations/2017/adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf/_jcr_content/renditions/original./adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf){target="_blank"}
-* [Cloud Manager 簡介](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=zh-Hant){target="_blank"}
+* [Cloud Manager 簡介](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
 * [Cloud Manager：快速入門](https://developer.adobe.com/experience-cloud/cloud-manager/guides/getting-started/){target="_blank"}
 * [CQBufferedImageCache會在資產上傳期間消耗棧積](https://helpx.adobe.com/experience-manager/kb/cqbufferedimagecache-consumes-heap-during-asset-uploads.html){target="_blank"}
-* [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=en){target="_blank"}
-* [AEM Dispatcher 快取教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/overview.html?lang=en){target="_blank"}
+* [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
+* [AEM Dispatcher 快取教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/overview.html){target="_blank"}
 * [Lucene索引](https://jackrabbit.apache.org/oak/docs/query/lucene.html){target="_blank"}
-* [AEM 6.4 Developing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
+* [AEM 6.4 Developing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
 
 >[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **現在您已成功登入，可直接存取下列連結。**
 
@@ -232,6 +232,6 @@ Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
 **問題**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

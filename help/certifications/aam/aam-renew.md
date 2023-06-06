@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1134'
+source-wordcount: '1132'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 2%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -44,7 +44,7 @@ ht-degree: 2%
 
 ## 更新認證的說明：
 
-* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟1**：成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
 * **步驟2**：檢閱考試目標和資源
 * **步驟3**：參加並通過測驗
 
@@ -108,7 +108,7 @@ ht-degree: 2%
 
 **重新啟動您的認證**
 
-請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要續約您的認證，請按一下下方的Adobe Audience Manager商務從業者專家 — AD5-E826連結。
+請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要續約您的認證，請按一下下方的Adobe Audience Manager商務從業者專家 — AD5-E826連結。
 
 [!BADGE 參加Adobe Audience Manager商務從業人員專家更新考試AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
 
@@ -189,7 +189,7 @@ ht-degree: 2%
 
 ### 更新您的認證
 
-請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要續約您的認證，請按一下下方的Adobe Audience Manager Architect主要續約 — AD5-E825連結。
+請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要續約您的認證，請按一下下方的Adobe Audience Manager Architect主要續約 — AD5-E825連結。
 
 [!BADGE 參加Adobe Audience Manager Architect主要更新考試AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
 
@@ -202,6 +202,6 @@ ht-degree: 2%
 
 ### 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

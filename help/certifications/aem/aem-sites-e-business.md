@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1402'
-ht-degree: 5%
+source-wordcount: '1328'
+ht-degree: 8%
 
 ---
 
@@ -113,28 +113,28 @@ ht-degree: 5%
 
 **第1節：教育**
 
-* [AEM 6.5 Developing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
-* [瞭解AEM 6.5功能](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"}
-* [AEM [!DNL Sites] 影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
-* [啟動](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=en){target="_blank"}
-* [作者的首要步驟](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html?lang=en){target="_blank"}
-* [內容編輯最佳實務](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html?lang=en){target="_blank"}
-* [建立及組織頁面](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html?lang=en){target="_blank"}
-* [製作和發佈的概念](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/author.html?lang=en){target="_blank"}
+* [AEM 6.5 Developing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
+* [瞭解AEM 6.5功能](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
+* [AEM [!DNL Sites] 影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
+* [啟動](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=zh-Hant){target="_blank"}
+* [作者的首要步驟](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html){target="_blank"}
+* [內容編輯最佳實務](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html){target="_blank"}
+* [建立及組織頁面](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html){target="_blank"}
+* [製作和發佈的概念](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/author.html){target="_blank"}
 
 **第2節：架構**
 
 * [Adobe簡介 [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"}
-* [瞭解AEM 6.5功能](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Manager] 檔案](https://experienceleague.adobe.com/docs/experience-manager.html?lang=en){target="_blank"}
-* [與協力廠商服務整合](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html?lang=en)
-* [解決方案整合](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/integration.html?lang=en){target="_blank"}
-* [[!DNL Experience Cloud] 整合概述](https://experienceleague.adobe.com/docs/core-services/interface/administration/marketing-cloud-integrations.html?lang=en){target="_blank"}
-* [管理使用者角色和許可權](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=en){target="_blank"}
-* [角色與權限](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/c-mob-roles-and-permissions.html?lang=en){target="_blank"}
+* [瞭解AEM 6.5功能](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
+* [Adobe [!DNL Experience Manager] 檔案](https://experienceleague.adobe.com/docs/experience-manager.html){target="_blank"}
+* [與協力廠商服務整合](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html)
+* [解決方案整合](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/integration.html){target="_blank"}
+* [[!DNL Experience Cloud] 整合概述](https://experienceleague.adobe.com/docs/core-services/interface/administration/marketing-cloud-integrations.html){target="_blank"}
+* [管理使用者角色和許可權](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html){target="_blank"}
+* [角色與權限](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/c-mob-roles-and-permissions.html){target="_blank"}
 * [用戶、角色和權限](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/users-roles-permissions.html){target="_blank"}
-* [管理使用者、群組和使用者角色](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en){target="_blank"}
-* [快取安全內容](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/permissions-cache.html?lang=en){target="_blank"}
+* [管理使用者、群組和使用者角色](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html){target="_blank"}
+* [快取安全內容](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/permissions-cache.html?lang=zh-Hant){target="_blank"}
 * [第1章 — Dispatcher概念、模式和反模式](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-1.html){target="_blank"}
 * [第2章 — 基礎結構](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-2.html){target="_blank"}
 * [第3章 — 進階快取主題](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-3.html){target="_blank"}
@@ -142,36 +142,36 @@ ht-degree: 5%
 **第3節：業務分析**
 
 * [在AEM中開發全球網站](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"}
-* [AEM核心概念](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=en){target="_blank"}
-* [元件總覽](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html?lang=en){target="_blank"}
-* [內容架構](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html?lang=en){target="_blank"}
-* [管理專案 — 最佳實務檢查清單](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html?lang=en){target="_blank"}
-* [限定範圍專案的考量](https://experienceleague.adobe.com/docs/experience-manager-screens/using/strategic-brief/pre-sales-considerations.html?lang=en){target="_blank"}
+* [AEM核心概念](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html){target="_blank"}
+* [元件總覽](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
+* [內容架構](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html){target="_blank"}
+* [管理專案 — 最佳實務檢查清單](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html){target="_blank"}
+* [限定範圍專案的考量](https://experienceleague.adobe.com/docs/experience-manager-screens/using/strategic-brief/pre-sales-considerations.html){target="_blank"}
 * [交付與規劃方法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/planning/delivery.html){target="_blank"}
-* [使用者體驗原型設計](https://experienceleague.adobe.com/docs/experience-manager-screens/using/design-brief/prototypes.html?lang=en){target="_blank"}
-* [管理法律合約](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html?lang=en){target="_blank"}
-* [角色和專案階段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intro-to-platform/roles-and-project-phases.html?lang=en){target="_blank"}
-* [Adobe Experience Manager與Creative Cloud整合最佳實務](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=zh-Hant){target="_blank"}
-* [管理專案 — 最佳實務檢查清單](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html?lang=en){target="_blank"}
-* [資源](https://experienceleague.adobe.com/docs/commerce-operations/operational-playbook/people/resources.html?lang=en){target="_blank"}
-* [檢查清單 — 進一步參考](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices-further-reference.html?lang=en){target="_blank"}
+* [使用者體驗原型設計](https://experienceleague.adobe.com/docs/experience-manager-screens/using/design-brief/prototypes.html){target="_blank"}
+* [管理法律合約](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html?lang=zh-Hant){target="_blank"}
+* [角色和專案階段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intro-to-platform/roles-and-project-phases.html){target="_blank"}
+* [Adobe Experience Manager與Creative Cloud整合最佳實務](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html){target="_blank"}
+* [管理專案 — 最佳實務檢查清單](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html){target="_blank"}
+* [資源](https://experienceleague.adobe.com/docs/commerce-operations/operational-playbook/people/resources.html){target="_blank"}
+* [檢查清單 — 進一步參考](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices-further-reference.html){target="_blank"}
 
 
 **第4節：設定與實作**
 
-* [AEM 6.4 Developing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
-* [AEM開發 — 指導方針與最佳作法](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=en){target="_blank"}
-* [元件概觀](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html?lang=en){target="_blank"}
-* [元件指引](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html?lang=en){target="_blank"}
-* [元件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/components.html?lang=en){target="_blank"}
-* [核心元件的本地化功能](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html?lang=en){target="_blank"}
-* [搜尋功能](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html?lang=en){target="_blank"}
+* [AEM 6.4 Developing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
+* [AEM開發 — 指導方針與最佳作法](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html){target="_blank"}
+* [元件概觀](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
+* [元件指引](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html){target="_blank"}
+* [元件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/components.html){target="_blank"}
+* [核心元件的本地化功能](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html){target="_blank"}
+* [搜尋功能](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html){target="_blank"}
 
 >[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **現在您已成功登入，可直接存取下列連結。**
 
@@ -210,6 +210,6 @@ Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
 **問題**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

@@ -7,10 +7,10 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: bc3c4c4ebf3b3c34bbf21409040856a8b0dd1135
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1074'
-ht-degree: 4%
+source-wordcount: '1060'
+ht-degree: 3%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 4%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -44,7 +44,7 @@ ht-degree: 4%
 
 ## 更新認證的說明：
 
-* **步驟1**：成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟1**：成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
 * **步驟2**：檢閱考試目標和資源
 * **步驟3**：參加並通過測驗
 
@@ -124,38 +124,38 @@ ht-degree: 4%
 
 **第1節：管理與維護**
 
-* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} （欄位管理、CRM同步、稽核軌跡、使用者管理、工作區和分割區、智慧列示、自訂欄位）
+* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （欄位管理、CRM同步、稽核軌跡、使用者管理、工作區和分割區、智慧列示、自訂欄位）
 * [AdobeMarketo國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （與Salesforce同步，CRM整合）
 
 **第2節：行銷活動/行銷活動管理**
 
 * [AdobeMarketo國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (隨機範例、具有資料值的智慧行銷活動、引發等待步驟、member.webinar url、行銷活動檢測器、篩選邏輯、在電子郵件中使用權杖、透過表單填寫建立銷售機會、資產和工作區、管理Forms)
-* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} (智慧清單、智慧行銷活動、需求產生Forms、需求產生事件、電子郵件行銷、建立方案、事件、稽核軌跡、使用方案、管理標籤、滴管培養、登陸頁面、權杖、管理其他整合、Webhook、方案成員自訂欄位、工作區和人員分割)
+* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (智慧清單、智慧行銷活動、需求產生Forms、需求產生事件、電子郵件行銷、建立方案、事件、稽核軌跡、使用方案、管理標籤、滴管培養、登陸頁面、權杖、管理其他整合、Webhook、方案成員自訂欄位、工作區和人員分割)
 
 **第3節：銷售機會管理**
 
 * [AdobeMarketo國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （製作銷售機會生命週期計畫影片，從電子郵件取消訂閱）
-* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} (智慧行銷活動、Marketo Sales Insight、有趣的時刻、管理智慧清單中的人員、系統管理的欄位)
+* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (智慧行銷活動、Marketo Sales Insight、有趣的時刻、管理智慧清單中的人員、系統管理的欄位)
 
 **第4節：資料管理**
 
 * [AdobeMarketo國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (維護潛在客戶跳出電子郵件目錄、如何管理您的Marketo資料庫以提供傳遞能力支援部落格、Marketo活動資料保留政策 — 在標題文章下)
-* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} （電子郵件行銷硬退信和軟退信、報表型別、個人化、動態內容）
+* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （電子郵件行銷硬退信和軟退信、報表型別、個人化、動態內容）
 
 **第5節：報表**
 
 * [AdobeMarketo國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （設定贏取最佳實務文章）
-* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} （報表、績效分析、方案績效報表、編輯報表、方案會籍）
+* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （報表、績效分析、方案績效報表、編輯報表、方案會籍）
 
 **第6節：最佳實務**
 
 * [潛在客戶評分的最終指南](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
-* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} （使用方案、電子郵件行銷、A/B測試）
+* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （使用方案、電子郵件行銷、A/B測試）
 * [AdobeMarketo國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （請留意您的QA程式）
 
 ### 更新您的認證
 
-請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要續約您的認證，請按一下下方的Marketo Engage商務從業者專家續約連結。
+請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要續約您的認證，請按一下下方的Marketo Engage商務從業者專家續約連結。
 
 [！BADGE取得Adobe [!DNL Marketo Engage] 商務從業人員專家更新考試AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
 
@@ -168,6 +168,6 @@ ht-degree: 4%
 
 ### 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.

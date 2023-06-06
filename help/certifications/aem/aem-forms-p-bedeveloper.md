@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E127" type="positive"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '980'
-ht-degree: 7%
+source-wordcount: '952'
+ht-degree: 6%
 
 ---
 
@@ -118,36 +118,36 @@ ht-degree: 7%
 
 **第1節：Forms建立與管理**
 
-* [Adobe Experience Manager 6.5 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
-* [AEM Forms資料整合](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html?lang=en#data-integration-overview){target="_blank"}
-* [AEM Forms教學課程和影片](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=en){target="_blank"}
-* [AEM 6.5 Developing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
+* [Adobe Experience Manager 6.5 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [AEM Forms資料整合](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html#data-integration-overview){target="_blank"}
+* [AEM Forms教學課程和影片](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html){target="_blank"}
+* [AEM 6.5 Developing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 
 **第2節：程式與工作流程**
 
-* [Adobe Experience Manager 6.5 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
-* [Adobe Experience Manager 6.4 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html?lang=en){target="_blank"}
+* [Adobe Experience Manager 6.5 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [Adobe Experience Manager 6.4 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
 * [管理端點](https://help.adobe.com/en_US/AEMForms/6.1/AdminHelp/WS92d06802c76abadb-5145d5d12905ce07e7-7ff6.2.html#WS92d06802c76abadb1c01fa7512905cdf2c9-7fd9.2){target="_blank"}
 
 **第3節：管理與疑難排解**
 
 * [疑難排解記錄檔的安裝問題 |Creative Cloud](https://helpx.adobe.com/creative-cloud/kb/troubleshoot-install-logs-cc.html){target="_blank"}
-* [AEM 6.4 管理使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
-* [Adobe Experience Manager 6.5 發行說明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/home.html?lang=en){target="_blank"}
-* [Adobe Experience Manager 6.5 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
-* [Dispatcher 總覽](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
-* [AEM 6.5 Authoring 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
+* [AEM 6.4 管理使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
+* [Adobe Experience Manager 6.5 發行說明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/home.html){target="_blank"}
+* [Adobe Experience Manager 6.5 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [Dispatcher 總覽](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
+* [AEM 6.5 Authoring 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 
 **第4節：API端點與整合**
 
-* [Experience Manager as a Cloud Service 文件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=zh-Hant){target="_blank"}
-* [Adobe Experience Manager 6.4 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html?lang=en){target="_blank"}
+* [Experience Manager as a Cloud Service 文件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [Adobe Experience Manager 6.4 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
 
 >[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **現在您已成功登入，可直接存取下列連結。**
 
@@ -176,6 +176,6 @@ Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
 **問題**
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
