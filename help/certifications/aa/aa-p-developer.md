@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 50ab6e6f0fc5626e1da8843fd3a1abf09f966803
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 10%
@@ -61,7 +61,7 @@ ht-degree: 10%
 * 時間：100分鐘
 * 傳遞：線上監護（需要相機存取）
 * 可用語言：英文
-* 費用：125美元（全球）和950美元（印度）
+* 費用：125美元（全球）和95美元（印度）
 * 考試ID：AD0-E213
 
 **考試目標與範圍**
