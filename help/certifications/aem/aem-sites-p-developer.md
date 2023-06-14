@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: 7a1c1e69c6451e485fecca587a70f15aa9991f95
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 10%
+source-wordcount: '850'
+ht-degree: 11%
 
 ---
 
@@ -117,9 +117,9 @@ ht-degree: 10%
 
 **第4節：環境維護**
 
-* [AEM 6.4 Deploying使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
-* [AEM 6.4 Developing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
-* [操作控制面板](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html#automated-maintenance-tasks){target="_blank"}
+* [AEM 6.4 Deploying使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=zh-Hant){target="_blank"}
+* [AEM 6.4 Developing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
+* [操作控制面板](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en#automated-maintenance-tasks){target="_blank"}
 * [Adobe版本注意事項 [!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] 概覽](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 * [核心元件簡介](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html)

@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 55f2a24ee7ecc3a79b82c85402818e0a219d3d03
 workflow-type: tm+mt
-source-wordcount: '3068'
+source-wordcount: '3755'
 ht-degree: 0%
 
 ---
@@ -220,6 +220,111 @@ ht-degree: 0%
 請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要續約您的認證，請按一下下面的Workfront Project Manager Professional續約 — AD5-833連結。
 
 * [Workfront專案經理專業更新 — AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
+
+>[!NOTE]
+>
+>此測驗是免費的、公開的書本，而且沒有監考。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
+
++++
+
++++Workfront核心開發人員專業版
+
+## 更新認證的說明：
+
+* **步驟1**：成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟2**：檢閱考試目標和資源
+* **步驟3**：參加並通過測驗
+
+### 準備就緒
+
+**考試詳細資料：**
+
+* 及格分數：25/35
+* 時間：70分鐘
+* 費用：免費/非保管
+* 傳遞：隨選
+* 可用語言：英文
+* 先決條件：最新（未過期） Adobe Workfront Core Developer Professional認證
+* 考試ID：AD5-E835
+
+**範圍和目標**
+
+第1節：策略與輸入(20%)
+
+* 使用Portfolio和計畫
+* 使用請求佇列
+* 使用自訂Forms
+
+第2款：預算與規劃(11%)
+
+* 使用資源規劃工具
+
+區段3：使用者體驗(26%)
+
+* 說明建立正確使用者體驗時使用者管理的最佳實務
+* 在特定的情況下，請套用在整個系統內共用和存取許可權的正確設定
+* 說明藍圖是什麼，並識別何時使用
+* 示範如何建立和使用時程表
+* 說明聯結器、外掛程式和附加元件的用途和價值
+
+第4節：量度和報表(14%)
+
+* 說明建立、傳送及自訂報表的基本概念
+* 說明如何建置和自訂儀表板
+
+第5節：執行(29%)
+
+* 示範如何設定核准和校訂工作流程
+* 瞭解為專案建立問題的目的
+* 示範如何自訂群組層級專案狀態
+* 確定在Workfront中啟用Agile所需的屬性
+* 確定在Workfront中輸入時間的方法
+
+## 準備就緒
+
+您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+
+以下是一些協助您準備的建議資源：
+
+**第1節：策略與輸入**
+
+* [Portfolio最佳化工具概觀](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html?lang=en){target="_blank"}
+* [建立及管理請求佇列](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html?lang=en){target="_blank"}
+* [提供請求佇列的存取權](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/provide-access-to-request-queues.html?lang=en){target="_blank"}
+* [自訂表單概觀](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
+
+**第2節：預算與計畫**
+
+* [找到工作負載平衡器](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer.html?lang=en){target="_blank"}
+* [使用工作負載平衡器大量指派工作](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
+* [在工作負載平衡器中管理使用者配置](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer.html?lang=en){target="_blank"}
+
+**第3節：使用者體驗**
+
+* [何時及如何停用或刪除使用者](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html?lang=en){target="_blank"}
+* [共用專案範本](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html?lang=en){target="_blank"}
+* [安裝Blueprint後要採取的動作](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/best-next-actions-after-install.html?lang=en){target="_blank"}
+* [建立一次性使用時程表](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-tmshts.html?lang=en){target="_blank"}
+
+**第4節：度量和報表**
+
+* [Adobe Workfront整合](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/workfront-integrations-1.html?lang=en){target="_blank"}
+* [使用Adobe Workfront外掛程式進行Creative Cloud](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=en){target="_blank"}
+* [傳送和共用報表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html?lang=en){target="_blank"}
+* [建立儀表板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en){target="_blank"}
+
+**第5節：執行**
+
+* [在Adobe Workfront中將問題轉換為專案](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html?lang=en){target="_blank"}
+* [建立或編輯展示板](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en){target="_blank"}
+* [從展示板新增或移除成員](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html?lang=en){target="_blank"}
+* [瞭解時程表配置](https://experienceleague.adobe.com/docs/workfront/using/timesheets/details/timesheet-layout.html?lang=en){target="_blank"}
+
+## 更新您的認證
+
+請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要續約您的認證，請按一下下方的Workfront Core Developer Professional續約 — AD5-835連結。
+
+* [Workfront Core Developer Professional續約 — AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
 
 >[!NOTE]
 >
