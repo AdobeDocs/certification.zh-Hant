@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="Exam AD0-E721" type="positive"
 mini-toc-levels: 1
-source-git-commit: 71d01a071a98d82ef8abcd4518b4596ca6834466
+source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
 workflow-type: tm+mt
-source-wordcount: '1144'
+source-wordcount: '1057'
 ht-degree: 0%
 
 ---
@@ -169,15 +169,7 @@ ht-degree: 0%
 
 **現在您已成功登入，可直接存取下列連結。**
 
-**參加練習測試**
-
-建議您開始前先參加免費的練習測試。 您將可以不受限制地存取所有可用的練習測試，以進行Adobe的專家級考試。
-
-我們的練習測試都是從與即時考試相同的藍圖開發的。 練習測試有助於您瞭解即時測試涵蓋的主題。
-
-請記住，通過練習測驗並不保證您會通過認證測驗。
-
-前往 [Adobe認證考試準備入口網站](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 現在進行練習測試。
+**練習測試即將推出**
 
 **參加認證考試**
 
