@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E719" type="positive"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: ee0b33e8a1cef382fb28926b2b0a69395fe6cc2c
 workflow-type: tm+mt
-source-wordcount: '1174'
+source-wordcount: '1198'
 ht-degree: 1%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 1%
 # Adobe的認證歷程 [!DNL Commerce] 前端開發人員專業版
 
 瞭解如何成為認證Adobe Developer專業人員。
+
+>[!NOTE]
+>
+>此測驗Adobe Commerce前端開發人員專業版(AD0-E719)已更新。 如果您已開始學習或排程接受此版本，請務必在2023年8月18日之前完成。 如果您正開始使用，建議您參加 [此測驗的最新版本](ac-p-fedeveloper0623.md).
 
 ## 最低體驗
 
@@ -41,10 +45,6 @@ ht-degree: 1%
 * 對XML的基本瞭解
 * 瞭解開箱即用的SEO、最佳化及效能技術
 * 基本瞭解規範連結，以及合併JavaScript和CSS
-
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
