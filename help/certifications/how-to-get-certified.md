@@ -4,7 +4,7 @@ description: 瞭解如何取得Adobe認證。 取得認證之前、期間和之�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
 workflow-type: tm+mt
 source-wordcount: '1462'
 ht-degree: 1%
@@ -210,7 +210,7 @@ _所有銷售都是最終結果。_ 不接受退貨與退款。 Adobe考試憑�
 
 >[!ENDTABS]
 
-**問題**
+## 問題
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

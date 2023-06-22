@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E719" type="positive"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: ee0b33e8a1cef382fb28926b2b0a69395fe6cc2c
+source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
 workflow-type: tm+mt
-source-wordcount: '1198'
+source-wordcount: '1079'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 ## 最低體驗
 
-您應該擁有0到12個月的Adobe實作經驗 [!DNL Commerce] 前端開發，以及搭配技術解決方案提供個別元件的能力。
+您應該擁有0至12個月的Adobe實作經驗 [!DNL Commerce] 前端開發，以及搭配技術解決方案提供個別元件的能力。
 
 此外，您應展示下列技術的知識：
 
@@ -176,34 +176,39 @@ ht-degree: 1%
 >[!IMPORTANT]
 >
 >以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新安排約會。*
 
 
-**現在您已成功登入，可直接存取下列連結。**
+## 關於測驗
 
-**參加認證考試**
+{{about-certification-exam}}
 
-Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
+## 參加測驗(AD0-E719)
 
-* **PSI** 提供測試中心和日文考試選項（如果有的話）
-* **[!DNL Examity]** 提供遠端線上選項
+### 可用選項
 
-若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
+**PSI** (*測試中心/日文考試選項（可用時）*)
 
-您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E719" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
+<span class="spectrum-Button-label has-no-wrap">
+   參加測驗
+</span>
+</a>
 
-### 考試編號：AD0-E719
+**[!DNL Examity]** ( *線上* )
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E719 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
+<span class="spectrum-Button-label has-no-wrap">
+   參加測驗
+</span>
+</a>
 
 >[!ENDTABS]
 
-**問題**
+## 問題
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

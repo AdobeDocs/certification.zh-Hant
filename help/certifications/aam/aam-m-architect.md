@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Exam AD0-E454" type="positive"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '832'
-ht-degree: 11%
+source-wordcount: '733'
+ht-degree: 12%
 
 ---
 
@@ -142,28 +142,36 @@ ht-degree: 11%
 >以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**現在您已成功登入，可直接存取下列連結。**
 
-**參加認證考試**
+## 關於測驗
 
-Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
+{{about-certification-exam}}
 
-* **PSI** 提供測試中心和日文考試選項（如果有的話）
-* **[!DNL Examity]** 提供遠端線上選項
+## 參加測驗(AD0-E454)
 
-若要排程、重新排程或取消考試，請選取廠商並依照熒幕提供的指示進行。 就是這麼簡單！
+### 可用選項
 
-### 考試編號：AD0-E454
+**PSI** (*測試中心/日文考試選項（可用時）*)
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
+<span class="spectrum-Button-label has-no-wrap">
+   參加測驗
+</span>
+</a>
 
-您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
+**[!DNL Examity]** ( *線上* )
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   參加測驗
+</span>
+</a>
 
 >[!ENDTABS]
 
-**問題**
+## 問題
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

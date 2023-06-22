@@ -6,18 +6,20 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: d5652cf017236ac3220a4cff520bd6e7d22a57d6
 workflow-type: tm+mt
-source-wordcount: '5189'
+source-wordcount: '5163'
 ht-degree: 8%
 
 ---
 
 # 從已過期變成已認證，重新開始您的認證歷程
 
-此限時計畫，已提供 **2023年4月24日至2023年10月20日**，讓您有機會更新技能，並在快速變化的數位環境中保持領先地位。
-
-凡在2020年至2023年4月23日之間認證過期的個人，均符合此資格 **免費** 程式。
+>[!AVAILABILITY]
+>
+> 此限時計畫，提供自 **2023年4月24日至2023年10月20日**.  計畫提供機會，讓您更新技能，在快速變化的數位環境中保持領先地位。
+>
+> 資**資格：認證從2020年到2023年4月23日到期的個人有資格享受此資格 **免費** 程式。
 
 ## 簡介
 
@@ -107,7 +109,7 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 | [匯出和民主化Adobe Analytics資料 — 第5和第6課](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADS-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA202){target="_blank"} |
 | [使用自訂分段和日期篩選資料 — 第2課](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADS-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA203){target="_blank"} |
 | [引導式Analytics實施 — 第5課](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA204){target="_blank"} |
-| [ 實作與測量內部網站搜尋 — 第3和第4課](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
+| [實作與測量內部網站搜尋 — 第3和第4課](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
 | [Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
 
 >[!NOTE]
@@ -210,12 +212,9 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是建議的資源，
 
-[!BADGE 範例問題]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
-
-**資源:**
-
+* [範例考試](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] 產品檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe支援 —  [!DNL Experience Cloud] 受眾](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
 * [[!DNL Experience Cloud] 學習與支援](https://helpx.adobe.com/support/experience-cloud.html){target="_blank"}
@@ -223,9 +222,14 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 **重新啟動您的認證**
 
-此測驗是免費的、公開的書本，而且沒有監考。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
+Adobe Audience Manager商務從業者專家重新開始考試ADS-E826是免費的、公開的書，而且不接受監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
-[!BADGE 參加Adobe Audience Manager商務從業人員專家重新開始的考試ADS-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E826 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E82" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   參加測驗
+</span>
+</a>
 
 +++
 
@@ -319,9 +323,14 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 ### 重新啟動您的認證
 
-此測驗是免費的、公開的書本，而且沒有監考。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
+Adobe Audience Manager Architect主要複習考試ADS-E825是免費的、公開的書籍，而且未接受監考。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
-[!BADGE 參加Adobe Audience Manager Architect主要複習測驗ADS-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   參加測驗
+</span>
+</a>
 
 +++
 
@@ -429,9 +438,14 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 ### 重新啟動您的認證
 
-此測驗是免費的、公開的書本，而且沒有監考。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
+Adobe [!DNL Campaign Standard] Developer Expert重新開始考試ADS-821是免費的、公開的書本，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
-[！BADGE取得Adobe [!DNL Campaign Standard] Developer Expert重新開始考試ADS-821]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821 newtab=true&quot;}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   參加測驗
+</span>
+</a>
 
 +++
 
@@ -502,9 +516,14 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 ### 重新啟動您的認證
 
-此測驗是免費的、公開的書本，而且沒有監考。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
+Adobe [!DNL Campaign Standard] 商務從業者專家複習測驗ADS-822免費、開箱預約，且不受監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
-[！BADGE取得Adobe [!DNL Campaign Standard] 商務從業人員專家重新開始考試ADS-822]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822 newtab=true&quot;}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   參加測驗
+</span>
+</a>
 
 +++
 
@@ -607,9 +626,14 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 ### 重新啟動您的認證
 
-此測驗是免費的、公開的書本，而且沒有監考。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
+Adobe Campaign Classic複習測驗ADS-823是免費的、公開的書，且未接受監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
-[!BADGE 參加Adobe Campaign Classic複習測驗ADS-823]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   參加測驗
+</span>
+</a>
 
 +++
 
@@ -728,13 +752,18 @@ Adobe重新開機計畫是一項計畫，可讓個人過期 [!DNL Experience Clo
 
 ### 重新啟動您的認證
 
-此測驗是免費的、公開的書本，而且沒有監考。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
+Adobe Marketo Engage商務從業者專家重新開始考試ADS-E824是免費的、公開的書，而且是未經監督的。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
-[!BADGE 參加Adobe Marketo Engage商務從業人員專家重新開始的考試ADS-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E824 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E824" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   參加測驗
+</span>
+</a>
 
 >[!ENDTABS]
 
-### 問題
+## 問題
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
