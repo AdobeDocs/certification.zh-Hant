@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: 623fd77e77f955d57d779b2f0b746ddb5ef01b5b
+source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
 workflow-type: tm+mt
 source-wordcount: '1149'
 ht-degree: 18%
@@ -20,7 +20,7 @@ ht-degree: 18%
 
 >[!NOTE]
 >
->此測驗(Adobe Target Architect大師(AD0-E407))已更新。 如果您已開始學習或排程接受此版本，請務必在2023年8月18日之前完成。 如果您正開始使用，建議您參加 [此測驗的最新版本](at-m-architect0623.md).
+>此測驗(Adobe Target Architect大師(AD0-E407))已更新。 如果您已開始學習或排程接受此版本，請務必在2023年9月8日之前完成。 如果您正開始使用，建議您參加 [此測驗的最新版本](at-m-architect0623.md).
 
 ## 最低體驗
 

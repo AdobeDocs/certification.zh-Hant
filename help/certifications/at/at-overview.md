@@ -3,7 +3,7 @@ title: Target認證概述
 description: Adobe Target 認證選項概觀
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 6b2ef2c4dd6164461f18d3837c82f0bbd9f3dab2
+source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 10%
@@ -20,7 +20,7 @@ ht-degree: 10%
 
 * [Adobe Target架構師母版(AD0-E409)](/help/certifications/at/at-m-architect.md)
 
-如果您已排程或開始學習目前的考試，請確定您已排程並完成考試 **2023年8月25日之前**.
+如果您已排程或開始學習目前的考試，請確定您已排程並完成考試 **2023年9月8日之前**.
 
 不過，如果您正開始使用您的認證，我們建議您參加 **新增** 考試版本。
 
