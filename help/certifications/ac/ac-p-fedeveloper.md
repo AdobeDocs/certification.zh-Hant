@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E719" type="positive"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: fc1f5860d3e49fd8e3ecb15d24b2242086ca581c
 workflow-type: tm+mt
-source-wordcount: '1079'
+source-wordcount: '1076'
 ht-degree: 1%
 
 ---
@@ -94,10 +94,12 @@ ht-degree: 1%
 
 第4節：JavaScript (16%)
 
-* 示範內容管理的基本用法
-* 說明將主題套用/排程至特定範圍（網站、商店、商店檢視）的步驟
-* 說明使用管理員設定將設計變更套用至類別、產品和CMS頁面的步驟
-* 說明自訂交易式電子郵件的步驟
+* 示範初始化和呼叫JavaScript元件的能力
+* 示範RequireJS的使用情況
+* 說明Mixin的使用方式
+* 說明如何在JS中新增翻譯
+* 說明去底色JS的使用方式
+* 說明jQuery Widget的使用方式
 
 第5節：管理員設定和Pagebuilder (12%)
 
