@@ -3,7 +3,7 @@ title: Target認證概述
 description: Adobe Target 認證選項概觀
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
+source-git-commit: 6b681faf4c1d84408f6ab430477fef22285b8c9d
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 10%
@@ -36,7 +36,7 @@ ht-degree: 10%
 
 **主版**
 
-* [架構師 — 到期日為2023年8月25日](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
+* [架構師 — 到期日為2023年9月8日](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 * [架構者新增](/help/certifications/at/at-m-architect0623.md) <!--AD0-E409-->
 
 造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。
