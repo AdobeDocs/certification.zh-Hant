@@ -3,11 +3,12 @@ title: 商務從業人員專業認證
 description: 瞭解如何獲得Adobe認證 [!DNL Advertising Search] 專業商務從業人員。
 solution: Advertising
 product: Advertising Cloud
+level: Experienced
 role: User
 badge: label="Exam AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
 source-wordcount: '905'
 ht-degree: 5%

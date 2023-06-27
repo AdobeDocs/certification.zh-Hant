@@ -2,12 +2,13 @@
 title: 專家認證
 description: 瞭解如何成為認證 [!DNL Experience Platform] 專家 [!DNL Real-Time Customer Data Platform]
 solution: Real-time Customer Data Platform
+product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
 recommendations: disable, exclude
 badge: label="Exam AD0-E600 & AD7-E601" type="positive"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
 source-wordcount: '1732'
 ht-degree: 6%

@@ -4,10 +4,11 @@ description: 瞭解如何成為Adobe的認證Adobe架構師 [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Data Architect
+level: Experienced
 badge: label="Exam AD0-E718" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
 source-wordcount: '881'
 ht-degree: 1%
