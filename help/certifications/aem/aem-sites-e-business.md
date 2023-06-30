@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1122'
 ht-degree: 10%
@@ -124,7 +124,7 @@ ht-degree: 10%
 
 **第2節：架構**
 
-* [Adobe簡介 [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"}
+* [Adobe簡介 [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=zh-Hant){target="_blank"}
 * [瞭解AEM 6.5功能](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
 * [Adobe [!DNL Experience Manager] 檔案](https://experienceleague.adobe.com/docs/experience-manager.html){target="_blank"}
 * [與協力廠商服務整合](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html)
@@ -186,6 +186,8 @@ ht-degree: 10%
 ## 參加測驗(AD0-E121)
 
 ### 可用選項
+
+{#PSI-note}
 
 **PSI** (*測試中心/日文考試選項（可用時）*)
 

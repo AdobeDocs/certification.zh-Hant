@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exam AD0-E209" type="positive"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 8%
@@ -190,6 +190,8 @@ Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 ## 參加測驗(AD0-E209)
 
 ### 可用選項
+
+{#PSI-note}
 
 **PSI** (*測試中心/日文考試選項（可用時）*)
 
