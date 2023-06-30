@@ -4,7 +4,7 @@ description: 瞭解如何取得Adobe認證。 取得認證之前、期間和之�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
 workflow-type: tm+mt
 source-wordcount: '1462'
 ht-degree: 1%
@@ -20,6 +20,8 @@ ht-degree: 1%
 >[!TAB 報名]
 
 Adobe使用兩個廠商來管理受監督的考試： [!DNL PSI] 和 [!DNL Examity].
+
+{{PSI-note}}
 
 * **[!DNL PSI]：** 提供測試中心和日文考試選項（如果有的話）
 * **[!DNL Examity]：** 提供遠端線上選項
@@ -85,6 +87,8 @@ Adobe支援或考試供應商都無法處理重新排程和取消請求。 48小
 >[!TAB 認證廠商]
 
 Adobe認證團隊與廠商合作，協助支援計畫的倡議和目標。  以下是廠商及其聯絡資訊：
+
+{{PSI-note}}
 
 | 廠商名稱 | 說明 | 支援頁面/電子郵件 |
 | ------- | ------- | ------- |
