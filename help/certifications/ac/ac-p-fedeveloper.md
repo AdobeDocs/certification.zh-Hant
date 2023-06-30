@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E719" type="positive"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 1%
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 ## 最低體驗
 
-您應該擁有0到12個月的Adobe實作經驗 [!DNL Commerce] 前端開發，以及搭配技術解決方案提供個別元件的能力。
+您應該擁有0至12個月的Adobe實作經驗 [!DNL Commerce] 前端開發，以及搭配技術解決方案提供個別元件的能力。
 
 此外，您應展示下列技術的知識：
 
@@ -190,7 +190,7 @@ ht-degree: 1%
 
 ### 可用選項
 
-{#PSI-note}
+{{#PSI-note}}
 
 **PSI** (*測試中心/日文考試選項（可用時）*)
 

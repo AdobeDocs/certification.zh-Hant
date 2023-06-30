@@ -7,7 +7,7 @@ product: Customer Journey Analytics
 badge: label="Exam AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '657'
 ht-degree: 12%
@@ -142,7 +142,7 @@ ht-degree: 12%
 
 ### 可用選項
 
-{#PSI-note}
+{{#PSI-note}}
 
 **PSI** (*測試中心/日文考試選項（可用時）*)
 

@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '1025'
 ht-degree: 14%
@@ -38,7 +38,7 @@ ht-degree: 14%
 
 * ftp使用者端
 * 目前 [!DNL Adobe Analytics] Workspace功能和Workspace以外的其他報告選項(例如 排程專案和排程報告)
-* 與相關的偵錯工具 [!DNL Adobe Analytics] (封包監視器，例如Adobe偵錯工具、瀏覽器開發人員工具、Charles)
+* 與相關的偵錯工具 [!DNL Adobe Analytics] (封包監視器，例如Adobe Debugger、瀏覽器開發人員工具、Charles)
 * Admin Console (Analytics Reports Suite Admin Console和Experience CloudAdmin Console)
 * AdobeLaunch基礎知識/基本知識
 * 應用程式、SPA、基本網站瞭解
@@ -181,7 +181,7 @@ ht-degree: 14%
 
 ### 可用選項
 
-{#PSI-note}
+{{#PSI-note}}
 
 **PSI** (*測試中心/日文考試選項（可用時）*)
 

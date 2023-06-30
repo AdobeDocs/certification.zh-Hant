@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '1122'
 ht-degree: 10%
@@ -187,7 +187,7 @@ ht-degree: 10%
 
 ### 可用選項
 
-{#PSI-note}
+{{#PSI-note}}
 
 **PSI** (*測試中心/日文考試選項（可用時）*)
 

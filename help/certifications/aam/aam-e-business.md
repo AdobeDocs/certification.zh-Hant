@@ -7,7 +7,7 @@ role: User,Developer
 badge: label="Exam AD0-E457" type="positive"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '965'
 ht-degree: 9%
@@ -174,7 +174,7 @@ ht-degree: 9%
 
 ### 可用選項
 
-{#PSI-note}
+{{#PSI-note}}
 
 **PSI** (*測試中心/日文考試選項（可用時）*)
 
