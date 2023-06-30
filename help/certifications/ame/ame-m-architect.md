@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Exam AD0-E556" type="positive"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1006'
 ht-degree: 1%
@@ -172,7 +172,7 @@ Adobe認證計畫針對有興趣獲得認證主職稱的考生推出了新的Ado
 
 ### 可用選項
 
-{{#PSI-note}}
+{{PSI-note}}
 
 **PSI** (*測試中心/日文考試選項（可用時）*)
 

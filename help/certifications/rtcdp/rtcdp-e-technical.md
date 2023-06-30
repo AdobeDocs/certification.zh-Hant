@@ -8,7 +8,7 @@ recommendations: disable, exclude
 badge: label="Exam AD0-E600 & AD7-E601" type="positive"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1732'
 ht-degree: 6%
@@ -291,7 +291,7 @@ AD7-E601考試涵蓋建立、管理和瞭解客戶個人檔案、細分、跨來
 
 ### 可用選項
 
-{{#PSI-note}}
+{{PSI-note}}
 
 **PSI** (*測試中心/日文考試選項（可用時）*)
 

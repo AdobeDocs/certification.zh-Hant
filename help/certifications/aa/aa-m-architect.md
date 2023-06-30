@@ -8,7 +8,7 @@ role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 17%
@@ -162,7 +162,7 @@ Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
 ### 可用選項
 
-{{#PSI-note}}
+{{PSI-note}}
 
 **PSI** (*測試中心/日文考試選項（可用時）*)
 

@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exam AD0-E902" type="positive"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1460'
 ht-degree: 0%
@@ -168,7 +168,7 @@ ht-degree: 0%
 
 ### 可用選項
 
-{{#PSI-note}}
+{{PSI-note}}
 
 **PSI** (*測試中心/日文考試選項（可用時）*)
 
