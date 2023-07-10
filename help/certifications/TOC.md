@@ -2,9 +2,9 @@
 user-guide-title: Adobe 的認證
 breadcrumb-title: Adobe 的認證
 user-guide-description: 了解 Adobe 的  [!DNL Experience Cloud]  認證。了解獲得認證能為您做什麼。
-source-git-commit: 623fd77e77f955d57d779b2f0b746ddb5ef01b5b
+source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '261'
 ht-degree: 43%
 
 ---
@@ -39,6 +39,8 @@ ht-degree: 43%
       + [續約](/help/certifications/aa/aa-renew.md)
    + Adobe [!DNL Customer Journey Analytics] {#acja}
       + [Customer Journey Analytics概觀](/help/certifications/acja/acja-overview.md)
+      + 專業 {#acja-professional}
+         + [商業從業人員](/help/certifications/acja/acja-p-business.md)
       + 專家 {#acja-expert}
          + [Developer](/help/certifications/acja/acja-e-developer.md)
    + Adobe [!DNL Audience Manager] {#aam}
