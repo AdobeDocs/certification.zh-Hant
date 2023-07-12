@@ -4,12 +4,12 @@ description: 瞭解如何成為認證AdobeDoc Cloud專業人員。
 solution: Document Cloud
 product: Document Cloud
 role: User
-badge: label="Exam AD0-D106" type="positive"
+badge: label="考試AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '697'
 ht-degree: 1%
 
 ---
@@ -127,13 +127,9 @@ ht-degree: 1%
 >此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新安排約會。*
 
 
-**參加練習測試 — 即將推出！**
+## 參加練習測試
 
-建議您開始前先參加免費的練習測試。 您將可以不受限制地存取所有可用的練習測試，以進行Adobe的專家級考試。
-
-我們的練習測試都是從與即時測驗相同的藍圖開發的。 練習測試有助於您瞭解即時測試涵蓋的主題。
-
-請記住，通過練習測驗並不保證您會通過認證測驗。
+{{practice-test}}
 
 ## 關於測驗
 
