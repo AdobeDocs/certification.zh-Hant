@@ -1,5 +1,5 @@
 ---
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6c78640fc33f8e0d0aa7057265844b810a403d13
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -34,4 +34,4 @@ Adobe使用兩家廠商來管理經認證的考試：PSI和 [!DNL Examity].
 
 >[!IMPORTANT]
 >
->自2023年8月1日起，PSI將不再提供測驗排程功能。 如果您已排程參加PSI考試，則必須在2023年8月1日之前參加。 如果您排程在2023年8月1日之後進行PSI測驗，請重新排程於該日期之前進行測驗。 如果您在2023年8月1日之前無法或尚未準備好參加考試，請寄電子郵件至 <certif@adobe.edu> 以便我們支援您將測驗轉給Examity。 這包括日文考試。
+>自2023年8月1日起，PSI將不再提供測驗排程功能。 如果您已排程參加PSI考試，則必須在2023年8月1日之前參加。 如果您排程在2023年8月1日之後進行PSI測驗，請重新排程於該日期之前進行測驗。 如果您在2023年8月1日之前無法或尚未準備好參加考試，請寄電子郵件至 <certif@adobe.com> 以便我們支援您將測驗轉給Examity。 這包括日文考試。
