@@ -1,13 +1,13 @@
 ---
 title: Adobe Real-time Customer Data Platform認證
 description: 您擁有受眾細分、目的地匯出和即時啟動的技術知識，適用於符合資料和隱私權法規、客戶資料平台(CDP)和Adobe Experience Platform知識的統一設定檔。
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
 badge: label="如何取得認證" type="positive"
-source-git-commit: 6347bf4e33aa26a8450a86b7ee5341cd975a07b9
+source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---

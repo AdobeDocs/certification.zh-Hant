@@ -1,17 +1,17 @@
 ---
 title: 專業認證
 description: 瞭解如何成為認證 [!DNL Experience Platform] 專業領域 [!DNL Real-Time Customer Data Platform]
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
 recommendations: disable, exclude
-badge: label="Exam AD0-E602" type="positive"
+badge: label="考試AD0-E602" type="positive"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
 workflow-type: tm+mt
-source-wordcount: '773'
-ht-degree: 4%
+source-wordcount: '770'
+ht-degree: 5%
 
 ---
 
@@ -120,13 +120,13 @@ ht-degree: 4%
 **第2節：身分和資料控管**
 
 * [身分名稱空間總覽](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html?lang=zh-Hant){target="_blank"}
-* [資料控管概觀](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=zh-Hant){target="_blank"}
+* [資料治理概觀](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=zh-Hant){target="_blank"}
 
 **第3節：業務分析**
 
 * [資料擷取概觀](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=zh-Hant){target="_blank"}
 * [監視Adobe中的資料流程 [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html){target="_blank"}
-* [Privacy Service和Experience Cloud應用程式](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html){target="_blank"}
+* [Privacy Service 和 Experience Cloud 應用程式](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html){target="_blank"}
 * [原則執行概觀](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html){target="_blank"}
 
 **第4節：方案和設定檔**

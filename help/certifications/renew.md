@@ -1,12 +1,12 @@
 ---
 title: Adobe認證續約計畫
 description: 瞭解如何在憑證過期前續約。
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 3%

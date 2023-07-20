@@ -1,16 +1,16 @@
 ---
 title: 專家認證
 description: 瞭解如何成為認證 [!DNL Experience Platform] 專家 [!DNL Real-Time Customer Data Platform]
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
 recommendations: disable, exclude
-badge: label="Exam AD0-E600 & AD7-E601" type="positive"
+badge: label="考試AD0-E600和AD7-E601" type="positive"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
 workflow-type: tm+mt
-source-wordcount: '1732'
+source-wordcount: '1729'
 ht-degree: 6%
 
 ---
@@ -227,7 +227,7 @@ AD7-E601考試涵蓋建立、管理和瞭解客戶個人檔案、細分、跨來
 * [Real-time CDP中的資料控管](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
 * [套用資料治理框架](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html){target="_blank"}
 * [資料控管快速入門](https://video.tv.adobe.com/v/333350/){target="_blank"}
-* [資料控管概觀](https://video.tv.adobe.com/v/29708/){target="_blank"}
+* [資料治理概觀](https://video.tv.adobe.com/v/29708/){target="_blank"}
 * [資料控管示範](https://video.tv.adobe.com/v/36653/){target="_blank"}
 * [使用治理標籤來分類資料](https://video.tv.adobe.com/v/29709/){target="_blank"}
 * [建立資料使用原則](https://video.tv.adobe.com/v/32977/){target="_blank"}
