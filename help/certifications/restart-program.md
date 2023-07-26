@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 116ab244444823c3290f5e054e44fb9c6816cbc0
+source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
 workflow-type: tm+mt
-source-wordcount: '5199'
+source-wordcount: '5347'
 ht-degree: 8%
 
 ---
@@ -120,13 +120,19 @@ Adobe重新啟動計畫可讓符合資格的人員過期 [!DNL Experience Cloud]
 * **步驟2**：學習Experience League的課程
 * **步驟3**：從下方選項中選擇。
 
-**選項1：** 選取 **三個活動** 完成及通過課程評量，評分為80%或以上。 課程評量是免費的、隨選的，且不受監督。 您可以重複這些課程，直到成功通過80%的評量為止。
+  **選項A：**
 
-**選項2：** 選取 **兩個活動** 完成及通過課程評量，評分為80%或以上。 課程評量是免費的、隨選的，且不受監督。 您可以重複這些課程，直到成功通過80%的評量為止。 然後 **提交客戶推薦表單** 驗證您在過去12個月內總計至少100個小時之專案的參與情形。
+  選取 **三個課程** 完成及通過每個課程評估，分數為80%或以上。 課程評量是免費、隨選、非監督及公開的。 您可以重複這些課程，直到成功通過80%的評量為止。
 
-[Adobe Experience Manager客戶參考表格](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+  **選項B：**
 
-當您的客戶參考資料經過稽核後，Adobe認證團隊會通知您。
+  首先，選取 **兩個課程** 完成及通過每個課程評估，分數為80%或以上。 課程評量是免費、隨選、非監督及公開的。 您可以重複這些課程，直到成功通過80%的評量為止。
+
+  第二， **提交客戶推薦表單** 以獲得Adobe認證的個人身分，驗證您是否已繼續領導和/或參與Adobe Experience Cloud實作專案。 本表確認您在過去12個月內參與了至少100小時的示範專案參與。
+
+  [Adobe Experience Manager客戶參考表格](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+
+  當您的客戶參考資料經過稽核後，Adobe認證團隊會通知您。 如果您的參考未被接受，只要是在憑證過期之前，您就可以再次提交直到成功。
 
 ### 專家與碩士的課程與課程評估：
 
@@ -149,13 +155,19 @@ Adobe重新啟動計畫可讓符合資格的人員過期 [!DNL Experience Cloud]
 * **步驟2**：學習Experience League的課程
 * **步驟3**：從下方選項中選擇。
 
-**選項1：** 選取 **三個活動** 完成及通過課程評量，評分為80%或以上。 課程評量是免費的、隨選的，且不受監督。 您可以重複這些課程，直到成功通過80%的評量為止。
+  **選項A：**
 
-**選項2：** 選取 **兩個活動** 完成及通過課程評量，評分為80%或以上。 課程評量是免費的、隨選的，且不受監督。 您可以重複這些課程，直到成功通過80%的評量為止。 然後 **提交客戶推薦表單** 驗證您在過去12個月內總計至少100個小時之專案的參與情形。
+  選取 **三個課程** 完成及通過每個課程評估，分數為80%或以上。 課程評量是免費、隨選、非監督及公開的。 您可以重複這些課程，直到成功通過80%的評量為止。
 
-[Adobe Experience Manager客戶參考表格](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+  **選項B：**
 
-當您的客戶參考資料經過稽核後，Adobe認證團隊會通知您。
+  首先，選取 **兩個課程** 完成及通過每個課程評估，分數為80%或以上。 課程評量是免費、隨選、非監督及公開的。 您可以重複這些課程，直到成功通過80%的評量為止。
+
+  第二， **提交客戶推薦表單** 以獲得Adobe認證的個人身分，驗證您是否已繼續領導和/或參與Adobe Experience Cloud實作專案。 本表確認您在過去12個月內參與了至少100小時的示範專案參與。
+
+  [Adobe Analytics客戶參考表格](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
+
+  當您的客戶參考資料經過稽核後，Adobe認證團隊會通知您。 如果您的參考未被接受，只要是在憑證過期之前，您就可以再次提交直到成功。
 
 ### 專家與碩士的課程與課程評估：
 
@@ -176,13 +188,19 @@ Adobe重新啟動計畫可讓符合資格的人員過期 [!DNL Experience Cloud]
 * **步驟2**：學習Experience League的課程
 * **步驟3**：從下方選項中選擇。
 
-**選項1：** 選取 **三個活動** 完成及通過課程評量，評分為80%或以上。 課程評量是免費的、隨選的，且不受監督。 您可以重複這些課程，直到成功通過80%的評量為止。
+  **選項A：**
 
-**選項2：** 選取 **兩個活動** 完成及通過課程評量，評分為80%或以上。 課程評量是免費的、隨選的，且不受監督。 您可以重複這些課程，直到成功通過80%的評量為止。 然後 **提交客戶推薦表單** 驗證您在過去12個月內總計至少100個小時之專案的參與情形。
+  選取 **三個課程** 完成及通過每個課程評估，分數為80%或以上。 課程評量是免費、隨選、非監督及公開的。 您可以重複這些課程，直到成功通過80%的評量為止。
 
-[Adobe Experience Manager客戶參考表格](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100)
+  **選項B：**
 
-當您的客戶參考資料經過稽核後，Adobe認證團隊會通知您。
+  首先，選取 **兩個課程** 完成及通過每個課程評估，分數為80%或以上。 課程評量是免費、隨選、非監督及公開的。 您可以重複這些課程，直到成功通過80%的評量為止。
+
+  第二， **提交客戶推薦表單** 以獲得Adobe認證的個人身分，驗證您是否已繼續領導和/或參與Adobe Experience Cloud實作專案。 本表確認您在過去12個月內參與了至少100小時的示範專案參與。
+
+  [Adobe Target客戶參考表格](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+
+  當您的客戶參考資料經過稽核後，Adobe認證團隊會通知您。 如果您的參考未被接受，只要是在憑證過期之前，您就可以再次提交直到成功。
 
 ### 專家與碩士的課程與課程評估：
 
