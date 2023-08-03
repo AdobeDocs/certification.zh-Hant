@@ -1,41 +1,52 @@
 ---
-title: 架構師主要憑證
-description: 瞭解如何成為Experience Manager Sites的認證架構師大師。
+title: 架構師主要認證
+description: 瞭解如何在Experience Manager Sites中成為認證架構師。
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
-badge: label="Exam AD0-E117" type="positive"
+badge: label="考試AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 48d3e064145c10fce3493d9fe20e5435c2ab6f23
 workflow-type: tm+mt
-source-wordcount: '1449'
+source-wordcount: '1514'
 ht-degree: 19%
 
 ---
 
 # Adobe的認證歷程 [!DNL Experience Manager Sites] 架構師Master
 
+>[!NOTE]
+>
+>此測驗(AD0-E117)正在進行維護，暫時無法使用。 對於造成的不便，我們深感抱歉。 請使用下面的按鈕註冊，以便在再次可用時接收通知。
+
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   通知我
+</span>
+</a>
+
 瞭解如何成為認證架構師。
 
 ## 最低體驗
 
-您應該具備：
+您應該有：
 
-* AEM Sites架構師至少3年經驗
-* 在Adobe Managed Services和Adobe中工作的能力 [!DNL Experience Manager as a Cloud Service]
+* 至少3年建置AEM Sites的建築師經驗
+* 在Adobe Managed Services和Adobe中作業的能力 [!DNL Experience Manager as a Cloud Service]
 * 設定Adobe的功能 [!DNL Experience Manager] 環境和基礎結構
 
 此外，您應該能夠執行下列工作：
 
-* 為客戶設計軟體變更程式（內部部署和雲端）
+* 為客戶設計軟體變更流程（內部部署和雲端）
 * 為內容/資產定義內容模型，以因應未來的需求
 * 根據業務需求定義必要的範本和元件
 * 識別何時使用現成/功能/核心元件與自訂元件
-* 設計快取、負載平衡和安全性策略（Dispatcher、防火牆、CDN）
-* 提供初始設定和功能交付的高層級工作估算
+* 設計快取、負載平衡和安全性策略（Dispatcher、防火牆、CDN、）
+* 提供初始設定和功能傳遞的高層級工作量估計
 * 建立國際化的功能和使用案例
-* 定義支援多網站和多語言的策略
+* 定義策略以支援多網站和多語言
 * 判斷軟體模組的正確設定機制
 * 將協力廠商和Adobe產品與AEM整合
 * 定義移轉和升級策略（產品和內容）
@@ -47,11 +58,11 @@ ht-degree: 19%
 * 設計業務流程的工作流程模型
 * 建立平台效能與滲透/安全性測試的策略
 * 跨多個管道重複使用內容
-* 考量以雲端為主的考量事項，例如：自動縮放、復寫、資產管理、內部部署和託管服務之間的影響和差異、Cloud Manager、套件管理
+* 考量以雲端為主的考量事項，例如：自動縮放、復寫、資產管理、內部部署和受管服務之間的影響和差異、Cloud Manager、套件管理
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
@@ -67,24 +78,24 @@ ht-degree: 19%
 
 **考試詳細資料：**
 
-* 等級：主要（3-5年經驗）
+* 等級：主版（3-5年經驗）
 * 及格分數：29/50
 * 時間：100分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 交付：線上監護（需要存取攝影機）或測試中心監護
 * 可用語言：英文、日文
 * 費用：225美元（全球） / 150美元（印度）
 * 考試ID：AD0-E117
 
 **整備程度自我評估**
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
+完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
 
 **考試目標與範圍**
 
 第1節：探索(18%)
 
 * 將高階業務目標轉換為功能需求
-* 在某個案例中，評估架構的目前狀態
+* 在案例中，評估架構的目前狀態
 * 判斷解決方案設計的非功能性技術需求
 
 第2節：解決方案設計(44%)
@@ -93,27 +104,27 @@ ht-degree: 19%
 * 在特定的情況下，決定適合設計的安全性解決方案
 * 套用程式概念，將整合需求納入解決方案設計
 * 決定解決方案中應包含哪些型別的效能和測試需求
-* 套用程式概念以設計可擴充且可復原的架構
+* 套用程式概念來設計可擴充且可復原的架構
 * 在情景中，建議移轉策略
 
 第3節：實作(22%)
 
-* 在情景中，識別並解決實施階段期間發現的設計問題
-* 針對特定案例，根據需求建議實作方法
+* 在情境下，識別並解決實施階段期間顯示的設計問題
+* 在案例中，根據需求建議實作方法
 * 決定用來建立解決方案原型以證明概念的適當方法
 * 在特定的情況下，診斷並解決實作期間遇到的問題
 
 第4節：維護(16%)
 
 * 在特定的情況下，診斷並解決生產環境中遇到的問題
-* 套用程式概念以規劃新功能和升級的使用方式
+* 套用程式概念以規劃新功能和升級的使用
 * 在特定的情況下，針對非功能需求最佳化解決方案
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **範例問題**
 
@@ -141,7 +152,7 @@ ht-degree: 19%
 **第2節：解決方案設計**
 
 * [AEM Assets影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
-* [SPA/SEO： Google第一頁的單頁應用程式指南](https://snipcart.com/spa-seo){target="_blank"}
+* [SPA/SEO：Google第一頁的單頁應用程式指南](https://snipcart.com/spa-seo){target="_blank"}
 * [Sling內容感知設定](https://cqdump.wordpress.com/2018/04/24/sling-context-aware-configuration/){target="_blank"}
 * [會議交談： Sling內容感知設定](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
 * [AEM Sites影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
@@ -169,7 +180,7 @@ ht-degree: 19%
 
 * [AEM 6.5 Deploying使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
 * [Adobe 企業產品說明文件](https://experienceleague.adobe.com/docs/){target="_blank"}
-* [Adobe [!DNL Experience Manager] 案頭應用程式總覽](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html){target="_blank"}
+* [Adobe [!DNL Experience Manager] 案頭應用程式概述](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html){target="_blank"}
 * [AEM Foundation 影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
 * [Adobe Admin Console上的身分型別](https://helpx.adobe.com/ca/enterprise/using/identity.html){target="_blank"}
 * [Dispatcher 總覽](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
@@ -193,7 +204,7 @@ ht-degree: 19%
 * [TarMK：事實與資料](https://adapt.to/content/dam/adaptto/production/presentations/2017/adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf/_jcr_content/renditions/original./adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf){target="_blank"}
 * [Cloud Manager 簡介](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
 * [Cloud Manager：快速入門](https://developer.adobe.com/experience-cloud/cloud-manager/guides/getting-started/){target="_blank"}
-* [CQBufferedImageCache會在資產上傳期間消耗棧積](https://helpx.adobe.com/experience-manager/kb/cqbufferedimagecache-consumes-heap-during-asset-uploads.html){target="_blank"}
+* [CQBufferedImageCache在資產上傳期間會消耗棧積](https://helpx.adobe.com/experience-manager/kb/cqbufferedimagecache-consumes-heap-during-asset-uploads.html){target="_blank"}
 * [Assets 指南](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
 * [AEM Dispatcher 快取教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/overview.html){target="_blank"}
 * [Lucene索引](https://jackrabbit.apache.org/oak/docs/query/lucene.html){target="_blank"}
@@ -203,9 +214,9 @@ ht-degree: 19%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新安排約會。*
+>此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
 
 ## 關於測驗
@@ -216,23 +227,14 @@ ht-degree: 19%
 
 ### 可用選項
 
-{{PSI-note}}
+>[!NOTE]
+>
+>此測驗(AD0-E117)正在進行維護，暫時無法使用。 對於造成的不便，我們深感抱歉。 請使用下面的按鈕註冊，以便在再次可用時接收通知。
 
-**PSI** (*測試中心/日文考試選項（可用時）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   參加測驗
-</span>
-</a>
-
-**[!DNL Examity]** ( *線上* )
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   通知我
 </span>
 </a>
 
