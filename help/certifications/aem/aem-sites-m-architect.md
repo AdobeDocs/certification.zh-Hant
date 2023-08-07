@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="考試AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 5109b4c8de4928a46f0241cea86f858982d2236c
+source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
 workflow-type: tm+mt
-source-wordcount: '1498'
-ht-degree: 19%
+source-wordcount: '1722'
+ht-degree: 16%
 
 ---
 
@@ -19,6 +19,8 @@ ht-degree: 19%
 >[!NOTE]
 >
 >此測驗(AD0-E117)正在進行維護，暫時無法使用。 對於造成的不便，我們深感抱歉。 [註冊以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 當它再次可用時。
+>
+>**問題？** 請參閱我們的 [常見問題集](#AEM-FAQ) （位於本頁底部）。
 
 瞭解如何成為認證架構師。
 
@@ -211,7 +213,6 @@ ht-degree: 19%
 >
 >此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
-
 ## 關於測驗
 
 {{about-certification-exam}}
@@ -223,6 +224,8 @@ ht-degree: 19%
 >[!NOTE]
 >
 >此測驗(AD0-E117)正在進行維護，暫時無法使用。 對於造成的不便，我們深感抱歉。 [註冊以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 當它再次可用時。
+>
+>**問題？** 請參閱我們的 [常見問題集](#AEM-FAQ) （位於本頁底部）。
 
 >[!ENDTABS]
 
@@ -231,3 +234,23 @@ ht-degree: 19%
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+
+## Adobe Experience Manager Sites架構師主要測驗常見問題集(AD0-E117) {#AEM-FAQ}
+
+認證考試AD0-E117正在進行維護，暫時無法使用。 對於造成的不便，我們深感抱歉。 [註冊以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 當它再次可用時。
+
+**如果我已排程考試，會發生什麼事？**
+
+已取消所有排程的AD0-E117考試。 受到影響的考生需要在新版本可用時再次排程考試。
+
+**我已經付了考試錢。 我會收到退款嗎？**
+
+* 如果您透過Examity以信用卡支付考試費用，您將獲得全額退款。  
+* 如果您以憑單付款，您的代碼將會重設，而且您可以將其套用至您的新考試預約。  
+* 如果您的憑單到期後，您才可以使用，我們會在您準備好排程時為您核發新的憑單。
+
+**我需要在10月之前更新認證；這會影響我的更新嗎？**
+
+不可以。 您將能透過持續學習進行更新。 請務必遵循以下提供的指示和程式 [更新您的認證](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
+
+
