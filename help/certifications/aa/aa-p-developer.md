@@ -8,9 +8,9 @@ level: Experienced
 badge: label="考試AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 7aa27decdbc3517351894d2b1d6dad383aeaac03
+source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
 workflow-type: tm+mt
-source-wordcount: '1145'
+source-wordcount: '1141'
 ht-degree: 9%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 9%
 您應該有：
 
 * 6至12個月的經驗 [!DNL Adobe Analytics] 實作（網頁和行動應用程式）
-* 根據分析人員提供的需求，作為支援Analytics實作團隊在IT與業務之間架起橋樑的玩家體驗以瞭解業務需求如何轉換為技術解決方案(SDR)
+* 根據分析人員提供的需求，在支援Analytics實作團隊在IT與業務之間架起橋樑，以瞭解業務需求如何轉換為技術解決方案(SDR)的經驗
 * 瞭解所需的變數型別、收集資料的位置和方式、設計資料模型（資料層）、設定和維護標籤管理解決方案
 
 體驗下列工作：
