@@ -1,26 +1,26 @@
 ---
 title: 商務從業人員專業認證
-description: 瞭解如何成為Adobe的認證Adobe商務從業者專業人員 [!DNL Commerce].
+description: 瞭解如何成為Adobe的認證Adobe商業從業者專業人員 [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: User
-badge: label="Exam AD0-E712" type="positive"
+badge: label="考試AD0-E712" type="positive"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '956'
+source-wordcount: '932'
 ht-degree: 2%
 
 ---
 
 # Adobe的認證歷程 [!DNL Commerce] 商務從業者專業人士
 
-瞭解如何成為認證的Adobe商務從業人員專業人員。
+瞭解如何成為認證Adobe商務從業者專業人員。
 
 ## 最低體驗
 
-您至少應有0至12個月的實際操作經驗 [!DNL Magento Open Source] 2.4.3版(使用LUMA或BLANK佈景主題及對Adobe的基本瞭解) [!DNL Commerce] 版本2.4.3。
+您至少應有0至12個月的動手體驗，使用 [!DNL Magento Open Source] 2.4.3版(使用LUMA或BLANK主題和基本瞭解Adobe) [!DNL Commerce] 版本2.4.3。
 
 此外，您應該對電子商務體驗有基本的瞭解，並熟悉下列概念：
 
@@ -35,7 +35,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
@@ -47,7 +47,7 @@ ht-degree: 2%
 * 專案經理
 * 產品擁有者
 * 顧問
-* [!DNL Commerce] 策略師
+* [!DNL Adobe Commerce] 策略師
 * 電子商務管理員/Director/經理/顧問
 * 數位行銷Director/經理/開發人員
 * 解決方案專家
@@ -58,29 +58,29 @@ ht-degree: 2%
 * 等級：專業（0至12個月經驗）
 * 及格分數：30/50
 * 時間：100分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 交付：線上監護（需要存取攝影機）或測試中心監護
 * 可用語言：英文
 * 費用：125美元（全球） / 95美元（印度）
 * 考試ID：AD0-E712
 
 **整備程度自我評估**
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
+完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
 
 **考試目標與範圍**
 
 區段1： [!DNL Magento Open Source] 核心功能(49%)
 
 * 識別的功能 [!DNL Magento Open Source]
-* 區分正確範圍及何時使用各項
-* 展示目錄管理知識
+* 區分正確範圍及何時使用
+* 展示目錄管理的知識
 * 使用操控定價 [!DNL Magento Open Source] 功能
 * 說明標準客戶歷程
 * 說明標準訂單生命週期
 * 說明與商店維護相關的日常工作
 * 說明不同型別的內容元素及使用時機
 
-區段2：Adobe [!DNL Commerce] 基本知識(14%)
+第2節：Adobe [!DNL Commerce] 基本知識(14%)
 
 * 識別Adobe中可用的主要功能 [!DNL Commerce]
 * 識別Adobe中的服務附加元件 [!DNL Commerce]
@@ -90,21 +90,21 @@ ht-degree: 2%
 
 * 識別數位行銷工具的基本用途(Google Analytics/Adobe Analytics、Google Tag Manager、電子郵件行銷、細分、社交外掛程式)
 * 說明SEO的基本原則
-* 識別常見電子商務工具的基本用途（例如購物摘要）
+* 識別常見電子商務工具的基本用途（即購物摘要）
 * 識別電子商務網站的主要功能
 * 識別基本電子商務概念（包括店面選項）
 
 第4節：合規性/安全性基本知識(13%)
 
-* 瞭解隱私權法規與支付安全性合規的基本概念
-* 識別Adobe的常見安全性方面 [!DNL Commerce] 專案
+* 瞭解隱私權法規與付款安全性合規的基本概念
+* 識別Adobe的常見安全性問題 [!DNL Commerce] 專案
 * 確定無障礙法規遵循的最佳實務和法律要求
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **範例問題**
 
@@ -121,7 +121,7 @@ ht-degree: 2%
 * [離線付款方法](https://docs.magento.com/user-guide/payment/offline-payment-methods.html){target="_blank"}
 * [SEO和搜尋](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
 * [頁面產生器](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
-* [付款概要](https://docs.magento.com/user-guide/payment/payments.html){target="_blank"}
+* [付款總覽](https://docs.magento.com/user-guide/payment/payments.html){target="_blank"}
 * [促銷活動](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
 * [購物車價格規則](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"}
 * [設定參考指南](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
@@ -130,7 +130,7 @@ ht-degree: 2%
 * [存放區檢視](https://docs.magento.com/user-guide/stores/stores-all-create-view.html){target="_blank"}
 * [管理搜尋詞](https://docs.magento.com/user-guide/marketing/search-terms.html){target="_blank"}
 
-**區段2：Adobe [!DNL Commerce] 基本知識**
+**第2節：Adobe [!DNL Commerce] 基本知識**
 
 * [雲端指南 [!DNL Commerce]](https://devdocs.magento.com/cloud/bk-cloud.html){target="_blank"}
 * [[!DNL Magento] Business Intelligence簡介](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
@@ -146,7 +146,7 @@ ht-degree: 2%
 * [促銷活動](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
 * [購物協助](https://docs.magento.com/user-guide/marketing/shopping-tools.html){target="_blank"}
 * [變數和客戶通訊](https://docs.magento.com/user-guide/marketing/communications.html){target="_blank"}
-* [SEO概觀](https://docs.magento.com/user-guide/marketing/seo-best-practices.html){target="_blank"}
+* [SEO總覽](https://docs.magento.com/user-guide/marketing/seo-best-practices.html){target="_blank"}
 * [使用網站地圖](https://docs.magento.com/user-guide/marketing/sitemap-xml.html){target="_blank"}
 * [客戶歷程](https://docs.magento.com/user-guide/quick-tour/customer-journey.html){target="_blank"}
 * [Business Intelligence工具](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
@@ -162,39 +162,24 @@ ht-degree: 2%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新安排約會。*
+>此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
 ## 參加練習測試
 
 {{practice-test}}
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E712)
-
-### 可用選項
-
-{{PSI-note}}
-
-**PSI** (*測試中心/日文考試選項（可用時）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   參加測驗
-</span>
-</a>
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E712
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
 

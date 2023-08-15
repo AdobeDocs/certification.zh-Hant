@@ -4,26 +4,26 @@ description: 瞭解如何成為認證Adobe [!DNL Experience Manager Forms] 後�
 solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E125" type="positive"
+badge: label="考試AD0-E125" type="positive"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 5%
+source-wordcount: '798'
+ht-degree: 6%
 
 ---
 
 # Adobe的認證歷程 [!DNL Experience Manager Forms] 開發人員專家
 
-瞭解如何成為認證 [!DNL Experience Manager Forms] 開發人員專家。
+瞭解如何成為認證Adobe [!DNL Experience Manager Forms] 開發人員專家。
 
 ## 最低體驗
 
-您應該具備：
+您應該有：
 
 * 1至3年的AEM Forms使用經驗
-* IT產業至少5年的工作經驗
+* 在IT業界至少擁有5年的工作經驗
 * 能夠領導自訂表單解決方案的開發、設定、測試和部署
 * 能夠設定表單、將業務需求轉換為工作流程、與外部系統整合
 * 瞭解AEM Forms基礎元件
@@ -31,7 +31,7 @@ ht-degree: 5%
 此外，您也應熟悉下列技術和環境：
 
 * 設計XDP範本、XFA範本
-* 建立PDF forms（靜態/動態、互動和非互動式）
+* 建立PDF forms（靜態/動態、互動和非互動）
 * 結構描述或XML資料繫結
 * 建立表單片段
 * 建立最適化表單
@@ -40,23 +40,23 @@ ht-degree: 5%
 * 為最適化表單建置和部署AEM執行個體
 * 使用表單模型
 * 可與資料服務整合
-* 工作流程實作
-* 基本瞭解AEM forms workbench (JEE)，以建立長線 — 短線流程與服務。
+* 工作流程實施
+* 基本瞭解AEM Forms Workbench (JEE)，以建立長線 — 短線流程與服務。
 * 使用GuideBridge API開發javascript clientlibs
-* 根據sign v government CAC，可知道要使用哪種AEM Forms環境案頭或伺服器
+* 根據簽署v government CAC，可知道要使用哪種AEM Forms環境案頭或伺服器
 * 基本瞭解Java/J2EE和JavaScript，以便撰寫邏輯和呼叫不同的服務。
 * 預填最適化表單
 * 對OSGi、Sling元件的基本瞭解或知識
 * 使用檔案服務
-* AEM Designer， AEM workbench， AEM workspace
-* 調適型表單主控台
+* AEM Designer， AEM Workbench， AEM Workspace
+* 最適化表單主控台
 * Java IDE工具
 * Maven
 * GIT/版本設定工具
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
@@ -74,14 +74,14 @@ ht-degree: 5%
 * 等級：專家（1-3年經驗）
 * 及格分數：27/50
 * 時間：100分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 交付：線上監護（需要存取攝影機）或測試中心監護
 * 可用語言：英文
 * 費用：225美元（全球） / 150美元（印度）
 * 考試ID：AD0-E125
 
 **整備程度自我評估**
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
+完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
 
 **考試目標與範圍**
 
@@ -92,7 +92,7 @@ ht-degree: 5%
 * 自訂AEM Forms
 * 善用GuideBridge API開發及使用Javascript ClientLib
 
-第2節：程式與工作流程(34%)
+第2節：處理與工作流程(34%)
 
 * 設計和協調表單核准工作流程
 * 使用Document Services API開發OSGi套件
@@ -103,13 +103,13 @@ ht-degree: 5%
 
 第3節：管理與疑難排解(18%)
 
-* 疑難排解和區分記錄檔
+* 疑難排解並區分記錄檔
 * 執行管理活動
 * 套用Service Pack
 * 執行Forms的AEM Dispatcher設定
 * 瀏覽不同的主控台
 
-第4節：API端點和整合(8%)
+第4節：API端點與整合(8%)
 
 * 整合 Adobe Experience Cloud
 * 產生和使用各種端點服務
@@ -118,13 +118,13 @@ ht-degree: 5%
 
 * 設計、示範及實作互動式通訊的程式
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
-**第1節：Forms建立與管理**
+**第1節：Forms的建立與管理**
 
 * [Adobe Experience Manager 6.4 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
 * [AEM Forms資料整合](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html){target="_blank"}
@@ -157,37 +157,22 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 ## 參加練習測試
 
 {{practice-test}}
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E125)
-
-### 可用選項
-
-{{PSI-note}}
-
-**PSI** (*測試中心/日文考試選項（可用時）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E125" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   參加測驗
-</span>
-</a>
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E125
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E125" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
 

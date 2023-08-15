@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E132 type="positive"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '605'
-ht-degree: 8%
+source-wordcount: '600'
+ht-degree: 9%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 8%
 
 ## 最低體驗
 
-您應該成為應用程式開發人員，並擁有：
+您應是應用程式開發人員，且具備：
 
 * 使用AEM平台至少0至12個月的經驗
 * 執行進階元件開發的能力
@@ -41,7 +41,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
@@ -55,9 +55,9 @@ ht-degree: 8%
 **考試詳細資料：**
 
 * 等級：專業（0至12個月經驗）
-* 及格分數： 38/60
+* 及格分數：38/60
 * 時間：120分鐘
-* 傳遞：線上監護（需要相機存取）
+* 傳遞：線上監護（需要存取攝影機）
 * 可用語言：英文
 * 費用：125美元（全球） / 95美元（印度）
 * 考試ID：AD0-E132
@@ -72,7 +72,7 @@ ht-degree: 8%
 * 使用DAM上傳和發佈資產
 * 使用內容片段
 * 套用程式概念以使用元件
-* 套用程式概念來翻譯內容
+* 套用程式概念以翻譯內容
 * 使用多網站和即時副本
 
 第2節：實作(42%)
@@ -80,11 +80,11 @@ ht-degree: 8%
 * 套用程式概念以建立元件
 * 建立可編輯的範本
 * 建立使用者端資料庫
-* 更新CRX-DE Lite中的內容
+* 在CRX-DE Lite中更新內容
 * 使用JCR結構導覽至節點
 * 建立體驗和內容片段
 * 擴充核心元件
-* 結構內容模型
+* 結構內容模式
 
 第3節：設定和部署(13%)
 
@@ -92,17 +92,17 @@ ht-degree: 8%
 * 部署套件
 * 安裝AEM執行個體
 
-第4節：維護和使用者管理(12%)
+第4節：維護與使用者管理(12%)
 
 * 管理使用者存取權
 * 修改OSGI設定
 * 建立查詢
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **第1節：內容建立**
 
@@ -115,7 +115,7 @@ ht-degree: 8%
 **第2節：實作**
 
 * [AEM元件 — 基本知識](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html){target="_blank"}
-* [AEM中的HeadlessTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=zh-Hant){target="_blank"}
+* [AEM中Headless的Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html){target="_blank"}
 * [建立頁面範本](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html#creating-and-managing-templates){target="_blank"}
 * [使用用戶端資料庫](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html){target="_blank"}
 
@@ -135,25 +135,21 @@ ht-degree: 8%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新安排約會。*
+>此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E132)
-
-### 可用選項
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E132
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E132" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
 

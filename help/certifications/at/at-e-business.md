@@ -1,38 +1,38 @@
 ---
-title: 商務從業人員專家認證
-description: 瞭解如何成為認證Adobe商務從業專家 [!DNL Adobe Target].
+title: 商務從業者專家認證
+description: 瞭解如何成為認證Adobe業務從業者專家 [!DNL Adobe Target].
 solution: Target
 product: Target
 role: User
-badge: label="Exam AD0-E406" type="positive"
+badge: label="考試AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1232'
+source-wordcount: '1207'
 ht-degree: 1%
 
 ---
 
 # 的認證歷程 [!DNL Adobe Target] 商務從業者專家
 
-瞭解如何成為認證Adobe商務從業專家。
+瞭解如何成為認證 [!DNL Adobe Target] 商務從業者專家。
 
 ## 最低體驗
 
-您應該具備：
+您應該有：
 
 * 2年以上的最佳化平台使用經驗，包括 [!DNL Adobe Target]
 * 的實作體驗 [!DNL Adobe Target]
-* 2年以上最佳化計畫經驗/貢獻
+* 2年以上最佳化計畫經驗（主導/貢獻）
 * 瞭解Target/Adobe Marketing Cloud管理任務的基本知識（偏好設定、使用者角色和許可權、設定）
 * 瞭解業務KPI並將其轉換為最佳化目標的能力
 * 根據需求評估提出建議的能力
 * 判斷適當專案的能力 [!DNL Adobe Target] 根據最佳化目標的活動型別
-* 瞭解如何使用HTML和CSS來最佳化使用者體驗
+* 有關如何使用HTML和CSS來最佳化使用者體驗的知識
 * 瞭解JavaScript概念
 * 適用於最佳化的統計概念和資料分析知識
-* 深入瞭解三個步驟的工作流程（體驗、目標定位、目標和設定，包括所有報表來源）
+* 深入瞭解三個步驟的工作流程（體驗、鎖定目標、目標與設定，包括所有報表來源）
 * 將活動報告結果轉換為可操作見解和建議的能力
 * 瞭解不斷變化的技術對Target的影響(ITP、GDPR/CCPA、SPA)
 * 瞭解建議活動如何作為解決方案使用
@@ -47,11 +47,11 @@ ht-degree: 1%
 * 瀏覽器中的網路工具
 * 對其他Adobe工具的基本瞭解
 * 開發人員主控台（任何網頁瀏覽器）
-* [!DNL Adobe Target] 樣本電腦
+* [!DNL Adobe Target] 範例電腦
 * Adobe Audience Manager基礎知識
 * Adobe Experience Cloud （作為Target的對象來源）
 * Adobe Experience Manager
-* 與Target相關之統計資料中所使用之術語的基本知識
+* 與Target相關之統計資料中所使用術語的基本知識
 * Cookie行為的基本知識
 * 如何閱讀解決方案設計參考資料
 
@@ -59,16 +59,16 @@ ht-degree: 1%
 
 * 桌上型電腦/網站，包含桌上型電腦和行動裝置
 * 行動應用程式（基本瞭解）/針對行動裝置使用Target
-* 測試 — 開發
+* Staging-development
 * 生產
-* 跨行動裝置、平板電腦裝置和桌上型電腦裝置的生產環境
+* 跨行動裝置、平板電腦裝置和桌上型裝置的生產環境
 * 相關託管平台
-* 針對單頁應用程式使用Target
+* 針對單頁應用程式使用目標
 * 電子郵件
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
@@ -86,7 +86,7 @@ ht-degree: 1%
 * 等級：專家（1-3年經驗）
 * 及格分數：46/68
 * 時間：136分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 交付：線上監護（需要存取攝影機）或測試中心監護
 * 可用語言：英文
 * 費用：225美元（全球） / 150美元（印度）
 * 考試ID：AD0-E406
@@ -96,12 +96,12 @@ ht-degree: 1%
 第1節：規劃與策略(31%)
 
 * 識別業務KPI，並根據關鍵業務需求成功將其轉換為最佳化目標
-* 根據業務KPI和資料分析，找出最佳化機會
-* 根據業務需求、投入程度和提升潛力排定測試想法的優先順序
-* 根據Adobe樣本大小電腦，決定變數對活動有何影響
-* 根據特定案例建構測試假設並識別假設元素
-* 根據特定案例分析測試假設，並識別有效假設的各個方面
-* 決定以KPI為基礎的主要和次要成功量度
+* 根據業務KPI和資料分析找出最佳化機會
+* 根據業務需求、投入程度和提升潛力的優先順序安排測試想法
+* 根據Adobe樣本大小電腦，決定變數對活動的影響
+* 根據指定情境建構測試假設並識別假設元素
+* 根據給定案例分析測試假設，並識別有效假設的各個方面
+* 決定以KPI為主次要成功量度
 * 評估對象需求
 * 決定適當的分析報表來源(即Target或Adobe Analytics)
 
@@ -119,13 +119,13 @@ ht-degree: 1%
 * 套用程式以建立建議活動
 * 套用程式以在Target中建立對象
 * 套用程式以設定目標與設定
-* 套用程式以執行活動QA
+* 套用程式以執行活動品質保證
 * 套用程式以管理Target中的活動和對象
 
 第3節：分析和報告(17%)
 
-* 定義並評估報表設定，以協助設定出現在報表中的元素
-* 評估及比較 [!DNL Adobe Target] 計畫Target活動和驗證Target活動報表時的樣本大小電腦設定
+* 定義並評估報表設定，以協助設定報表中顯示的元素
+* 評估並比較 [!DNL Adobe Target] 計畫Target活動和驗證Target活動報表時的樣本大小電腦設定
 * 評估並識別A/B測試的相關常見問題以及如何避免這些問題
 * 瞭解Automated Personalization摘要報表與其他報表的差異
 * 評估體驗效能報表(MVT)
@@ -137,11 +137,11 @@ ht-degree: 1%
 * 使用瀏覽器偵錯工具(包括Experience Cloud Debugger)來驗證實作
 * 驗證量度和報表
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **第1節：規劃與策略**
 
@@ -154,13 +154,13 @@ ht-degree: 1%
 
 **第2節：設定、執行和管理**
 
-* [簡介 [!DNL Adobe Target] 實作](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.1-intro-to-target-implementation.html){target="_blank"}
+* [簡介 [!DNL Adobe Target] 實施](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.1-intro-to-target-implementation.html){target="_blank"}
 * [將Target與標籤整合](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/3.1-target-launch.html){target="_blank"}
 * [使用位置的好處](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.2-benefits-of-locations.html){target="_blank"}
 * [Target請求簡介](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.3-intro-to-target-requests.html){target="_blank"}
 * [Target引數簡介](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.4-intro-to-target-params.html){target="_blank"}
-* [瞭解如何進行 [!DNL Adobe Target]的at.js 2.0運作](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/understanding-how-atjs-20-works.html){target="_blank"}
-* [實作 [!DNL Adobe Target]在單頁應用程式(SPA)中執行的at.js 2.0](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html){target="_blank"}
+* [瞭解運作方式 [!DNL Adobe Target]的at.js 2.0運作](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/understanding-how-atjs-20-works.html){target="_blank"}
+* [實作 [!DNL Adobe Target]在單一頁面應用程式(SPA)中的at.js 2.0](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html){target="_blank"}
 * [設計Target實施](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.5-design-target-implementation.html){target="_blank"}
 * [設計Target實施的後續步驟](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.6-next-steps-design-target-implementation.html){target="_blank"}
 
@@ -183,39 +183,24 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新安排約會。*
+>此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
 ## 參加練習測試
 
 {{practice-test}}
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E406)
-
-### 可用選項
-
-{{PSI-note}}
-
-**PSI** (*測試中心/日文考試選項（可用時）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E406" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   參加測驗
-</span>
-</a>
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E406
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E406" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
 

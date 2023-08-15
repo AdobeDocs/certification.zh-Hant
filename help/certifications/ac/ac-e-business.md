@@ -1,48 +1,48 @@
 ---
-title: 商務從業人員專家認證
-description: 瞭解如何成為Adobe商務從業者的Adobe專家 [!DNL Commerce].
+title: 商務從業者專家認證
+description: 瞭解如何成為Adobe領域的Adobe商業從業者專家 [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: User
 level: Experienced
-badge: label="Exam AD0-E708" type="positive"
+badge: label="考試AD0-E708" type="positive"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1443'
+source-wordcount: '1417'
 ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Commerce] 商務從業者專家
+# 的認證歷程 [!DNL Adobe Commerce] 商務從業者專家
 
-瞭解如何成為認證Adobe商務從業專家。
+瞭解如何成為認證 [!DNL Adobe Commerce] 商務從業者專家。
 
 ## 最低體驗
 
-您應擁有約1至3年的實際操作經驗 [!DNL Commerce] 經驗及對電子商務經驗的廣泛瞭解。
+您應該有大約1到3年的實際操作經驗 [!DNL Commerce] 經驗和對電子商務經驗的廣泛瞭解。
 
 您應該在以下方面擁有經驗：
 
 * 數位行銷：SEO、CMS、交叉銷售和追加銷售等銷售技巧、瞭解Google Analytics、電子郵件範本
 * 安全性、法規遵循和隱私權法規，例如PCI、GDPR、ADA、CAN-SPAM、PSD2
-* 全通路和多通路等銷售/行銷策略
+* 全頻道和多頻道等銷售/行銷策略
 * 在專案管理、需求收集、整合流程、一般電子商務法規、軟體開發方法和監控方面的經驗
 * 瞭解商業、商務/電子商務和物流
 * 基本瞭解可自訂的應用程式、雲端和伺服器基礎結構
 * 現代電子商務術語
 
-此外，您應該熟悉下列技術：
+此外，您應該已熟悉下列技術：
 
 * Adobe [!DNL Commerce] - 2.4版
 * Analytics和效能工具：Google Analytics、標籤管理員、SWAT、New Relic、Fastly、Google Lighthouse
-* 安全性工具：PCI法規遵循、ADA、GDPR等
+* 安全工具：PCI法規遵循、ADA、GDPR等
 * 雲端或內部部署架構
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
@@ -50,86 +50,86 @@ ht-degree: 0%
 
 **目標對象：**
 
-* 業務分析人員
+* 業務分析師
 * Commerce策略專家
 * 顧問
 * 技術專案經理/技術客戶經理
-* 應用程式設計師/解決方案設計師/專家
+* 應用程式架構師/解決方案架構師/專家
 * 機構管理員/Director/經理/顧問
-* 數位行銷Director/經理/開發人員
+* Digital Marketing Director/經理/開發人員
 
 **考試詳細資料：**
 
 * 等級：專家（1-3年經驗）
-* 及格分數： 31/50
+* 及格分數：31/50
 * 時間：100分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 交付：線上監護（需要存取攝影機）或測試中心監護
 * 可用語言：英文
 * 費用：225美元（全球） / 150美元（印度）
 * 考試ID：AD0-E708
 
 **整備程度自我評估**
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
+完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
 
 **考試目標與範圍**
 
 第1節：核心功能/一般組態(46%)
 
-* 識別Adobe功能 [!DNL Commerce] 開放原始碼版本和 [!DNL Commerce] 版本
+* 識別Adobe功能 [!DNL Commerce] 開放原始碼版和 [!DNL Commerce] 版本
 * 區分所有Adobe版本之間的差異 [!DNL Commerce] 產品
 * 決定如何利用產品型別及其功能來滿足客戶需求
-* 解釋需求和模型，以判斷其是否符合原生功能
-* 示範管理面板的知識以及常見功能的位置
-* 示範匯入/匯出Adobe的能力 [!DNL Commerce] 實體
+* 解釋需求和模型，以判斷它們是否符合原生功能
+* 示範管理員面板的知識以及常用功能的位置
+* 展示匯入/匯出Adobe的能力 [!DNL Commerce] 實體
 * 瞭解如何以原生方式設定購物車和結帳
-* 評估Adobe中原生可用的送貨方法 [!DNL Commerce] 以及它們如何套用至常見使用案例
+* 評估Adobe中原生可用的送貨方法 [!DNL Commerce] 以及它們如何套用至常見的使用案例
 * 瞭解使用Adobe建立和發佈風格化內容的方法 [!DNL Commerce] 包含PageBuilder的CMS功能
 * 使用原生工具管理訂單生命週期
-* 示範設定各種贈品選項（禮品卡、禮品包裝、贈品訊息）的能力
+* 展示設定各種贈品選項（禮品卡、禮品包裝、贈品訊息）的能力
 * 設定和修改異動電子郵件
-* 說明B2B中的客戶自助服務和忠誠度計畫原生功能
+* 說明B2B中的客戶自助服務和熟客方案原生功能
 
 區段2：銷售(10%)
 
-* 展示建立符合特定業務條件的促銷活動的能力，以及它如何決定最終定價
-* 展示管理類別和產品的能力
+* 展示建立符合特定業務條件的促銷活動，以及決定最終定價的方式
+* 展示管理類別與產品的能力
 * 瞭解不同的定價設定及其如何影響最終價格
 
-第3節：數位行銷(4%)
+第3部分：數位行銷(4%)
 
-* 使用原生功能的SEO建議最佳實務
+* 使用原生功能的SEO建議最佳作法
 * 評估Google Analytics和BI中的通用量度
 
 第4節：附加模組與其他產品(18%)
 
-* 說明B2B功能及其與常見B2B案例的關係
+* 說明B2B功能及其與常見B2B情境的關係
 * 套用業務需求以建議使用MSI的解決方案
 * 向Adobe說明優點以及如何使用BI [!DNL Commerce] 解決方案
 * 區分原生搜尋和即時搜尋之間的差異
 * 套用業務需求以決定如何在B2B環境中套用稅捐、關稅和免稅
-* 瞭解如何將量身打造的定價套用至B2B客戶
+* 瞭解如何為B2B客戶套用量身打造的價格
 * 瞭解Adobe之間的差異 [!DNL Commerce] 原生產品和Adobe Sensei產品推薦
 
 第5節：系統架構(10%)
 
-* 評估需求以判斷需要哪些網站、商店和商店檢視
-* 識別和分析效能量度以作出改善
+* 評估需求以判斷哪些網站、商店和商店檢視是必要的
+* 識別和分析效能度量以作出改善
 * 瞭解將外部系統與Adobe整合的可用方法 [!DNL Commerce]
 * 區分Headless方法與傳統
 
 第6節：合規性/安全性(12%)
 
-* 示範如何保護Adobe安全 [!DNL Commerce] 使用角色和許可權存取資料
-* 瞭解隱私權法規與支付安全性合規的基本概念
-* 說明Adobe的常見安全性方面 [!DNL Commerce] 專案
-* 瞭解稅法基本知識及設定方法
+* 示範如何保護Adobe安全 [!DNL Commerce] 使用角色和許可權進行資料存取
+* 瞭解隱私權法規與付款安全性合規的基本概念
+* 說明Adobe的常見安全性問題 [!DNL Commerce] 專案
+* 瞭解稅法基本知識以及如何設定
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **第1節：核心功能/一般設定**
 
@@ -137,7 +137,7 @@ ht-degree: 0%
 * [瞭解產品型別](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-1-product-types-options.html){target="_blank"}
 * [客戶管理](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-2-customer-management.html){target="_blank"}
 * [建立產品](https://docs.magento.com/user-guide/catalog/product-types.html){target="_blank"}
-* [管理功能表](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-1-menus.html){target="_blank"}
+* [管理員功能表](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-1-menus.html){target="_blank"}
 * [資料網格](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-2-data-grids.html){target="_blank"}
 * [商店設定](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-7-business-settings.html){target="_blank"}
 * [商店和購買體驗簡介](https://docs.magento.com/user-guide/stores/stores.html){target="_blank"}
@@ -149,14 +149,14 @@ ht-degree: 0%
 * [送貨與傳遞](https://docs.magento.com/user-guide/shipping/delivery.html){target="_blank"}
 * [訂單管理與作業](https://docs.magento.com/user-guide/sales/order-management.html){target="_blank"}
 * [禮品卡](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-8-gift-cards.html){target="_blank"}
-* [禮品卡產品](https://docs.magento.com/user-guide/catalog/product-gift-card.html){target="_blank"}
+* [禮卡產品](https://docs.magento.com/user-guide/catalog/product-gift-card.html){target="_blank"}
 * [贈品選項](https://docs.magento.com/user-guide/sales/gift-options.html){target="_blank"}
 * [電子郵件通訊](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html){target="_blank"}
 * [電子郵件範本](https://docs.magento.com/user-guide/marketing/email-templates.html){target="_blank"}
 * [Adobe適用的B2B簡介 [!DNL Commerce]](https://docs.magento.com/user-guide/stores/b2b-basics.html){target="_blank"}
-* [獎勵和忠誠度計畫](https://docs.magento.com/user-guide/marketing/rewards-loyalty.html){target="_blank"}
+* [獎勵和忠誠計畫](https://docs.magento.com/user-guide/marketing/rewards-loyalty.html){target="_blank"}
 
-**第2節：銷售**
+**區段2：銷售**
 
 * [促銷活動](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
 * [產品類別](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/2-1-categories.html){target="_blank"}
@@ -170,10 +170,10 @@ ht-degree: 0%
 * [目錄管理簡介](https://docs.magento.com/user-guide/catalog.html){target="_blank"}
 * [進階定價](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
 
-**第3節：數位行銷**
+**第3部分：數位行銷**
 
 * [簡介 [!DNL Commerce] 銷售與促銷](https://docs.magento.com/user-guide/marketing.html){target="_blank"}
-* [SEO概觀](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
+* [SEO總覽](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
 * [Business Intelligence快速入門（網路研討會影片）](https://business.adobe.com/resources/getting-started-magento-business-intelligence.html){target="_blank"}
 * [Google網站工具](https://docs.magento.com/user-guide/marketing/google-tools.html){target="_blank"}
 * [Business Intelligence工具](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
@@ -192,9 +192,9 @@ ht-degree: 0%
 
 **第5節：系統架構**
 
-* [適用於企業使用者的Commerce — 網站、商店和檢視](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-3-apps-scopes-sites-stores.html){target="_blank"}
-* [適用於商業使用者的Commerce — 商店檢視和快取清除](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-4-store-views-cache.html){target="_blank"}
-* [適用於商業使用者的Commerce — 店面](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-1-storefront-experience.html){target="_blank"}
+* [適用於商業使用者的Commerce — 網站、商店和檢視](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-3-apps-scopes-sites-stores.html){target="_blank"}
+* [適用於業務使用者的Commerce — 商店檢視和快取清除](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-4-store-views-cache.html){target="_blank"}
+* [適用於商務使用者的Commerce — 店面](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-1-storefront-experience.html){target="_blank"}
 * [存放區詳細資料](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
 * [「報表」功能表](https://docs.magento.com/user-guide/reports.html){target="_blank"}
 * [Adobe Commerce Web API快速入門](https://devdocs.magento.com/guides/v2.4/get-started/bk-get-started-api.html){target="_blank"}
@@ -207,45 +207,30 @@ ht-degree: 0%
 * [存放區隱私權原則](https://docs.magento.com/user-guide/stores/privacy-policy.html){target="_blank"}
 * [安全性與合規性](https://docs.magento.com/user-guide/payment-services/security.html){target="_blank"}
 * [安全性](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"}
-* [依國家/地區的稅務准則](https://docs.magento.com/user-guide/tax/international-tax-guidelines.html){target="_blank"}
+* [依國家/地區的稅捐准則](https://docs.magento.com/user-guide/tax/international-tax-guidelines.html){target="_blank"}
 
 >[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新安排約會。*
+>此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
 ## 參加練習測試
 
 {{practice-test}}
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E708)
-
-### 可用選項
-
-{{PSI-note}}
-
-**PSI** (*測試中心/日文考試選項（可用時）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E708" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   參加測驗
-</span>
-</a>
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E708
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E708" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
 

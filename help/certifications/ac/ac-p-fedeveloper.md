@@ -4,38 +4,38 @@ description: 瞭解如何成為Adobe的認證Adobe Developer專業人員 [!DNL C
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Exam AD0-E719" type="positive"
+badge: label="考試AD0-E719" type="positive"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '1049'
 ht-degree: 1%
 
 ---
 
 # Adobe的認證歷程 [!DNL Commerce] 前端開發人員專業版
 
-瞭解如何成為認證Adobe Developer專業人員。
+瞭解如何成為認證 [!DNL Adobe Commerce] 開發人員專業版。
 
 >[!NOTE]
 >
->此測驗Adobe Commerce前端開發人員專業版(AD0-E719)已更新。 如果您已開始學習或排程接受此版本，請務必在2023年8月18日之前完成。 如果您正開始使用，建議您參加 [此測驗的最新版本](ac-p-fedeveloper0623.md).
+>這次考試， [!DNL Adobe Commerce] 前端開發人員專業版(AD0-E719)已更新。 如果您已開始學習或計畫接受此版本，請務必在2023年8月18日之前完成。 如果您正開始使用，建議您參加 [此測驗的最新版本](ac-p-fedeveloper0623.md).
 
 ## 最低體驗
 
-您應該擁有0至12個月的Adobe實作經驗 [!DNL Commerce] 前端開發，以及搭配技術解決方案提供個別元件的能力。
+您應該有0到12個月的Adobe實作經驗 [!DNL Commerce] 前端開發，以及搭配技術解決方案提供個別元件的能力。
 
-此外，您應展示下列技術的知識：
+此外，您也應該展示下列技術的知識：
 
 * 對Adobe的深入瞭解 [!DNL Commerce] 版本2.4.3
 * 對前端結構和版面配置的基本瞭解
-* 體驗和瞭解HTML、CSS （和前置處理器）、LESS、JavaScript和UI元件、jQuery、底線、Require.JS、Knockout、PHP範本、DB知識和內容管理
+* 體驗和瞭解HTML、CSS （和前置處理器）、LESS、JavaScript和UI元件、jQuery、Underscore、Require.JS、Knockout、還有PHP範本、DB知識和內容管理
 * 熟悉平台、CMS區塊、Widget、CMS頁面、類別頁面、產品頁面、購物車和結帳，以及帳戶儀表板區域
 * 對管理員設定的基本瞭解或知識
-* 具有擴充和覆寫樣式、版面配置和JS檔案的知識
+* 具有擴充和覆寫樣式、配置和JS檔案的知識
 * 擴充父系主題/主題階層
-* CLI命令（快取清理、設定：升級、索引器、部署模式）與偵錯
+* CLI命令（快取清理、設定：升級、索引器、部署模式）與Grunt
 * 快取技術、使用者端瀏覽器、瞭解儲存（Cookie、本機儲存）
 * 瞭解回應式設計和媒體查詢
 * 所見即所得/頁面產生器
@@ -60,9 +60,9 @@ ht-degree: 1%
 **考試詳細資料：**
 
 * 等級：專業（0至12個月經驗）
-* 及格分數： 31/50
+* 及格分數：31/50
 * 時間：100分鐘
-* 傳遞：線上監護（需要相機存取）
+* 傳遞：線上監護（需要存取攝影機）
 * 可用語言：英文
 * 費用：125美元（全球） / 95美元（印度）
 * 考試ID：AD0-E719
@@ -72,13 +72,13 @@ ht-degree: 1%
 第1節：主題管理（主題階層、影像設定、翻譯） (14%)
 
 * 說明Adobe [!DNL Commerce] 主題資料夾結構
-* 示範建立新主題或擴充現有主題的能力
+* 展示建立新主題或擴充現有主題的能力
 * 示範新增自訂翻譯短語的能力
 
-第2節：配置XML與範本(28%)
+第2節：版面配置XML與範本(28%)
 
-* 展示使用基本版面XML指示的能力
-* 示範使用現有頁面配置的能力
+* 展示使用基本配置XML指令的能力
+* 示範使用現有版面配置的能力
 * 說明擴充和覆寫XML的步驟
 * 展示建立及自訂範本的能力
 * 說明範本安全性（逸出輸出）
@@ -87,7 +87,7 @@ ht-degree: 1%
 
 * 說明樣式 — m.less、樣式 — l.less、print.less的用途
 * 說明特定部分檔案(_extends.less、_extend.less、_theme.less、_widgets.less、_module.less)之間的差異
-* 在情景中，示範覆寫或擴充的能力 [!DNL Magento] 更少
+* 在案例中，示範覆寫或擴充的能力 [!DNL Magento] 更少
 * 說明LESS的基本概念
 * 說明樣式的階層（程式庫、模組、主題）
 * 說明使用者端和伺服器端編譯
@@ -95,7 +95,7 @@ ht-degree: 1%
 第4節：JavaScript (16%)
 
 * 示範初始化和呼叫JavaScript元件的能力
-* 示範RequireJS的使用情況
+* 示範RequireJS的使用
 * 說明Mixin的使用方式
 * 說明如何在JS中新增翻譯
 * 說明去底色JS的使用方式
@@ -103,22 +103,22 @@ ht-degree: 1%
 
 第5節：管理員設定和Pagebuilder (12%)
 
-* 示範內容管理的基本用法
-* 說明將主題套用/排程至特定範圍（網站、商店、商店檢視）的步驟
+* 展示內容管理的基本用法
+* 說明套用/排程主題至特定範圍（網站、商店、商店檢視）的步驟
 * 說明使用管理員設定將設計變更套用至類別、產品和CMS頁面的步驟
-* 說明自訂交易式電子郵件的步驟
+* 說明自訂異動電子郵件的步驟
 
-第6節：工具（CLI和程式碼） (6%)
+第6節：工具（CLI與程式碼） (6%)
 
 * 說明基本bin/magento命令的使用方式
 * 說明撰寫器命令的使用方式（安裝、更新、需要、移除）
-* 區分部署模式的適當使用案例
+* 區別部署模式的適當使用案例
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **範例問題**
 
@@ -167,7 +167,7 @@ ht-degree: 1%
 * [設計](https://docs.magento.com/user-guide/design/design-theme.html){target="_blank"}
 * [範本](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
 
-**第6節：工具（CLI和Grunt）**
+**第6節：工具（CLI與Grunt）**
 
 * [命令列設定](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
 * [存放區選項和設定管理概觀](https://devdocs.magento.com/cloud/configure/configuration-overview.html){target="_blank"}
@@ -177,36 +177,21 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新安排約會。*
+>此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E719)
-
-### 可用選項
-
-{{PSI-note}}
-
-**PSI** (*測試中心/日文考試選項（可用時）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E719" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   參加測驗
-</span>
-</a>
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E719
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
 

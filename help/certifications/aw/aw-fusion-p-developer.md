@@ -3,30 +3,30 @@ title: 開發人員專業認證
 description: 瞭解如何成為Adobe的認證Adobe Developer專業人員 [!DNL Workfront Fusion].
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E902" type="positive"
+badge: label="考試AD0-E902" type="positive"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1460'
+source-wordcount: '1436'
 ht-degree: 0%
 
 ---
 
 # Adobe的認證歷程 [!DNL Workfront Fusion] 開發人員專業版
 
-瞭解如何成為認證Adobe Developer專業人員。
+瞭解如何成為認證Adobe [!DNL Workfront] 開發人員專業版。
 
 ## 最低體驗
 
-您應該具備：
+您應該有：
 
-* 與 [!DNL Workfront] API和API總管，但不一定精通API呼叫
-* 使用自訂API呼叫的功能 [!DNL Workfront] 和其他API
+* 與 [!DNL Workfront] API和API總管，但不一定能熟練使用API呼叫
+* 能夠使用自訂API呼叫來處理 [!DNL Workfront] 和其他API
 * 將模組用於 [!DNL Workfront] 應用程式和其他動作，例如建立、讀取、更新、刪除和搜尋
 * 能夠建立可行的解決方案，在不影響業務成果的情況下創造成果 [!DNL Fusion] 護欄
-* 能夠選取適當的觸發模組以完成業務成果
-* 瞭解如何使用流量控制（路由、迭代器/彙總、流程說明）
+* 能夠選取適當的觸發程式模組以完成業務成果
+* 瞭解如何使用流量控制（路由、迭代器/彙總、說明流量）
 * 執行基本疑難排解和錯誤處理的能力
 * 能夠有效地測試並上線情境
 * 管理組織團隊和使用者的能力
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
@@ -45,8 +45,8 @@ ht-degree: 0%
 * 開發人員、自動化工程師
 * 自動化程式、流程最佳化和自動化管理員
 * 整合顧問、顧問、合作夥伴
-* 系統整合經銷商/合作夥伴
-* 業務分析員、套用業務分析員
+* 系統整合廠商/合作夥伴
+* 業務分析師、套用的業務分析師
 * 系統管理員（IT、MIS、技術、知識系統、AI管理員）
 
 **考試詳細資料：**
@@ -54,7 +54,7 @@ ht-degree: 0%
 * 等級：專業（0至12個月經驗）
 * 及格分數： 33/51
 * 時間：102分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 交付：線上監護（需要存取攝影機）或測試中心監護
 * 可用語言：英文
 * 費用：125美元（全球） / 95美元（印度）
 * 考試ID：AD0-E902
@@ -63,56 +63,56 @@ ht-degree: 0%
 
 第1節：基礎技術概念(39%)
 
-* 給定 [!DNL Fusion] 案例中一個欄位格式必須是另一個欄位格式，請提供可用於正確轉換資料的可能函式
-* 給定 [!DNL Fusion] 若案例要求函式巢狀內建於另一個函式中，請選取格式正確的運算式
+* 給定 [!DNL Fusion] 案例中有一個欄位格式需要為另一個欄位格式，提供可用於正確轉換資料的可能函式
+* 給定 [!DNL Fusion] 若案例要求將函式巢狀內嵌在另一個函式中，請選取正確格式的運算式
 * 確定使用團隊控制存取連線和其他專案的方法 [!DNL Fusion] 功能
-* 給定 [!DNL Fusion] 案例，識別系統和功能限制
-* 給定 [!DNL Fusion] 需要時區操控的案例，區分使用者、可見組織以及需要覆寫時區的位置
+* 給定 [!DNL Fusion] 案例，識別系統和功能的限制
+* 給定 [!DNL Fusion] 需要時區操控的案例，區分使用者、可見組織和需要覆寫時區的位置
 * 給定 [!DNL Fusion] 情境，選取適當的 [!DNL Workfront] 模組或動作
 * 給定 [!DNL Fusion] 案例中，選取對應面板運算式和/或模組，以便適當地將輸入資料轉換為輸出資料
-* 找出正確的方式來利用 [!DNL Fusion] 開發工具，用於疑難排解執行中的錯誤，或判斷對協力廠商系統的呼叫和回應
-* 給定 [!DNL Fusion] 若一個路徑中的資料需用於另一個路徑中，可提供設定取得解決方案，讓該資料可用於其他路由路徑
+* 找出正確的方式，以利用 [!DNL Fusion] 開發工具，用於疑難排解執行中的錯誤，或判斷對協力廠商系統的呼叫和回應
+* 給定 [!DNL Fusion] 當一個路徑中的資料需要在另一個路徑中的情況下，提供可讓該資料在其他路由路徑上可用的集合解決方案
 * 確定使用或產生 [!DNL Fusion] 符合業務需求的範本
-* 給定 [!DNL Fusion] 案例，識別要如何檢視執行和/或解決錯誤
-* 識別中的不同選項 [!DNL Fusion] 用於處理案例需求的案例設定
+* 給定 [!DNL Fusion] 情境，識別要做什麼來檢視執行和/或解決錯誤
+* 識別 [!DNL Fusion] 用於處理情境需求的情境設定
 * 給定 [!DNL Fusion] 案例中，選取適當的流量控制和/或決定流量控制模組的正確組合
 
 第2節：情境設計與架構(35%)
 
 * 提供步驟清單，選擇正確的序列以剖析JSON並轉換為套裝
-* 指定一組需求，找出正確的資料查閱方法
+* 指定一組需求，識別正確的資料查詢方法
 * 識別立即觸發程式和排程觸發程式之間的差異
 * 識別上傳檔案的正確模組 [!DNL Workfront]
-* 根據業務需求，找出正確的追蹤方法 [!DNL Fusion] 已處理記錄（非使用者）且時間
-* 給定 [!DNL Fusion] 案例，找出簡化設計和/或最佳化維護的機會
+* 根據業務需求，找出正確的追蹤方法 [!DNL Fusion] 已處理記錄（非使用者）且當
+* 給定 [!DNL Fusion] 案例，找出簡化設計及/或最佳化維護的機會
 * 識別 [!DNL Fusion] 記錄情境的最佳實務
-* 在某種情況下，找出減少情境中資料流動的機會
+* 在特定的情況下，找出減少情境中資料流動的機會
 * 以搜尋模組及下列彙總器上顯示的組合數目為例，說明組合檢測器所處理和顯示的作業數目變更
-* 識別可在組合檢查器中找到的資訊
-* 說明需要封存案例超過60天，並選取唯一可能的方式（匯入/匯出Blueprint）
-* 以錯誤403：已禁止為例，正確選取錯誤訊息的來源及原因
+* 識別在組合檢視窗中找到的資訊
+* 說明需要封存案例超過60天並選取唯一可能的方式（匯入/匯出Blueprint）
+* 在錯誤403：禁止的範例中，正確選取錯誤訊息的來源及原因
 
 第3節：測試和錯誤處理(16%)
 
 * 識別測試計畫的元素
 * 識別測試案例的元素
-* 給定 [!DNL Fusion] 情境下，正確識別處理不可靠服務的適當指令
+* 給定 [!DNL Fusion] 案例，正確識別適當的指令以處理不可靠的服務
 * 識別在中新增自訂錯誤處理的程式 [!DNL Fusion] 情境
 * 識別如何追蹤、讀取和解決未完成的執行
 * 給定 [!DNL Fusion] 缺少必要資料的情境，請選取處理無效資料的方法
 
 第4節：使用API (10%)
 
-* 給定傳回429：太多請求的第三方API，請識別解決方案以防止或處理錯誤
-* 給定 [!DNL Fusion] 新功能無法用於 [!DNL Workfront] 模組，識別正確的參考和模組型別以使用新功能
+* 給定傳回429：太多請求的第三方API，請識別可防止或處理錯誤的解決方案
+* 給定 [!DNL Fusion] 中沒有新功能的案例 [!DNL Workfront] 模組，識別正確的參考和模組型別以使用新功能
 * 如果協力廠商系統沒有專用應用程式，請識別HTTP應用程式並選取適當的模組
-* 識別CRUD作業與REST API其他常見功能之間的差異
+* 識別CRUD作業與REST API其他常用功能之間的差異
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **範例問題**
 
@@ -155,36 +155,21 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新安排約會。*
+>此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E902)
-
-### 可用選項
-
-{{PSI-note}}
-
-**PSI** (*測試中心/日文考試選項（可用時）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E902" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   參加測驗
-</span>
-</a>
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E902
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E902" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
 

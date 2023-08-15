@@ -4,13 +4,13 @@ description: 瞭解如何成為認證Adobe [!DNL Experience Manager] 專家。
 solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E136" type="positive"
+badge: label="考試AD0-E136" type="positive"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 11%
+source-wordcount: '817'
+ht-degree: 13%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 11%
 
 ## 最低體驗
 
-您應該具備：
+您應該有：
 
-* 瞭解從任何AEM服務（自行管理、AMS或任何第三方雲端）移轉到AEMas a Cloud Service時，架構和功能的整體變更。
+* 瞭解從任何AEM服務（自我管理、AMS或任何第三方雲端）移轉到AEMas a Cloud Service時，架構和功能的整體變更。
 * 使用Adobe開發Web應用程式的1至3年經驗 [!DNL Experience Manager]
-* 使用AEM Forms、資產和網站的實際操作體驗
-* 能夠引導客戶完成移轉程式，提供意見並參與AEM專案的所有階段
+* 使用AEM Forms、Assets和Sites的實際經驗
+* 能夠引導客戶完成移轉程式，同時提供建議並參與AEM專案的所有階段
 
 此外，您也應熟悉下列技術和環境：
 
@@ -40,15 +40,15 @@ ht-degree: 11%
 * IMSAdobe的使用者對應工具
 * I/O cmd工具
 * New Relic
-* 本機Cloud SDK
-* Development、Stage、Prod Author、Publish和Preview服務
+* 本機雲端SDK
+* 開發、暫存、生產作者、發佈和預覽服務
 * 使用Docker的本機Dispatcher設定
-* 在本機環境中追蹤雲端記錄
+* 在本機環境中追蹤雲端記錄檔
 * Cloud Console介面
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
@@ -62,14 +62,14 @@ ht-degree: 11%
 * Adobe [!DNL Experience Manager] 網站架構者
 * Adobe [!DNL Experience Manager] 資產開發人員
 * Adobe [!DNL Experience Manager] Forms開發人員
-* 曾參與多次AEM部署、至少具有2至3年使用Adobe開發Web應用程式經驗的開發人員/DevOps/銷售機會/架構師 [!DNL Experience Manager]
+* 曾參與多次AEM部署，至少具有2至3年使用Adobe開發Web應用程式經驗的開發人員/DevOps/銷售機會/架構師 [!DNL Experience Manager]
 
 **考試詳細資料**
 
 * 等級：專家（1-3年經驗）
-* 及格分數： 31/50
+* 及格分數：31/50
 * 時間：100分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 交付：線上監護（需要存取攝影機）或測試中心監護
 * 可用語言：英文
 * 費用：125美元（全球） / 95美元（印度）
 * 考試ID：AD0-E136
@@ -95,7 +95,7 @@ ht-degree: 11%
 
 第3節：部署(16%)
 
-* 設定Cloud Manager管道並將連結至環境
+* 設定Cloud Manager管道並將連結到環境
 * 布建AEMaaCS環境（開發、階段、prod — 作者、發佈、預覽）
 * 藉助AdobeIO CLI管理部署流程
 
@@ -104,7 +104,7 @@ ht-degree: 11%
 * 執行測試
 * 準備資產移轉策略
 * 準備初始/基本內容移轉策略
-* 執行移轉工具（內容轉移、現代化、重構）。 報告並調整結果，尤其是工具未處理的關鍵結果
+* 執行移轉工具（內容轉移、現代化、重構）。 報告並調整結果，特別是工具未處理的關鍵結果
 * 規劃上線後支援
 
 第5節：實作(16%)
@@ -114,11 +114,11 @@ ht-degree: 11%
 * 設定本機SDK
 * 根據AEMas a Cloud Service上可用的執行模式更新設定
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **第1節：評估**
 
@@ -141,7 +141,7 @@ ht-degree: 11%
 **第4節：移轉**
 
 * [在發佈執行個體上執行內容轉移工具](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/running-content-transfer-tool-publish-instance.html){target="_blank"}
-* [內容轉移工具的先決條件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html){target="_blank"}
+* [內容轉移工具的先決條件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html?lang=zh-Hant){target="_blank"}
 * [以記錄檔為 AEM as a Cloud Service 除錯](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html){target="_blank"}
 
 **第5節：實作**
@@ -153,26 +153,22 @@ ht-degree: 11%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新安排約會。*
+>此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
 
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E136)
-
-### 可用選項
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E136
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E136" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
 

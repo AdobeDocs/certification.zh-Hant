@@ -4,49 +4,49 @@ description: 瞭解如何成為認證 [!DNL Adobe Target] 架構師Master。
 solution: Target
 product: Target
 role: Data Architect
-badge: label="Exam AD0-E409" type="positive"
+badge: label="考試AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 5f155e7b81ec0e39f632416546a46d9ca7da5426
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1112'
-ht-degree: 10%
+source-wordcount: '943'
+ht-degree: 13%
 
 ---
 
 # 的認證歷程 [!DNL Adobe Target] 架構師Master
 
-瞭解如何成為認證Adobe架構師大師。
+瞭解如何成為認證 [!DNL Adobe Target] 架構師Master。
 
 >[!NOTE]
 >
->這是最新的Adobe Target Architect主要測驗。 如果您已開始學習或排程 [較舊版本](at-m-architect.md) 您必須在2023年9月8日之前完成。
+>這是最新的 [!DNL Adobe Target] 架構師主要考試。 如果您已開始學習或已排程 [較舊版本](at-m-architect.md) 您必須在2023年9月8日之前完成。
 
 ## 最低體驗
 
-您應該具備：
+您應該有：
 
-* 至少三年數位行銷最佳化經驗
-* 至少兩年（或五次參與）的實作、部署和疑難排解Adobe Target的經驗
+* 至少三年的數位行銷最佳化經驗
+* 至少兩年實施、部署和疑難排解Adobe Target的經驗（或五次參與）
 * 將Target與Adobe Experience Cloud整合的體驗
 * 對JavaScript、HTML、CSS和前端網頁開發的基本瞭解
-* 熟悉/瞭解Adobe Target API/SDK、伺服器端整合、報告與管理
+* 熟悉/認知Adobe Target API/SDK、伺服器端整合、報告與管理
 * 瞭解如何使用單頁應用程式(SPA)架構、行動裝置和電子郵件以及建議來實作Adobe Target。
 
 技術：
 
 * 多個Adobe Experience Cloud程式(Adobe Analytics、Adobe Campaign、Adobe Experience Manager、Adobe Experience Cloud Debugger、Target API)
 * JavaScript （Ajax、JQuery等）
-* 瀏覽器型偵錯工具（Chrome開發人員工具、VEC helper）、JSON，用於偵錯來自Target的回應
+* 用於偵錯來自Target之回應的瀏覽器型偵錯工具（Chrome開發人員工具、VEC Helper）、JSON
 * 原生應用程式的偵錯工具(Charles Proxy、Fiddler)
 * HTML、CSS、HTTP、XML設定
-* 原生行動開發IDE、iOS開發的基本知識、Android開發的基本知識
+* 原生行動開發IDE、iOS開發基本知識、Android開發基本知識
 * Postman等API工具
 * VEC helper
 
 環境:
 
 * Adobe Experience Cloud
-* 不使用Tag Manager的使用者端實作
+* 不使用Tag Manager的使用者端實施
 * Tag Management系統，尤其是Launch (IF)
 * 伺服器端環境（針對API用途）
 * 電子郵件
@@ -70,22 +70,22 @@ ht-degree: 10%
 
 **考試詳細資料：**
 
-* 等級：主要（3-5年經驗）
+* 等級：主版（3-5年經驗）
 * 及格分數：32/50
 * 時間：100分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 交付：線上監護（需要存取攝影機）或測試中心監護
 * 可用語言：英文
 * 費用：225美元（全球） / 150美元（印度）
 * 考試ID：AD0-E409
 
 **考試目標與範圍**
 
-區段1： [!DNL Adobe Target] 基礎知識(13%)
+區段1： [!DNL Adobe Target] 基本面(13%)
 
 * 識別適當的 [!DNL Adobe Target] 特定情境的使用情況
-* 說明的基本技術 [!DNL Adobe Target] 實作
+* 說明的基本技術 [!DNL Adobe Target] 實施
 
-第2節：整合 [!DNL Adobe Target] (18%)
+第2節：與整合 [!DNL Adobe Target] (18%)
 
 * 套用流程以整合 [!DNL Adobe Target] 搭配Adobe Analytics (A4T)
 * 套用流程以整合 [!DNL Adobe Target] 至Adobe Experience Manager
@@ -95,23 +95,23 @@ ht-degree: 10%
 區段3： [!DNL Adobe Target] 管理與治理(6%)
 
 * 定義進行中 [!DNL Adobe Target] 實作策略與系統治理
-* 套用程式和最佳實務來管理使用者
+* 套用流程和最佳實務來管理使用者
 * 說明實作設定的管理層面
 
 區段4： [!DNL Adobe Target] 和支援的接觸點(6%)
 
-* 說明使用者端傳遞實作
+* 說明使用者端傳送實施
 * 說明伺服器端傳遞實作
 * 說明行動、電子郵件目標定位和API的實作需求
 
 第5節：善用 [!DNL Adobe Target] 建議(11%)
 
-* 展示對建議、目錄和條件的瞭解
+* 展示對於建議、目錄和條件的瞭解
 * 套用程式以設定Target建議
 
-第6節：架構、設計和實作 [!DNL Adobe Target] (18%)
+第6節：架構者、設計與實施 [!DNL Adobe Target] (18%)
 
-* 選取正確的Target請求實作（全域、訂單確認、混合）評估並設計 [!DNL Adobe Target] 實作
+* 選取正確的Target請求實作（全域、訂購確認、混合）評估及設計 [!DNL Adobe Target] 實施
 * 說明的實作 [!DNL Adobe Target] 在原生行動應用程式中
 
 第7節：疑難排解(28%)
@@ -122,11 +122,11 @@ ht-degree: 10%
 * 瞭解整合錯誤
 * 疑難排解 [!DNL Adobe Target] Recommendations錯誤
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **區段1**
 
@@ -172,41 +172,33 @@ ht-degree: 10%
 
 **區段7**
 
-[活動QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
+[活動問答](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
 [疑難排解內容傳送](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
 [設計常見問題集](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
 [Recommendations常見問題集](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
-[Platform Web SDK中的Adobe Analytics for Target (A4T)記錄](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
+[在Platform Web SDK中登入Target適用的Adobe Analytics (A4T)](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
 
 
 >[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **現在您已成功登入，可直接存取下列連結。**
 
-**參加認證考試**
+## 關於認證考試
 
-Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
+{{about-certification-exam}}
 
-* **PSI** 提供測試中心和日文考試選項（如果有的話）
-* **[!DNL Examity]** 提供遠端線上選項
+## 排程或參加考試AD0-E409
 
-若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
-
-如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
-
-### 考試編號：AD0-E409
-
-[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
-
-您可以透過憑單或信用卡支付認證考試費用。 若要購買考試憑單，請前往： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
+<span class="spectrum-Button-label has-no-wrap">
+   前往考試入口網站
+</span>
+</a>
 
 >[!ENDTABS]
 

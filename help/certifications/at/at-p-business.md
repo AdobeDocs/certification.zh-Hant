@@ -1,37 +1,37 @@
 ---
 title: 商務從業人員專業認證
-description: 瞭解如何成為認證 [!DNL Adobe Target] 專業商務從業人員。
+description: 瞭解如何成為認證 [!DNL Adobe Target] 商務從業者專業人士。
 solution: Target
 product: Target
 role: User
-badge: label="Exam AD0-E408" type="positive"
+badge: label="考試AD0-E408" type="positive"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '867'
 ht-degree: 7%
 
 ---
 
 # 的認證歷程 [!DNL Adobe Target] 商務從業者專業人士
 
-瞭解如何成為認證的Adobe商務從業人員專業人員。
+瞭解如何成為認證 [!DNL Adobe Target] 商務從業者專業人士。
 
 ## 最低體驗
 
-您應該具備：
+您應該有：
 
 * 最佳化平台的0至12個月使用經驗，包括 [!DNL Adobe Target]
-* 受到監管的實際操作體驗 [!DNL Adobe Target]
-* 0至12個月的經驗可引導/協助最佳化計畫
-* 能夠識別基本Target/Adobe Marketing Cloud管理工作（偏好設定、使用者角色和許可權、設定）
+* 監督的實作體驗 [!DNL Adobe Target]
+* 0至12個月的體驗領導/協助最佳化計畫
+* 能夠識別基本的Target/Adobe Marketing Cloud管理工作（偏好設定、使用者角色和許可權、設定）
 * 三步驟工作流程的基本知識（體驗、目標定位、目標與設定，包括所有報表來源）
 * 閱讀和瞭解活動報告結果的能力
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
@@ -47,9 +47,9 @@ ht-degree: 7%
 **考試詳細資料：**
 
 * 等級：專業（0至12個月經驗）
-* 及格分數： 31/50
+* 及格分數：31/50
 * 時間：100分鐘
-* 傳遞：線上監護（需要相機存取）
+* 傳遞：線上監護（需要存取攝影機）
 * 可用語言：英文
 * 費用：125美元（全球） / 95美元（印度）
 * 考試ID：AD0-E408
@@ -59,13 +59,13 @@ ht-degree: 7%
 第1節：規劃與策略(26%)
 
 * 識別業務KPI
-* 在業務KPI和資料分析案例中，找出最佳化的機會
+* 在業務KPI和資料分析特定情境下，找出最佳化機會
 * 說明變數對活動的影響
-* 根據指定案例建構測試假設
+* 根據指定情境建構測試假設
 * 識別假設元素
 * 說明以KPI為基礎的主要和次要成功量度
-* 在情景中，評估受眾需求
-* 說明適當的Analytics報表來源(即Target或Adobe Analytics)
+* 在案例中，評估對象需求
+* 說明適當的分析報表來源(即Target或Adobe Analytics)
 
 第2節：設定、執行和管理(50%)
 
@@ -74,8 +74,8 @@ ht-degree: 7%
 * 說明使用表單式撰寫器建立體驗的程式
 * 說明在體驗撰寫器中管理體驗的程式
 * 說明適用於建立Target活動的工作流程
-* 在特定的情況下，套用程式以建立A/B測試活動
-* 在特定的情況下，套用程式以建立XT活動
+* 在案例中，套用程式以建立A/B測試活動
+* 在案例中，套用程式以建立XT活動
 * 在特定的情況下，套用程式以建立MVT活動
 * 識別解決方案如何使用AP
 * 識別何時使用建議活動
@@ -86,8 +86,8 @@ ht-degree: 7%
 
 第3節：分析和報告(16%)
 
-* 說明設定，以協助設定出現在報告中的元素
-* 說明以下專案的差異： [!DNL Adobe Target] 規劃與驗證之間的樣本大小計算器設定
+* 說明有助於設定報表中顯示之元素的設定
+* 說明差異，在 [!DNL Adobe Target] 規劃與驗證之間的樣本大小計算器設定
 * 說明A/B測試的相關常見問題
 * 識別Automated Personalization摘要報表與其他報表的差異
 * 說明體驗效能報表(MVT)的功能
@@ -99,11 +99,11 @@ ht-degree: 7%
 * 識別瀏覽器偵錯工具的功能(包括Experience Cloud Debugger)
 * 識別量度和報表
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **範例問題**
 
@@ -145,36 +145,21 @@ ht-degree: 7%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新安排約會。*
+>此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E408)
-
-### 可用選項
-
-{{PSI-note}}
-
-**PSI** (*測試中心/日文考試選項（可用時）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E408" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   參加測驗
-</span>
-</a>
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E408
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E408" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
 

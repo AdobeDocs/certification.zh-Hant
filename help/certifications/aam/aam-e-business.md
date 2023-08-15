@@ -1,39 +1,39 @@
 ---
-title: 商務從業人員專家認證
+title: 商務從業者專家認證
 description: 瞭解如何獲得Adobe認證 [!DNL Audience Manager] Business Manager專家。
 solution: Audience Manager
 product: Audience Manager
 role: User,Developer
-badge: label="Exam AD0-E457" type="positive"
+badge: label="考試AD0-E457" type="positive"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '965'
-ht-degree: 9%
+source-wordcount: '940'
+ht-degree: 10%
 
 ---
 
-# Adobe的認證歷程 [!DNL Audience Manager] 商務從業者專家
+# 的認證歷程 [!DNL Adobe Audience Manager] 商務從業者專家
 
-瞭解如何成為認證 [!DNL Audience Manager] 商務從業者專家。
+瞭解如何成為認證 [!DNL Adobe Audience Manager] 商務從業者專家。
 
 ## 最低體驗
 
-您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
-您應該具備：
+您應該有：
 
 * 1至2年的行銷技術經驗
-* 3至6個月的audience activation經驗
-* 布林值邏輯、數位行銷行銷術語、資料分析和策略的體驗
+* 3至6個月的對象啟用體驗
+* 使用布林值邏輯、數位行銷術語、資料分析和策略的體驗
 * 瞭解業務目標和KPI、熟悉數位行銷技術棧疊和各種平台整合，並瞭解資料流程（ID型別、ID同步、畫素追蹤、以人物為基礎的目的地）
 
 您應熟悉下列技術和環境：
 
 技術：
 
-* DSP Platform （Trade Desk、按兩下「競標管理員」等）
+* DSP Platform （Trade Desk、按兩下「競標管理員」，以此類推）
 * Excel
 * Tableau和類似工具(PowerBI、Qlik)
 * 廣告伺服器（按兩下「促銷活動管理員」）
@@ -43,13 +43,13 @@ ht-degree: 9%
 
 環境:
 
-* 中小/企業級業務
+* 小型/中型/企業級業務
 * 數位行銷
 * 資料與分析
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
@@ -70,53 +70,53 @@ ht-degree: 9%
 * 等級：專家（1-3年經驗）
 * 及格分數：36/50
 * 時間：100分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 交付：線上監護（需要存取攝影機）或測試中心監護
 * 可用語言：英文
 * 費用：225美元（全球）和150美元（印度）
 * 考試ID：AD0-E457
 
 **整備程度自我評估**
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
+完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
 
 **考試目標與範圍**
 
-區段1：區段建立和整合(25%)
+區段1：區段建立與整合(25%)
 
 * 確定適當的方法，利用第一方、第二方和第三方資料建立區段，以用於目標定位和分析目的
 * 在案例中，建議符合業務或行銷活動目標的啟用區段
-* 決定合適的方法，將區段聯合發佈至目的地以利啟動
+* 決定合適的方法，將區段聯合發佈至目的地以供啟用
 * 區分不同型別的目的地
 
-區段2：特徵建立(17%)
+第2節：特徵建立(17%)
 
 * 為指定的受眾策略建議特徵
-* 決定建立和更新規則型和/或已上線特徵的正確方法
+* 決定建立和更新規則型及/或已上線特徵的正確方法
 
-第3節：報告和測量(22%)
+第3節：報告與測量(22%)
 
-* 在案例中，分析報表以提供可操作的後續步驟，達成業務目標
+* 在案例中，分析報表以提供可操作的後續步驟來達成業務目標
 * 在情景中，分析受眾最佳化
 
 第4節：疑難排解與管理(26%)
 
-* 在特定的情況下，請確認對象傳送資訊，以確保排程的傳送需求
+* 在案例中，驗證對象傳送資訊，以確保排程的傳送需求
 * 決定驗證離線傳入檔案的適當實務
-* 在特定的情況下，請確定對ID同步執行QA的正確方法
-* 決定從AdobeAudience Marketplace導覽和啟動的適當方法
+* 在案例中，請判斷對ID同步執行QA的正確方法
+* 決定從AdobeAudience Marketplace導覽及啟動的適當方法
 
 區段5：分類法(10%)
 
 * 決定適當的結構，以建立使用清晰且一致命名法的特性和區段
-* 決定使用清晰的資料夾結構來維持有組織的平台的正確技術
+* 決定使用明確的資料夾結構來維持有組織的平台的正確技巧
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
-**第1節：區段建立和整合**
+**第1節：區段建立與整合**
 
 * [在區段層級報告Audience Marketplace中的第二方和第三方資料使用情況](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html){target="_blank"}
 * [使用篩選器和建議來選擇Audience Marketplace中的協力廠商資料](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html){target="_blank"}
@@ -133,10 +133,10 @@ ht-degree: 9%
 * [管理特徵規則](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/manage-trait-rules.html){target="_blank"}
 * [建立規則型或已上線的特徵](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html){target="_blank"}
 
-**第3節：報告和測量**
+**第3節：報告與測量**
 
 * [區段區段報表](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-segment-trends.html){target="_blank"}
-* [監控及報告活動使用情況](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.html){target="_blank"}
+* [監視和報告活動使用情況](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.html){target="_blank"}
 * [趨勢報表](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/trend-reports.html)
 * [使用 Audience Optimization 報告了解媒體效能](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
 * [Audience Optimization for Publishers](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/aor-publishers.html){target="_blank"}
@@ -148,7 +148,7 @@ ht-degree: 9%
 * [ID 同步檔案的名稱和內容要求](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-file-based.html){target="_blank"}
 * [在中建立及管理資料啟用 [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html){target="_blank"}
 
-**第5節：分類**
+**第5節：分類法**
 
 * [訊號、特徵和區段](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=zh-Hant){target="_blank"}
 * [使用量限制](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/usage-limits.html){target="_blank"}
@@ -160,37 +160,22 @@ ht-degree: 9%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 ## 參加練習測試
 
 {{practice-test}}
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E457)
-
-### 可用選項
-
-{{PSI-note}}
-
-**PSI** (*測試中心/日文考試選項（可用時）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E457" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   參加測驗
-</span>
-</a>
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E457
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E457" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
 

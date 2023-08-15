@@ -3,12 +3,12 @@ title: 增強型聯結器專家認證
 description: 瞭解如何成為認證Adobe認證Adobe專家 [!DNL Workfront] 的 [!DNL Experience Manager]
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E906" type="positive"
+badge: label="考試AD0-E906" type="positive"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '867'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 最低體驗
 
-您應已取得下列一或多個認證：
+您應該已取得下列一或多個認證：
 
 * AEM Assets開發人員認證專家
 * AEM Sites開發人員認證專家
@@ -27,18 +27,18 @@ ht-degree: 0%
 
 而且，您應該具備：
 
-* 1年以上的CMS經驗
+* 1年以上的CMS使用經驗
 * 1年以上的AEM使用經驗
 * 1年以上 [!DNL Workfront] 體驗
 * 2年以上的Java/J2EE開發人員經驗
 * 共同架構至少一個以AEM為基礎的解決方案
-* 與客戶直接合作，建立自訂解決方案的體驗
+* 體驗直接與客戶合作，建立自訂解決方案
 * 瞭解分類法和AEM標籤、AEM工作流程、JCR、Sling、OSGi和資料庫
 * 瞭解工作管理最佳實務
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 * 等級：專家（1-3年經驗）
 * 及格分數：34/55
 * 時間：110分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 交付：線上監護（需要存取攝影機）或測試中心監護
 * 可用語言：英文
 * 費用：225美元（全球） / 150美元（印度）
 * 考試ID：AD0-E906
@@ -67,35 +67,35 @@ ht-degree: 0%
 
 * 使用 [!DNL Workfront] 自訂Forms
 * 在案例中，示範檔案管理
-* 示範在環境中推廣程式碼的知識
-* 指定情境，識別如何將值傳遞至 [!DNL Workfront] 自訂表單
+* 示範在環境中提升程式碼的知識
+* 在案例中，識別如何將值傳遞至 [!DNL Workfront] 自訂表格
 * 疑難排解伺服器端程式碼
 
 區段2：設定(26%)
 
 * 說明使用者管理的最佳實務
 * 套用修改現有AEM資產工作流程所需的程式概念
-* 針對不同資產型別自訂中繼資料結構並做出必要決定
+* 針對不同的資產型別自訂中繼資料結構做出所需的決策
 * 套用部署OSGi套件組合、資產、中繼資料結構、標籤和許可權所需的程式AEM概念
 
 第3節：業務實務(21%)
 
-* 解譯使用者端需求，以便建議適當的工作流程策略
+* 解譯使用者端需求，以建議適當的工作流程策略
 * 示範如何設定 [!DNL Workfront] 核准和校訂工作流程
-* 在場景中，請確定使用校樣檢視器、設定和標籤功能的最佳實務
-* 展示對於追蹤作為行銷活動管理一部分的交付專案的瞭解
-* 在案例中，請確定變更管理的主要考量因素 [!DNL Workfront] 實作
+* 在案例中，識別使用校訂檢視器、設定和標籤功能的最佳實務
+* 展示對於在行銷活動管理中追蹤交付專案的瞭解
+* 在案例中，找出變更管理的主要考量因素 [!DNL Workfront] 實施
 
 第4節：聯結器的安裝和設定(28%)
 
 * 驗證AEM中的先決條件
-* 根據客戶使用案例，找出要實作的聯結器功能
+* 根據客戶使用案例，識別要實施的聯結器功能
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **範例問題**
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 
 **第1節：技術需求**
 
-* [自訂表單概觀](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
+* [自訂表單概述](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 * [設定檔案整合](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-document-integrations.html){target="_blank"}
 * [瞭解多租使用者和同時開發](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/deployment/multitenancy-concurrent-article-understand.html){target="_blank"}
 * [使用舊版表單產生器將計算資料新增至自訂表單](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
@@ -127,7 +127,7 @@ ht-degree: 0%
 * [自動化工作流程總覽](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html){target="_blank"}
 * [檢閱及核准證明](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html){target="_blank"}
 * [從專案時間表追蹤進度](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
-* [定義Adobe的目標 [!DNL Workfront] 實作](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
+* [定義Adobe的目標 [!DNL Workfront] 實施](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
 
 **第4節：聯結器的安裝及組態**
 
@@ -140,36 +140,21 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新安排約會。*
+>此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E906)
-
-### 可用選項
-
-{{PSI-note}}
-
-**PSI** (*測試中心/日文考試選項（可用時）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E906" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   參加測驗
-</span>
-</a>
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E906
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E906" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
 

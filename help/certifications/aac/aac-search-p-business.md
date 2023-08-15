@@ -1,29 +1,29 @@
 ---
 title: 商務從業人員專業認證
-description: 瞭解如何獲得Adobe認證 [!DNL Advertising Search] 專業商務從業人員。
+description: 瞭解如何獲得Adobe認證 [!DNL Advertising Search] 商務從業者專業人士。
 solution: Advertising
 product: Advertising Cloud
 level: Experienced
 role: User
-badge: label="Exam AD0-E501" type="positive"
+badge: label="考試AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '905'
+source-wordcount: '880'
 ht-degree: 5%
 
 ---
 
-# Adobe的認證歷程 [!DNL Advertising Search] 商務從業者專業人士
+# 的認證歷程 [!DNL Adobe Advertising Search] 商務從業者專業人士
 
-瞭解如何成為認證 [!DNL Advertising Search] 專業商務從業人員。
+瞭解如何成為認證 [!DNL Adobe Advertising Search] 商務從業者專業人士。
 
 ## 最低體驗
 
-您應該具備：
+您應該有：
 
-* 擁有12至24個月付費搜尋效能業界經驗的計畫經理
+* 具有12至24個月付費搜尋效能業界經驗的方案經理
 * 至少3-6個月 [!DNL Advertising Search] 平台體驗
 * 使用體驗 [!DNL Advertising Search] 並熟悉付費搜尋競標自動化、行銷活動管理、
 * 對Portfolio理論的理解
@@ -45,7 +45,7 @@ ht-degree: 5%
 * 設定帳戶
 * 管理行銷活動
 * 使用支出建議工具
-* 排除並包含Portfolio中的日期
+* 在Portfolio中排除並包含日期
 * 管理競標規則
 * 當日競標
 * 對象競標修飾元
@@ -53,7 +53,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
@@ -70,25 +70,25 @@ ht-degree: 5%
 * 等級：專業（0至12個月經驗）
 * 及格分數：35/50
 * 時間：100分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 交付：線上監護（需要存取攝影機）或測試中心監護
 * 可用語言：英文
 * 費用：125美元（全球） / 95美元（印度）
 * 考試ID：AD0-E501
 
 **整備程度自我評估**
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
+完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
 
 **考試目標與範圍**
 
 第1節：Portfolio與最佳化(54%)
 
-* 指定情境，選取並設定自動化競標策略
-* 指定的業務策略，定義並建立PortfolioKPI目標
+* 在情境中，選取並設定自動化競標策略
+* 指定業務策略，定義並建立PortfolioKPI目標
 * 指定業務策略，定義並建立適當的Portfolio設定
 * 根據效能需求，建立和管理限制
-* 在特定的情況下，評估並疑難排解Portfolio效能
-* 在特定的情況下，請決定如何持續調整Portfolio設定
+* 在案例中，評估並疑難排解Portfolio效能
+* 在案例中，請確定如何持續調整Portfolio設定
 
 第2節：報表、見解和工具(14%)
 
@@ -104,18 +104,18 @@ ht-degree: 5%
 區段4：測量(10%)
 
 * 在商業案例中，決定行銷活動轉換追蹤的方法並套用
-* 在特定的情況下，疑難排解行銷活動轉換量度問題
+* 在特定情況下，疑難排解行銷活動轉換量度問題
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **第1節：Portfolio與最佳化**
 
 * [Adobe簡介 [!DNL Analytics] 用於Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html){target="_blank"}
-* [概述 [!DNL Analytics] 的 [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html){target="_blank"}
+* [概觀 [!DNL Analytics] 的 [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html){target="_blank"}
 * [效能最佳化](https://business.adobe.com/in/products/advertising/performance-optimization.html){target="_blank"}
 * [瞭解Enhanced Analytics中的KPI](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
 * [新增限制至智慧清單篩選器](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html){target="_blank"}
@@ -126,23 +126,23 @@ ht-degree: 5%
 * [[!DNL Analytics] 工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
 * [開始使用 [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
 * [[!DNL Campaign] 報告](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
-* [建立 [!DNL Analytics] Adobe的設定檔 [!DNL Advertising] 啟用與報告](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
+* [建立 [!DNL Analytics] 用於Adobe的設定檔 [!DNL Advertising] 啟用與報告](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
 * [報告 [!DNL Advertising] Adobe中的資料 [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}
 * [報告時間處理](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html?lang=zh-Hant){target="_blank"}
 * [Adobe [!DNL Analytics] 儀表板計分卡產生器](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html?lang=zh-Hant){target="_blank"}
 
 **第3節：行銷活動管理**
 
-* [開始使用 [!DNL Campaign] 管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
+* [快速入門 [!DNL Campaign] 管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 * [檢視其運作原理](https://business.adobe.com/in/products/campaign/campaign-management.html){target="_blank"}
-* [讓您的搜尋行銷更聰明](https://www.adobe.com/content/dam/www/us/en/avstg/search-marketing-management/pdfs/Adobe_Advertising_Cloud_Search_Marketing_Tips_and_Tricks_Sheet.pdf){target="_blank"}
-* [在單一畫面上檢視整個客戶歷程](https://business.adobe.com/in/products/campaign/adobe-campaign.html){target="_blank"}
+* [提升搜尋行銷的智慧](https://www.adobe.com/content/dam/www/us/en/avstg/search-marketing-management/pdfs/Adobe_Advertising_Cloud_Search_Marketing_Tips_and_Tricks_Sheet.pdf){target="_blank"}
+* [在單一熒幕檢視整個客戶歷程](https://business.adobe.com/in/products/campaign/adobe-campaign.html){target="_blank"}
 * [瞭解批次和觸發智慧行銷活動](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
 
 **第4節：測量**
 
 * [建立 [!DNL Analytics] 具有Adobe的自訂量度 [!DNL Advertising] 資料](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html){target="_blank"}
-* [格點、參考線和測量(以PDF表示)](https://helpx.adobe.com/in/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"}
+* [PDF中的格點、參考線和測量](https://helpx.adobe.com/in/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"}
 * [Attribution &amp; Measurement](https://business.adobe.com/in/products/advertising/attribution-measurement.html){target="_blank"}
 * [Marketo Measure說明檔案](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
 * [轉換變數 (eVar)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
@@ -151,36 +151,21 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新安排約會。*
+>此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E501)
-
-### 可用選項
-
-{{PSI-note}}
-
-**PSI** (*測試中心/日文考試選項（可用時）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E501" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   參加測驗
-</span>
-</a>
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E501
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E501" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
 

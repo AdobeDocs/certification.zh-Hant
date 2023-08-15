@@ -1,27 +1,27 @@
 ---
 title: 商務從業人員專業認證
-description: 瞭解如何獲得Adobe認證 [!DNL Audience Manager] 專業商務從業人員。
+description: 瞭解如何獲得Adobe認證 [!DNL Audience Manager] 商務從業者專業人士。
 solution: Audience Manager
 product: Audience Manager
 role: User
 level: Experienced
-badge: label="Exam AD0-E458" type="positive"
+badge: label="考試AD0-E458" type="positive"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '909'
+source-wordcount: '907'
 ht-degree: 12%
 
 ---
 
 # Adobe的認證歷程 [!DNL Audience Manager] 商務從業者專業人士
 
-瞭解如何成為認證的 [!DNL Audience Manager] 專業商務從業人員。
+瞭解如何成為認證 [!DNL Audience Manager] 商務從業者專業人士。
 
 ## 最低體驗
 
-您應該對資料流程、業務目標和KPI有基本的瞭解，並在資料分析和策略方面有一些經驗
+您應該對資料流程、業務目標和KPI有基本的瞭解，並具備一些與資料分析和策略相關的經驗
 
 >[!BEGINTABS]
 
@@ -40,9 +40,9 @@ ht-degree: 12%
 **考試詳細資料：**
 
 * 等級：專業（0至12個月經驗）
-* 及格分數： 31/50
+* 及格分數：31/50
 * 時間：100分鐘
-* 傳遞：線上監護（需要相機存取）
+* 傳遞：線上監護（需要存取攝影機）
 * 可用語言：英文
 * 費用：125美元（全球） / 95美元（印度）
 * 考試ID：AD0-E458
@@ -51,7 +51,7 @@ ht-degree: 12%
 
 區段1：區段建立與整合(32%)
 
-* 找出利用第一方、第二方和第三方資料的方式，以用於目標定位和分析目的
+* 找出將第一方、第二方和第三方資料用於目標定位和分析目的的方法
 * 說明啟動業務或行銷活動目標的基本程式
 * 區分割槽段啟用方法
 * 識別不同型別的目的地
@@ -59,13 +59,13 @@ ht-degree: 12%
 
 第2節：特徵建立(16%)
 
-* 在情景中，識別訊號、特徵、區段和對象
+* 在情境中，識別訊號、特徵、區段和對象
 * 識別不同型別特徵的使用
 
-第3節：報告和測量(16%)
+第3節：報告與測量(16%)
 
-* 在特定的情況下，產生報表以測量啟用或行銷活動目標
-* 在情景中，根據匹配率比較受眾
+* 在案例中，產生報表以測量啟用或行銷活動目標
+* 在案例中，根據符合率來比較對象
 
 第4節：疑難排解(10%)
 
@@ -75,18 +75,18 @@ ht-degree: 12%
 區段5：分類法(12%)
 
 * 決定適當的結構，以建立使用清晰且一致命名法的特性和區段
-* 決定使用清晰的資料夾結構來維持有組織的平台的正確技術
+* 決定使用明確的資料夾結構來維持有組織的平台的正確技巧
 
 第6節：設定檔合併、ID同步和Audience Marketplace
 
-* 將使用者特徵組織到單一統一設定檔中，以建立以家庭或裝置為基礎的對象
+* 將使用者特徵組織到單一統一設定檔中，以建立以家庭或裝置為基礎的受眾
 * 使用Audience Marketplace識別啟動
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **範例問題**
 
@@ -94,9 +94,9 @@ ht-degree: 12%
 
 [檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
 
-**第1節：區段建立和整合**
+**第1節：區段建立與整合**
 
-* [將資料使用情況大量上傳至Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.html){target="_blank"}
+* [將資料使用情況大量上傳到Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.html){target="_blank"}
 * [關於區段](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html){target="_blank"}
 * [在中建立轉換特徵 [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html){target="_blank"}
 * [[!DNL Audience Manager] 教學課程](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=tr){target="_blank"}
@@ -112,7 +112,7 @@ ht-degree: 12%
 * [特徵和區段資格參考資料](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html){target="_blank"}
 * [區段產生器的特徵和區段母體資料](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder-data.html?lang=zh-Hant){target="_blank"}
 
-**第3節：報告和測量**
+**第3節：報告與測量**
 
 * [使用 Audience Optimization 報告了解媒體效能](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
 * [Experience Platform區段共用對象 [!DNL Audience Manager] 和其他Experience Cloud解決方案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
@@ -128,7 +128,7 @@ ht-degree: 12%
 * [即時傳入資料擷取](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/real-time-inbound-data-integration/real-time-data-transfer.html){target="_blank"}
 * [傳入資料傳輸的 ID 同步](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html){target="_blank"}
 
-**第5節：分類**
+**第5節：分類法**
 
 * [資料夾特徵：關於](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
 * [特徵儲存](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-storage.html){target="_blank"}
@@ -139,31 +139,27 @@ ht-degree: 12%
 
 * [設定檔合併規則增強功能如何影響細分、啟用和報告](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.html){target="_blank"}
 * [在中建立轉換特徵 [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html){target="_blank"}
-* [透過Ad Hoc Activation API依需求對批次目的地啟用對象區段](https://experienceleague.adobe.com/docs/experience-platform/destinations/api/ad-hoc-activation-api.html){target="_blank"}
+* [透過臨機啟動API依需求對批次目的地啟用對象區段](https://experienceleague.adobe.com/docs/experience-platform/destinations/api/ad-hoc-activation-api.html){target="_blank"}
 * [對目的地啟用設定檔和區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 
 >[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E458)
-
-### 可用選項
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E458
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E458" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
 

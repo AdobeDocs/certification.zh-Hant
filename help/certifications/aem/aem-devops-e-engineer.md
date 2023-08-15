@@ -4,12 +4,12 @@ description: 瞭解如何成為認證Adobe Experience Manager DevOps工程師專
 solution: Experience Manager
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E124" type="positive"
+badge: label="考試AD0-E124" type="positive"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '926'
 ht-degree: 5%
 
 ---
@@ -20,12 +20,12 @@ ht-degree: 5%
 
 ## 最低體驗
 
-您應該具備：
+您應該有：
 
 * 使用及設定Adobe Cloud Manager至少1至3年的經驗
-* 至少兩年設定、實作及管理持續整合/持續部署工作的經驗
+* 在設定、實作及管理持續整合/持續部署工作方面至少兩年經驗
 
-您應該能夠舒適地使用Adobe Managed Services和Adobe Experience Manager as a Cloud Service，並能夠設定Adobe Experience Manager環境和基礎架構。
+您應該能夠在AdobeManaged Services和Adobe Experience Manager as a Cloud Service中舒適地工作，並能夠設定Adobe Experience Manager環境和基礎架構。
 
 此外，您也應熟悉下列技術和環境：
 
@@ -41,7 +41,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
@@ -54,8 +54,8 @@ ht-degree: 5%
 * 正在設計與實作之解決方案的產品擁有者
 * 業務分析人員
 * 解決方案架構師
-* 合作夥伴組織中的個人，以及擔任AEM解決方案分析師職務的自由職業者
-* 行銷專家，瞭解開發人員定義符合業務需求的解決方案所需的特性和功能
+* 合作夥伴組織中的個人，以及為AEM解決方案執行分析師工作角色的自由職業者
+* 行銷專家，瞭解開發人員所需的特性和功能，以便針對業務需求定義解決方案
 * 使用產品的客戶（即進階使用者）
 
 **考試詳細資料：**
@@ -63,14 +63,14 @@ ht-degree: 5%
 * 等級：專家（1-3年經驗）
 * 及格分數：30/50
 * 時間：100分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 交付：線上監護（需要存取攝影機）或測試中心監護
 * 可用語言：英文
 * 費用：225美元（全球） / 150美元（印度）
 * 考試ID：AD0-E124
 
 **整備程度自我評估**
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
+完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
 
 **考試目標與範圍**
 
@@ -78,7 +78,7 @@ ht-degree: 5%
 
 * 決定設定基本Adobe Experience Manager設定的正確方法
 * 在特定情況下，疑難排解Adobe Experience Manager問題
-* 判斷設定OSGi的正確方法
+* 決定設定OSGi的正確方法
 
 第2節：操作Cloud Manager和Cloud Manager API (20%)
 
@@ -89,15 +89,15 @@ ht-degree: 5%
 
 第3節：設定Web Proxy基礎結構(12%)
 
-* 決定管理Dispatcher設定的正確方法
+* 確定管理Dispatcher設定的正確方法
 * 在某種情況下，疑難排解快取問題
 
 第4節：建置和部署(28%)
 
-* 決定管理Cloud Manager部署的正確方法
+* 確定管理Cloud Manager部署的正確方法
 * 在情景中，分析Cloud Manager管道的狀態
 * 決定跨多個Adobe Experience Manager執行個體管理內容套件的正確方法
-* 決定變更Maven檔案以支援管道的正確方法
+* 確定變更Maven檔案以支援管道的正確方法
 
 第5節：監控和報告品品質度(14%)
 
@@ -106,14 +106,14 @@ ht-degree: 5%
 
 第6節：操作Admin Console(8%)
 
-* 決定在Admin Console中提交支援請求的正確方法
-* 決定設定Federated SSO並同步Adobe Experience Manager使用者和群組的正確方法
+* 確定在Admin Console中提交支援請求的正確方法
+* 決定設定同盟SSO並同步Adobe Experience Manager使用者和群組的正確方法
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **第1節：設定Adobe Experience Manager**
 
@@ -139,7 +139,7 @@ ht-degree: 5%
 * [如何使用套件](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html){target="_blank"}
 * [AEM 專案結構](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html){target="_blank"}
 
-**第5節：監控和報告品品質度**
+**第5節：品品質度的監控和報告**
 
 * [監控及維護您的AEM執行個體](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/monitoring-and-maintaining.html#using-rlog-jar-to-find-requests-with-long-duration-times){target="_blank"}
 * [困難日：新增相同測試的多個執行個體](https://experienceleague.adobe.com/docs/experience-manager-65/developing/testing/tough-day.html#adding-multiple-instances-of-the-same-test){target="_blank"}
@@ -155,39 +155,24 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新安排約會。*
+>此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
 ## 參加練習測試
 
 {{practice-test}}
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E124)
-
-### 可用選項
-
-{{PSI-note}}
-
-**PSI** (*測試中心/日文考試選項（可用時）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   參加測驗
-</span>
-</a>
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E124
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
 

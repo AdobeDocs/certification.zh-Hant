@@ -8,16 +8,16 @@ level: Experienced
 badge: label="考試AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1141'
+source-wordcount: '1120'
 ht-degree: 9%
 
 ---
 
 # 的認證歷程 [!DNL Adobe Analytics] 開發人員專業版
 
-瞭解如何成為認證 [!DNL Analytics] 開發人員專業版。
+瞭解如何成為認證 [!DNL Adobe Analytics] 開發人員專業版。
 
 ## 最低體驗
 
@@ -170,35 +170,20 @@ ht-degree: 9%
 >
 >此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
-## 關於測驗
-
-{{about-certification-exam}}
-
 ## 參加練習測試
 
 {{practice-test}}
 
-## 參加測驗(AD0-E213)
+## 關於認證考試
 
-### 可用選項
+{{about-certification-exam}}
 
-{{PSI-note}}
-
-**PSI** (*測試中心/日文考試選項（若有）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   參加測驗
-</span>
-</a>
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E213
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
 

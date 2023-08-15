@@ -1,16 +1,16 @@
 ---
-title: 平台認證
+title: Platform認證
 description: 瞭解如何成為認證Adobe [!DNL Experience Platform] 專家。
 solution: Experience Platform
 product: Experience Platform
 role: Developer
-badge: label="Exam AD0-E600 & AD7-E601" type="positive"
+badge: label="考試AD0-E600與AD7-E601" type="positive"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1686'
-ht-degree: 6%
+source-wordcount: '1530'
+ht-degree: 7%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 6%
 
 ## 最低體驗
 
-若要透過考試取得認證，您需要通過兩個不同的考試，並提供監考者（線上或現場）（如果可用）。
+若要以考試方式取得認證，您必須以監考者身分參加2項不同的考試（線上或站上，如果有的話）。
 
-您應該具備：
+您應該有：
 
 * 基本知識 [!DNL Experience Platform] 並且可以透過UI導覽
 * 建立區段和建立受眾的能力（其中包含邏輯）
@@ -31,16 +31,16 @@ ht-degree: 6%
 * 將區段連線至目的地的功能
 * 建立見解/事件以即時回應和反應的能力
 * 瞭解資料擷取期間的DULE設定、啟用期間的區段限制
-* 依管道瞭解選擇加入需求
-* 能夠設計/瞭解在使用案例資料頻率和數量的最佳實務需要擷取和啟用的資料
-* 瞭解不同管道所需資料的能力
-* 判斷需要哪些設定檔屬性的能力
-* 瞭解透過目的地傳送區段的頻率
+* 透過管道瞭解選擇加入的需求
+* 能夠設計/瞭解在使用案例資料頻率和數量的最佳實務作法時需要擷取和啟用的資料
+* 瞭解不同管道中所需資料的能力
+* 決定需要哪些設定檔屬性的功能
+* 瞭解透過目的地傳送區段的外送頻率
 * 瞭解區段會籍的更新頻率
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
@@ -49,41 +49,41 @@ ht-degree: 6%
 **目標對象：**
 
 * 資料架構師/工程師
-* 解決方案架構師或MSA
-* Enterprise Architect
+* 解決方案架構者或MSA
+* 企業架構師
 * 產品經理
-* 行銷技術主管
+* 行銷技術負責人
 * 技術顧問
 
 
 **需求1：AD0-E600Adobe [!DNL Experience Platform] 技術基礎**
 
-AD0-E600測驗可驗證涵蓋基本功能及經常執行Adobe工作的技能和知識 [!DNL Experience Platform] 專家級。
+AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知識 [!DNL Experience Platform] 專家級。
 
 **考試詳細資料：**
 
 * 等級：專家（1-3年經驗）
 * 及格分數：35/50
 * 時間：105分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 交付：線上監護（需要存取攝影機）或測試中心監護
 * 語言：英文
 * 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E600
+* 測驗ID：AD0-E600
 
 **考試目標與範圍**
 
 第1節：資料模型(20%)
 
 * 分析來源資料以評估設定檔拼接的主要和次要身分
-* 示範對如何使用UI建立/編輯XDM結構描述的瞭解。
+* 示範對於如何使用UI來建立/編輯XDM結構描述的瞭解。
 * 識別DULE指引
 
 區段2：資料擷取(36%)
 
-* 示範如何格式化和準備資料以供擷取
+* 示範如何格式化資料並準備要擷取的資料
 * 示範如何使用OOTB聯結器連線資料來源
 * 示範如何透過批次和串流擷取來源資料
-* 說明如何監控資料傳輸
+* 說明如何監視資料傳輸
 * 示範如何對來源資料執行資料探索
 * 示範如何轉換資料以符合XDM
 
@@ -92,28 +92,28 @@ AD0-E600測驗可驗證涵蓋基本功能及經常執行Adobe工作的技能和�
 * 驗證設定檔和事件資料擷取後
 * 定義身分名稱空格
 * 說明設定檔服務如何使用身分圖表
-* 識別如何透過資料科學工作區模型化服務來豐富設定檔
+* 識別如何透過資料科學工作區模型服務豐富設定檔
 * 示範如何使用區段產生器建立區段，以及區段服務的運作方式
 
-區段4：啟動(10%)
+第4節：啟用(10%)
 
 * 示範如何設定目的地，以及區段啟用的運作方式
-* 示範及瞭解資料存取API和透過Real-Time CDP匯出資料
+* 示範及瞭解資料存取API，以及透過Real-Time CDP匯出資料
 
-進行整備問卷調查，瞭解您是否符合最低資格條件。
+進行整備問卷，找出是否符合最低資格條件。
 
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **第1節：資料模式**
 
 * [瞭解結構描述](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=zh-Hant){target="_blank"}
-* [結構描述和XDM總覽/Adobe [!DNL Experience Platform]：資料模型建立和擷取](https://video.tv.adobe.com/v/27105){target="_blank"}
-* [在結構描述中建立資料模型](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
+* [結構描述和XDM概覽/Adobe [!DNL Experience Platform]：資料模型與擷取](https://video.tv.adobe.com/v/27105){target="_blank"}
+* [在結構描述中模型資料](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
 * [結構描述和XDM概觀](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=zh-Hant){target="_blank"}
 
 **第2節：資料擷取**
@@ -122,11 +122,11 @@ AD0-E600測驗可驗證涵蓋基本功能及經常執行Adobe工作的技能和�
 
 **第3節：統一設定檔**
 
-* [身分和身分圖表](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
+* [身分和身分圖](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
 * [對應身分](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
 * [標示、擷取及驗證身分資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
 * [建立資料集以匯出受眾區段](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html){target="_blank"}
-* [使用即時客戶設定檔建立機器學習的區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html){target="_blank"}
+* [使用即時客戶設定檔建立機器學習區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html){target="_blank"}
 
 **第4節：啟用**
 
@@ -136,32 +136,25 @@ AD0-E600測驗可驗證涵蓋基本功能及經常執行Adobe工作的技能和�
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 
 ## 參加練習測試
 
 {{practice-test}}
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗
+## 排程或參加考試AD0-E600
 
-Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* **PSI** 提供測試中心和日文考試選項（如果有的話）
-* **[!DNL Examity]** 提供遠端線上選項
+<span class="spectrum-Button-label has-no-wrap">
+   前往考試入口網站
+</span>
+</a>
 
-若要排程、重新排程或取消考試，只要按一下所選供應商，然後依照熒幕提供的指示進行。 就是這麼簡單！
-
-您在Adobe認證管理系統中的設定檔名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新排程預約。
-
-如果在排定的考試約會之前48小時發起，則可以取消和重新排程。 候選人必須自行修改此約會。
-
-### 考試編號：AD0-E600
-
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E600 newtab=true"}[!BADGE 測驗]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600 newtab=true"}
 
 >[!ENDTABS]
 
@@ -171,52 +164,52 @@ Adobe使用兩個廠商來管理經認證的考試：PSI和Examity。
 
 **需求2：AD7-E601 Adobe Real-Time CDP技術從業人員**
 
-AD7-E601考試涵蓋建立、管理和瞭解客戶個人檔案、細分、跨來源的目的地和其他主題。 此測驗會驗證運用Real-time CDP進行受眾細分、目的地匯出和即時啟用以符合資料和隱私權法規的統一設定檔所需的基礎技能和知識。 候選人應具備客戶資料平台(CDP)經驗和Adobe知識 [!DNL Experience Platform].
+AD7-E601考試涵蓋建立、管理和瞭解客戶個人檔案、細分、跨來源的目的地和其他主題。 該測驗會驗證採用Real-time CDP進行受眾細分、目的地匯出和即時啟用以符合資料和隱私權法規的統一設定檔所需的基礎技能和知識。 應徵者應具備客戶資料平台(CDP)經驗和Adobe知識 [!DNL Experience Platform].
 
 **考試詳細資料：**
 
 * 等級：專家（1-3年經驗）
 * 及格分數：25/34
 * 時間：51分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 交付：線上監護（需要存取攝影機）或測試中心監護
 * 語言：英文
 * 費用：225美元（全球） / 150美元（印度）
 * 考試ID：AD7-E601
 
 **整備程度自我評估**
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
+完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
 
 **考試範圍和目標**
 
 區段1：驗證(41%)
 
-* 套用驗證設定檔所需的概念具有適當的屬性和區段
+* 套用驗證設定檔所需的概念有適當的屬性和區段
 * 說明如何根據功能或技術需求驗證部署策略
-* 分析相關變數以實作RTCDP的端對端(E2E)流程
+* 分析相關變數以實施RTCDP的端對端(E2E)流程
 * 監視區段匯出至目的地
 * 套用驗證資料治理原則所需的概念
 
 區段2：細分(32%)
 
 * 展示對於如何根據業務需求建立區段的瞭解
-* 展示對於如何根據所擷取的資料來決定區段評估的瞭解
+* 展示對於如何根據所擷取的資料決定區段評估的瞭解
 
-區段3：目的地(27%)
+第3節：目的地(27%)
 
 * 根據業務使用案例傳送/匯出受眾時，套用設定一或多個目的地所需的概念
 * 示範如何透過目的地匯出區段
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
 **第1節：驗證**
 
 * [即時客戶個人檔案總覽](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=zh-Hant){target="_blank"}
 * [設定檔儀表板](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
-* [即時客戶個人檔案資料的預設護欄](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=zh-Hant)
+* [即時客戶設定檔資料的預設護欄](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=zh-Hant)
 * [啟用即時客戶個人檔案](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html){target="_blank"}
 * [Real-time Customer Data Platform概觀](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=zh-Hant){target="_blank"}
-* [AEP應用程式服務： Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
+* [AEP應用程式服務：Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
 * [Real-Time CDP快速入門](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
 * [Real-time Customer Data Platform首頁和控制面板](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
 * [在UI中監視目的地的資料流](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=zh-Hant){target="_blank"}
@@ -224,8 +217,8 @@ AD7-E601考試涵蓋建立、管理和瞭解客戶個人檔案、細分、跨來
 * [隱私權概觀](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
 * [Real-time CDP中的資料控管](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
 * [套用資料治理框架](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html){target="_blank"}
-* [資料控管快速入門](https://video.tv.adobe.com/v/333350/){target="_blank"}
-* [資料控管概觀](https://video.tv.adobe.com/v/29708/){target="_blank"}
+* [開始使用資料控管](https://video.tv.adobe.com/v/333350/){target="_blank"}
+* [資料治理概觀](https://video.tv.adobe.com/v/29708/){target="_blank"}
 * [資料控管示範](https://video.tv.adobe.com/v/36653/){target="_blank"}
 * [使用治理標籤來分類資料](https://video.tv.adobe.com/v/29709/){target="_blank"}
 * [建立資料使用原則](https://video.tv.adobe.com/v/32977/){target="_blank"}
@@ -260,7 +253,7 @@ AD7-E601考試涵蓋建立、管理和瞭解客戶個人檔案、細分、跨來
 * [目的地概觀](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html){target="_blank"}
 * [建立目的地並啟用資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
 * [Activation 總覽](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
-* [目的地目錄概觀](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html){target="_blank"}
+* [目的地目錄總覽](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html){target="_blank"}
 * [對目的地啟用設定檔和區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 * [整合Google Customer Match](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/integrate-with-google-customer-match.html){target="_blank"}
 * [設定Azure Blob目的地](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html){target="_blank"}
@@ -273,41 +266,27 @@ AD7-E601考試涵蓋建立、管理和瞭解客戶個人檔案、細分、跨來
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新安排約會。*
+>此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
 ## 參加練習測試
 
 {{practice-test}}
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E601)
-
-### 可用選項
-
-{{PSI-note}}
-
-**PSI** (*測試中心/日文考試選項（可用時）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   參加測驗
-</span>
-</a>
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E601
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
+
 
 >[!ENDTABS]
 

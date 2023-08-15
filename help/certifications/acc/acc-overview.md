@@ -4,14 +4,14 @@ description: Adobe Campaign Classic 認證選項概觀
 solution: Campaign, Campaign Classic v7
 version: Classic v7
 exl-id: 70d2e3e2-5e58-43e2-b093-15cdb16f0a0c
-source-git-commit: 532a84cc638ac1f8b43166da880537aa4ef13818
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 27%
+source-wordcount: '42'
+ht-degree: 28%
 
 ---
 
-# Campaign Classic認證概述
+# Adobe [!DNL Campaign Classic] 認證概述
 
 **專業**
 
@@ -27,4 +27,4 @@ ht-degree: 27%
 
 * [架構師](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
 
-造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。
+造訪 [更新您的認證](/help/certifications/renew.md) 頁面以檢視此產品是否提供續約選項。

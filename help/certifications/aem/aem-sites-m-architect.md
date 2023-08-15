@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="考試AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1722'
-ht-degree: 16%
+source-wordcount: '1723'
+ht-degree: 17%
 
 ---
 
@@ -22,14 +22,14 @@ ht-degree: 16%
 >
 >**問題？** 請參閱我們的 [常見問題集](#AEM-FAQ) （位於本頁底部）。
 
-瞭解如何成為認證架構師。
+瞭解如何成為認證Adobe [!DNL Experience Manager Sites] 架構師Master。
 
 ## 最低體驗
 
 您應該有：
 
 * 至少3年建置AEM Sites的建築師經驗
-* 在Adobe Managed Services和Adobe中作業的能力 [!DNL Experience Manager as a Cloud Service]
+* 在AdobeManaged Services和Adobe中工作的能力 [!DNL Experience Manager as a Cloud Service]
 * 設定Adobe的功能 [!DNL Experience Manager] 環境和基礎結構
 
 此外，您應該能夠執行下列工作：
@@ -98,7 +98,7 @@ ht-degree: 16%
 * 根據業務需求，設計詳細的架構和解決方案
 * 在特定的情況下，決定適合設計的安全性解決方案
 * 套用程式概念，將整合需求納入解決方案設計
-* 決定解決方案中應包含哪些型別的效能和測試需求
+* 決定解決方案應包含哪些效能和測試需求型別
 * 套用程式概念來設計可擴充且可復原的架構
 * 在情景中，建議移轉策略
 
@@ -213,13 +213,11 @@ ht-degree: 16%
 >
 >此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E117)
-
-### 可用選項
+## 排程或參加考試AD0-E117
 
 >[!NOTE]
 >

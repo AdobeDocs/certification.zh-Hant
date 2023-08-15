@@ -1,33 +1,33 @@
 ---
-title: 專案經理專業認證
+title: Project Manager專業認證
 description: 瞭解如何成為Adobe的認證Adobe專案經理專業人員 [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E903" type="positive"
+badge: label="考試AD0-E903" type="positive"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1573'
+source-wordcount: '1549'
 ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Workfront] 專案經理專業人員
+# Adobe的認證歷程 [!DNL Workfront] Project Manager專業版
 
-瞭解如何成為認證Adobe專案經理專業人員。
+瞭解如何成為認證Adobe [!DNL Workfront] Project Manager Professional。
 
 ## 最低體驗
 
-您應該具備：
+您應該有：
 
-* 從初始工作請求到完成對工作流程的瞭解，或曾接觸過專案或工作管理
-* 已完成自助式訓練或訓練營，或已 [!DNL Workfront] 6-12個月的使用者，讓他們瞭解基本功能
-* 瞭解如何設定、追蹤和監控報表資料
+* 從初始工作請求到完成的工作流&#39;b5&#39;7b，或曾接觸過專案或工作管理
+* 已完成自助式訓練或訓練營，或已經 [!DNL Workfront] 6-12個月的使用者，讓他們瞭解基本功能
+* 瞭解如何設定、追蹤及監控報表資料
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 **目標對象：**
 
-* 專案經理、工作經理、計畫員
+* 專案經理，工作經理，計畫者
 * SCRUM主版
 * [!DNL Workfront] 超級使用者
 * 系統管理員
-* 專案經理、投資組合經理
+* 專案經理，投資組合經理
 * Director，經理
 * 資源管理員、流量管理員
 
@@ -48,62 +48,62 @@ ht-degree: 0%
 * 等級：專業（0至12個月經驗）
 * 及格分數：45/70
 * 時間：140分鐘
-* 傳遞：線上監護（需要相機存取）
+* 傳遞：線上監護（需要存取攝影機）
 * 可用語言：英文
 * 費用：125美元（全球） / 95美元（印度）
 * 考試ID：AD0-E903
 
 **整備程度自我評估**
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
+完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
 
 **考試目標與範圍**
 
-第1節：攝入與規劃(30%)
+第1節：錄取與規劃(30%)
 
 * 識別接收工作請求通知的不同方式
 * 在提出要求時，請檢閱自訂資料以決定適當的動作
-* 在特定的情況下，決定活動所需的共用許可權
+* 在案例中，決定活動所需的共用許可權
 * 在特定的情況下，決定適當的任務設定，以計畫特定時間範圍內的任務執行
-* 找出在專案上尋找關鍵資料的方法
+* 識別在專案上尋找關鍵資料的方法
 * 識別追蹤專案風險的不同方式
 * 識別中物件的正確階層 [!DNL Workfront]
 * 識別適當的欄位，以檢視指定的特定資源
-* 指定角色，在專案/工作流程的工作接受或計畫階段確定對角色有用的接受或計畫報告/儀表板
+* 給定角色，在專案/工作流程的工作接受或計畫階段確定對角色有用的接受或計畫報告/儀表板
 
 區段2：執行(50%)
 
 * 識別瞭解、套用和測量專案中里程碑的方法
-* 建立 [!DNL Workfront] 單一使用核准和使用核准的時間
+* 建立 [!DNL Workfront] 單次使用核准和使用核准的時間
 * 識別系統如何使用不同的日期型別
-* 在情景中，識別日期型別傳達給專案經理的資訊
-* 在特定的情況下，決定不同的任務限制在使用時如何影響專案時間表
-* 在案例中，示範如何尋找專案團隊以及如何通知他們工作指派、更新或工作項的完成
-* 在特定的情況下，說明如何上傳檔案並產生校訂
+* 在案例中，識別日期型別傳達給專案經理的資訊
+* 在情景中，決定不同的任務限制使用時如何影響專案時間表
+* 在案例中，示範如何尋找專案團隊以及如何通知他們工作指派、更新或完成工作專案
+* 在案例中，說明如何上傳檔案並產生校訂
 * 識別管理專案的不同方式
-* 在特定的案例中，決定個別專案中特定職務角色的計畫差異
-* 在情景中，找到中的特定財務元素 [!DNL Workfront]
-* 指定甘特圖，說明圖表上的物件關係
+* 在案例中，決定個別專案中特定工作角色的計畫差異
+* 在案例中，找到中的特定財務元素 [!DNL Workfront]
+* 給定甘特圖，說明圖表上的物件關係
 * 比較條件和進度狀態之間的差異
-* 識別如何 [!DNL Workfront] 團隊和 [!DNL Workfront] 可以使用群組
-* 在某個案例中，說明如何為利害關係人提供他們需要的資訊
-* 在情景中，判斷日期型別和持續時間對專案條件有何影響
-* 在特定的情況下，請確定所需的自訂狀態
+* 識別如何 [!DNL Workfront] 團隊和 [!DNL Workfront] 群組可供使用
+* 在案例中，說明如何為利害關係人提供他們需要的資訊
+* 在案例中，判斷日期型別和持續時間對專案條件有何影響
+* 在案例中，需要判斷自訂狀態
 * 識別中可用的各種報告型別 [!DNL Workfront]
-* 在某個案例中，請說明建立自訂報表的步驟
+* 在案例中，說明建立自訂報表的步驟
 
 區段3：結案(20%)
 
-* 指定特定物件狀態，決定需要執行哪些活動或觸發了哪些動作
-* 在情景中，決定報告型別和用於修改任務清單或報告的報告元素
+* 在指定特定物件狀態時，決定需要執行哪些活動或觸發了哪些動作
+* 在情景中，決定報告的型別和用於修改任務清單或報告的報告元素
 * 識別可用於報告的不同萬用字元
 * 識別可用來測量專案成功的專案元素
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **範例問題**
 
@@ -117,10 +117,10 @@ ht-degree: 0%
 
 **其他資源:**
 
-**第1節：引入與規劃**
+**第1節：引進與規劃**
 
 * [使用通知](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&amp;_LANG=en){target="_blank"}
-* [任務工期和工期型別](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTaskDurtn%2F_task-duration-duration-type.htm&amp;_LANG=en){target="_blank"}
+* [任務工期與工期型別](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTaskDurtn%2F_task-duration-duration-type.htm&amp;_LANG=en){target="_blank"}
 * [使用前置任務](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FUse_Prdcssrs%2F_use-task-predecessors.htm&amp;_LANG=en){target="_blank"}
 * [任務資訊](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTask_information%2F_task-information.htm&amp;_LANG=en){target="_blank"}
 * [更新專案上的工作](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&amp;_LANG=en){target="_blank"}
@@ -129,7 +129,7 @@ ht-degree: 0%
 * [導覽Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2FNavigate_Workfront%2F_navigate-workfront.htm&amp;_LANG=en){target="_blank"}
 * [指派任務](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FAssign_tasks%2F_assign-tasks.htm&amp;_LANG=en){target="_blank"}
 * [開始使用Adobe中的敏捷 [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAgile%2FGet_Started_with_Agile_in_Workfront%2F_get-started-with-agile.htm&amp;_LANG=en){target="_blank"}
-* [建立和管理報告](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReports_and_Dashboards%2FReports%2FCreating_and_Managing_Reports%2F_create-manage-reports.htm&amp;_LANG=en){target="_blank"}
+* [建立及管理報表](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReports_and_Dashboards%2FReports%2FCreating_and_Managing_Reports%2F_create-manage-reports.htm&amp;_LANG=en){target="_blank"}
 
 **第2節：執行**
 
@@ -148,7 +148,7 @@ ht-degree: 0%
 * [甘特圖概觀](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FGantt_Chart%2FUse_the_Gantt_Chart%2F_gantt-chart-overview.htm&amp;_LANG=en){target="_blank"}
 * [群組角色](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FGroup_roles%2F_group-roles.htm&amp;_LANG=en){target="_blank"}
 * [使用群組的物件](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FWork_with_group_objects%2F_work-with-a-groups-objects.htm&amp;_LANG=en){target="_blank"}
-* [使用群組和團隊](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FPeople_Teams_and_Groups%2FWork_with_Groups_and_Teams%2F_work-with-groups-and-teams.htm&amp;_LANG=en){target="_blank"}
+* [使用群組及團隊](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FPeople_Teams_and_Groups%2FWork_with_Groups_and_Teams%2F_work-with-groups-and-teams.htm&amp;_LANG=en){target="_blank"}
 * [更新專案上的工作](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&amp;_LANG=en){target="_blank"}
 * [狀態和優先順序標籤](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreating_Custom_Status_and_Priority_Labels%2F_create-custom-status-and-priority-labels.htm&amp;_LANG=en){target="_blank"}
 
@@ -164,36 +164,21 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新安排約會。*
+>此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E903)
-
-### 可用選項
-
-{{PSI-note}}
-
-**PSI** (*測試中心/日文考試選項（可用時）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E903" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   參加測驗
-</span>
-</a>
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E903
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E903" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
 

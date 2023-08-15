@@ -4,14 +4,14 @@ description: Adobe Analytics 認證選項概觀
 solution: Analytics
 product: Analytics
 exl-id: e765bf4c-e0bc-45d7-a5c7-f501aad7fdd2
-source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 27%
+source-wordcount: '41'
+ht-degree: 26%
 
 ---
 
-# Analytics認證概述
+# Adobe Analytics認證概述
 
 **專業**
 
@@ -27,4 +27,4 @@ ht-degree: 27%
 
 * [架構師](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
 
-造訪 [更新您的認證](/help/certifications/renew.md) 檢視此產品是否有續約選項的頁面。
+造訪 [更新您的認證](/help/certifications/renew.md) 頁面以檢視此產品是否提供續約選項。

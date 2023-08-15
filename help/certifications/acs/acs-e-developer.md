@@ -4,45 +4,45 @@ description: 瞭解如何成為認證Adobe Developer專家Adobe [!DNL Campaign S
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
-badge: label="Exam AD0-E306" type="positive"
+badge: label="考試AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1096'
+source-wordcount: '1073'
 ht-degree: 12%
 
 ---
 
 # Adobe的認證歷程 [!DNL Campaign Standard] 開發人員專家
 
-瞭解如何成為認證Adobe Developer專家。
+瞭解如何成為認證Adobe [!DNL Campaign Standard] 開發人員專家。
 
 ## 最低體驗
 
-您應該具備：
+您應該有：
 
-* 至少兩年 [!DNL Campaign] 軟體體驗
-* 在多管道數位行銷活動與網頁開發（例如REST API）方面至少兩年相關經驗
+* Adobe至少兩年 [!DNL Campaign Standard] 軟體體驗
+* 至少兩年於多管道數位行銷宣傳與網頁開發（例如REST API）的相關經驗
 * 能夠在Adobe Campaign中執行任務（包括範本開發、技術工作流程、方案開發和整合），並能夠使用控制面板監視執行個體
 * 在管道傳送環境（電子郵件、直接郵件、行動裝置和社交）中工作的體驗
-* 熟悉多重接觸、生命週期和重新啟動等行銷活動策略
+* 熟悉多重觸控、生命週期和重新啟用等行銷活動策略
 * 瞭解行銷量度，例如ROI、點進率和轉換。
 * 管理行銷自動化平台的體驗
 * CSS、HTML和JavaScript的基本知識，電子郵件
 * 關聯式資料庫和資料模型的基本知識
-* 瞭解技術工作流程並加以設定
-* 擴充收件者表格或方案和資料管理的體驗
+* 瞭解並設定技術工作流程
+* 擴充收件者表格或綱要的體驗，以及資料管理
 * 已建立型別規則、工作流程、傳遞和行銷活動範本
 * 已設定的角色和許可權
-* 管理主控台的使用體驗，以及與其他Adobe應用程式的整合
+* 使用管理控制檯以及與其他Adobe應用程式的整合的體驗
 * 瞭解Adobe I/O和Adobe I/O Runtime
-* 透過多管道提供異動訊息傳送和訊息傳送的體驗
+* 透過多管道提供異動訊息和訊息傳送的體驗
 * 使用受管理套件的體驗
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
@@ -62,14 +62,14 @@ ht-degree: 12%
 * 等級：專家（1-3年經驗）
 * 及格分數：29/50
 * 時間：100分鐘
-* 傳遞：線上監護（需要存取攝影機）或測試中心監護
+* 交付：線上監護（需要存取攝影機）或測試中心監護
 * 可用語言：英文
 * 費用：225美元（全球） / 150美元（印度）
 * 考試ID：AD0-E306
 
 **整備程度自我評估**
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低候選資格。
+完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
 
 **考試目標與範圍**
 
@@ -77,7 +77,7 @@ ht-degree: 12%
 
 * 在特定的情況下，將使用者端需求轉換為自訂資源
 * 決定如何設定畫面和篩選定義
-* 在特定的情況下，請決定定義索引鍵、索引和連結的正確策略
+* 給定一個情境，請決定定義索引鍵、索引和連結的正確策略
 * 決定發佈資源更新的正確方法
 * 疑難排解資料模型問題
 * 決定建立技術工作流程的正確方法
@@ -91,22 +91,22 @@ ht-degree: 12%
 * 決定建立和管理範本的正確方法
 * 決定設定登入頁面的正確方法
 * 決定使用服務和訂閱的正確方法
-* 在特定的情況下，驗證傳遞機制
+* 在案例中，驗證傳遞機制
 * 決定使用創意設計工具建立電子郵件的正確方法
 * 決定建立自訂報表的正確方法
 
 第3節：管理(24%)
 
-* 決定建立使用者安全群組和組織單位的正確方法
+* 確定建立使用者安全群組和組織單位的正確方法
 * 決定管理和部署套件的正確方法
 * 決定設定外部帳戶的正確方法
 * 決定設定選項的正確方法
 * 決定建立品牌的正確方法
 * 決定開發管道設定的正確方法
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
 **第1節：資料模型化與管理**
 
@@ -155,39 +155,24 @@ ht-degree: 12%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新安排約會。*
+>此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
 ## 參加練習測試
 
 {{practice-test}}
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E306)
-
-### 可用選項
-
-{{PSI-note}}
-
-**PSI** (*測試中心/日文考試選項（可用時）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E306" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   參加測驗
-</span>
-</a>
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E306
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E306" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
 

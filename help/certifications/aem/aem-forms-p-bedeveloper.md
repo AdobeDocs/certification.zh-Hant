@@ -4,19 +4,19 @@ description: 瞭解如何成為認證AdobeAEM Forms後端開發人員專業人�
 solution: Experience Manager,Experience Manager Forms
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E127" type="positive"
+badge: label="考試AD0-E127" type="positive"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '826'
-ht-degree: 7%
+source-wordcount: '825'
+ht-degree: 11%
 
 ---
 
 # Adobe的認證歷程 [!DNL Experience Manager Forms] 後端開發人員專業版
 
-瞭解如何成為認證 [!DNL Adobe AEM Forms] 後端開發人員專業版。
+瞭解如何成為認證Adobe [!DNL Experience Manager Forms] 後端開發人員專業版。
 
 ## 最低體驗
 
@@ -24,9 +24,9 @@ ht-degree: 7%
 
 * 使用AEM平台的0至12個月經驗
 * 12個月使用和設定Adobe Cloud Manager的體驗
-* 至少24個月體驗設定、實施及管理持續整合/持續部署工作
+* 至少24個月在設定、實施和管理持續整合/持續部署工作方面經驗
 
-此外，您應該已經習慣使用Adobe Managed Services和Adobe Experience Manager as a Cloud Service。 能夠設定Adobe Experience Manager環境和基礎結構。
+此外，您應該已經熟悉如何AdobeManaged Services和Adobe Experience Manager as a Cloud Service。 能夠設定Adobe Experience Manager環境和基礎架構。
 
 您應熟悉下列技術和環境：
 
@@ -42,7 +42,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->您的認證有效期為兩年，從您通過認證時算起。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+>您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
 
 >[!BEGINTABS]
 
@@ -64,7 +64,7 @@ ht-degree: 7%
 * 等級：專業（0至12個月經驗）
 * 及格分數：29/50
 * 時間：100分鐘
-* 傳遞：線上監護（需要相機存取）
+* 傳遞：線上監護（需要存取攝影機）
 * 可用語言：英文
 * 費用：125美元（全球） / 95美元（印度）
 * 考試ID：AD0-E127
@@ -73,12 +73,12 @@ ht-degree: 7%
 
 區段1：Forms建立與管理(26%)
 
-* 在特定的情況下，請確定建置AEM Forms所需的步驟
+* 在案例中，識別建置AEM Forms所需的步驟
 * 說明Forms資料模型
 * 識別自訂AEM Forms的步驟
-* 在情景中，識別使用Javascript ClientLib的步驟，善用GuideBridge API
+* 在案例中，找出運用GuideBridge API來使用Javascript ClientLib的步驟
 
-第2節：程式與工作流程(34%)
+第2節：處理與工作流程(34%)
 
 * 在案例中，識別表單核准工作流程的步驟
 * 使用Document Services API識別OSGi套件組合的功能
@@ -90,25 +90,25 @@ ht-degree: 7%
 第3節：管理與疑難排解(21%)
 
 * 識別記錄檔中產生的問題
-* 在特定的情況下，請確定執行管理活動的步驟
-* 識別AEM Forms中Service Pack的功能
+* 在案例中，識別執行管理活動的步驟
+* 識別AEM Forms中的Service Pack功能
 * 說明為Forms設定AEM Dispatcher的步驟
-* 說明瀏覽不同主控台的步驟
+* 說明導覽不同主控台的步驟
 
-第4節：API端點和整合(10%)
+第4節：API端點與整合(10%)
 
-* 在案例中，說明整合AEM表單與Adobe Experience Cloud的流程
-* 確定產生各種端點服務的步驟
+* 在案例中，說明將AEM表單與Adobe Experience Cloud整合的流程
+* 識別產生各種端點服務的步驟
 
 第5節：互動式通訊(9%)
 
-* 在特定的情況下，示範並實作互動式通訊的程式
+* 在案例中，示範並實作互動式通訊的程式
 
->[!TAB 準備就緒]
+>[!TAB 準備]
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **範例問題**
 
@@ -116,14 +116,14 @@ ht-degree: 7%
 
 [檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
 
-**第1節：Forms建立與管理**
+**第1節：Forms的建立與管理**
 
 * [Adobe Experience Manager 6.5 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
 * [AEM Forms資料整合](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html#data-integration-overview){target="_blank"}
 * [AEM Forms教學課程和影片](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html){target="_blank"}
 * [AEM 6.5 Developing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 
-**第2節：程式與工作流程**
+**第2節：流程與工作流程**
 
 * [Adobe Experience Manager 6.5 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
 * [Adobe Experience Manager 6.4 Forms 指南](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
@@ -147,25 +147,21 @@ ht-degree: 7%
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並且除了支付額外的考試費用外，還會要求您重新安排約會。*
+>此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
 
-## 關於測驗
+## 關於認證考試
 
 {{about-certification-exam}}
 
-## 參加測驗(AD0-E127)
-
-### 可用選項
-
-**[!DNL Examity]** ( *線上* )
+## 排程或參加考試AD0-E127
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E127" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   參加測驗
+   前往考試入口網站
 </span>
 </a>
 
