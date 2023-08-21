@@ -2,10 +2,10 @@
 user-guide-title: Adobe 的認證
 breadcrumb-title: Adobe 的認證
 user-guide-description: 了解 Adobe 的  [!DNL Experience Cloud]  認證。了解獲得認證能為您做什麼。
-source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
+source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 43%
+source-wordcount: '255'
+ht-degree: 44%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 43%
 + [重新啟動程式](restart-program.md)
 + [我的設定檔](my-profile.md)
 + [常見問題集](faq.md)
-+ 依解決方案列出的技術認證 {#technical-certifications}
++ 技術認證（依解決方案） {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
       + [廣告概述](/help/certifications/aac/aac-overview.md)
       + 專業 {#aac-professional}
@@ -74,13 +74,11 @@ ht-degree: 43%
       + 專業 {#ac-professional}
          + [商業從業人員](/help/certifications/ac/ac-p-business.md)
          + [Developer](/help/certifications/ac/ac-p-developer.md)
-         + [前端開發人員](/help/certifications/ac/ac-p-fedeveloper.md)
-         + [前端開發人員（新）](/help/certifications/ac/ac-p-fedeveloper0623.md)
+         + [前端開發人員](/help/certifications/ac/ac-p-fedeveloper0623.md)
       + 專家 {#ac-expert}
          + [商業從業人員](/help/certifications/ac/ac-e-business.md)
          + [Developer](/help/certifications/ac/ac-e-developer.md)
-         + [前端開發人員](/help/certifications/ac/ac-e-fedeveloper.md)
-         + [前端開發人員（新）](/help/certifications/ac/ac-e-fedeveloper0623.md)
+         + [前端開發人員](/help/certifications/ac/ac-e-fedeveloper0623.md)
       + 主版 {#ac-master}
          + [架構師](/help/certifications/ac/ac-m-architect.md)
       + [續約](/help/certifications/ac/ac-renew.md)
