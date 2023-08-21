@@ -8,9 +8,9 @@ level: Experienced
 badge: label="考試AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c661d42a32717320031da2289509ffcf6f5bc945
 workflow-type: tm+mt
-source-wordcount: '1120'
+source-wordcount: '1116'
 ht-degree: 9%
 
 ---
@@ -169,10 +169,6 @@ ht-degree: 9%
 >以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 >此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
-
-## 參加練習測試
-
-{{practice-test}}
 
 ## 關於認證考試
 
