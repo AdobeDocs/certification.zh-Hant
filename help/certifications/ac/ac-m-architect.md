@@ -5,12 +5,12 @@ solution: Commerce
 product: Magento
 role: Data Architect
 level: Experienced
-badge: label="考試AD0-E718" type="positive"
+badge: label="考試AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 77c33a05498833b58e467c0d332ba007cc181a7d
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '796'
 ht-degree: 1%
 
 ---
@@ -76,12 +76,12 @@ ht-degree: 1%
 **考試詳細資料：**
 
 * 等級：主版（3-5年經驗）
-* 及格分數：29/50
+* 及格分數：30/50
 * 時間：120分鐘
 * 傳遞：線上監護（需要存取攝影機）
 * 可用語言：英文
 * 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E718
+* 考試ID：AD0-E722
 
 **整備程度自我評估**
 
@@ -123,12 +123,6 @@ ht-degree: 1%
 您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
 以下是一些可幫助您準備的建議資源：
-
-**範例問題**
-
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
-
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e718-adobe-commerce-architect-master-copy-kzcvh7){target="_blank"}
 
 **第1節：設計**
 
@@ -173,9 +167,9 @@ ht-degree: 1%
 
 {{about-certification-exam}}
 
-## 排程或參加考試AD0-E718
+## 排程或參加考試AD0-E722
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E722" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    前往考試入口網站
