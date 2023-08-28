@@ -8,9 +8,9 @@ level: Experienced
 badge: label="考試AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: bfde4e81ff7a942dca9b97cec28cef99c296dd1f
+source-git-commit: dca1d6b3f7c79b2fc389342829793b6a63b5ad0c
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '766'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 1%
 
 * 等級：主版（3-5年經驗）
 * 及格分數：30/50
-* 時間：120分鐘
+* 時間：100分鐘
 * 傳遞：線上監護（需要存取攝影機）
 * 可用語言：英文
 * 費用：225美元（全球） / 150美元（印度）
@@ -111,12 +111,6 @@ ht-degree: 1%
 * 設定Adobe的各個層面 [!DNL Commerce] 雲端
 * 監督並改善部署程式
 * 疑難排解基礎結構和設定問題
-
-第4節：合規性/安全性基本知識(13%)
-
-* 瞭解隱私權法規與付款安全性合規的基本概念
-* 識別Adobe的常見安全性問題 [!DNL Commerce] 專案
-* 確定無障礙法規遵循的最佳實務和法律要求
 
 >[!TAB 準備]
 
