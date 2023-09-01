@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="考試AD0-E556" type="positive"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '1030'
 ht-degree: 1%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 1%
 # Adobe的認證歷程 [!DNL Marketo Engage] 架構師Master
 
 瞭解如何成為認證Adobe [!DNL Marketo Engage] 架構師Master。
+
+>[!NOTE]
+>
+>這次考試， [!DNL Adobe Marketo Engage] 架構師主機(AD0-E556)已更新。 如果您已開始學習或計畫接受此版本，請務必在2023年10月31日之前完成。 如果您正開始使用，建議您參加 [此測驗的最新版本(AD0-E560)](ame-m-architect-23-08.md).
 
 Adobe認證程式已啟動新的Adobe [!DNL Marketo Engage] 為有興趣獲得認證主職稱的應徵者提供架構師認證。 它取代了先前的Marketo認證解決方案設計師(MCSA)認證面試程式。 [閱讀全文](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
 
