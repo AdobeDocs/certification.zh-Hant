@@ -6,20 +6,16 @@ product: Target
 role: Data Architect
 badge: label="考試AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
 workflow-type: tm+mt
-source-wordcount: '943'
-ht-degree: 13%
+source-wordcount: '917'
+ht-degree: 14%
 
 ---
 
 # 的認證歷程 [!DNL Adobe Target] 架構師Master
 
 瞭解如何成為認證 [!DNL Adobe Target] 架構師Master。
-
->[!NOTE]
->
->這是最新的 [!DNL Adobe Target] 架構師主要考試。 如果您已開始學習或已排程 [較舊版本](at-m-architect.md) 您必須在2023年9月8日之前完成。
 
 ## 最低體驗
 

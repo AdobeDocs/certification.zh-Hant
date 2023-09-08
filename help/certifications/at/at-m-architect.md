@@ -7,9 +7,10 @@ role: Data Architect
 badge: label="考試AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+hidefromtoc: true
+source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
 workflow-type: tm+mt
-source-wordcount: '1122'
+source-wordcount: '1077'
 ht-degree: 19%
 
 ---
@@ -17,10 +18,6 @@ ht-degree: 19%
 # 的認證歷程 [!DNL Adobe Target] 架構師Master
 
 瞭解如何成為認證 [!DNL Adobe Target] 架構師Master。
-
->[!NOTE]
->
->這次考試， [!DNL Adobe Target] 架構師主機(AD0-E407)已更新。 如果您已開始學習或計畫接受此版本，請務必在2023年9月8日之前完成。 如果您正開始使用，建議您參加 [此測驗的最新版本](at-m-architect0623.md).
 
 ## 最低體驗
 
