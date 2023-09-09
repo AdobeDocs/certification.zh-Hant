@@ -7,10 +7,10 @@ role: User
 badge: label="考試AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
 workflow-type: tm+mt
-source-wordcount: '1000'
-ht-degree: 14%
+source-wordcount: '1031'
+ht-degree: 13%
 
 ---
 
@@ -135,7 +135,7 @@ ht-degree: 14%
 * [哪個 [!DNL Adobe Analytics] 我應該使用工具嗎？](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html){target="_blank"}
 * [[!DNL Adobe Analytics] 文件](https://helpx.adobe.com/tw/support/analytics.html){target="_blank"}
 * [關於資料彙集](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=zh-Hant){target="_blank"}
-* [Analytics 資料摘要總覽](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=zh-Hant){target="_blank"}
+* [Analytics 資料摘要概觀](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=zh-Hant){target="_blank"}
 
 **第2節：專案的報表和控制面板**
 
@@ -143,7 +143,7 @@ ht-degree: 14%
 * [[!DNL Adobe Analytics] 控制面板 — 概觀](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html){target="_blank"}
 * [專案總覽](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=zh-Hant){target="_blank"}
 * [視覺效果概觀](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=zh-Hant){target="_blank"}
-* [智慧型警報總覽](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html){target="_blank"}
+* [智慧型警報概觀](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html){target="_blank"}
 
 **第3節：細分和計算量度**
 
@@ -177,14 +177,25 @@ ht-degree: 14%
 
 {{about-certification-exam}}
 
-## 排程或參加考試AD0-E208
+## 安排或參加考試AD0-E208 （英文）
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   前往考試入口網站
+   前往考試入口網站 — 英文考試
 </span>
 </a>
+
+## 排程或參加考試AD0-E208-J （日文）
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   前往考試入口網站 — 日文考試
+</span>
+</a>
+
+[日文排程指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 >[!ENDTABS]
 
