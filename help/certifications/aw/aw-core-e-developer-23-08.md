@@ -5,24 +5,25 @@ solution: Workfront
 role: Developer
 badge: label="考試AD0-E907" type="positive"
 mini-toc-levels: 1
-hidefromtoc: true
-source-git-commit: 5fb76199d2e15ef486f9b91e55e908d5d5e9704c
+source-git-commit: 0a6cdf2e970ca534b003425500ca315af1b0add3
 workflow-type: tm+mt
-source-wordcount: '1509'
+source-wordcount: '1792'
 ht-degree: 0%
 
 ---
 
 
-<!--This is NOT updated with the AD0-E907 information. Check that the link for this page is correct. It was originally missing "/help/certifications/ame/".-->
-
 # Adobe的認證歷程 [!DNL Workfront] 核心開發人員專家
 
 瞭解如何成為認證Adobe [!DNL Workfront] 核心開發人員專家。
 
+>[!NOTE]
+>
+>這是最新的Adobe [!DNL Workfront] 核心開發人員專家考試。 如果您已開始學習或已排程 [較舊版本](aw-core-e-developer.md)，您必須在2023年11月6日前完成。
+
 ## 最低體驗
 
-您至少應有18至24個月的Adobe經驗 [!DNL Workfront]、和可以：
+您至少應有18至24個月的Adobe經驗 [!DNL Workfront]，且應該能夠：
 
 * 瀏覽 [!DNL Workfront] 系統，瞭解其功能所在
 * 設定系統的各個層面
@@ -50,12 +51,12 @@ ht-degree: 0%
 **考試詳細資料：**
 
 * 等級：專家（1-3年經驗）
-* 及格分數：36/64
-* 時間：130分鐘
+* 及格分數：35/50
+* 時間：100分鐘
 * 交付：線上監護（需要存取攝影機）或測試中心監護
 * 可用語言：英文
 * 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E904
+* 考試ID：AD0-E907
 
 **整備程度自我評估**
 
@@ -66,64 +67,66 @@ ht-degree: 0%
 第1節：核心系統管理與設定(17%)
 
 * 在案例中，說明有效共用許可權和存取許可權的方式。
-* 在圖表中，選取正確的存取階層順序。
 * 在情景中，識別何時應使用群組狀態與系統狀態。
 * 在資料集已知的情況下，展示Kickstart的功能。
 * 在某種情況下，識別自動布建使用者的最佳實務。
 * 在案例中，示範使用者設定檔中的群組和團隊如何影響可在其中看到或完成的動作 [!DNL Workfront].
-* 在情景中，建議團隊應為標準、Kanban或Scrum。
-* 在情境下，請決定部署敏捷團隊自訂分鏡指令碼的最佳實務。
+* 在案例中，建議面板設定以符合自訂需求。
+* 在場景中，識別群組管理的最佳實務。
 
-第2節：輸入、自訂表單和專案管理(17%)
+第2節：輸入、自訂表單和專案啟動(13%)
 
 * 在案例中，確定支援工作分配所需的設定區域。
-* 指定情境，請識別必要的設定。
 * 在案例中，識別如何將值傳遞至專案自訂表單。
 * 在案例中，說明必須執行哪些操作來解決報告和計算錯誤。
 * 在案例中，識別可借給範本的支援元素。
+* 假設案例具有多個表單，請決定要控制存取、可見度和相依性的動作。
+* 假設案例中具有多物件表單的計算欄位，請識別正確的公式。
 
-第3節：戰略功能 — 投資組合和方案管理、資源管理(13%)
+第3節：戰略功能：投資組合和方案管理、資源管理(13%)
 
-* 在案例中，請決定如何擷取反映在Portfolio最佳化工具中的專案後KPI。
-* 在案例中，調整業務案例以反映專案範圍的變更。
+* 在案例中，定義工具以擷取專案範圍中的變更。
 * 在案例中，建立一個檢視，用於識別產品組合中專案是否符合要執行的必要條件的平均層級。
 * 針對特定案例，說明以定性或定量方式管理風險的方式。
-* 在案例中，提供一種機制，確保最高優先順序的專案有充足的人員。
-* 在給定情況下，請確定根本原因。
-* 在特定的情況下，請判斷使用者為何過度分配。
+* 在案例中，提供一種機制，確保最高優先順序的專案已設定為具有適當的資源。
+* 在案例中，提供機制，確保使用資源管理工具為專案配備充足的人員。
+* 在案例中，使用資源管理工具來判斷使用者過度配置的原因。
 
 第4節：檔案管理和證明(13%)
 
 * 在案例中，示範何時使用檔案管理與校訂
 * 在案例中，識別使用校訂檢視器、設定和標籤功能的最佳實務
-* 在案例中，示範如何編輯和設定檔案許可權。
+* 在案例中，示範如何編輯和設定檔案許可權
 * 在案例中，示範如何設定具有安全性限制的外部檔案儲存
+* 在特定的情況下，設定與AEMas a Cloud Service或AEM Assets Essentials的連線。
 
-區段5：報表(13%)
+區段5：報表(11%)
 
 * 在案例中，說明將多欄資料合併成單一欄的方法。
 * 指定報表或篩選器，示範使用萬用字元值的優點。
-* 識別報表中的父項至子項關係。
+* 識別如何使用原生報告來報告父子關係。
 * 在案例中，請說明報表如何協助有效執行工作。
 * 給定情境，圖示 [!DNL Workfront] 提供報告，以監控並改善使用者採用程度。
+* 在情景中，決定欄位型別在報告上的呈現方式。 （欄位型別包括： RTF文字、影像、多選）
 
-第6節：方法/最佳實務/使用案例(20%)
+第6節：方法/最佳實務/使用案例(22%)
 
 * 給定範圍內的情境 [!DNL Workfront]，示範設定追蹤屬於單一行銷活動之交付專案的功能。
 * 給定範圍內的情境 [!DNL Workfront]，展示有關工作的策略優先順序和理由的功能。
 * 給定範圍內的情境 [!DNL Workfront]，展示財務、使用率、預測、收費率/記錄的相關功能
 * 給定範圍內的情境 [!DNL Workfront]，示範設定工作流程與核准的相關功能。
-* 在敏捷的案例中，找出可顯示進度的原生功能。
 * 在案例中，建議在展開使用者端例項時，使用系統管理治理的架構。
 * 在情景中，找出在擴展使用者端例項以允許其他團隊一起工作時要考慮的區域。
+* 給定情境使用 [!DNL Workfront] 看板，識別顯示進度的原生功能。
+* 在案例中，建議系統和群組管理相關的治理架構。
 
-第7節：商務諮詢(8%)
+第7節：業務諮詢(11%)
 
-* 在情景中，說明完全支援該工作所需的流程。
+* 在案例中，說明完整支援實施工作所需的程式 [!DNL Workfront] 在跨職能部門中。
 * 在案例中，說明如何調整現有的工作流程，以符合關鍵且正在進行的業務流程中的最新變更。
 * 在特定的情況下，識別最難以變更為特定執行個體的組態設定。
 * 在案例中，找出變更管理的主要考量因素 [!DNL Workfront] 實施
-* 給定情境，提供建議。
+* 在使用者端擁有多個團隊的情境下，提供建議以提高效率。
 
 >[!TAB 準備]
 
@@ -133,20 +136,24 @@ ht-degree: 0%
 
 **第1節：核心系統管理與設定**
 
-* [系統設定：群組和使用者](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html%3Flang%3Dsv){target="_blank"}
-* [存取層級和許可權如何搭配運作](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
+* [系統設定：群組和使用者](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
+* [存取層級和許可權如何搭配運作](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/legacy-access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
 * [系統專案狀態](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
 * [Kick-Starts](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts.html){target="_blank"}
 * [對應使用者屬性並自動布建新使用者](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/map-user-attributes.html){target="_blank"}
 * [建立群組和子群組](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/user-organization-groups.html){target="_blank"}
+* [編輯專案](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
+* [建立路由規則](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-routing-rules.html){target="_blank"}
 
 **第2節：輸入、自訂表單和專案管理**
 
-* [設定全域預設專案設定](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html){target="_blank"}
+* [設定全域預設專案設定](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.html){target="_blank"}
 * [設定我的設定](https://experienceleague.adobe.com/docs/workfront/using/basics/manage-account-profile/configure-user-profile/configure-my-settings.html){target="_blank"}
 * [新增計算資料至自訂表單](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
 * [處理逐步說明時發生錯誤](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/error-handling-walkthrough.html){target="_blank"}
 * [最佳實務 — 專案範本](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/project-templates-bp.html){target="_blank"}
+* [使用表單設計工具新增計算欄位](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/form-designer/design-a-form/add-a-calculated-field.html){target="_blank"}
+* [建立請求佇列](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
 
 **第3節：策略功能 — 投資組合及方案管理、資源管理**
 
@@ -156,6 +163,8 @@ ht-degree: 0%
 * [建立及編輯專案的風險](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/create-edit-risks-on-projects.html){target="_blank"}
 * [瞭解並更新專案優先順序](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-priority.html){target="_blank"}
 * [檢視：任務和專案的原始問題詳細資訊](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-originating-issue-details-tasks-projects.html){target="_blank"}
+* [建立專案基準線](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-projects/create-baselines.html){target="_blank"}
+* [Portfolio最佳化工具概觀](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html){target="_blank"}
 
 **第4節：檔案管理與校訂**
 
@@ -163,6 +172,8 @@ ht-degree: 0%
 * [最佳實務 — 校訂](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html){target="_blank"}
 * [編輯專案](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
 * [從外部應用程式連結檔案](https://experienceleague.adobe.com/docs/workfront/using/documents/add-new-documents-to-workfront/link-documents-from-external-apps.html){target="_blank"}
+* [建立檔案資料夾](https://experienceleague.adobe.com/docs/workfront/using/documents/organize-documents/create-documents-folder.html){target="_blank"}
+* [設定Experience Manager Assetsas a Cloud Service整合](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-aacs-integration.html){target="_blank"}
 
 **第5節：報表**
 
@@ -171,6 +182,8 @@ ht-degree: 0%
 * [檢視：透過縮排任務來顯示任務中的父子關係](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-parent-child-relationship-by-indenting-tasks-with-custom-view.html){target="_blank"}
 * [報告和儀表板](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports-and-dashboards-overview.html){target="_blank"}
 * [最佳實務 — 上線和採用](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
+* [建立自訂報表](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
+* [萬用字元篩選器變數](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html){target="_blank"}
 
 **第6節：方法/最佳實務/使用案例**
 
@@ -180,6 +193,8 @@ ht-degree: 0%
 * [檢視資源使用率資訊](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html){target="_blank"}
 * [建立工作專案的核准流程](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
 * [自動化工作流程總覽](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html){target="_blank"}
+* [行事曆報表總覽](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calendars/calendar-reports-overview.html){target="_blank"}
+* [在Portfolio最佳化工具中管理專案](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/manage-projects-in-portfolio-optimizer.html){target="_blank"}
 
 **第7節：業務諮詢**
 
@@ -189,26 +204,32 @@ ht-degree: 0%
 * [設定全域預設專案設定](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html){target="_blank"}
 * [定義Adobe的目標 [!DNL Workfront] 實施](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
 * [最佳實務 — 資源規劃工具](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html){target="_blank"}
+* [任務的「可以開始」總覽](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/can-start-task-overview.html){target="_blank"}
+* [最佳實務 — 上線和採用](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 
 >[!TAB 取得認證]
 
 >[!IMPORTANT]
 >
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>以下章節和連結將可運作 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 >此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
 
-## 參加練習測試
+<!-- Test is coming later
+
+## Take a practice test
 
 {{practice-test}}
+
+-->
 
 ## 關於認證考試
 
 {{about-certification-exam}}
 
-## 排程或參加考試AD0-E904
+## 排程或參加考試AD0-E907
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E904" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E907" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    前往考試入口網站

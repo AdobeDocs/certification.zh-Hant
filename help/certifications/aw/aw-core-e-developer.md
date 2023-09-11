@@ -6,9 +6,9 @@ role: Developer
 badge: label="考試AD0-E904" type="positive"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 0a6cdf2e970ca534b003425500ca315af1b0add3
 workflow-type: tm+mt
-source-wordcount: '1509'
+source-wordcount: '1557'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Adobe的認證歷程 [!DNL Workfront] 核心開發人員專家
 
 瞭解如何成為認證Adobe [!DNL Workfront] 核心開發人員專家。
+
+>[!NOTE]
+>
+>此考試，Adobe [!DNL Workfront] Core Developer Expert (AD0-E904)已更新。 如果您已開始學習或計畫接受此版本，請務必在2023年11月6日之前完成。 如果您正開始使用，建議您參加 [此測驗的最新版本(AD0-907)](aw-core-e-developer-23-08.md).
 
 ## 最低體驗
 
