@@ -4,12 +4,12 @@ description: 瞭解如何成為認證Adobe [!DNL Experience Manager] 專業。
 solution: Experience Manager
 product: Experience Manager
 role: User
-badge: label="Exam AD0-E132 type="positive"
+badge: label="考試AD0-E132" type="positive"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: b7518560c9ab89e0cdb6a45853244d1790f81b44
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '603'
 ht-degree: 9%
 
 ---
