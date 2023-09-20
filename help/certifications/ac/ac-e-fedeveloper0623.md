@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="考試AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
+source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1019'
 ht-degree: 0%
 
 ---
@@ -107,9 +107,9 @@ ht-degree: 0%
 * 示範jQuery Widget的使用方式
 * 使用版面XML示範JS元件的使用
 
-第5節：管理員設定和PageBuilder (12%)
+第5節：管理員設定和頁面產生器(12%)
 
-* 展示自訂頁面產生器內容的能力」
+* 示範自訂頁面產生器內容的能力
 * 說明前端最佳化
 * 自訂異動電子郵件
 * 示範管理員開發工具的使用情況
