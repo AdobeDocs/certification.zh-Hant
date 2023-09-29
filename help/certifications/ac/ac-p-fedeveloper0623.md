@@ -6,18 +6,45 @@ product: Magento
 role: Developer
 badge: label="考試AD0-E721" type="positive"
 mini-toc-levels: 1
-source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
 
 # Adobe的認證歷程 [!DNL Commerce] 前端開發人員專業版
 
-瞭解如何成為認證 [!DNL Adobe Commerce] 開發人員專業版。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專業（0至12個月經驗）
+* 及格分數：33/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E721
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 開發人員
+* 前端開發人員
+* 完整棧疊開發人員
+* PWA開發人員
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該擁有0到12個月的Adobe Commerce前端開發實踐經驗，並有能力使用技術解決方案來提供個別元件。
 
@@ -42,36 +69,19 @@ ht-degree: 0%
 * 基本瞭解規範連結，以及合併JavaScript和CSS
 * 基本瞭解Adobe Commerce雲端基礎結構
 
->[!BEGINTABS]
+<br>
 
->[!TAB 準備就緒]
+### 考試目標與範圍 {#exam-objectives}
 
-**目標對象：**
+{{exam-objectives}}
 
-* 開發人員
-* 前端開發人員
-* 完整棧疊開發人員
-* PWA開發人員
-
-**考試詳細資料：**
-
-* 等級：專業（0至12個月經驗）
-* 及格分數：33/50
-* 時間：100分鐘
-* 傳遞：線上監護（需要存取攝影機）
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E721
-
-**考試目標與範圍**
-
-第1節：主題管理（主題階層、影像設定、翻譯） (14%)
+**第1節：主題管理（主題階層、影像設定、翻譯） (14%)**
 
 * 說明Adobe [!DNL Commerce] 主題資料夾結構
 * 展示建立新主題或擴充現有主題的能力
 * 示範新增自訂翻譯短語的能力
 
-第2節：版面配置XML與範本(30%)
+**第2節：版面配置XML與範本(30%)**
 
 * 展示使用基本配置XML指令的能力
 * 示範使用現有版面配置的能力
@@ -79,7 +89,7 @@ ht-degree: 0%
 * 展示建立及自訂範本的能力
 * 說明範本安全性（逸出輸出）
 
-第3節：樣式(22%)
+**第3節：樣式(22%)**
 
 * 說明樣式 — m.less、樣式 — l.less、print.less的用途
 * 說明特定部分檔案(_extends.less、_extend.less、_theme.less、_widgets.less、_module.less)之間的差異
@@ -88,7 +98,7 @@ ht-degree: 0%
 * 說明樣式的階層（程式庫、模組、主題）
 * 說明使用者端和伺服器端編譯
 
-第4節：JavaScript (18%)
+**第4節：JavaScript (18%)**
 
 * 示範初始化和呼叫JavaScript元件的能力
 * 示範RequireJS的使用
@@ -97,25 +107,39 @@ ht-degree: 0%
 * 說明去底色JS的使用方式
 * 說明jQuery Widget的使用方式
 
-第5節：管理員設定和PageBuilder (6%)
+**第5節：管理員設定和PageBuilder (6%)**
 
 * 展示自訂頁面產生器和CMS內容的能力」
 * 將主題套用/排程至特定範圍（網站、商店、商店檢視）
 * 使用管理員設定將設計變更套用至類別、產品和CMS頁面
 * 說明自訂異動電子郵件的步驟
 
-第6節：工具（CLI與程式碼） (8%)
+**第6節：工具（CLI與程式碼） (8%)**
 
 * 說明基本bin/magento命令的使用方式
 * 說明撰寫器命令的使用方式（安裝、更新、需要、移除）
 * 區別部署模式的適當使用案例
 * 說明Cloud提供的其他工具（Fastly、下載資料庫、內容部署）
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+## 如何取得認證 {#how-to-get-certified}
 
-以下是一些可幫助您準備的建議資源：
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：主題管理（主題階層、影像設定、翻譯）**
 
@@ -156,18 +180,33 @@ ht-degree: 0%
 * [建立變數](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [雲端基礎結構上的Commerce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+**參加練習測試**
 
+{{practice-test}}
 
-**現在您已成功登入，可直接存取下列連結。**
++++
 
-**練習測試即將推出**
+<br>
 
-## 關於認證考試
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -180,9 +219,25 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**問題**
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
+
+## 問題
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

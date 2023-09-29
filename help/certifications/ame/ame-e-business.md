@@ -7,20 +7,55 @@ role: User
 badge: label="考試AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1419'
+source-wordcount: '1268'
 ht-degree: 0%
 
 ---
 
 # Adobe的認證歷程 [!DNL Marketo Engage] 商務從業者專家
 
-瞭解如何成為認證Adobe [!DNL Marketo Engage] 商務從業者專家。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
 
-您應該有：
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專家（1-3年經驗）
+* 及格分數：32/50
+* 時間：110分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文、日文
+* 費用：225美元（全球） / 150美元（印度）
+* 測驗ID：AD0-E559 （英文）、AD0-E559-J （日文）
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 行銷營運經理/專家/專家/分析師
+* 數位行銷經理/專家/專家/分析師
+* Campaign經理/專家/專家/分析師
+* [!DNL Marketo Engage] 顧問
+* 數位/行銷自動化經理/專家/專家/分析師
+* 行銷系統管理員
+* Demand generation manager
+* 電子郵件行銷管理員
+* 收入營運經理
+* 成長營運經理
+* Martech架構師
+* 行銷技術經理
+* 整合的行銷活動管理員
+* 商務系統分析師
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 * 大約18個月的Adobe經驗 [!DNL Marketo Engage] 建立行銷活動及利用客戶行為資料所需的功能
 
@@ -39,48 +74,13 @@ ht-degree: 0%
 * Microsoft Office
 * 基本HTML
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* 行銷營運經理/專家/專家/分析師
-* 數位行銷經理/專家/專家/分析師
-* Campaign經理/專家/專家/分析師
-* [!DNL Marketo Engage] 顧問
-* 數位/行銷自動化經理/專家/專家/分析師
-* 行銷系統管理員
-* Demand generation manager
-* 電子郵件行銷管理員
-* 收入營運經理
-* 成長營運經理
-* Martech架構師
-* 行銷技術經理
-* 整合的行銷活動管理員
-* 商務系統分析師
-
-**考試詳細資料：**
-
-* 等級：專家（1-3年經驗）
-* 及格分數：32/50
-* 時間：110分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文和日文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E559
-
-**整備程度自我評估**
-
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
-
-**考試目標與範圍**
-
-第1節：管理與維護(12%)
+**第1節：管理與維護(12%)**
 
 * 決定Marketo與CRM之間的對應程式
 * 使用稽核軌跡識別資產所發生的情況
@@ -89,7 +89,7 @@ ht-degree: 0%
 * 透過原生Marketo同步識別CRM平台
 * 在案例中，找出參考資訊的位置
 
-區段2：行銷活動/Campaign Management (46%)
+**區段2：行銷活動/Campaign Management (46%)**
 
 * 展示對於智慧行銷活動、邏輯、限制和流程步驟的瞭解
 * 指定情境，定義下一個步驟
@@ -106,7 +106,7 @@ ht-degree: 0%
 * 疑難排解通訊限制
 * 在事件程式中使用網路研討會提供者資訊
 
-第3節：銷售機會管理(12%)
+**第3節：銷售機會管理(12%)**
 
 * 概述定義生命週期模型的關鍵決策點
 * 針對潛在客戶評分套用最佳實務
@@ -114,19 +114,19 @@ ht-degree: 0%
 * 解釋潛在客戶活動記錄
 * 指定情境，識別建立來源
 
-第4節：資料管理(10%)
+**第4節：資料管理(10%)**
 
 * 示範如何設定資料管理計畫
 * 分析執行個體的資料品質
 * 識別與智慧列示相關之Marketo資料保留原則的幾個關鍵專案
 * 概述區段的運作方式
 
-區段5：報表(4%)
+**區段5：報表(4%)**
 
 * 根據行銷活動結果，決定如何設定方案以提供最佳報告
 * 在案例中，能夠調查並指派適當的贏取方案
 
-第6節：最佳實務(16%)
+**第6節：最佳實務(16%)**
 
 * 展示行銷和銷售共同作業中潛在客戶評分的相關性
 * 說明資料夾結構和命名慣例的優點
@@ -134,11 +134,33 @@ ht-degree: 0%
 * 說明對任何Marketo程式執行品質檢查的程式
 * 說明對電子郵件執行品質檢查的程式
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+### 整備問卷
 
-以下是一些可幫助您準備的建議資源：
+{{readiness}}
+
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## 如何取得認證 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：管理與維護**
 
@@ -204,19 +226,33 @@ ht-degree: 0%
 * [潛在客戶評分的最終指南](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}
 * [瞭解資料夾](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
-
-## 參加練習測試
+**參加練習測試**
 
 {{practice-test}}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -240,10 +276,27 @@ ht-degree: 0%
 
 [日文排程指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+

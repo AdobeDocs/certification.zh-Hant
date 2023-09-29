@@ -7,18 +7,48 @@ role: Developer
 badge: label="考試AD0-E136" type="positive"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '817'
-ht-degree: 13%
+source-wordcount: '678'
+ht-degree: 15%
 
 ---
 
 # Adobe的認證歷程 [!DNL Experience Manager] as a Cloud Service移轉專家
 
-瞭解如何成為認證Adobe [!DNL Experience Manager] 專家。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專家（1-3年經驗）
+* 及格分數：31/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E136
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 具有Adobe經驗的開發人員 [!DNL Experience Manager]
+* 至少參與過一次雲端移轉的開發人員
+* Adobe [!DNL Experience Manager] Sites開發人員
+* Adobe [!DNL Experience Manager] 網站架構者
+* Adobe [!DNL Experience Manager] 資產開發人員
+* Adobe [!DNL Experience Manager] Forms開發人員
+* 曾參與多次AEM部署，至少具有2至3年使用Adobe開發Web應用程式經驗的開發人員/DevOps/銷售機會/架構師 [!DNL Experience Manager]
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該有：
 
@@ -46,37 +76,13 @@ ht-degree: 13%
 * 在本機環境中追蹤雲端記錄檔
 * Cloud Console介面
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* 具有Adobe經驗的開發人員 [!DNL Experience Manager]
-* 至少參與過一次雲端移轉的開發人員
-* Adobe [!DNL Experience Manager] Sites開發人員
-* Adobe [!DNL Experience Manager] 網站架構者
-* Adobe [!DNL Experience Manager] 資產開發人員
-* Adobe [!DNL Experience Manager] Forms開發人員
-* 曾參與多次AEM部署，至少具有2至3年使用Adobe開發Web應用程式經驗的開發人員/DevOps/銷售機會/架構師 [!DNL Experience Manager]
-
-**考試詳細資料**
-
-* 等級：專家（1-3年經驗）
-* 及格分數：31/50
-* 時間：100分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E136
-
-**考試目標與範圍**
-
-第1節：評估(32%)
+**第1節：評估(32%)**
 
 * 使用BPA
 * 準備並評估移轉計畫
@@ -87,19 +93,19 @@ ht-degree: 13%
 * 說明資產相關實作及其影響
 * 識別Dispatcher相關需求
 
-區段2：設計(16%)
+**區段2：設計(16%)**
 
 * 檢閱現有元件並使用最新版本進行驗證
 * 準備資產微服務的設定
 * 說明快取策略
 
-第3節：部署(16%)
+**第3節：部署(16%)**
 
 * 設定Cloud Manager管道並將連結到環境
 * 布建AEMaaCS環境（開發、階段、prod — 作者、發佈、預覽）
 * 藉助AdobeIO CLI管理部署流程
 
-第4節：移轉(20%)
+**第4節：移轉(20%)**
 
 * 執行測試
 * 準備資產移轉策略
@@ -107,21 +113,34 @@ ht-degree: 13%
 * 執行移轉工具（內容轉移、現代化、重構）。 報告並調整結果，特別是工具未處理的關鍵結果
 * 規劃上線後支援
 
-第5節：實作(16%)
+**第5節：實作(16%)**
 
 * 將多個專案合併為單一專案，以透過Adobe管道部署
 * 管理使用者/群組許可權的報告指令碼
 * 設定本機SDK
 * 根據AEMas a Cloud Service上可用的執行模式更新設定
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+## 如何取得認證 {#how-to-get-certified}
 
-以下是一些可幫助您準備的建議資源：
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：評估**
-
 
 * [[!DNL Experience Manager] as a Cloud Service使用手冊](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 * [Adobe移轉指南 [!DNL Experience Manager] 適用於合作夥伴的as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html){target="_blank"}
@@ -149,17 +168,27 @@ ht-degree: 13%
 * [在Adobe Cloud Manager中使用CI/CD管道](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
 * [部署至 AEM as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html){target="_blank"}
 
->[!TAB 取得認證]
++++
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
+<br>
 
++++步驟3：排程並支付考試費用
 
+{{schedule-and-pay}}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -172,7 +201,23 @@ ht-degree: 13%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

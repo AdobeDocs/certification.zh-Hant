@@ -6,44 +6,24 @@ role: Developer
 badge: label="考試AD0-E903" type="positive"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1549'
+source-wordcount: '1352'
 ht-degree: 0%
 
 ---
 
 # Adobe的認證歷程 [!DNL Workfront] Project Manager專業版
 
-瞭解如何成為認證Adobe [!DNL Workfront] Project Manager Professional。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
 
-您應該有：
+{{exam-description}}
 
-* 從初始工作請求到完成的工作流&#39;b5&#39;7b，或曾接觸過專案或工作管理
-* 已完成自助式訓練或訓練營，或已經 [!DNL Workfront] 6-12個月的使用者，讓他們瞭解基本功能
-* 瞭解如何設定、追蹤及監控報表資料
+<br>
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
-
->[!BEGINTABS]
-
->[!TAB 準備就緒]
-
-**目標對象：**
-
-* 專案經理，工作經理，計畫者
-* SCRUM主版
-* [!DNL Workfront] 超級使用者
-* 系統管理員
-* 專案經理，投資組合經理
-* Director，經理
-* 資源管理員、流量管理員
-
-**考試詳細資料 — Adobe [!DNL Workfront] 專案經理**
+### 考試詳細資料 {#exam-details}
 
 * 等級：專業（0至12個月經驗）
 * 及格分數：45/70
@@ -53,13 +33,35 @@ ht-degree: 0%
 * 費用：125美元（全球） / 95美元（印度）
 * 考試ID：AD0-E903
 
-**整備程度自我評估**
+<br>
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
+### 目標對象 {#intended-audience}
 
-**考試目標與範圍**
+* 專案經理，工作經理，計畫者
+* SCRUM主版
+* [!DNL Workfront] 超級使用者
+* 系統管理員
+* 專案經理，投資組合經理
+* Director，經理
+* 資源管理員、流量管理員
 
-第1節：錄取與規劃(30%)
+<br>
+
+### 最低體驗 {#minimum-experience}
+
+您應該有：
+
+* 從初始工作請求到完成的工作流&#39;b5&#39;7b，或曾接觸過專案或工作管理
+* 已完成自助式訓練或訓練營，或已經 [!DNL Workfront] 6-12個月的使用者，讓他們瞭解基本功能
+* 瞭解如何設定、追蹤及監控報表資料
+
+<br>
+
+### 考試目標與範圍 {#exam-objectives}
+
+{{exam-objectives}}
+
+**第1節：錄取與規劃(30%)**
 
 * 識別接收工作請求通知的不同方式
 * 在提出要求時，請檢閱自訂資料以決定適當的動作
@@ -71,7 +73,7 @@ ht-degree: 0%
 * 識別適當的欄位，以檢視指定的特定資源
 * 給定角色，在專案/工作流程的工作接受或計畫階段確定對角色有用的接受或計畫報告/儀表板
 
-區段2：執行(50%)
+**區段2：執行(50%)**
 
 * 識別瞭解、套用和測量專案中里程碑的方法
 * 建立 [!DNL Workfront] 單次使用核准和使用核准的時間
@@ -92,30 +94,44 @@ ht-degree: 0%
 * 識別中可用的各種報告型別 [!DNL Workfront]
 * 在案例中，說明建立自訂報表的步驟
 
-區段3：結案(20%)
+**區段3：結案(20%)**
 
 * 在指定特定物件狀態時，決定需要執行哪些活動或觸發了哪些動作
 * 在情景中，決定報告的型別和用於修改任務清單或報告的報告元素
 * 識別可用於報告的不同萬用字元
 * 識別可用來測量專案成功的專案元素
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+### 整備問卷
 
-以下是一些可幫助您準備的建議資源：
+{{readiness}}
 
-**範例問題**
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"}
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+<br>
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
+## 如何取得認證 {#how-to-get-certified}
 
-**建議的培訓課程：**
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**建議的培訓課程**
 
 [針對新版規劃人員的核心團隊培訓 [!DNL Workfront] 體驗](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
 
-**其他資源:**
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：引進與規劃**
 
@@ -160,16 +176,35 @@ ht-degree: 0%
 * [專案時間表](https://www.workfront.com/project-management/knowledge-areas/time-management/project-timeline){target="_blank"}
 * [建立專案](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FCreate_projects%2F_create-projects-overview.htm&amp;_LANG=enus){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
+**範例問題**
 
+{{sample-questions}}
 
-## 關於認證考試
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
+
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -182,7 +217,23 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

@@ -6,30 +6,36 @@ product: Customer Journey Analytics
 role: User
 badge: label="考試AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '619'
-ht-degree: 13%
+source-wordcount: '482'
+ht-degree: 17%
 
 ---
 
 # Adobe的認證歷程 [!DNL Customer Journey Analytics] 商務從業者專業人士
 
-瞭解如何成為認證Adobe [!DNL Customer Journey Analytics] 商務從業者專業人士。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
 
-最理想的合格候選者是具有至少6個月Adobe經驗的分析師 [!DNL Customer Journey Analytics] 以及對其結合使用方式的基本瞭解 [!DNL Adobe Experience Platform]. 應徵者能夠使用適當的報表和視覺效果選項，針對特定業務需求執行基本和進階分析。
+{{exam-description}}
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試詳細資料 {#exam-details}
 
->[!TAB 準備就緒]
+* 等級：專業（0至12個月經驗）
+* 及格分數：36/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E608
 
-**目標對象：**
+<br>
+
+### 目標對象 {#intended-audience}
 
 * 業務分析人員
 * 業務顧問
@@ -40,47 +46,61 @@ ht-degree: 13%
 * 產品擁有者和經理
 * 轉換/最佳化專家
 
-**考試詳細資料：**
+<br>
 
-* 等級：專業（0至12個月經驗）
-* 及格分數：36/50
-* 時間：100分鐘
-* 傳遞：線上監護（需要存取攝影機）
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E608
+### 最低體驗 {#minimum-experience}
 
-**考試目標與範圍**
+最理想的合格候選者是具有至少6個月Adobe經驗的分析師 [!DNL Customer Journey Analytics] 以及對其結合使用方式的基本瞭解 [!DNL Adobe Experience Platform]. 應徵者能夠使用適當的報表和視覺效果選項，針對特定業務需求執行基本和進階分析。
 
-區段1：元件(30%)
+<br>
+
+### 考試目標與範圍 {#exam-objectives}
+
+{{exam-objectives}}
+
+**區段1：元件(30%)**
 
 * 將業務問題轉換為相關元件
 * 使用適當的元件和篩選器建立資料子集
 * 建立非管理員元件以解決業務問題
 
-區段2：報表(32%)
+**區段2：報表(32%)**
 
 * 決定適當的視覺效果或表格以解決業務問題
 * 根據資料來源、身分和日期範圍決定要使用的資料檢視
 * 決定如何使用與套用日期範圍
 
-第3節：分配(12%)
+**第3節：分配(12%)**
 
 * 排程並與主要利害關係人共用報告
 * 特定報表或儀表板中可用的組織欄位
 * 以邏輯方式組織專案
 
-第4節：資料分析(26%)
+**第4節：資料分析(26%)**
 
 * 執行探索性分析和解讀結果，以提供深入分析
 * 評估受眾以與其他AEP工具共用
 * 選擇要分析的正確元件
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+## 如何取得認證 {#how-to-get-certified}
 
-以下是一些可幫助您準備的建議資源：
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：元件**
 
@@ -108,20 +128,33 @@ ht-degree: 13%
 * [Venn](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=zh-Hant){target="_blank"}
 * [篩選運算子](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/operators.html){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
-
-
-## 參加練習測試
+**參加練習測試**
 
 {{practice-test}}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -134,7 +167,23 @@ ht-degree: 13%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

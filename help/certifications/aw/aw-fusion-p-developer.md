@@ -6,18 +6,47 @@ role: Developer
 badge: label="考試AD0-E902" type="positive"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1436'
+source-wordcount: '1253'
 ht-degree: 0%
 
 ---
 
 # Adobe的認證歷程 [!DNL Workfront Fusion] 開發人員專業版
 
-瞭解如何成為認證Adobe [!DNL Workfront] 開發人員專業版。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專業（0至12個月經驗）
+* 及格分數： 33/51
+* 時間：102分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E902
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 開發人員、自動化工程師
+* 自動化程式、流程最佳化和自動化管理員
+* 整合顧問、顧問、合作夥伴
+* 系統整合廠商/合作夥伴
+* 業務分析師、套用的業務分析師
+* 系統管理員（IT、MIS、技術、知識系統、AI管理員）
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該有：
 
@@ -32,36 +61,13 @@ ht-degree: 0%
 * 管理組織團隊和使用者的能力
 * 瞭解REST API Oauth2通用聯結器的用途和使用
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* 開發人員、自動化工程師
-* 自動化程式、流程最佳化和自動化管理員
-* 整合顧問、顧問、合作夥伴
-* 系統整合廠商/合作夥伴
-* 業務分析師、套用的業務分析師
-* 系統管理員（IT、MIS、技術、知識系統、AI管理員）
-
-**考試詳細資料：**
-
-* 等級：專業（0至12個月經驗）
-* 及格分數： 33/51
-* 時間：102分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E902
-
-**考試目標與範圍**
-
-第1節：基礎技術概念(39%)
+**第1節：基礎技術概念(39%)**
 
 * 給定 [!DNL Fusion] 案例中有一個欄位格式需要為另一個欄位格式，提供可用於正確轉換資料的可能函式
 * 給定 [!DNL Fusion] 若案例要求將函式巢狀內嵌在另一個函式中，請選取正確格式的運算式
@@ -77,7 +83,7 @@ ht-degree: 0%
 * 識別 [!DNL Fusion] 用於處理情境需求的情境設定
 * 給定 [!DNL Fusion] 案例中，選取適當的流量控制和/或決定流量控制模組的正確組合
 
-第2節：情境設計與架構(35%)
+**第2節：情境設計與架構(35%)**
 
 * 提供步驟清單，選擇正確的序列以剖析JSON並轉換為套裝
 * 指定一組需求，識別正確的資料查詢方法
@@ -92,7 +98,7 @@ ht-degree: 0%
 * 說明需要封存案例超過60天並選取唯一可能的方式（匯入/匯出Blueprint）
 * 在錯誤403：禁止的範例中，正確選取錯誤訊息的來源及原因
 
-第3節：測試和錯誤處理(16%)
+**第3節：測試和錯誤處理(16%)**
 
 * 識別測試計畫的元素
 * 識別測試案例的元素
@@ -101,24 +107,32 @@ ht-degree: 0%
 * 識別如何追蹤、讀取和解決未完成的執行
 * 給定 [!DNL Fusion] 缺少必要資料的情境，請選取處理無效資料的方法
 
-第4節：使用API (10%)
+**第4節：使用API (10%)**
 
 * 給定傳回429：太多請求的第三方API，請識別可防止或處理錯誤的解決方案
 * 給定 [!DNL Fusion] 中沒有新功能的案例 [!DNL Workfront] 模組，識別正確的參考和模組型別以使用新功能
 * 如果協力廠商系統沒有專用應用程式，請識別HTTP應用程式並選取適當的模組
 * 識別CRUD作業與REST API其他常用功能之間的差異
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+## 如何取得認證 {#how-to-get-certified}
 
-以下是一些可幫助您準備的建議資源：
+{{how-to-get-certified-intro}}
 
-**範例問題**
++++步驟1：建立帳戶
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+{{create-your-account}}
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：基礎技術概念**
 
@@ -151,16 +165,35 @@ ht-degree: 0%
 * [應用程式及其模組](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=enus){target="_blank"}
 * [Adobe中的模組 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
+**範例問題**
 
+{{sample-questions}}
 
-## 關於認證考試
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
+
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -173,7 +206,23 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

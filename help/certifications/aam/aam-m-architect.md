@@ -8,38 +8,36 @@ level: Experienced
 badge: label="考試AD0-E454" type="positive"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '708'
-ht-degree: 13%
+source-wordcount: '615'
+ht-degree: 15%
 
 ---
 
 # 的認證歷程 [!DNL Adobe Audience Manager] 架構師Master
 
-瞭解如何成為認證 [!DNL Adobe Audience Manager] 架構師Master。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
 
-您應在Adobe和非Adobe行銷平台的資料收集方法、資料管理平台及數位行銷技術棧疊方面擁有至少3年的經驗。 您瞭解客戶獨特的技術和業務需求，並開發自訂解決方案。
+{{exam-description}}
 
-此外，您應該能夠完成下列工作：
+<br>
 
-* 分析業務需求以瞭解現有資料和所需的其他資料
-* 設計並開發特定實作以滿足客戶需求
-* 實作Adobe [!DNL Audience Manager] 使用不同的方法
-* 建立區段
-* 在不同Adobe和非Adobe雲端解決方案之間啟用受眾區段
-* 在中產生和分析不同的報表 [!DNL Audience Manager]
-* 瞭解資料收集策略
+### 考試詳細資料 {#exam-details}
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+* 等級：主版（3-5年經驗）
+* 及格分數：29/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：225美元（全球） / 150美元（印度）
+* 考試ID：AD0-E454
 
->[!BEGINTABS]
+<br>
 
->[!TAB 準備就緒]
+### 目標對象 {#intended-audience}
 
 **目標對象：**
 
@@ -54,23 +52,31 @@ ht-degree: 13%
 * 技術顧問
 * 行銷技術人員
 
-**考試詳細資料**
+<br>
 
-* 等級：主版（3-5年經驗）
-* 及格分數：29/50
-* 時間：100分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E454
+### 最低體驗 {#minimum-experience}
 
-**整備程度自我評估**
+您應在Adobe和非Adobe行銷平台的資料收集方法、資料管理平台及數位行銷技術棧疊方面擁有至少3年的經驗。 您瞭解客戶獨特的技術和業務需求，並開發自訂解決方案。
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
+此外，您應該能夠完成下列工作：
+
+* 分析業務需求以瞭解現有資料和所需的其他資料
+* 設計並開發特定實作以滿足客戶需求
+* 實作Adobe [!DNL Audience Manager] 使用不同的方法
+* 建立區段
+* 在不同Adobe和非Adobe雲端解決方案之間啟用受眾區段
+* 在中產生和分析不同的報表 [!DNL Audience Manager]
+* 瞭解資料收集策略
+
+<br>
+
+### 考試目標與範圍 {#exam-objectives}
+
+{{exam-objectives}}
 
 **考試目標與範圍**
 
-第1節：實作分析(26%)
+**第1節：實作分析(26%)**
 
 * 決定如何指南AAM並支援其實作為獨立產品或雲端解決方案的一部分
 * 分析傳出目的地選項並推薦AAM實作方法
@@ -78,14 +84,14 @@ ht-degree: 13%
 * 識別訪客資料檢視器、標籤、RBAC等功能，以符合業務目標
 * 決定如何設計和測試建立區段和特徵所需的畫素
 
-第2節：解決方案設計與建議(18%)
+**第2節：解決方案設計與建議(18%)**
 
 * 根據客戶使用案例來判斷受眾和啟用的AAM功能
 * 套用程式概念，以利用對象身分解決方案來補充設計架構
 * 識別屬性和行為資料，並將其對應至特定業務使用案例
 * 套用程式概念以設計資料夾分類法和命名慣例
 
-第3節：細分和啟動(30%)
+**第3節：細分和啟動(30%)**
 
 * 套用程式概念以在中建立目的地 [!DNL Audience Manager]
 * 識別訊號以建立規則型、已上線和演演算法特徵
@@ -94,20 +100,42 @@ ht-degree: 13%
 * 套用程式性概念以建立演演算法或預測性模型
 * 根據使用案例決定分段邏輯
 
-第4節：隱私權與資料控管(8%)
+**第4節：隱私權與資料控管(8%)**
 
 * 推薦 [!DNL Audience Manager] 與治理、隱私和安全性相關的功能
 * 識別符合政府法規的客戶資料政策
 
-第5節：績效與報表(18%)
+**第5節：績效與報表(18%)**
 
 * 決定如何在AAM中設定報表，以根據業務需求收集訊號、特徵和區段效能
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+### 整備問卷
 
-以下是一些可幫助您準備的建議資源：
+{{readiness}}
+
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"}.
+
+<br>
+
+## 如何取得認證 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：實作分析**
 
@@ -136,15 +164,27 @@ ht-degree: 13%
 
 * [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
->[!TAB 取得認證]
++++
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+<br>
 
++++步驟3：排程並支付考試費用
 
+{{schedule-and-pay}}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -157,7 +197,23 @@ ht-degree: 13%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

@@ -8,18 +8,51 @@ recommendations: disable, exclude
 badge: label="考試AD0-E602" type="positive"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '750'
-ht-degree: 6%
+source-wordcount: '563'
+ht-degree: 9%
 
 ---
 
 # Adobe的認證歷程 [!DNL Real-Time CDP] 商務從業者專業人士
 
-瞭解如何成為認證Adobe [!DNL Experience Platform] 專業從業人員。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專業（0至12個月經驗）
+* 及格分數：28/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E602
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 解決方案顧問
+* 資料分析師
+* 行銷經理
+* 行銷活動行銷分析人員
+* 業務分析師
+* 行銷活動管理員
+* CDP顧問
+* 轉換/最佳化顧問
+* 行銷產品所有者
+* 行銷分析人員
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該有：
 
@@ -38,73 +71,54 @@ ht-degree: 6%
 * 瞭解AEP及其服務的高階功能和特色
 * 設定新目的地
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* 解決方案顧問
-* 資料分析師
-* 行銷經理
-* 行銷活動行銷分析人員
-* 業務分析師
-* 行銷活動管理員
-* CDP顧問
-* 轉換/最佳化顧問
-* 行銷產品所有者
-* 行銷分析人員
-
-**考試詳細資料：**
-
-* 等級：專業（0至12個月經驗）
-* 及格分數：28/50
-* 時間：100分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E602
-
-**考試目標與範圍**
-
-區段1：區段和啟用(32%)
+**區段1：區段和啟用(32%)**
 
 * 建立區段並啟用至目的地
 * 設定新目的地
 * 套用目標身份所需的概念
 * 識別屬性對應和將區段排程至目的地
 
-第2節：隱私權與資料控管(20%)
+**第2節：隱私權與資料控管(20%)**
 
 * 展示對於DULE政策及其對於目的地資料可用性之影響的瞭解
 * 確保遵循隱私權和資料合規性措施
 
-第3節：業務分析(30%)
+**第3節：業務分析(30%)**
 
 * 識別與業務KPI相關聯的使用案例
 * 在Platform中對客戶區段執行資料分析
 * 展示對資料流程概念的理解
 
-第4節：方案和設定檔(18%)
+**第4節：方案和設定檔(18%)**
 
 * 展示對Adobe的理解 [!DNL Experience Platform] 概念
 * 使用設定檔功能
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+## 如何取得認證 {#how-to-get-certified}
 
-以下是一些可幫助您準備的建議資源：
+{{how-to-get-certified-intro}}
 
-**範例問題**
++++步驟1：建立帳戶
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+{{create-your-account}}
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **區段1：區段和啟用**
 
@@ -135,19 +149,36 @@ ht-degree: 6%
 * [即時客戶個人檔案總覽](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html){target="_blank"}
 * [聯合結構描述UI指南](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
+**範例問題**
 
-## 參加練習測試
+{{sample-questions}}
 
-{{practice-test}}
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
 
-## 關於認證考試
+
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -160,7 +191,23 @@ ht-degree: 6%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

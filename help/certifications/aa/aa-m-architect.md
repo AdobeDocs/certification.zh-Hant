@@ -8,18 +8,47 @@ role: Data Architect,Developer
 badge: label="考試AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '755'
-ht-degree: 20%
+source-wordcount: '573'
+ht-degree: 26%
 
 ---
 
 # 的認證歷程 [!DNL Adobe Analytics] 架構師Master
 
-瞭解如何成為認證 [!DNL Analytics] 架構師Master。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：主版（3-5年經驗）
+* 及格分數：33/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：225美元（全球） / 150美元（印度）
+* 考試ID：AD0-E207
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 解決方案架構師
+* 技術管理員
+* 資料架構師
+* Analytics工程師
+* Analytics策略專家
+* 多解決方案工程師
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您至少應有3至4年的設計經驗 [!DNL Adobe Analytics] 架構、資料層規格、標籤管理，以及對JavaScript程式碼的基本瞭解。
 
@@ -33,42 +62,19 @@ ht-degree: 20%
 * 最佳化工具
 * 程式碼編輯器
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* 解決方案架構師
-* 技術管理員
-* 資料架構師
-* Analytics工程師
-* Analytics策略專家
-* 多解決方案工程師
-
-**考試詳細資料：**
-
-* 等級：主版（3-5年經驗）
-* 及格分數：33/50
-* 時間：100分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E207
-
-**考試目標與範圍**
-
-第1節：探索(18%)
+**第1節：探索(18%)**
 
 * 展示稽核網站的能力
 * 調查建立業務需求的使用者端需求
 * 指定情境，建立測量架構
 
-第2節：解決方案設計(54%)
+**第2節：解決方案設計(54%)**
 
 * 將業務需求轉換為變數和量度
 * 示範管理報表套裝設定的功能
@@ -77,7 +83,7 @@ ht-degree: 20%
 * 為網站開發人員撰寫技術規格
 * 建立Experience Cloud使用者/群組
 
-第3節：實作後(28%)
+**第3節：實作後(28%)**
 
 * 根據一組需求，透過瀏覽器開發人員工具和Adobe報告驗證追蹤
 * 套用程式性概念以管理資料擷取和關係
@@ -85,17 +91,25 @@ ht-degree: 20%
 * 在特定的情況下，管理資料來源和聯結器
 * 設定必要的區段和計算量度以回應業務需求
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+## 如何取得認證 {#how-to-get-certified}
 
-以下是一些可幫助您準備的建議資源：
+{{how-to-get-certified-intro}}
 
-**範例問題**
++++步驟1：建立帳戶
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+{{create-your-account}}
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：探索**
 
@@ -132,16 +146,35 @@ ht-degree: 20%
 * [資料插入程式](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
 * [使用標籤在網站中實作Experience Cloud教學課程](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
+**範例問題**
 
+{{sample-questions}}
 
-## 關於認證考試
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
+
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -154,10 +187,27 @@ ht-degree: 20%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-其他問題？ 請傳送電子郵件給 `certif@adobe.com`
+其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+

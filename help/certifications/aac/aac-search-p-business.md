@@ -8,18 +8,44 @@ role: User
 badge: label="考試AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '880'
-ht-degree: 5%
+source-wordcount: '732'
+ht-degree: 6%
 
 ---
 
 # 的認證歷程 [!DNL Adobe Advertising Search] 商務從業者專業人士
 
-瞭解如何成為認證 [!DNL Adobe Advertising Search] 商務從業者專業人士。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專業（0至12個月經驗）
+* 及格分數：35/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E501
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 搜尋行銷活動管理員
+* 搜尋行銷從業者
+* 定期使用搜尋來執行和管理搜尋行銷活動的個人
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該有：
 
@@ -28,7 +54,7 @@ ht-degree: 5%
 * 使用體驗 [!DNL Advertising Search] 並熟悉付費搜尋競標自動化、行銷活動管理、
 * 對Portfolio理論的理解
 
-使用下列功能的經驗：
+您也應該有使用下列功能的經驗：
 
 * 建立Portfolio的各個層面
 * 建立自訂模擬，以判斷產品組合何時準備好進行最佳化
@@ -51,37 +77,13 @@ ht-degree: 5%
 * 對象競標修飾元
 * 位置競標調整
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* 搜尋行銷活動管理員
-* 搜尋行銷從業者
-* 定期使用搜尋來執行和管理搜尋行銷活動的個人
-
-**考試詳細資料：**
-
-* 等級：專業（0至12個月經驗）
-* 及格分數：35/50
-* 時間：100分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E501
-
-**整備程度自我評估**
-
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
-
-**考試目標與範圍**
-
-第1節：Portfolio與最佳化(54%)
+**第1節：Portfolio與最佳化(54%)**
 
 * 在情境中，選取並設定自動化競標策略
 * 指定業務策略，定義並建立PortfolioKPI目標
@@ -90,27 +92,49 @@ ht-degree: 5%
 * 在案例中，評估並疑難排解Portfolio效能
 * 在案例中，請確定如何持續調整Portfolio設定
 
-第2節：報表、見解和工具(14%)
+**第2節：報表、見解和工具(14%)**
 
 * 套用程式概念，以根據業務需求建立及排程報表
 * 使用各個Portfolio的可用Platform AI工具來決定最佳預算分配，並在需要時套用
 * 根據使用案例，建立並定義Portfolio分析和預測的自訂模擬
 
-區段3：行銷活動管理(22%)
+**區段3：行銷活動管理(22%)**
 
 * 設定帳戶
 * 建立、管理和組織行銷活動的各個層面
 
-區段4：測量(10%)
+**區段4：測量(10%)**
 
 * 在商業案例中，決定行銷活動轉換追蹤的方法並套用
 * 在特定情況下，疑難排解行銷活動轉換量度問題
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+### 整備問卷
 
-以下是一些可幫助您準備的建議資源：
+{{readiness}}
+
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"}.
+
+<br>
+
+## 如何取得認證 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：Portfolio與最佳化**
 
@@ -147,16 +171,27 @@ ht-degree: 5%
 * [Marketo Measure說明檔案](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
 * [轉換變數 (eVar)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
 
->[!TAB 取得認證]
++++
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
+<br>
 
++++步驟3：排程並支付考試費用
 
-## 關於認證考試
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -169,10 +204,29 @@ ht-degree: 5%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+
+
+

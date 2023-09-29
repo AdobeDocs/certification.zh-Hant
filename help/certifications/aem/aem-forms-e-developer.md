@@ -7,18 +7,45 @@ role: Developer
 badge: label="考試AD0-E125" type="positive"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '798'
-ht-degree: 6%
+source-wordcount: '698'
+ht-degree: 7%
 
 ---
 
 # Adobe的認證歷程 [!DNL Experience Manager Forms] 開發人員專家
 
-瞭解如何成為認證Adobe [!DNL Experience Manager Forms] 開發人員專家。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專家（1-3年經驗）
+* 及格分數：27/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：225美元（全球） / 150美元（印度）
+* 考試ID：AD0-E125
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* AEM開發人員
+* 資深AEM開發人員
+* AEM顧問
+* AEM架構師
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該有：
 
@@ -54,45 +81,20 @@ ht-degree: 6%
 * Maven
 * GIT/版本設定工具
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* AEM開發人員
-* 資深AEM開發人員
-* AEM顧問
-* AEM架構師
-
-**考試詳細資料：**
-
-* 等級：專家（1-3年經驗）
-* 及格分數：27/50
-* 時間：100分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E125
-
-**整備程度自我評估**
-
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
-
-**考試目標與範圍**
-
-第1節：Forms建立與管理(36%)
+**第1節：Forms建立與管理(36%)**
 
 * 建置Forms
 * 設定Forms資料模型
 * 自訂AEM Forms
 * 善用GuideBridge API開發及使用Javascript ClientLib
 
-第2節：處理與工作流程(34%)
+**第2節：處理與工作流程(34%)**
 
 * 設計和協調表單核准工作流程
 * 使用Document Services API開發OSGi套件
@@ -101,7 +103,7 @@ ht-degree: 6%
 * 使用Forms或組合器服務操作PDF
 * 實作JDBC服務
 
-第3節：管理與疑難排解(18%)
+**第3節：管理與疑難排解(18%)**
 
 * 疑難排解並區分記錄檔
 * 執行管理活動
@@ -109,20 +111,42 @@ ht-degree: 6%
 * 執行Forms的AEM Dispatcher設定
 * 瀏覽不同的主控台
 
-第4節：API端點與整合(8%)
+**第4節：API端點與整合(8%)**
 
 * 整合 Adobe Experience Cloud
 * 產生和使用各種端點服務
 
-第5節：互動式通訊(4%)
+**第5節：互動式通訊(4%)**
 
 * 設計、示範及實作互動式通訊的程式
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+### 整備問卷
 
-以下是一些可幫助您準備的建議資源：
+{{readiness}}
+
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"}
+
+<br>
+
+## 如何取得認證 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：Forms的建立與管理**
 
@@ -153,17 +177,33 @@ ht-degree: 6%
 * [互動通訊概述](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html){target="_blank"}
 * [互動式通訊的條件](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
-
-## 參加練習測試
+**參加練習測試**
 
 {{practice-test}}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -176,7 +216,23 @@ ht-degree: 6%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

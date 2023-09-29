@@ -7,20 +7,48 @@ role: User,Developer
 badge: label="考試AD0-E457" type="positive"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '940'
-ht-degree: 10%
+source-wordcount: '815'
+ht-degree: 11%
 
 ---
 
 # 的認證歷程 [!DNL Adobe Audience Manager] 商務從業者專家
 
-瞭解如何成為認證 [!DNL Adobe Audience Manager] 商務從業者專家。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
 
-您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專家（1-3年經驗）
+* 及格分數：36/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：225美元（全球）和150美元（印度）
+* 考試ID：AD0-E457
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 數位行銷專家
+* 行銷技術顧問
+* 受眾策略專家
+* 行為顧問
+* 數位行銷分析師
+* 行銷資料分析師
+* 資料平台管理員
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該有：
 
@@ -47,74 +75,68 @@ ht-degree: 10%
 * 數位行銷
 * 資料與分析
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* 數位行銷專家
-* 行銷技術顧問
-* 受眾策略專家
-* 行為顧問
-* 數位行銷分析師
-* 行銷資料分析師
-* 資料平台管理員
-
-**考試詳細資料：**
-
-* 等級：專家（1-3年經驗）
-* 及格分數：36/50
-* 時間：100分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球）和150美元（印度）
-* 考試ID：AD0-E457
-
-**整備程度自我評估**
-
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
-
-**考試目標與範圍**
-
-區段1：區段建立與整合(25%)
+**區段1：區段建立與整合(25%)**
 
 * 確定適當的方法，利用第一方、第二方和第三方資料建立區段，以用於目標定位和分析目的
 * 在案例中，建議符合業務或行銷活動目標的啟用區段
 * 決定合適的方法，將區段聯合發佈至目的地以供啟用
 * 區分不同型別的目的地
 
-第2節：特徵建立(17%)
+**第2節：特徵建立(17%)**
 
 * 為指定的受眾策略建議特徵
 * 決定建立和更新規則型及/或已上線特徵的正確方法
 
-第3節：報告與測量(22%)
+**第3節：報告與測量(22%)**
 
 * 在案例中，分析報表以提供可操作的後續步驟來達成業務目標
 * 在情景中，分析受眾最佳化
 
-第4節：疑難排解與管理(26%)
+**第4節：疑難排解與管理(26%)**
 
 * 在案例中，驗證對象傳送資訊，以確保排程的傳送需求
 * 決定驗證離線傳入檔案的適當實務
 * 在案例中，請判斷對ID同步執行QA的正確方法
 * 決定從AdobeAudience Marketplace導覽及啟動的適當方法
 
-區段5：分類法(10%)
+**區段5：分類法(10%)**
 
 * 決定適當的結構，以建立使用清晰且一致命名法的特性和區段
 * 決定使用明確的資料夾結構來維持有組織的平台的正確技巧
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+### 整備問卷
 
-以下是一些可幫助您準備的建議資源：
+{{readiness}}
+
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## 如何取得認證 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：區段建立與整合**
 
@@ -156,17 +178,33 @@ ht-degree: 10%
 * [使用通用分類法將特徵分類](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html){target="_blank"}
 * [資料夾特徵：關於](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
-
-## 參加練習測試
+**參加練習測試**
 
 {{practice-test}}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -179,10 +217,28 @@ ht-degree: 10%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+
+<!--divider-->

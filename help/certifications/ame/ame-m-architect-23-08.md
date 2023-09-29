@@ -6,9 +6,9 @@ product: Marketo
 role: Data Architect
 badge: label="考試AD0-E560" type="positive"
 mini-toc-levels: 1
-source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '992'
+source-wordcount: '796'
 ht-degree: 1%
 
 ---
@@ -16,13 +16,52 @@ ht-degree: 1%
 
 # Adobe的認證歷程 [!DNL Marketo Engage] 架構師Master
 
-瞭解如何成為認證Adobe [!DNL Marketo Engage] 架構師Master。
+{{intro}}
 
 >[!NOTE]
 >
 >這是最新的 [!DNL Adobe Marketo Engage] 架構師主要考試。 如果您已開始學習或已排程 [較舊版本](ame-m-architect.md)，您必須在2023年10月31日之前完成考試。
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 先決條件：目前（未過期）Adobe [!DNL Marketo Engage] 商務從業人員專家認證
+* 等級：主版（3-5年經驗）
+* 從業者認證
+* 及格分數：30/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：225美元（全球） / 150美元（印度）
+* 考試ID：AD0-E560
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 行銷技術經理
+* 資深/行銷營運經理
+* 行銷營運總監
+* 資深Director/收入營運經理
+* 行銷作業/技術/自動化顧問
+* 行銷技術人員
+* 行銷活動管理員
+* 行銷自動化管理員
+* 數位行銷
+* Demand generation manager
+* 解決方案架構師
+* 商務系統分析師
+* CRM管理員
+* CRM/Lifecycle Marketing manager
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該有：
 
@@ -40,48 +79,11 @@ ht-degree: 1%
 * CRM平台
 * 行銷技術平台
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
-
-**目標對象：**
-
-* 行銷技術經理
-* 資深/行銷營運經理
-* 行銷營運總監
-* 資深Director/收入營運經理
-* 行銷作業/技術/自動化顧問
-* 行銷技術人員
-* 行銷活動管理員
-* 行銷自動化管理員
-* 數位行銷
-* Demand generation manager
-* 解決方案架構師
-* 商務系統分析師
-* CRM管理員
-* CRM/Lifecycle Marketing manager
-
-**考試詳細資料：**
-
-* 先決條件：目前（未過期）Adobe [!DNL Marketo Engage] 商務從業人員專家認證
-* 等級：主版（3-5年經驗）
-* 從業者認證
-* 及格分數：30/50
-* 時間：100分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E560
-
-**整備程度自我評估**
-
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
-
-**考試目標與範圍**
+{{exam-objectives}}
 
 **第1節：專案領導力(16%)**
 
@@ -121,17 +123,33 @@ ht-degree: 1%
 * 收集使用者端實作的相關資訊，並提供安全性實務建議
 * 說明工作區與分割區在指定情境下的適用性
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+### 整備問卷
 
-以下是一些可幫助您準備的建議資源：
+{{readiness}}
 
-**範例問題**
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+<br>
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+## 如何取得認證 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：專案領導力**
 
@@ -157,15 +175,36 @@ ht-degree: 1%
 * [隱藏軟退信](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
 * [瞭解工作區和人員分割](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 
->[!TAB 取得認證]
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，此外還要支付額外的考試費用。
+<br>
 
-## 關於認證考試
+**範例問題**
+
+{{sample-questions}}
+
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -178,7 +217,23 @@ ht-degree: 1%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

@@ -7,18 +7,48 @@ role: User
 badge: label="考試AD0-E329" type="positive"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1215'
-ht-degree: 12%
+source-wordcount: '1027'
+ht-degree: 14%
 
 ---
 
 # Adobe的認證歷程 [!DNL Campaign Classic] 商務從業者專業人士
 
-瞭解如何成為認證Adobe [!DNL Campaign Classic] 商務從業者專業人士。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專業（0至12個月經驗）
+* 及格分數：32/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E329
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 業務顧問
+* 業務分析師
+* 互動管理員
+* 行銷活動管理員
+* 資料庫行銷人員
+* 商務從業人員
+* CRM專案管理員
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該有：
 
@@ -36,41 +66,15 @@ ht-degree: 12%
 * 基本HTML和個人化的體驗
 * 訂閱服務管理（選擇加入/選擇退出）
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
-
-**目標對象：**
-
-* 業務顧問
-* 業務分析師
-* 互動管理員
-* 行銷活動管理員
-* 資料庫行銷人員
-* 商務從業人員
-* CRM專案管理員
-
-**考試詳細資料：**
-
-* 等級：專業（0至12個月經驗）
-* 及格分數：32/50
-* 時間：100分鐘
-* 傳遞：線上監護（需要存取攝影機）
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E329
-
-**整備程度自我評估**
-
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
+{{exam-objectives}}
 
 **考試目標與範圍**
 
-第1節：建立行銷活動(29%)
+**第1節：建立行銷活動(29%)**
 
 * 辨識不同的數位行銷概念和目標
 * 識別並定義與介面相關的關鍵刀具特徵和結構
@@ -82,14 +86,14 @@ ht-degree: 12%
 * 識別在何處尋找傳遞結果或輸出
 * 區分不同的錯誤和警告型別（傳送、行銷活動及工作流程層級）
 
-第2節：工作流程管理和平台功能(16%)
+**第2節：工作流程管理和平台功能(16%)**
 
 * 在情景中，決定應該選取哪些工作流程活動
 * 區分行銷活動與技術工作流程
 * 在情景中，確定哪個工作流程解決方案最適合用於連續、等待、循環、中止的情況
 * 識別與舊版相較之Campaign V8的新功能和特色
 
-第3節：資料作業(20%)
+**第3節：資料作業(20%)**
 
 * 決定如何修改檢視中的欄，以測試資料/輸出
 * 說明聯合、交集、排除和分割工作流程目標定位活動的用途
@@ -98,7 +102,7 @@ ht-degree: 12%
 * 在案例中，決定如何劃分對象並儲存為清單和儲存格
 * 在特定的情況下，請設定目的地，以決定要匯出資料至目的地的最佳方法
 
-第4節：傳遞設定(28%)
+**第4節：傳遞設定(28%)**
 
 * 在情景中，判斷正確的傳送型別
 * 根據業務需求，決定如何建立範本
@@ -109,24 +113,40 @@ ht-degree: 12%
 * 指出要在哪裡/如何測試傳遞內容和個人化
 * 區別處理和套用動作期間發生的各種傳送狀態
 
-第5節：管理與報告(7%)
+**第5節：管理與報告(7%)**
 
 * 識別常見的OOTB報告，以及存取報告的位置
 * 根據報告要求決定需要哪個OOTB報告
 * 識別Adobe Campaign中的描述性分析功能
 * 在案例中，套用正確的授權以限制/允許存取Campaign物件
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+### 整備問卷
 
-以下是一些可幫助您準備的建議資源：
+{{readiness}}
 
-**範例問題**
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"}
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+<br>
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+## 如何取得認證 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：建立行銷活動**
 
@@ -171,16 +191,35 @@ ht-degree: 12%
 * [開始使用描述性分析](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html){target="_blank"}
 * [開始使用權限](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
+**範例問題**
 
+{{sample-questions}}
 
-## 關於認證考試
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -193,7 +232,23 @@ ht-degree: 12%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

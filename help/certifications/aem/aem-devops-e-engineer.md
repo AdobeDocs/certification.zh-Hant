@@ -7,18 +7,49 @@ role: Developer
 badge: label="考試AD0-E124" type="positive"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '926'
-ht-degree: 5%
+source-wordcount: '769'
+ht-degree: 6%
 
 ---
 
 # Adobe Experience Manager DevOps工程師專家的認證歷程
 
-瞭解如何成為認證AdobeDevOps工程師專家。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專家（1-3年經驗）
+* 及格分數：30/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：225美元（全球） / 150美元（印度）
+* 考試ID：AD0-E124
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 解決方案顧問
+* 消費者體驗專業人員
+* 正在設計與實作之解決方案的產品擁有者
+* 業務分析人員
+* 解決方案架構師
+* 合作夥伴組織中的個人，以及為AEM解決方案執行分析師工作角色的自由職業者
+* 行銷專家，瞭解開發人員所需的特性和功能，以便針對業務需求定義解決方案
+* 使用產品的客戶（即進階使用者）
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該有：
 
@@ -39,81 +70,72 @@ ht-degree: 5%
 * 開發沙箱
 * 本機環境
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* 解決方案顧問
-* 消費者體驗專業人員
-* 正在設計與實作之解決方案的產品擁有者
-* 業務分析人員
-* 解決方案架構師
-* 合作夥伴組織中的個人，以及為AEM解決方案執行分析師工作角色的自由職業者
-* 行銷專家，瞭解開發人員所需的特性和功能，以便針對業務需求定義解決方案
-* 使用產品的客戶（即進階使用者）
-
-**考試詳細資料：**
-
-* 等級：專家（1-3年經驗）
-* 及格分數：30/50
-* 時間：100分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E124
-
-**整備程度自我評估**
-
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
-
-**考試目標與範圍**
-
-第1節：設定Adobe Experience Manager (18%)
+**第1節：設定Adobe Experience Manager (18%)**
 
 * 決定設定基本Adobe Experience Manager設定的正確方法
 * 在特定情況下，疑難排解Adobe Experience Manager問題
 * 決定設定OSGi的正確方法
 
-第2節：操作Cloud Manager和Cloud Manager API (20%)
+**第2節：操作Cloud Manager和Cloud Manager API (20%)**
 
 * 確定透過UI管理Cloud Manager環境設定的正確方法
 * 確定在Cloud Manager上布建程式和環境的正確方法
 * 決定移轉至Adobe Experience Manager as a Cloud Service的正確方法
 * 決定在Adobe I/O上設定整合的正確方法
 
-第3節：設定Web Proxy基礎結構(12%)
+**第3節：設定Web Proxy基礎結構(12%)**
 
 * 確定管理Dispatcher設定的正確方法
 * 在某種情況下，疑難排解快取問題
 
-第4節：建置和部署(28%)
+**第4節：建置和部署(28%)**
 
 * 確定管理Cloud Manager部署的正確方法
 * 在情景中，分析Cloud Manager管道的狀態
 * 決定跨多個Adobe Experience Manager執行個體管理內容套件的正確方法
 * 確定變更Maven檔案以支援管道的正確方法
 
-第5節：監控和報告品品質度(14%)
+**第5節：監控和報告品品質度(14%)**
 
 * 決定收集效能度量和報表的正確方法
 * 決定擴充基礎建設的正確方法
 
-第6節：操作Admin Console(8%)
+**第6節：操作Admin Console(8%)**
 
 * 確定在Admin Console中提交支援請求的正確方法
 * 決定設定同盟SSO並同步Adobe Experience Manager使用者和群組的正確方法
 
->[!TAB 準備]
+### 整備問卷
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+{{readiness}}
 
-以下是一些可幫助您準備的建議資源：
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"}
+
+<br>
+
+## 如何取得認證 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：設定Adobe Experience Manager**
 
@@ -151,19 +173,27 @@ ht-degree: 5%
 * [AEM as a Cloud Service 的 IMS 支援](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
 * [Adobe IMS使用者群組和AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html){target="_blank"}
 
->[!TAB 取得認證]
++++
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
+<br>
 
-## 參加練習測試
++++步驟3：排程並支付考試費用
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -176,7 +206,23 @@ ht-degree: 5%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

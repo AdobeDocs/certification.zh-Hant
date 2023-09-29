@@ -6,18 +6,45 @@ role: Developer
 badge: label="考試AD0-E906" type="positive"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
 
 # Adobe的認證歷程 [!DNL Workfront] 的 [!DNL Experience Manager] 增強型聯結器專家
 
-瞭解如何成為認證Adobe認證專家。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專家（1-3年經驗）
+* 及格分數：34/55
+* 時間：110分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：225美元（全球） / 150美元（印度）
+* 考試ID：AD0-E906
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 合作夥伴解決方案顧問
+* 實作專家
+* 整合專家
+* 開發人員或架構師
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該已取得下列一或多個認證：
 
@@ -36,34 +63,13 @@ ht-degree: 0%
 * 瞭解分類法和AEM標籤、AEM工作流程、JCR、Sling、OSGi和資料庫
 * 瞭解工作管理最佳實務
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* 合作夥伴解決方案顧問
-* 實作專家
-* 整合專家
-* 開發人員或架構師
-
-**考試詳細資料：**
-
-* 等級：專家（1-3年經驗）
-* 及格分數：34/55
-* 時間：110分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E906
-
-**考試目標與範圍**
-
-第1節：技術需求(25%)
+**第1節：技術需求(25%)**
 
 * 使用 [!DNL Workfront] 自訂Forms
 * 在案例中，示範檔案管理
@@ -71,14 +77,14 @@ ht-degree: 0%
 * 在案例中，識別如何將值傳遞至 [!DNL Workfront] 自訂表格
 * 疑難排解伺服器端程式碼
 
-區段2：設定(26%)
+**區段2：設定(26%)**
 
 * 說明使用者管理的最佳實務
 * 套用修改現有AEM資產工作流程所需的程式概念
 * 針對不同的資產型別自訂中繼資料結構做出所需的決策
 * 套用部署OSGi套件組合、資產、中繼資料結構、標籤和許可權所需的程式AEM概念
 
-第3節：業務實務(21%)
+**第3節：業務實務(21%)**
 
 * 解譯使用者端需求，以建議適當的工作流程策略
 * 示範如何設定 [!DNL Workfront] 核准和校訂工作流程
@@ -86,22 +92,30 @@ ht-degree: 0%
 * 展示對於在行銷活動管理中追蹤交付專案的瞭解
 * 在案例中，找出變更管理的主要考量因素 [!DNL Workfront] 實施
 
-第4節：聯結器的安裝和設定(28%)
+**第4節：聯結器的安裝和設定(28%)**
 
 * 驗證AEM中的先決條件
 * 根據客戶使用案例，識別要實施的聯結器功能
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+## 如何取得認證 {#how-to-get-certified}
 
-以下是一些可幫助您準備的建議資源：
+{{how-to-get-certified-intro}}
 
-**範例問題**
++++步驟1：建立帳戶
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+{{create-your-account}}
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：技術需求**
 
@@ -136,16 +150,35 @@ ht-degree: 0%
 * [設定 [!DNL Workfront] 的 [!DNL Experience Manager] 增強型聯結器](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
 * [Adobe [!DNL Experience Manager Assets] 與Adobe整合 [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
+**範例問題**
 
+{{sample-questions}}
 
-## 關於認證考試
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
+
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -158,7 +191,23 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

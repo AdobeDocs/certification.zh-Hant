@@ -8,18 +8,48 @@ badge: label="考試AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
 hidefromtoc: true
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1077'
-ht-degree: 19%
+source-wordcount: '920'
+ht-degree: 23%
 
 ---
 
 # 的認證歷程 [!DNL Adobe Target] 架構師Master
 
-瞭解如何成為認證 [!DNL Adobe Target] 架構師Master。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：主版（3-5年經驗）
+* 及格分數：34/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：225美元（全球） / 150美元（印度）
+* 考試ID：AD0-E407
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 轉換率最佳化工程師/架構師
+* 個人化工程師/架構師
+* 數位解決方案架構師
+* 數位轉型顧問
+* 體驗最佳化銷售機會
+* 最佳化管理員
+* 線上行銷活動管理員
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該有：
 
@@ -54,85 +84,73 @@ ht-degree: 19%
 * AMS託管環境
 * Adobe I/O Runtime
 
->[!BEGINTABS]
+<br>
 
->[!TAB 準備就緒]
+### 考試目標與範圍 {#exam-objectives}
 
-**目標對象：**
+{{exam-objectives}}
 
-* 轉換率最佳化工程師/架構師
-* 個人化工程師/架構師
-* 數位解決方案架構師
-* 數位轉型顧問
-* 體驗最佳化銷售機會
-* 最佳化管理員
-* 線上行銷活動管理員
-
-**考試詳細資料：**
-
-* 等級：主版（3-5年經驗）
-* 及格分數：34/50
-* 時間：100分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E407
-
-**考試目標與範圍**
-
-區段1： [!DNL Adobe Target] 基本面(12%)
+**區段1： [!DNL Adobe Target] 基本面(12%)**
 
 * 識別適當的 [!DNL Adobe Target] 特定情境的使用情況
 * 說明的基本技術 [!DNL Adobe Target] 實施
 
-第2節：與整合 [!DNL Adobe Target] (16%)
+**第2節：與整合 [!DNL Adobe Target] (16%)**
 
 * 套用流程以整合 [!DNL Adobe Target] 搭配Adobe Analytics (A4T)
 * 套用流程以整合 [!DNL Adobe Target] 至Adobe Experience Manager
 * 說明與其他Adobe Experience Cloud解決方案的整合
 * 說明與Adobe Experience Cloud受眾的整合
 
-區段3： [!DNL Adobe Target] 管理與治理(13%)
+**區段3： [!DNL Adobe Target] 管理與治理(13%)**
 
 * 定義進行中 [!DNL Adobe Target] 實作策略與系統治理
 * 套用流程和最佳實務來管理使用者
 * 說明實作設定的管理層面
 
-區段4： [!DNL Adobe Target] 和支援的接觸點(15%)
+**區段4： [!DNL Adobe Target] 和支援的接觸點(15%)**
 
 * 說明使用者端傳送實施
 * 說明伺服器端傳遞實作
 * 說明行動、電子郵件目標定位和API的實作需求
 
-第5節：善用 [!DNL Adobe Target] 建議(9%)
+**第5節：善用 [!DNL Adobe Target] 建議(9%)**
 
 * 展示對建議、目錄和環境的瞭解
 * 套用程式以設定Target建議
 
-第6節：架構者、設計與實施 [!DNL Adobe Target] (15%)
+**第6節：架構者、設計與實施 [!DNL Adobe Target] (15%)**
 
 * 選取正確的mbox實作
 * 展示設計 [!DNL Adobe Target] 實施
 * 說明的實作 [!DNL Adobe Target] 在原生行動應用程式中
 
-第7節：疑難排解(20%)
+**第7節：疑難排解(20%)**
 
 * 疑難排解mbox錯誤
 * 疑難排解活動錯誤
 * 瞭解整合錯誤
 * 疑難排解 [!DNL Adobe Target] Recommendations錯誤
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+## 如何取得認證 {#how-to-get-certified}
 
-以下是一些可幫助您準備的建議資源：
+{{how-to-get-certified-intro}}
 
-**範例問題**
++++步驟1：建立帳戶
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+{{create-your-account}}
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **區段1： [!DNL Adobe Target] 基礎知識**
 
@@ -193,16 +211,35 @@ ht-degree: 19%
 * [解決：為什麼我的歷史對象顯示為「正在收集資料」？](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
 * [Adobe Experience Cloud 對象](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=zh-Hant){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
+**範例問題**
 
+{{sample-questions}}
 
-## 關於認證考試
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
+
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -215,7 +252,23 @@ ht-degree: 19%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

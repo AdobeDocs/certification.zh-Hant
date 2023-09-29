@@ -6,18 +6,50 @@ role: Developer
 badge: label="考試AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1011'
-ht-degree: 2%
+source-wordcount: '819'
+ht-degree: 3%
 
 ---
 
 # Adobe的認證歷程 [!DNL Workfront] 核心開發人員專業版
 
-瞭解如何成為認證Adobe [!DNL Workfront] 核心開發人員專業人員。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專業（0至12個月經驗）
+* 及格分數：44/70
+* 時間：140分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E905
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 技術顧問
+* 系統管理員
+* 專案經理
+* 專案協調員
+* 策略專家
+* 資源管理員
+* 分析師
+* IT專家
+* [!DNL Workfront] 實作顧問/主管
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該有：
 
@@ -36,55 +68,25 @@ ht-degree: 2%
 * 熟悉原生聯結器及其他Adobe [!DNL Workfront] 產品和服務
 * 熟悉專案管理，包括敏捷和瀑布以及資源管理概念
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* 技術顧問
-* 系統管理員
-* 專案經理
-* 專案協調員
-* 策略專家
-* 資源管理員
-* 分析師
-* IT專家
-* [!DNL Workfront] 實作顧問/主管
-
-**考試詳細資料：**
-
-* 等級：專業（0至12個月經驗）
-* 及格分數：44/70
-* 時間：140分鐘
-* 傳遞：線上監護（需要存取攝影機）
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E905
-
-**整備程度自我評估**
-
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
-
-**考試目標與範圍**
-
-區段1. 策略和輸入(24%)
+**區段1. 策略和輸入(24%)**
 
 * 使用投資組合和計畫
 * 使用請求佇列
 * 使用自訂表格
 * 使用基本核准
 
-區段2. 預算與規劃(11%)
+**區段2. 預算與規劃(11%)**
 
 * 使用資源規劃工具
 * 在指定案例/需求集合時，套用設定以設定專案範本
 
-區段3. 使用者體驗(25%)
+**區段3. 使用者體驗(25%)**
 
 * 說明建立正確使用者體驗時使用者管理的最佳實務
 * 在案例中，套用系統間共用與存取許可權的正確設定
@@ -92,13 +94,13 @@ ht-degree: 2%
 * 示範如何建立和使用時程表
 * 說明聯結器、外掛程式和附加元件的用途和價值
 
-區段4. 量度和報表(16%)
+**區段4. 量度和報表(16%)**
 
 * 說明建立、傳送及自訂報表的基本概念
 * 說明如何建置和自訂儀表板
 * 示範如何設定報告的功能檢視
 
-第5節。 執行(24%)
+**第5節。 執行(24%)**
 
 * 示範如何設定核准和校訂工作流程
 * 瞭解為專案建立問題的目的
@@ -107,17 +109,33 @@ ht-degree: 2%
 * 識別輸入時間的方法 [!DNL Workfront]
 * 識別中財務追蹤的元素 [!DNL Workfront]
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+### 整備問卷
 
-以下是一些可幫助您準備的建議資源：
+{{readiness}}
 
-**範例問題**
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"}
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+<br>
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
+## 如何取得認證 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：策略與引入**
 
@@ -160,17 +178,35 @@ ht-degree: 2%
 * [建立敏捷團隊](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
 * [追蹤成本](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
+**範例問題**
 
+{{sample-questions}}
 
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -183,7 +219,23 @@ ht-degree: 2%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

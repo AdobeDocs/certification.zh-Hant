@@ -7,40 +7,24 @@ role: User
 badge: label="考試AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '552'
 ht-degree: 1%
 
 ---
 
 # 的認證歷程 [!DNL Adobe Document Cloud] 商務從業者專業人士
 
-瞭解如何成為認證 [!DNL Adobe Document Cloud] 商務從業者專業人士。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
 
-您應該有：
+{{exam-description}}
 
-* 至少在0-12個月內的使用經驗 [!DNL Adobe Document Cloud]
-* 能夠辨識並傳達業務需求
-* 能夠執行產品啟用建議 [!DNL Adobe Document Cloud] 解決方案。
+<br>
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
-
->[!BEGINTABS]
-
->[!TAB 準備就緒]
-
-**目標對象：**
-
-* 解決方案顧問
-* 業務分析師
-* 銷售
-
-**考試詳細資料：**
+### 考試詳細資料 {#exam-details}
 
 * 等級：專業（0至12個月經驗）
 * 及格分數：34/50
@@ -50,33 +34,69 @@ ht-degree: 1%
 * 費用：125美元（全球） / 95美元（印度）
 * 考試ID：AD0-D106
 
-**考試目標與範圍**
+<br>
 
-第1節：使用案例探索(36%)
+### 目標對象 {#intended-audience}
+
+* 解決方案顧問
+* 業務分析師
+* 銷售
+
+<br>
+
+### 最低體驗 {#minimum-experience}
+
+您應該有：
+
+* 至少在0-12個月內的使用經驗 [!DNL Adobe Document Cloud]
+* 能夠辨識並傳達業務需求
+* 能夠執行產品啟用建議 [!DNL Adobe Document Cloud] 解決方案。
+
+<br>
+
+### 考試目標與範圍 {#exam-objectives}
+
+{{exam-objectives}}
+
+**第1節：使用案例探索(36%)**
 
 * 提出資格確認問題以找出Document Cloud機會
 * 定義高階業務使用案例
 
-第2節：業務流程評估(34%)
+**第2節：業務流程評估(34%)**
 
 * 找出流程改進與解決方案配合的關鍵領域
 * 讓業務目標與Document Cloud功能一致
 * 提供高階使用者重點展示Document Cloud的各種元件
 
-第3節：定義Document Cloud(DC)功能(18%)
+**第3節：定義Document Cloud(DC)功能(18%)**
 
 * 概述檔案與電子簽章合規性與安全性需求的影響
 * 說明程式變更如何增加值
 
-第4節：建議的解決方案(12%)
+**第4節：建議的解決方案(12%)**
 
 * 推薦的Document Cloud解決方案設計
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+## 如何取得認證 {#how-to-get-certified}
 
-以下是一些可幫助您準備的建議資源：
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：使用案例探索**
 
@@ -118,20 +138,33 @@ ht-degree: 1%
 * [Adobe Acrobat功能與工具](https://www.adobe.com/acrobat/features.html){target="_blank"}
 * [設定簽署工作流程](https://helpx.adobe.com/ca/sign/using/workflow-designer-signature-workflow.html){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
-
-
-## 參加練習測試
+**參加練習測試**
 
 {{practice-test}}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -144,11 +177,26 @@ ht-degree: 1%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
-

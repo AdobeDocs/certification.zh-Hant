@@ -7,18 +7,54 @@ role: User
 badge: label="考試AD0-E555" type="positive"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '862'
 ht-degree: 0%
 
 ---
 
 # Adobe的認證歷程 [!DNL Marketo Engage] 專業
 
-瞭解如何成為認證Adobe [!DNL Marketo] 專業。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專業（0至12個月經驗）
+* 及格分數：36/55
+* 時間：110分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文、日文
+* 費用：125美元（全球） / 95美元（印度）
+* 測驗ID：AD0-E555 （英文）、AD0-E555-J （日文）
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* Campaign營運專家/協調員
+* 資料庫行銷經理/專家/協調員
+* 需求產生角色
+* 數位行銷專家
+* 傳送電子郵件給行銷人員/協調員
+* 活動組織者/協調員
+* 行銷自動化角色
+* 行銷層代角色
+* 行銷活動角色
+* 行銷通訊角色
+* 行銷營運專員/協調員
+* 行銷技術協調員/專家/助理
+* 行銷團隊成員
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該有：
 
@@ -37,47 +73,13 @@ ht-degree: 0%
 * Adobe [!DNL Marketo Engage]
 * Excel或Google工作表/檔案
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* Campaign營運專家/協調員
-* 資料庫行銷經理/專家/協調員
-* 需求產生角色
-* 數位行銷專家
-* 傳送電子郵件給行銷人員/協調員
-* 活動組織者/協調員
-* 行銷自動化角色
-* 行銷層代角色
-* 行銷活動角色
-* 行銷通訊角色
-* 行銷營運專員/協調員
-* 行銷技術協調員/專家/助理
-* 行銷團隊成員
-
-**考試詳細資料：**
-
-* 等級：專業（0至12個月經驗）
-* 及格分數：36/55
-* 時間：110分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E555
-
-**整備程度自我評估**
-
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
-
-**考試目標與範圍**
-
-第1節：建立和管理方案(39%)
+**第1節：建立和管理方案(39%)**
 
 * 針對業務需求/問題，確定適當的報表策略以執行分析
 * 分析資料以回答業務問題
@@ -86,7 +88,7 @@ ht-degree: 0%
 * 分析報表資料以彙總並得出結論
 * 識別報告中的離群值和異常
 
-第2節：建立資產(19%)
+**第2節：建立資產(19%)**
 
 * 在Design Studio中操控檔案（上傳/取代影像和檔案）。
 * 使用表單編輯器建立/修改表單。
@@ -96,7 +98,7 @@ ht-degree: 0%
 * 區分草稿與已核准資產之間的差異。
 * 區分本機與全域資產之間的差異。
 
-第3節：定義對象及鎖定對象(33%)
+**第3節：定義對象及鎖定對象(33%)**
 
 * 建立/修改智慧列示。
 * 瞭解Smart Campaign流程步驟。
@@ -111,23 +113,39 @@ ht-degree: 0%
 * 瞭解Smart Campaign觸發器和篩選器的運作方式。
 * 區別不同的清單匯入。
 
-第4節：分析和建立報表(9%)
+**第4節：分析和建立報表(9%)**
 
 * 說明標準Adobe [!DNL Marketo Engage] 報表和何時該使用（電子郵件連結效能、電子郵件效能、登陸頁面效能、人員效能、方案效能、網頁活動等）
 * 瞭解控制面板資訊和量度（電子郵件計畫控制面板、參與計畫控制面板）
 * 理解電子郵件深入分析量度
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+### 整備問卷
 
-以下是一些可幫助您準備的建議資源：
+{{readiness}}
 
-**範例問題**
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"}
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+<br>
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
+## 如何取得認證 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：建立和管理方案**
 
@@ -160,16 +178,35 @@ ht-degree: 0%
 * [報表型別概觀](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
 * [管理報表訂閱](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
+**範例問題**
 
+{{sample-questions}}
 
-## 關於認證考試
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
+
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -193,7 +230,23 @@ ht-degree: 0%
 
 [日文排程指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

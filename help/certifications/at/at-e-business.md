@@ -7,18 +7,45 @@ role: User
 badge: label="考試AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1238'
+source-wordcount: '1104'
 ht-degree: 1%
 
 ---
 
 # 的認證歷程 [!DNL Adobe Target] 商務從業者專家
 
-瞭解如何成為認證 [!DNL Adobe Target] 商務從業者專家。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專家（1-3年經驗）
+* 及格分數：46/68
+* 時間：136分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文、日文
+* 費用：225美元（全球） / 150美元（印度）
+* 測驗ID：AD0-E406 （英文）、AD0-E406-J （日文）
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 最佳化
+* 個人化
+* Analytics
+* 數位與產品行銷
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該有：
 
@@ -66,34 +93,13 @@ ht-degree: 1%
 * 針對單頁應用程式使用目標
 * 電子郵件
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* 最佳化
-* 個人化
-* Analytics
-* 數位與產品行銷
-
-**考試詳細資料：**
-
-* 等級：專家（1-3年經驗）
-* 及格分數：46/68
-* 時間：136分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E406
-
-**考試目標與範圍**
-
-第1節：規劃與策略(31%)
+**第1節：規劃與策略(31%)**
 
 * 識別業務KPI，並根據關鍵業務需求成功將其轉換為最佳化目標
 * 根據業務KPI和資料分析找出最佳化機會
@@ -105,7 +111,7 @@ ht-degree: 1%
 * 評估對象需求
 * 決定適當的分析報表來源(即Target或Adobe Analytics)
 
-第2節：設定、執行和管理(42%)
+**第2節：設定、執行和管理(42%)**
 
 * 說明表單式體驗撰寫器與視覺化體驗撰寫器的使用
 * 套用程式以使用VEC建立體驗
@@ -122,7 +128,7 @@ ht-degree: 1%
 * 套用程式以執行活動品質保證
 * 套用程式以管理Target中的活動和對象
 
-第3節：分析和報告(17%)
+**第3節：分析和報告(17%)**
 
 * 定義並評估報表設定，以協助設定報表中顯示的元素
 * 評估並比較 [!DNL Adobe Target] 計畫Target活動和驗證Target活動報表時的樣本大小電腦設定
@@ -131,17 +137,31 @@ ht-degree: 1%
 * 評估體驗效能報表(MVT)
 * 根據觀察到的提升度、信賴水準和業務目標來決定成功變數
 
-第4節：疑難排解(10%)
+**第4節：疑難排解(10%)**
 
 * 診斷活動資格問題
 * 使用瀏覽器偵錯工具(包括Experience Cloud Debugger)來驗證實作
 * 驗證量度和報表
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+## 如何取得認證 {#how-to-get-certified}
 
-以下是一些可幫助您準備的建議資源：
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：規劃與策略**
 
@@ -179,19 +199,33 @@ ht-degree: 1%
 * [疑難排解活動錯誤](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
 * [疑難排解整合錯誤](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.3-troubleshoot-integration-errors.html){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
-
-## 參加練習測試
+**參加練習測試**
 
 {{practice-test}}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -215,7 +249,23 @@ ht-degree: 1%
 
 [日文排程指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

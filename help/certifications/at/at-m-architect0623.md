@@ -6,18 +6,48 @@ product: Target
 role: Data Architect
 badge: label="考試AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '917'
-ht-degree: 14%
+source-wordcount: '841'
+ht-degree: 16%
 
 ---
 
 # 的認證歷程 [!DNL Adobe Target] 架構師Master
 
-瞭解如何成為認證 [!DNL Adobe Target] 架構師Master。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：主版（3-5年經驗）
+* 及格分數：32/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：225美元（全球） / 150美元（印度）
+* 考試ID：AD0-E409
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 轉換率最佳化工程師/架構師
+* 個人化工程師/架構師
+* 數位解決方案架構師
+* 數位轉型顧問
+* 體驗最佳化銷售機會
+* 最佳化管理員
+* 線上行銷活動管理員
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該有：
 
@@ -50,67 +80,47 @@ ht-degree: 14%
 * AMS託管環境
 * Adobe I/O Runtime
 
->[!BEGINTABS]
+<br>
 
->[!TAB 準備就緒]
+### 考試目標與範圍 {#exam-objectives}
 
-**目標對象：**
+{{exam-objectives}}
 
-* 轉換率最佳化工程師/架構師
-* 個人化工程師/架構師
-* 數位解決方案架構師
-* 數位轉型顧問
-* 體驗最佳化銷售機會
-* 最佳化管理員
-* 線上行銷活動管理員
-
-**考試詳細資料：**
-
-* 等級：主版（3-5年經驗）
-* 及格分數：32/50
-* 時間：100分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E409
-
-**考試目標與範圍**
-
-區段1： [!DNL Adobe Target] 基本面(13%)
+**區段1： [!DNL Adobe Target] 基本面(13%)**
 
 * 識別適當的 [!DNL Adobe Target] 特定情境的使用情況
 * 說明的基本技術 [!DNL Adobe Target] 實施
 
-第2節：與整合 [!DNL Adobe Target] (18%)
+**第2節：與整合 [!DNL Adobe Target] (18%)**
 
 * 套用流程以整合 [!DNL Adobe Target] 搭配Adobe Analytics (A4T)
 * 套用流程以整合 [!DNL Adobe Target] 至Adobe Experience Manager
 * 說明與Adobe Experience Cloud解決方案和Adobe Experience Platform解決方案的整合
 * 說明與Adobe Experience Cloud受眾的整合
 
-區段3： [!DNL Adobe Target] 管理與治理(6%)
+**區段3： [!DNL Adobe Target] 管理與治理(6%)**
 
 * 定義進行中 [!DNL Adobe Target] 實作策略與系統治理
 * 套用流程和最佳實務來管理使用者
 * 說明實作設定的管理層面
 
-區段4： [!DNL Adobe Target] 和支援的接觸點(6%)
+**區段4： [!DNL Adobe Target] 和支援的接觸點(6%)**
 
 * 說明使用者端傳送實施
 * 說明伺服器端傳遞實作
 * 說明行動、電子郵件目標定位和API的實作需求
 
-第5節：善用 [!DNL Adobe Target] 建議(11%)
+**第5節：善用 [!DNL Adobe Target] 建議(11%)**
 
 * 展示對於建議、目錄和條件的瞭解
 * 套用程式以設定Target建議
 
-第6節：架構者、設計與實施 [!DNL Adobe Target] (18%)
+**第6節：架構者、設計與實施 [!DNL Adobe Target] (18%)**
 
 * 選取正確的Target請求實作（全域、訂購確認、混合）評估及設計 [!DNL Adobe Target] 實施
 * 說明的實作 [!DNL Adobe Target] 在原生行動應用程式中
 
-第7節：疑難排解(28%)
+**第7節：疑難排解(28%)**
 
 * 疑難排解mbox錯誤
 * 疑難排解Target請求和回應錯誤
@@ -118,11 +128,25 @@ ht-degree: 14%
 * 瞭解整合錯誤
 * 疑難排解 [!DNL Adobe Target] Recommendations錯誤
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+## 如何取得認證 {#how-to-get-certified}
 
-以下是一些可幫助您準備的建議資源：
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **區段1**
 
@@ -168,22 +192,33 @@ ht-degree: 14%
 
 **區段7**
 
-[活動問答](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-[疑難排解內容傳送](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
-[設計常見問題集](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
-[Recommendations常見問題集](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
-[在Platform Web SDK中登入Target適用的Adobe Analytics (A4T)](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
+* [活動 QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
+* [疑難排解內容傳送](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
+* [設計常見問題](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
+* [Recommendations 常見問題](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
+* [在Platform Web SDK中登入Target適用的Adobe Analytics (A4T)](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
 
++++
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
++++步驟3：排程並支付考試費用
 
-**現在您已成功登入，可直接存取下列連結。**
+{{schedule-and-pay}}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -196,9 +231,25 @@ ht-degree: 14%
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**問題**
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
+
+## 問題
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

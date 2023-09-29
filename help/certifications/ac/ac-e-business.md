@@ -8,18 +8,48 @@ level: Experienced
 badge: label="考試AD0-E708" type="positive"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1417'
+source-wordcount: '1265'
 ht-degree: 0%
 
 ---
 
 # 的認證歷程 [!DNL Adobe Commerce] 商務從業者專家
 
-瞭解如何成為認證 [!DNL Adobe Commerce] 商務從業者專家。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專家（1-3年經驗）
+* 及格分數：31/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：225美元（全球） / 150美元（印度）
+* 考試ID：AD0-E708
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 業務分析師
+* Commerce策略專家
+* 顧問
+* 技術專案經理/技術客戶經理
+* 應用程式架構師/解決方案架構師/專家
+* 機構管理員/Director/經理/顧問
+* Digital Marketing Director/經理/開發人員
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該有大約1到3年的實際操作經驗 [!DNL Commerce] 經驗和對電子商務經驗的廣泛瞭解。
 
@@ -40,41 +70,13 @@ ht-degree: 0%
 * 安全工具：PCI法規遵循、ADA、GDPR等
 * 雲端或內部部署架構
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* 業務分析師
-* Commerce策略專家
-* 顧問
-* 技術專案經理/技術客戶經理
-* 應用程式架構師/解決方案架構師/專家
-* 機構管理員/Director/經理/顧問
-* Digital Marketing Director/經理/開發人員
-
-**考試詳細資料：**
-
-* 等級：專家（1-3年經驗）
-* 及格分數：31/50
-* 時間：100分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E708
-
-**整備程度自我評估**
-
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
-
-**考試目標與範圍**
-
-第1節：核心功能/一般組態(46%)
+**第1節：核心功能/一般組態(46%)**
 
 * 識別Adobe功能 [!DNL Commerce] 開放原始碼版和 [!DNL Commerce] 版本
 * 區分所有Adobe版本之間的差異 [!DNL Commerce] 產品
@@ -90,18 +92,18 @@ ht-degree: 0%
 * 設定和修改異動電子郵件
 * 說明B2B中的客戶自助服務和熟客方案原生功能
 
-區段2：銷售(10%)
+**區段2：銷售(10%)**
 
 * 展示建立符合特定業務條件的促銷活動，以及決定最終定價的方式
 * 展示管理類別與產品的能力
 * 瞭解不同的定價設定及其如何影響最終價格
 
-第3部分：數位行銷(4%)
+**第3部分：數位行銷(4%)**
 
 * 使用原生功能的SEO建議最佳作法
 * 評估Google Analytics和BI中的通用量度
 
-第4節：附加模組與其他產品(18%)
+**第4節：附加模組與其他產品(18%)**
 
 * 說明B2B功能及其與常見B2B情境的關係
 * 套用業務需求以建議使用MSI的解決方案
@@ -111,25 +113,47 @@ ht-degree: 0%
 * 瞭解如何為B2B客戶套用量身打造的價格
 * 瞭解Adobe之間的差異 [!DNL Commerce] 原生產品和Adobe Sensei產品推薦
 
-第5節：系統架構(10%)
+**第5節：系統架構(10%)**
 
 * 評估需求以判斷哪些網站、商店和商店檢視是必要的
 * 識別和分析效能度量以作出改善
 * 瞭解將外部系統與Adobe整合的可用方法 [!DNL Commerce]
 * 區分Headless方法與傳統
 
-第6節：合規性/安全性(12%)
+**第6節：合規性/安全性(12%)**
 
 * 示範如何保護Adobe安全 [!DNL Commerce] 使用角色和許可權進行資料存取
 * 瞭解隱私權法規與付款安全性合規的基本概念
 * 說明Adobe的常見安全性問題 [!DNL Commerce] 專案
 * 瞭解稅法基本知識以及如何設定
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+### 整備問卷
 
-以下是一些可幫助您準備的建議資源：
+{{readiness}}
+
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## 如何取得認證 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：核心功能/一般設定**
 
@@ -209,19 +233,33 @@ ht-degree: 0%
 * [安全性](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"}
 * [依國家/地區的稅捐准則](https://docs.magento.com/user-guide/tax/international-tax-guidelines.html){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
-
-## 參加練習測試
+**參加練習測試**
 
 {{practice-test}}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -234,7 +272,23 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

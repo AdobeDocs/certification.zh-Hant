@@ -6,18 +6,48 @@ product: Journey Optimizer
 role: Developer
 badge: label="考試AD0-E603" type="positive"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '733'
-ht-degree: 12%
+source-wordcount: '581'
+ht-degree: 16%
 
 ---
 
 # Adobe的認證歷程 [!DNL Journey Optimizer] 開發人員專家
 
-瞭解如何成為認證Adobe [!DNL Journey Optimizer] 開發人員專家。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專家（1-3年經驗）
+* 及格分數： 31/51
+* 時間：110分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：225美元（全球） / 150美元（印度）
+* 考試ID：AD0-E603
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 資料架構師
+* 資料工程師
+* 解決方案架構師
+* 企業架構師
+* Marketing Automation開發人員
+* CDP開發人員
+* CDP架構者
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應至少一年使用各種CDP和行銷自動化系統的經驗，並能夠執行下列工作：
 
@@ -37,48 +67,20 @@ ht-degree: 12%
 * 歷程報告
 * 測試/驗證歷程
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* 資料架構師
-* 資料工程師
-* 解決方案架構師
-* 企業架構師
-* Marketing Automation開發人員
-* CDP開發人員
-* CDP架構者
-
-**考試詳細資料：**
-
-* 等級：專家（1-3年經驗）
-* 及格分數： 31/51
-* 時間：110分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E603
-
-**整備程度自我評估**
-
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
-
-**考試目標與範圍**
-
-第1節：管理與設定(17%)
+**第1節：管理與設定(17%)**
 
 * 確定角色以及套用至每個角色的許可權
 * 說明如何指派/重設/刪除沙箱
 * 展示對管道管理的瞭解
 * 展示對於事件/動作/資料來源的瞭解
 
-第2節：Adobe Experience Platform Foundation (33%)
+**第2節：Adobe Experience Platform Foundation (33%)**
 
 * 展示對Experience Data Model (XDM)的瞭解
 * 說明如何設定資料來源和資料擷取
@@ -86,28 +88,50 @@ ht-degree: 12%
 * 說明如何設定AJO的結構描述
 * 判斷AJO上即時客戶設定檔的行為
 
-區段3：Offer decisioning(11%)
+**區段3：Offer decisioning(11%)**
 
 * 展示對於建立和管理優惠方案及元件的瞭解
 * 示範如何使用測試設定檔來執行優惠方案模擬
 
-第4節：內容製作(20%)
+**第4節：內容製作(20%)**
 
 * 示範如何建立電子郵件、簡訊、應用程式內訊息和推播通知
 * 使用協助程式功能，展示對內容操控和個人化的瞭解
 * 展示對於驗證、校樣和發佈訊息的瞭解
 
-區段5：Journey Orchestration(19%)
+**區段5：Journey Orchestration(19%)**
 
 * 說明建立多頻道歷程的程式
 * 識別存取報告儀表板的位置
 * 示範如何測試和驗證歷程
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+### 整備問卷
 
-以下是一些可幫助您準備的建議資源：
+{{readiness}}
+
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
+
+<br>
+
+## 如何取得認證 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：管理與設定**
 
@@ -133,7 +157,7 @@ ht-degree: 12%
    * 來源聯結器指南
    * Data Ingestion指南
    * 分段服務指南
-   * 架構
+   * 結構描述
 
 * [Adobe簡介 [!DNL Experience Platform] 課程](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
 * [Adobe快速入門 [!DNL Experience Platform] 資料工程師專用課程](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
@@ -169,19 +193,33 @@ ht-degree: 12%
    * 區段
    * 設定檔與身分
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
-
-## 參加練習測試
+**參加練習測試**
 
 {{practice-test}}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -194,7 +232,23 @@ ht-degree: 12%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

@@ -6,22 +6,50 @@ role: Developer
 badge: label="考試AD0-E904" type="positive"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: 0a6cdf2e970ca534b003425500ca315af1b0add3
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1404'
 ht-degree: 0%
 
 ---
 
 # Adobe的認證歷程 [!DNL Workfront] 核心開發人員專家
 
-瞭解如何成為認證Adobe [!DNL Workfront] 核心開發人員專家。
+{{intro}}
 
 >[!NOTE]
 >
 >此考試，Adobe [!DNL Workfront] Core Developer Expert (AD0-E904)已更新。 如果您已開始學習或計畫接受此版本，請務必在2023年11月6日之前完成。 如果您正開始使用，建議您參加 [此測驗的最新版本(AD0-907)](aw-core-e-developer-23-08.md).
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專家（1-3年經驗）
+* 及格分數：36/64
+* 時間：130分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：225美元（全球） / 150美元（印度）
+* 考試ID：AD0-E904
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* [!DNL Workfront] 專長於實作，以及全新或更新執行個體設定的系統管理員
+* 程式設計工具/架構者
+* 業務分析師
+* 技術顧問
+* 設定顧問
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您至少應有18至24個月的Adobe經驗 [!DNL Workfront]、和可以：
 
@@ -32,39 +60,13 @@ ht-degree: 0%
 * 瞭解並套用行銷和PMO使用案例
 * 建議並建立可支援客戶流程的報告
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* [!DNL Workfront] 專長於實作，以及全新或更新執行個體設定的系統管理員
-* 程式設計工具/架構者
-* 業務分析師
-* 技術顧問
-* 設定顧問
-
-**考試詳細資料：**
-
-* 等級：專家（1-3年經驗）
-* 及格分數：36/64
-* 時間：130分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E904
-
-**整備程度自我評估**
-
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
-
-**考試目標與範圍**
-
-第1節：核心系統管理與設定(17%)
+**第1節：核心系統管理與設定(17%)**
 
 * 在案例中，說明有效共用許可權和存取許可權的方式。
 * 在圖表中，選取正確的存取階層順序。
@@ -75,7 +77,7 @@ ht-degree: 0%
 * 在情景中，建議團隊應為標準、Kanban或Scrum。
 * 在情境下，請決定部署敏捷團隊自訂分鏡指令碼的最佳實務。
 
-第2節：輸入、自訂表單和專案管理(17%)
+**第2節：輸入、自訂表單和專案管理(17%)**
 
 * 在案例中，確定支援工作分配所需的設定區域。
 * 指定情境，請識別必要的設定。
@@ -83,7 +85,7 @@ ht-degree: 0%
 * 在案例中，說明必須執行哪些操作來解決報告和計算錯誤。
 * 在案例中，識別可借給範本的支援元素。
 
-第3節：戰略功能 — 投資組合和方案管理、資源管理(13%)
+**第3節：戰略功能 — 投資組合和方案管理、資源管理(13%)**
 
 * 在案例中，請決定如何擷取反映在Portfolio最佳化工具中的專案後KPI。
 * 在案例中，調整業務案例以反映專案範圍的變更。
@@ -93,14 +95,14 @@ ht-degree: 0%
 * 在給定情況下，請確定根本原因。
 * 在特定的情況下，請判斷使用者為何過度分配。
 
-第4節：檔案管理和證明(13%)
+**第4節：檔案管理和證明(13%)**
 
 * 在案例中，示範何時使用檔案管理與校訂
 * 在案例中，識別使用校訂檢視器、設定和標籤功能的最佳實務
 * 在案例中，示範如何編輯和設定檔案許可權。
 * 在案例中，示範如何設定具有安全性限制的外部檔案儲存
 
-區段5：報表(13%)
+**區段5：報表(13%)**
 
 * 在案例中，說明將多欄資料合併成單一欄的方法。
 * 指定報表或篩選器，示範使用萬用字元值的優點。
@@ -108,7 +110,7 @@ ht-degree: 0%
 * 在案例中，請說明報表如何協助有效執行工作。
 * 給定情境，圖示 [!DNL Workfront] 提供報告，以監控並改善使用者採用程度。
 
-第6節：方法/最佳實務/使用案例(20%)
+**第6節：方法/最佳實務/使用案例(20%)**
 
 * 給定範圍內的情境 [!DNL Workfront]，示範設定追蹤屬於單一行銷活動之交付專案的功能。
 * 給定範圍內的情境 [!DNL Workfront]，展示有關工作的策略優先順序和理由的功能。
@@ -118,7 +120,7 @@ ht-degree: 0%
 * 在案例中，建議在展開使用者端例項時，使用系統管理治理的架構。
 * 在情景中，找出在擴展使用者端例項以允許其他團隊一起工作時要考慮的區域。
 
-第7節：商務諮詢(8%)
+**第7節：商務諮詢(8%)**
 
 * 在情景中，說明完全支援該工作所需的流程。
 * 在案例中，說明如何調整現有的工作流程，以符合關鍵且正在進行的業務流程中的最新變更。
@@ -126,11 +128,33 @@ ht-degree: 0%
 * 在案例中，找出變更管理的主要考量因素 [!DNL Workfront] 實施
 * 給定情境，提供建議。
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+### 整備問卷
 
-以下是一些可幫助您準備的建議資源：
+{{readiness}}
+
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
+
+<br>
+
+## 如何取得認證 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：核心系統管理與設定**
 
@@ -191,19 +215,33 @@ ht-degree: 0%
 * [定義Adobe的目標 [!DNL Workfront] 實施](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
 * [最佳實務 — 資源規劃工具](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
-
-## 參加練習測試
+**參加練習測試**
 
 {{practice-test}}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -216,7 +254,23 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

@@ -7,18 +7,50 @@ role: User
 badge: label="考試AD0-E712" type="positive"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 2f4cc72e494787c43205e84cae4a4f3b5ecbf900
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '932'
-ht-degree: 2%
+source-wordcount: '732'
+ht-degree: 3%
 
 ---
 
 # Adobe的認證歷程 [!DNL Commerce] 商務從業者專業人士
 
-瞭解如何成為認證Adobe商務從業者專業人員。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專業（0至12個月經驗）
+* 及格分數：30/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E712
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 業務分析人員
+* 專案經理
+* 產品擁有者
+* 顧問
+* [!DNL Adobe Commerce] 策略師
+* 電子商務管理員/Director/經理/顧問
+* 數位行銷Director/經理/開發人員
+* 解決方案專家
+* 技術客戶經理
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您至少應有0至12個月的動手體驗，使用 [!DNL Magento Open Source] 2.4.3版(使用LUMA或BLANK主題和基本瞭解Adobe) [!DNL Commerce] 版本2.4.3。
 
@@ -33,43 +65,13 @@ ht-degree: 2%
 * 安全性與法規遵循(GDPR、ADA、PCI DSS v3.2.1、PSD2)
 * 定價與促銷活動
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* 業務分析人員
-* 專案經理
-* 產品擁有者
-* 顧問
-* [!DNL Adobe Commerce] 策略師
-* 電子商務管理員/Director/經理/顧問
-* 數位行銷Director/經理/開發人員
-* 解決方案專家
-* 技術客戶經理
-
-**考試詳細資料：**
-
-* 等級：專業（0至12個月經驗）
-* 及格分數：30/50
-* 時間：100分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E712
-
-**整備程度自我評估**
-
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
-
-**考試目標與範圍**
-
-區段1： [!DNL Magento Open Source] 核心功能(49%)
+**區段1： [!DNL Magento Open Source] 核心功能(49%)**
 
 * 識別的功能 [!DNL Magento Open Source]
 * 區分正確範圍及何時使用
@@ -80,13 +82,13 @@ ht-degree: 2%
 * 說明與商店維護相關的日常工作
 * 說明不同型別的內容元素及使用時機
 
-第2節：Adobe [!DNL Commerce] 基本知識(14%)
+**第2節：Adobe [!DNL Commerce] 基本知識(14%)**
 
 * 識別Adobe中可用的主要功能 [!DNL Commerce]
 * 識別Adobe中的服務附加元件 [!DNL Commerce]
 * 識別Adobe的託管選項 [!DNL Commerce]
 
-第3節：數位行銷和電子商務基礎知識(24%)
+**第3節：數位行銷和電子商務基礎知識(24%)**
 
 * 識別數位行銷工具的基本用途(Google Analytics/Adobe Analytics、Google Tag Manager、電子郵件行銷、細分、社交外掛程式)
 * 說明SEO的基本原則
@@ -94,23 +96,39 @@ ht-degree: 2%
 * 識別電子商務網站的主要功能
 * 識別基本電子商務概念（包括店面選項）
 
-第4節：合規性/安全性基本知識(13%)
+**第4節：合規性/安全性基本知識(13%)**
 
 * 瞭解隱私權法規與付款安全性合規的基本概念
 * 識別Adobe的常見安全性問題 [!DNL Commerce] 專案
 * 確定無障礙法規遵循的最佳實務和法律要求
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+### 整備問卷
 
-以下是一些可幫助您準備的建議資源：
+{{readiness}}
 
-**範例問題**
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+<br>
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
+## 如何取得認證 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **區段1： [!DNL Magento Open Source] 核心功能**
 
@@ -158,19 +176,35 @@ ht-degree: 2%
 * [瞭解ADA法規遵循及其與電子商務網站的關係](https://magento.com/blog/best-practices/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
 * [Adobe [!DNL Commerce] 安全性最佳實務指南](https://www.adobe.com/content/dam/cc/en/security/pdfs/Adobe-Magento-Commerce-Best-Practices-Guide.pdf){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
+**範例問題**
 
-## 參加練習測試
+{{sample-questions}}
 
-{{practice-test}}
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -183,7 +217,23 @@ ht-degree: 2%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

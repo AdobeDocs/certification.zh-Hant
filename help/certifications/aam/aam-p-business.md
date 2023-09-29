@@ -8,36 +8,24 @@ level: Experienced
 badge: label="考試AD0-E458" type="positive"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '907'
-ht-degree: 12%
+source-wordcount: '804'
+ht-degree: 14%
 
 ---
 
 # Adobe的認證歷程 [!DNL Audience Manager] 商務從業者專業人士
 
-瞭解如何成為認證 [!DNL Audience Manager] 商務從業者專業人士。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
 
-您應該對資料流程、業務目標和KPI有基本的瞭解，並具備一些與資料分析和策略相關的經驗
+{{exam-description}}
 
->[!BEGINTABS]
+<br>
 
->[!TAB 準備就緒]
-
-**目標對象：**
-
-* 數位行銷專家
-* 行銷技術顧問
-* 受眾策略專家
-* 行為顧問
-* 數位行銷分析師
-* 行銷資料分析師
-* 資料平台管理員
-
-**考試詳細資料：**
+### 考試詳細資料 {#exam-details}
 
 * 等級：專業（0至12個月經驗）
 * 及格分數：31/50
@@ -47,9 +35,31 @@ ht-degree: 12%
 * 費用：125美元（全球） / 95美元（印度）
 * 考試ID：AD0-E458
 
-**考試目標與範圍**
+<br>
 
-區段1：區段建立與整合(32%)
+### 目標對象 {#intended-audience}
+
+* 數位行銷專家
+* 行銷技術顧問
+* 受眾策略專家
+* 行為顧問
+* 數位行銷分析師
+* 行銷資料分析師
+* 資料平台管理員
+
+<br>
+
+### 最低體驗 {#minimum-experience}
+
+您應該對資料流程、業務目標和KPI有基本的瞭解，並具備一些與資料分析和策略相關的經驗
+
+<br>
+
+### 考試目標與範圍 {#exam-objectives}
+
+{{exam-objectives}}
+
+**區段1：區段建立與整合(32%)**
 
 * 找出將第一方、第二方和第三方資料用於目標定位和分析目的的方法
 * 說明啟動業務或行銷活動目標的基本程式
@@ -57,42 +67,50 @@ ht-degree: 12%
 * 識別不同型別的目的地
 * 識別不同型別的來源
 
-第2節：特徵建立(16%)
+**第2節：特徵建立(16%)**
 
 * 在情境中，識別訊號、特徵、區段和對象
 * 識別不同型別特徵的使用
 
-第3節：報告與測量(16%)
+**第3節：報告與測量(16%)**
 
 * 在案例中，產生報表以測量啟用或行銷活動目標
 * 在案例中，根據符合率來比較對象
 
-第4節：疑難排解(10%)
+**第4節：疑難排解(10%)**
 
 * 在特定的情況下，疑難排解來自不同來源和來源型別的傳入資料
 * 驗證傳入資料檔案的格式
 
-區段5：分類法(12%)
+**區段5：分類法(12%)**
 
 * 決定適當的結構，以建立使用清晰且一致命名法的特性和區段
 * 決定使用明確的資料夾結構來維持有組織的平台的正確技巧
 
-第6節：設定檔合併、ID同步和Audience Marketplace
+**第6節：設定檔合併、ID同步和Audience Marketplace**
 
 * 將使用者特徵組織到單一統一設定檔中，以建立以家庭或裝置為基礎的受眾
 * 使用Audience Marketplace識別啟動
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+## 如何取得認證 {#how-to-get-certified}
 
-以下是一些可幫助您準備的建議資源：
+{{how-to-get-certified-intro}}
 
-**範例問題**
++++步驟1：建立帳戶
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+{{create-your-account}}
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：區段建立與整合**
 
@@ -142,15 +160,35 @@ ht-degree: 12%
 * [透過臨機啟動API依需求對批次目的地啟用對象區段](https://experienceleague.adobe.com/docs/experience-platform/destinations/api/ad-hoc-activation-api.html){target="_blank"}
 * [對目的地啟用設定檔和區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+**範例問題**
 
+{{sample-questions}}
 
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -163,10 +201,27 @@ ht-degree: 12%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 
 檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+

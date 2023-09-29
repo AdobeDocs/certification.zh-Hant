@@ -8,18 +8,44 @@ level: Experienced
 badge: label="考試AD0-E209" type="positive"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '949'
-ht-degree: 9%
+source-wordcount: '809'
+ht-degree: 11%
 
 ---
 
-# 的認證歷程 [!DNL Adobe Analytics] 開發人員專家
+# Adobe的認證歷程 [!DNL Analytics] 開發人員專家
 
-瞭解如何成為認證 [!DNL Adobe Analytics] 開發人員專家。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專家（1-3年經驗）
+* 及格分數：31/50
+* 時間：120分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文、日文
+* 費用：225美元（全球）和150美元（印度）
+* 測驗ID：AD0-E209 （英文）、AD0-E209-J （日文）
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 實作專家/工程師
+* 開發人員
+* 架構師
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應具有在混合角色中擔任實施顧問的經驗，並在以下領域擁有約2年的經驗： [!DNL Adobe Analytics] 實作。 您充當IT與業務之間的橋樑，將業務需求轉換為技術解決方案(SDR)，並根據分析人員提供的需求，瞭解需要哪種型別的變數、在哪裡以及如何收集資料、設計資料模型（資料層）、設定和維護標籤管理解決方案。
 
@@ -48,48 +74,24 @@ ht-degree: 9%
 * 數位行銷領域
 * 最低限度的後端開發環境知識，包括個人電腦、Mac、Android/iOS作業系統（基本操作，而非開發）
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+### 考試目標與範圍 {#exam-objectives}
 
->[!BEGINTABS]
-
->[!TAB 準備就緒]
-
-**目標對象：**
-
-* 實作專家/工程師
-* 開發人員
-* 架構師
-
-**考試詳細資料：**
-
-* 等級：專家（1-3年經驗）
-* 及格分數：31/50
-* 時間：120分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：225美元（全球）和150美元（印度）
-* 考試ID：AD0-E209
-
-**整備程度自我評估**
-
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
+{{exam-objectives}}
 
 **考試目標與範圍**
 
-第1節：瞭解Adobe Experience Cloud生態系統中的Analytics (10%)
+**第1節：瞭解Adobe Experience Cloud生態系統中的Analytics (10%)**
 
 * 示範有關使用Adobe Experience Cloud ID的知識
 * 示範對AdobeLaunch的瞭解
 * 展示對於整個Adobe Experience Cloud生態系統的共同整合的理解
 
-第2節：根據解決方案設計參考(SDR)的策略和設計(6%)
+**第2節：根據解決方案設計參考(SDR)的策略和設計(6%)**
 
 * 解譯解決方案設計參考資料，以開發資料擷取的高效程式碼
 * 使用技術規格填入資料物件
 
-第3節：Analytics實施與設定(36%)
+**第3節：Analytics實施與設定(36%)**
 
 * 決定要部署的環境 [!DNL Adobe Analytics] 程式碼
 * 執行Analytics追蹤的最低部署程式碼
@@ -98,30 +100,52 @@ ht-degree: 9%
 * 在部署中利用資料層
 * 執行進階追蹤功能，例如連結追蹤和產品字串
 
-第4節：標籤管理系統(20%)
+**第4節：標籤管理系統(20%)**
 
 * 列舉在中部署Adobe Experience Platform Launch的需求 [!DNL Adobe Analytics]
 * 套用處理序，以透過AdobeLaunch設定網站標籤
 * 列舉啟用擴充功能和AdobeLaunch的需求
 * 建立規則和資料元素
 
-第5節：行動服務(8%)
+**第5節：行動服務(8%)**
 
 * 套用處理作業來設定並執行行動裝置的基礎預先部署程式碼
 * 展示對處理規則和行動服務的瞭解
 
-第6節：測試、驗證和疑難排解(20%)
+**第6節：測試、驗證和疑難排解(20%)**
 
 * 疑難排解JavaScript錯誤
 * 疑難排解 [!DNL Adobe Analytics] 變數
 * 建議測試和偵錯最佳實務
 * 疑難排解 [!DNL Adobe Analytics] 整個生命週期的伺服器呼叫（即從信標請求到顯示在報表中的呼叫）
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+### 整備問卷
 
-以下是一些可幫助您準備的建議資源：
+{{readiness}}
+
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"}
+
+<br>
+
+## 如何取得認證 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：瞭解Adobe Experience Cloud生態系統中的Analytics**
 
@@ -157,20 +181,33 @@ ht-degree: 9%
 * [啟用、偵錯並自訂 [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
 * [最佳化 Analysis Workspace 效能](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html?lang=zh-Hant){target="_blank"}
 
+<br>
 
->[!TAB 取得認證]
-
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
-
-## 參加練習測試
+**參加練習測試**
 
 {{practice-test}}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -194,7 +231,24 @@ ht-degree: 9%
 
 [日文排程指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
+
 
 ## 問題
 

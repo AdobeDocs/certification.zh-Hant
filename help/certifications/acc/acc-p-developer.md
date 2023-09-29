@@ -7,18 +7,45 @@ role: Developer
 badge: label="考試AD0-E331" type="positive"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1174'
-ht-degree: 10%
+source-wordcount: '979'
+ht-degree: 13%
 
 ---
 
 # Adobe的認證歷程 [!DNL Campaign Classic] 開發人員專業版
 
-瞭解如何成為認證Adobe [!DNL Campaign Classic] 開發人員專業版。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專業（0至12個月經驗）
+* 及格分數：33/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E331
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 助理顧問
+* 初級技術顧問
+* 初級行銷技術工程師
+* Junior Campaign開發人員
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該有：
 
@@ -27,38 +54,13 @@ ht-degree: 10%
 * 對行銷自動化的基本瞭解
 * 瞭解關聯式資料庫概念
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* 助理顧問
-* 初級技術顧問
-* 初級行銷技術工程師
-* Junior Campaign開發人員
-
-**考試詳細資料：**
-
-* 等級：專業（0至12個月經驗）
-* 及格分數：33/50
-* 時間：100分鐘
-* 交付：線上監護（需要存取攝影機）或測試中心監護
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E331
-
-**整備程度自我評估**
-
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
-
-**考試目標與範圍**
-
-第1節：系統組態(25%)
+**第1節：系統組態(25%)**
 
 * 示範「管理」節點中的設定之全系統組態
 * 套用程式以擴充OOTB收件者綱要
@@ -74,7 +76,7 @@ ht-degree: 10%
 * 描述訊息中心的業務使用案例
 * 識別V8 API資料匯入功能
 
-第2節：自訂(16%)
+**第2節：自訂(16%)**
 
 * 套用此程式以編輯行銷活動綱要
 * 識別設定以確保正確的結構描述延伸，或設定自訂結構描述
@@ -85,14 +87,14 @@ ht-degree: 10%
 * 識別使用內容管理的使用案例
 * 套用至程式以更新OOTB表單
 
-第3節：營運安全性(10%)
+**第3節：營運安全性(10%)**
 
 * 說明新增使用者群組和角色的程式
 * 套用程式以翻譯具有正確使用者許可權和階層的使用者管理矩陣
 * 識別並定義正確的許可權
 * 識別使用者群組的安全性區域
 
-第4節：技術工作流程(29%)
+**第4節：技術工作流程(29%)**
 
 * 套用流程以匯入/匯出
 * 識別工作流程可以存取的不同資料來源
@@ -108,12 +110,12 @@ ht-degree: 10%
 * 套用處理以設定警示和核准
 * 識別Campaign資料庫型別
 
-第5節：執行個體維護(4%)
+**第5節：執行個體維護(4%)**
 
 * 識別不同服務記錄檔中的錯誤
 * 說明工作流程熱度圖讀數
 
-區段6： Campaign設定(14%)
+**區段6： Campaign設定(14%)**
 
 * 套用程式，以使用行銷活動範本建立行銷活動
 * 說明建立核准的程式
@@ -122,17 +124,33 @@ ht-degree: 10%
 * 定義在工作流程中建立進階流程的流程
 * 說明工作流程執行方法
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+### 整備問卷
 
-以下是一些可幫助您準備的建議資源：
+{{readiness}}
 
-**範例問題**
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"}
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+<br>
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e331-adobe-campaign-classic-developer-professional-copy-ixmxw7){target="_blank"}
+## 如何取得認證 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：系統組態**
 
@@ -182,17 +200,35 @@ ht-degree: 10%
 * [開始使用工作流程](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=zh-Hant){target="_blank"}
 * [工作流程執行](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/common-general-issues-toc/workflow-execution.html){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
+**範例問題**
 
+{{sample-questions}}
 
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e331-adobe-campaign-classic-developer-professional-copy-ixmxw7){target="_blank"}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -205,7 +241,23 @@ ht-degree: 10%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

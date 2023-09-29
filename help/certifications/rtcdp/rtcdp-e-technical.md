@@ -8,20 +8,39 @@ recommendations: disable, exclude
 badge: label="考試AD0-E600與AD7-E601" type="positive"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1570'
-ht-degree: 7%
+source-wordcount: '1402'
+ht-degree: 8%
 
 ---
 
 # Adobe的認證歷程 [!DNL Real-Time Customer Data Platform] 專家
 
-瞭解如何成為認證Adobe [!DNL Real-Time Customer Data Platform] 專家。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
 
-若要以考試方式取得認證，您必須以監考者身分參加2項不同的考試（線上或站上，如果有的話）。
+{{exam-description}}
+
+>[!IMPORTANT]
+>
+>Adobe [!DNL Real-Time Customer Data Platform] 專家認證需要通過兩個考試： **Adobe [!DNL Experience Platform] 技術基礎(AD0-E600)** 和 **Adobe [!DNL Real-Time CDP] 技術從業人員(AD7-E601)**.
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* 資料架構師/工程師
+* 解決方案架構者或MSA
+* 企業架構師
+* 產品經理
+* 行銷技術負責人
+* 技術顧問
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該有：
 
@@ -38,29 +57,19 @@ ht-degree: 7%
 * 瞭解透過目的地傳送區段的外送頻率
 * 瞭解區段會籍的更新頻率
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+[跳至需求1的資訊](#req-1)
 
->[!TAB 準備就緒]
+[跳至需求2的資訊](#req-2)
 
-**目標對象：**
+<br>
 
-* 資料架構師/工程師
-* 解決方案架構者或MSA
-* 企業架構師
-* 產品經理
-* 行銷技術負責人
-* 技術顧問
-
-
-**需求1：AD0-E600Adobe [!DNL Experience Platform] 技術基礎**
+## 需求#1：Adobe的資訊 [!DNL Experience Platform] 技術基礎(AD0-E600) {#req-1}
 
 AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知識 [!DNL Experience Platform] 專家級。
 
-**考試詳細資料：**
+### AD0-E600的考試詳細資料 {#exam-details-600}
 
 * 等級：專家（1-3年經驗）
 * 及格分數：35/50
@@ -70,15 +79,19 @@ AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知�
 * 費用：225美元（全球） / 150美元（印度）
 * 測驗ID：AD0-E600
 
-**考試目標與範圍**
+<br>
 
-第1節：資料模型(20%)
+### AD0-E600的考試目標與範圍 {#exam-objectives}
+
+{{exam-objectives}}
+
+**第1節：資料模型(20%)**
 
 * 分析來源資料以評估設定檔拼接的主要和次要身分
 * 示範對於如何使用UI來建立/編輯XDM結構描述的瞭解。
 * 識別DULE指引
 
-區段2：資料擷取(36%)
+**區段2：資料擷取(36%)**
 
 * 示範如何格式化資料並準備要擷取的資料
 * 示範如何使用OOTB聯結器連線資料來源
@@ -87,7 +100,7 @@ AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知�
 * 示範如何對來源資料執行資料探索
 * 示範如何轉換資料以符合XDM
 
-第3節：統一設定檔(34%)
+**第3節：統一設定檔(34%)**
 
 * 驗證設定檔和事件資料擷取後
 * 定義身分名稱空格
@@ -95,19 +108,30 @@ AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知�
 * 識別如何透過資料科學工作區模型服務豐富設定檔
 * 示範如何使用區段產生器建立區段，以及區段服務的運作方式
 
-第4節：啟用(10%)
+**第4節：啟用(10%)**
 
 * 示範如何設定目的地，以及區段啟用的運作方式
 * 示範及瞭解資料存取API，以及透過Real-Time CDP匯出資料
 
-進行整備問卷，找出是否符合最低資格條件。
+<br>
 
+## 如何取得認證(AD0-E600) {#how-to-get-certified}
 
->[!TAB 準備]
+{{how-to-get-certified-intro}}
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
++++步驟1：建立帳戶
 
-以下是一些可幫助您準備的建議資源：
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：資料模式**
 
@@ -132,19 +156,33 @@ AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知�
 
 * [目的地概觀](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=zh-Hant){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
-
-## 參加練習測試
+**參加練習測試**
 
 {{practice-test}}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -157,18 +195,25 @@ AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知�
 </span>
 </a>
 
++++
 
->[!ENDTABS]
+<br>
 
->[!BEGINTABS]
++++步驟6：管理您的預算
 
->[!TAB 準備就緒]
+{{manage-your-badges}}
 
-**需求2：AD7-E601 Adobe Real-Time CDP技術從業人員**
++++
+
+<br>
+
+## 需求#2：Adobe的資訊 [!DNL Real-Time CDP] 技術從業人員(AD7-E601) {#req-2}
 
 AD7-E601考試涵蓋建立、管理和瞭解客戶個人檔案、細分、跨來源的目的地和其他主題。 該測驗會驗證採用Real-time CDP進行受眾細分、目的地匯出和即時啟用以符合資料和隱私權法規的統一設定檔所需的基礎技能和知識。 應徵者應具備客戶資料平台(CDP)經驗和Adobe知識 [!DNL Experience Platform].
 
-**考試詳細資料：**
+<br>
+
+### AD7-E601的考試詳細資料
 
 * 等級：專家（1-3年經驗）
 * 及格分數：25/34
@@ -178,11 +223,11 @@ AD7-E601考試涵蓋建立、管理和瞭解客戶個人檔案、細分、跨來
 * 費用：225美元（全球） / 150美元（印度）
 * 考試ID：AD7-E601
 
-**整備程度自我評估**
+<br>
 
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
+### AD7-E601的考試目標與範圍
 
-**考試範圍和目標**
+{{exam-objectives}}
 
 區段1：驗證(41%)
 
@@ -202,7 +247,33 @@ AD7-E601考試涵蓋建立、管理和瞭解客戶個人檔案、細分、跨來
 * 根據業務使用案例傳送/匯出受眾時，套用設定一或多個目的地所需的概念
 * 示範如何透過目的地匯出區段
 
->[!TAB 準備]
+<br>
+
+### AD7-E601整備問卷
+
+{{readiness}}
+
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"}
+
+<br>
+
+## 如何取得認證(AD7-E601)
+
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：驗證**
 
@@ -210,10 +281,10 @@ AD7-E601考試涵蓋建立、管理和瞭解客戶個人檔案、細分、跨來
 * [設定檔儀表板](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
 * [即時客戶設定檔資料的預設護欄](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=zh-Hant)
 * [啟用即時客戶個人檔案](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html){target="_blank"}
-* [[!DNL Real-Time Customer Data Platform] 概述](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=zh-Hant){target="_blank"}
+* [Real-time Customer Data Platform概觀](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=zh-Hant){target="_blank"}
 * [AEP應用程式服務：Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
 * [Real-Time CDP快速入門](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
-* [[!DNL Real-Time Customer Data Platform] 首頁和控制面板](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
+* [Real-time Customer Data Platform首頁和控制面板](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
 * [在UI中監視目的地的資料流](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=zh-Hant){target="_blank"}
 * [在Adobe中建立及啟用區段 [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [隱私權概觀](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
@@ -228,7 +299,7 @@ AD7-E601考試涵蓋建立、管理和瞭解客戶個人檔案、細分、跨來
 
 **第2節：細分**
 
-* [中的分段服務 [!DNL Real-Time Customer Data Platform]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html){target="_blank"}
+* [Real-time Customer Data Platform中的Segmentation Service](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html){target="_blank"}
 * [區段產生器UI指南](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html){target="_blank"}
 * [Real time CDP B2B版本中的分段](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html){target="_blank"}
 * [建立區段](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
@@ -264,32 +335,62 @@ AD7-E601考試涵蓋建立、管理和瞭解客戶個人檔案、細分、跨來
 * [設定社交目的地](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html){target="_blank"}
 * [啟用非Adobe應用程式的資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html?lang=zh-Hant){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
-
-## 參加練習測試
+**參加練習測試**
 
 {{practice-test}}
 
-## 關於認證考試
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
-## 排程或參加考試AD0-E601
+## 安排或參加考試AD7-E601
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD7-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    前往考試入口網站
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 

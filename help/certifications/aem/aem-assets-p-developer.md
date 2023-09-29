@@ -7,18 +7,49 @@ role: Developer
 badge: label="考試AD0-E129" type="positive"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 4%
+source-wordcount: '630'
+ht-degree: 6%
 
 ---
 
 # Adobe的認證歷程 [!DNL Experience Manager] Assets開發人員專業版
 
-瞭解如何成為認證Adobe [!DNL Experience Manager] Assets Developer Professional。
+{{intro}}
 
-## 最低體驗
+## 考試說明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專業（0至12個月經驗）
+* 及格分數：30/50
+* 時間：100分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 可用語言：英文
+* 費用：125美元（全球） / 95美元（印度）
+* 考試ID：AD0-E129
+
+<br>
+
+### 目標對象 {#intended-audience}
+
+* AEM開發人員
+* DevOps工程師
+* AEM架構師
+* 雲端工程師
+* 網站可靠性工程師
+* 技術管理員
+* 應用程式操作工程師
+* 系統工程師
+
+<br>
+
+### 最低體驗 {#minimum-experience}
 
 您應該已經習慣於AdobeManaged Services和Adobe [!DNL Experience Manager as a Cloud Service]，且能設定Adobe [!DNL Experience Manager] 環境和基礎結構。
 
@@ -41,42 +72,13 @@ ht-degree: 4%
 * 開發沙箱
 * 本機環境
 
->[!NOTE]
->
->您的認證有效期為兩年，從您通過認證開始。 建議您儘可能使用較新的版本，因為它涵蓋較新的產品功能。
+<br>
 
->[!BEGINTABS]
+### 考試目標與範圍 {#exam-objectives}
 
->[!TAB 準備就緒]
+{{exam-objectives}}
 
-**目標對象：**
-
-* AEM開發人員
-* DevOps工程師
-* AEM架構師
-* 雲端工程師
-* 網站可靠性工程師
-* 技術管理員
-* 應用程式操作工程師
-* 系統工程師
-
-**考試詳細資料：**
-
-* 等級：專業（0至12個月經驗）
-* 及格分數：30/50
-* 時間：100分鐘
-* 傳遞：線上監護（需要存取攝影機）
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E129
-
-**整備程度自我評估**
-
-完成 [線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} 檢視您目前的體驗是否符合建議的最低應徵者資格。
-
-**考試目標與範圍**
-
-第1節：資產工作流程(24%)
+**第1節：資產工作流程(24%)**
 
 * 說明自訂OOTB工作流程的流程
 * 識別何時建立或自訂資產工作流程，以實施客戶需求
@@ -84,7 +86,7 @@ ht-degree: 4%
 * 區分雲端和內部部署工作流程
 * 說明如何使用「工作流程」主控台來監控狀態和進度
 
-第2節：資產組織和資產主控台(22%)
+**第2節：資產組織和資產主控台(22%)**
 
 * 示範如何建立和組織集合中的資產
 * 示範如何使用標籤來組織資產
@@ -92,36 +94,52 @@ ht-degree: 4%
 * 說明如何設定及產生AEM Asset報表
 * 說明如何管理資產檔案夾的使用者許可權
 
-第3節：資產中繼資料(24%)
+**第3節：資產中繼資料(24%)**
 
 * 定義中繼資料結構
 * 在案例中，請決定如何調整合適的中繼資料結構
 * 在案例中，判斷如何運用中繼資料設定檔來符合需求
 * 瞭解階層式中繼資料結構的運作方式
 
-第4節：資產型別(18%)
+**第4節：資產型別(18%)**
 
 * 說明可用於資產型別的OOTB功能
 * 說明內容片段和內容片段模型
 * 示範如何使用以及何時使用內容片段變數
 
-第5節：資產功能集和功能(12%)
+**第5節：資產功能集和功能(12%)**
 
 * 說明使用Brand Portal的常見使用案例和優點
 * 說明使用Dynamic Media的常見使用案例和優點
 * 說明使用Creative Cloud運用AEM的選項
 
->[!TAB 準備]
+<br>
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+### 整備問卷
 
-以下是一些可幫助您準備的建議資源：
+{{readiness}}
 
-**範例問題**
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
 
-範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
+<br>
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+## 如何取得認證 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++步驟1：建立帳戶
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++步驟2：準備考試
+
+**研究材料**
+
+{{study-materials-intro}}
 
 **第1節：資產工作流程**
 
@@ -152,16 +170,35 @@ ht-degree: 4%
 * [支援的檔案格式](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
 * [Dynamic Media 影片設定檔](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
 
->[!TAB 取得認證]
+<br>
 
->[!IMPORTANT]
->
->以下章節和連結將可運作 **僅限**  之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
->
->此外，您在「 」中的 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 必須與您的政府機關身分證件完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，另外還要支付額外的考試費用。*
+**範例問題**
 
+{{sample-questions}}
 
-## 關於認證考試
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+
++++
+
+<br>
+
++++步驟3：排程並支付考試費用
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++步驟4：考試前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++步驟5：參加考試
 
 {{about-certification-exam}}
 
@@ -174,7 +211,23 @@ ht-degree: 4%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++步驟6：管理您的預算
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 續約您的認證
+
+{{renewing-intro}}
+
+<br>
 
 ## 問題
 
