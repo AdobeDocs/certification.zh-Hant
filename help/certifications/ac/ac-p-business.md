@@ -4,10 +4,10 @@ description: 瞭解如何成為Adobe的認證Adobe商業從業者專業人員 [!
 solution: Commerce
 product: Magento
 role: User
-badge: label="考試AD0-E712" type="positive"
+badge: label="考試AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '732'
 ht-degree: 3%

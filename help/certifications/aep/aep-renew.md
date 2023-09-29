@@ -1,26 +1,26 @@
 ---
 title: 認證續約
-description: 瞭解如何更新Adobe [!DNL Experience Platform] 憑證過期前的認證。
+description: 瞭解如何更新Adobe [!DNL Experience Platform] 認證過期之前。
 solution: Experience Platform
 product: Experience Platform
 role: User,Developer,Data Architect
-badge: label="Adobe Journey Optimizer續約" type="positive"
+badge: label="Adobe Journey Optimizer續約" type="neutral"
 hidefromtoc: true
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# 續約您的Adobe [!DNL Experience Platform] 認證
+# 更新您的Adobe [!DNL Experience Platform] 認證
 
-認證考試合格後，您的認證有效期為兩年。
+通過認證測驗後，您的認證有效期為兩年。
 
-我們很高興宣佈，您現在可以透過新的免費格式更新您的認證。 其中涉及使用隨選Experience League課程和教學課程 — 只需完成三項活動，即可免費續約您的認證。 您必須在認證到期之前續約，否則需要參加完整測驗才能再次獲得認證。
+我們很高興宣佈，您現在可以透過新的免費形式更新您的認證。 其中涉及使用隨選Experience League課程與教學課程 — 只需完成三項活動，即可免費續約您的認證。 認證到期前，您必須續約，否則您必須參加完整測驗，才能再次獲得認證。
 
 >[!NOTE]
->專家續約即將推出。
+>專家更新即將推出。
 
 ## 問題
 

@@ -4,10 +4,10 @@ description: 瞭解如何成為Adobe的認證專家 [!DNL Customer Journey Analy
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-badge: label="考試AD0-E604" type="positive"
+badge: label="考試AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 17%

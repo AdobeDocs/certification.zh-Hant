@@ -5,12 +5,12 @@ solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
 recommendations: disable, exclude
-badge: label="考試AD0-E600與AD7-E601" type="positive"
+badge: label="考試AD0-E600與AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1404'
 ht-degree: 8%
 
 ---
@@ -26,6 +26,12 @@ ht-degree: 8%
 >[!IMPORTANT]
 >
 >Adobe [!DNL Real-Time Customer Data Platform] 專家認證需要通過兩個考試： **Adobe [!DNL Experience Platform] 技術基礎(AD0-E600)** 和 **Adobe [!DNL Real-Time CDP] 技術從業人員(AD7-E601)**.
+
+<br>
+
+[跳至需求1的特定資訊](#req-1)
+
+[跳至需求2的特定資訊](#req-2)
 
 <br>
 
@@ -56,12 +62,6 @@ ht-degree: 8%
 * 決定需要哪些設定檔屬性的功能
 * 瞭解透過目的地傳送區段的外送頻率
 * 瞭解區段會籍的更新頻率
-
-<br>
-
-[跳至需求1的資訊](#req-1)
-
-[跳至需求2的資訊](#req-2)
 
 <br>
 

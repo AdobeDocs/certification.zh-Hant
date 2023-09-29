@@ -4,10 +4,10 @@ description: 瞭解如何成為Adobe領域的認證Adobe商業從業者專家 [!
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User
-badge: label="考試AD0-E307" type="positive"
+badge: label="考試AD0-E307" type="neutral"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '637'
 ht-degree: 11%

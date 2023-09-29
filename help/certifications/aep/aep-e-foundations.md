@@ -4,12 +4,12 @@ description: 瞭解如何成為認證Adobe [!DNL Experience Platform] 專家。
 solution: Experience Platform
 product: Experience Platform
 role: Developer
-badge: label="考試AD0-E600與AD7-E601" type="positive"
+badge: label="考試AD0-E600與AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '1422'
+source-wordcount: '1424'
 ht-degree: 8%
 
 ---
@@ -26,6 +26,12 @@ ht-degree: 8%
 >[!IMPORTANT]
 >
 >Adobe [!DNL Experience Platform] 專家認證目前需要通過兩項考試： **Adobe [!DNL Experience Platform] 技術基礎(AD0-E600)** 和 **Adobe [!DNL Real-Time CDP] 技術從業人員(AD7-E601)**. 自2023年11月1日起，將推出新的測驗，而這只是此認證所需的測驗。
+
+<br>
+
+[跳至需求1的特定資訊](#req-1)
+
+[跳至需求2的特定資訊](#req-2)
 
 <br>
 
@@ -56,12 +62,6 @@ ht-degree: 8%
 * 決定需要哪些設定檔屬性的功能
 * 瞭解透過目的地傳送區段的外送頻率
 * 瞭解區段會籍的更新頻率
-
-<br>
-
-[跳至需求1的資訊](#req-1)
-
-[跳至需求2的資訊](#req-2)
 
 <br>
 
