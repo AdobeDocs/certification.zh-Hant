@@ -6,7 +6,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 032e1a6a773a5ede4b74b4a34a3e8079990d8d91
+source-git-commit: 454d5ffed9f3442674df989145e33d50c0994b27
 workflow-type: tm+mt
 source-wordcount: '3755'
 ht-degree: 0%
@@ -127,7 +127,7 @@ ht-degree: 0%
 
 **考試詳細資料：**
 
-* 及格分數：25/35
+* 及格分數：27/35
 * 時間：70分鐘
 * 費用：免費/非託管
 * 傳遞：隨選
