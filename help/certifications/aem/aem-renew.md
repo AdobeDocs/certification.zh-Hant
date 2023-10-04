@@ -6,10 +6,10 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
+source-git-commit: b67862a7cbbb13b49ac0298d4bde9b231203cd44
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 3%
+source-wordcount: '1292'
+ht-degree: 11%
 
 ---
 
@@ -31,9 +31,100 @@ ht-degree: 3%
 
 >[!TAB 專業]
 
+## 您應該具備下列專案 **主要** 認證：
+
+Adobe Experience Manager Developer Professional
+
+## 續約認證的說明：
+
+* **步驟1**：已成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟2**：檢閱考試目標和資源
+* **步驟3**：考試及格
+
+### 準備就緒
+
+**考試詳細資料：**
+
+* 等級：專家（0至12個月經驗）
+* 及格分數：26/34
+* 時間：68分鐘
+* 交貨：隨選/非監督
+* 可用語言：英文
+* 費用：免費
+* 考試ID：AD5-E837Adobe [!DNL Experience Manager] 開發人員專業版
+
+**範圍和目標：**
+
+**第1節：組態(26%)**
+
+識別AEM Dispatcher設定和快取的用途決定在AEM中設定多網站的正確步驟說明如何建立和管理OSGi設定決定管理自訂OAK索引的正確步驟決定設定OOTB SAML或IMS整合的正確步驟
+
+**第2節：AEM開發(40%)**
+
+決定實作核心型元件的正確步驟連線元件功能，包括HTL、模型和服務給定案例，決定開發工作流程的正確步驟給定案例，概述內容片段或體驗片段的用途
+
+**第3節：建置和部署(12%)**
+
+定義Maven專案結構從原型設定專案
+
+**第4節：環境維護(22%)**
+
+在案例中，決定對AEM環境中的問題進行偵錯所需的步驟說明AEM維護發行識別如何跨拓撲設定AEM決定計畫和移轉至AEMas a Cloud Service所需的步驟
+
+### 準備
+
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+
+以下是一些可幫助您準備的建議資源：
+
+**區段1**
+
+* [設定 Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html?lang=zh-Hant){target="_blank"}
+* [瞭解快取](https://experienceleague.adobe.com/docs/experience-manager-learn/ams/dispatcher/understanding-cache.html){target="_blank"}
+* [重複使用內容：多網站管理員和 Live Copy](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/reusing-content/msm/overview.html){target="_blank"}
+* [設定OSGi](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html){target="_blank"}
+* [內容搜尋與索引](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/indexing.html){target="_blank"}
+* [SAML 2.0 驗證處理常式](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/saml-2-0-authenticationhandler.html?lang=zh-Hant){target="_blank"}
+
+**區段2**
+
+* [使用核心元件](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/using.html){target="_blank"}
+* [Teaser元件](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/teaser.html){target="_blank"}
+* [自訂核心元件](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/customizing.html){target="_blank"}
+* [HTL Java Use-API](https://experienceleague.adobe.com/docs/experience-manager-htl/content/java-use-api.html){target="_blank"}
+* [元件基本知識](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html){target="_blank"}
+* [Sling 模型](https://sling.apache.org/documentation/bundles/models.html){target="_blank"}
+* [OSGi元件生命週期](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/osgi-services/lifecycle.html){target="_blank"}
+* [HTL 規格](https://experienceleague.adobe.com/docs/experience-manager-htl/content/specification.html){target="_blank"}
+* [開發和延伸工作流程](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/workflows.html){target="_blank"}
+* [內容片段模型](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html){target="_blank"}
+* [體驗片段](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/experience-fragments.html){target="_blank"}
+* [與內容片段搭配使用的 AEM GraphQL API](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/content-fragments.html){target="_blank"}
+
+**區段3**
+
+* [AEM 專案結構](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html){target="_blank"}
+* [工作區篩選器](https://jackrabbit.apache.org/filevault/filter.html){target="_blank"}
+* [AEM 專案原型](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/using.html){target="_blank"}
+
+**區段4**
+
+* [服務認證](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials.html){target="_blank"}
+* [復寫佇列問題](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-17467.html){target="_blank"}
+* [發行資訊](https://docs.mktossl.com/docs/experience-manager-cloud-service/content/release-notes/home.html){target="_blank"}
+* [建議的部署](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/recommended-deploys.html){target="_blank"}
+* [AEMas a Cloud Service移轉歷程快速入門](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
+* [使用Best Practice Analyzer](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/best-practices-analyzer/using-best-practices-analyzer.html){target="_blank"}
+
+### 更新您的認證
+
+請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 第一。 然後，若要更新您的認證，請按一下下方的按鈕。
+
+[！BADGE取得Adobe [!DNL Experience Manager] Developer Professional AD5-E837]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true&quot;}
+
 >[!NOTE]
 >
->即將推出專業更新。
+>這項考試是免費的、公開的，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等待 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
 >[!TAB 專家與大師]
 
