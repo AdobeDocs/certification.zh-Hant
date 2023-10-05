@@ -4,9 +4,9 @@ description: 瞭解如何獲得Adobe認證。 在取得認證之前、期間和�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: 84e304f413b4c0b33159203b9c55eda3a9776ac1
 workflow-type: tm+mt
-source-wordcount: '1414'
+source-wordcount: '1471'
 ht-degree: 1%
 
 ---
@@ -37,11 +37,17 @@ Adobe使用Examity管理線上監考的考試。
 
 >[!TAB 參加測驗]
 
+**您的Adobe ID**
+
 您的 [設定檔](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} Adobe認證管理系統中的名稱必須與您的政府ID完全相符。 若沒有相同的資訊或有任何不符專案，採購員將會終止考試，並需要您重新排程預約，此外還要支付額外的考試費用。
+
+**取消與重新排程**
 
 如果在排定的考試約會之前48小時啟動，則可以取消和重新排程。 應徵者必須自行修改此約會。
 
 Adobe支援或檢查都無法處理重新排程和取消請求。 48小時以內的取消作業，除考試費用外，另須支付重排費用。
+
+**考試之後**
 
 完成測驗後，您會收到臨時通過或不及格。 填入最終分數最多可能需要72小時的時間。 您會在「 」的「歷史記錄」標籤下找到結果與評分報表 [Adobe認證管理員](https://www.certmetrics.com/adobe){target="_blank"}.
 
@@ -49,9 +55,19 @@ Adobe支援或檢查都無法處理重新排程和取消請求。 48小時以內
 
 >[!TAB 考試成本]
 
-這些是認證考試的目前成本。
+**認證考試價格**
 
-![測驗成本徽章](/help/certifications/assets/exam_costs_new.png)
+| Adobe認證 | 價格(USD) | 印度價格(USD) |
+| ------- | ------- | ------- |
+| Adobe認證專家 | $125 | $95 |
+| Adobe Certified Expert | $225 | $150 |
+| Adobe認證主版 | $225 | $150 |
+
+**續約價格**
+
+大多數的認證更新為 **免費**. 對於沒有免費續約選項的認證，您必須重新參加完整的認證測驗，才能續約您的認證。
+
+**為您的考試付費**
 
 您可以用憑單或信用卡支付認證考試費用。 若要購買考試憑單，請移至： [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
