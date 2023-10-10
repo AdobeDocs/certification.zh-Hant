@@ -7,10 +7,10 @@ role: Developer
 badge: label="考試AD0-E331" type="neutral"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 7b185487be1d4d5e35c6560a46cf62677324956b
 workflow-type: tm+mt
-source-wordcount: '979'
-ht-degree: 13%
+source-wordcount: '967'
+ht-degree: 12%
 
 ---
 
@@ -174,7 +174,6 @@ ht-degree: 13%
 * [建立及管理操作員群組](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html){target="_blank"}
 * [使用已命名的權限來設定權限](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
 * [建立及管理操作員群組](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html){target="_blank"}
-* [管理群組和使用者](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
 
 **第4節：技術工作流程**
 
