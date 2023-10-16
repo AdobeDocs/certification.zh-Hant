@@ -7,20 +7,16 @@ role: Data Architect
 badge: label="考試AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '1541'
-ht-degree: 19%
+source-wordcount: '1470'
+ht-degree: 20%
 
 ---
 
 # Adobe的認證歷程 [!DNL Experience Manager Sites] 架構師Master
 
 {{intro}}
-
->[!NOTE]
->
->此考試(AD0-E117 / AD0-E117-J)正在進行維護且暫時無法使用。 對於造成的不便，我們深感抱歉。 [註冊以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 當它再次可用時。<br><br>**問題？** 請參閱我們的 [常見問題集](#AEM-FAQ) （位於本頁底部）。
 
 ## 考試說明 {#exam-description}
 
@@ -253,11 +249,25 @@ ht-degree: 19%
 
 {{about-certification-exam}}
 
-## 安排或參加考試AD0-E117 / AD0-E117-J
+## 安排或參加考試AD0-E117 （英文）
 
->[!NOTE]
->
->此考試(AD0-E117 / AD0-E117-J)正在進行維護且暫時無法使用。 對於造成的不便，我們深感抱歉。 [註冊以接收通知](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 當它再次可用時。<br><br>**問題？** 請參閱我們的 [常見問題集](#AEM-FAQ) （位於本頁底部）。
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   前往考試入口網站 — 英文考試
+</span>
+</a>
+
+## 排程或參加考試AD0-E117-J （日文）
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   前往考試入口網站 — 日文考試
+</span>
+</a>
+
+[日文排程指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 
