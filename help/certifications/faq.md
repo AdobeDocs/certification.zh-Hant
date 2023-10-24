@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 5ff244334b7e1dd8d6323dbb27470740fc9329cd
+source-git-commit: 8f1f4244c9184a1b99d29fc0b48e4ca9992264bd
 workflow-type: tm+mt
 source-wordcount: '2344'
 ht-degree: 1%
@@ -314,7 +314,5 @@ _所有銷售都是最終結果。_ 不接受退貨與退款。 Adobe考試憑�
 >[!NOTE]
 >
 >重新啟動計畫已於2023年10月20日結束。 此為一次性服務，日後不會再出現。
-
-+++
 
 >[!ENDTABS]
