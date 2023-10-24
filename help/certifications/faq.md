@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 5a884e40f89a53c9348359f65b8fd1ac8190b85c
+source-git-commit: 5ff244334b7e1dd8d6323dbb27470740fc9329cd
 workflow-type: tm+mt
-source-wordcount: '3097'
+source-wordcount: '2344'
 ht-degree: 1%
 
 ---
@@ -311,164 +311,9 @@ _所有銷售都是最終結果。_ 不接受退貨與退款。 Adobe考試憑�
 
 >[!TAB 重新啟動程式]
 
-**計畫總覽**
-
-+++什麼是Adobe認證重新啟動計畫？
-
-Adobe認證重新啟動計畫是一次性計畫，可讓個人免費透過線上短期考試或評估，重新取得過期的Adobe認證。
-
-+++
-
-+++重新啟動程式會執行多久？
-
-此計畫將會在2023年4月24日至10月20日期間執行六個月。
-
-+++
-
-+++Adobe未來是否會再次提供此型別的計畫？
-
-我們不打算再次提供此方案。 此為單次服務。
-
-+++
-
-+++重新啟動計畫包含哪些認證等級？
-
-重新啟動計畫只包含專家級和主級認證。 從2023年6月開始，專業級認證將推出更新路徑。
-
-+++
-
-**計畫資格**
-
-+++誰符合Adobe認證重新啟動計畫的資格？
-
-如果個人的認證在2020年至2023年4月23日之間過期，只要他們尋求的認證包含在計畫中（請參閱下面的合格認證測驗清單），即符合重新啟動計畫的資格。
-
-+++
-
-+++ 為什麼這些年發行的所有認證考試都未包含在重新啟動計畫中？\
-2019年之前發行的考試會排除在重新啟動計畫之外。
-
-+++
-
-+++為什麼在2023年4月23日，重新啟動計畫的資格截止日期？
-
-因為這項服務可讓無法參加免費認證續約期（2023年1月23日啟動）的個人有足夠的時間續約認證。
-
-+++
-
-+++哪些認證是Adobe認證重新啟動計畫的一部分？
-
-除了已淘汰的認證外，所有使用中的Adobe認證都是方案的一部分。
-
-+++
-
-+++您可以依應用程式顯示合格考試的清單嗎？
-
-**Adobe Experience Manager**
-
-| 考試ID | 考試名稱 |
-| ------- | ------- |
-| AD0-E121 | [!DNL Adobe Experience Manager Sites] 商務從業者專家 |
-| AD0-E102 | [!DNL Adobe Experience Manager Sites] 商務從業者專家 |
-| AD0-E103 | [!DNL Adobe Experience Manager Sites] 開發人員專家 |
-| AD0-E116 | [!DNL Adobe Experience Manager Sites] 開發人員專家 |
-| AD0-E106 | [!DNL Adobe Experience Manager] 開發/作業工程師專家 |
-| AD0-E117 | [!DNL Adobe Experience Manager Sites] 架構師Master |
-| AD0-E104 | [!DNL Adobe Experience Manager Sites] 架構師Master |
-
-**[!DNL Adobe Analytics]**
-
-| 考試ID | 考試名稱 |
-| ------- | ------- |
-| AD0-E201 | [!DNL Adobe Analytics] 開發人員專家 |
-| AD0-E202 | [!DNL Adobe Analytics] 商務從業者專家 |
-| AD0-E200 | [!DNL Adobe Analytics] 架構師Master |
-| AD0-E207 | [!DNL Adobe Analytics] 架構師Master |
-
-**Adobe Audience Manager**
-
-| 考試ID | 考試名稱 |
-| ------- | ------- |
-| AD0-E454 | [!DNL Adobe Audience Manager] 架構師Master |
-| AD0-E452 | [!DNL Adobe Audience Manager] 架構師Master |
-| AD0-E453 | [!DNL Adobe Audience Manager] 商務從業者專家 |
-
-**Adobe Campaign Classic**
-
-| 考試ID | 考試名稱 |
-| ------- | ------- |
-| AD0-E300 | Adobe [!DNL Campaign Classic] Sites業務從業者專家 |
-| AD0-E314 | Adobe [!DNL Campaign Classic] Sites業務從業者專家 |
-| AD0-E318 | Adobe [!DNL Campaign Classic] 架構師Master |
-| AD0-E303 | Adobe [!DNL Campaign Classic] 架構師Master |
-| AD0-E312 | Adobe [!DNL Campaign Classic] 開發人員專家 |
-| AD0-E308 | Adobe [!DNL Campaign Classic] 開發人員專家 |
-
-**Adobe Campaign Standard**
-
-| 考試ID | 考試名稱 |
-| ------- | ------- |
-| AD0-E307 | Adobe [!DNL Campaign Standard] 商務從業者專家 |
-| AD0-E302 | Adobe [!DNL Campaign Standard] 商務從業者專家 |
-| AD0-E306 | Adobe [!DNL Campaign Standard] 開發人員專家 |
-| AD0-E301 | Adobe [!DNL Campaign Standard] 開發人員專家 |
-
-**Adobe[!DNL Marketo Engage]**
-
-| 考試ID | 考試名稱 |
-| ------- | ------- |
-| AD0-E552 | Adobe [!DNL Marketo Engage] 商務從業人員（前身為MCE） |
-
-**Adobe Target**
-
-| 考試ID | 考試名稱 |
-| ------- | ------- |
-| AD0-E401 | [!DNL Adobe Target] 商務從業者專家 |
-| AD0-E402 | [!DNL Adobe Target] 架構師Master |
-
-+++
-
-+++我的認證將於2023年4月24日至10月20日到期，屆時此方案將可供使用。到期後，我可以繼續我的認證重新開始方案嗎？
-
-不可以。 所有在上市日期及之後取得有效認證的候選者，可選擇繼續採用2023年1月公佈的學習更新路徑。
-
-重新開始計畫僅適用於在2023年4月24日之前過期的認證，以便為無法參加持續學習計畫的考生提供認證。
-
-+++
-
-**[!DNL Marketo Engage]解決方案設計師(MCSA)和Adobe Commerce**
-
-+++我有一個過期的 [!DNL Marketo] 認證解決方案架構師(MCSA)。 我可以透過此程式重新陳述嗎？
-
-已過期的候選者 [!DNL Marketo] 認證解決方案架構者認證可依循Marketo業務從業者重新開業的路徑，以符合新解決方案的部分需求 [!DNL Marketo Engage] 架構者認證。
-
-最終要求是要通過新的 [!DNL Marketo Engage] 架構者考試。 對於所有MCSA過期憑證持有者，我們在2023年12月31日之前都會執行50%折扣促銷，請連絡憑證支援以取得詳細資料。
-
-+++
-
-+++為什麼Adobe [!DNL Commerce] 認證不是Adobe認證重新啟動計畫的一部分嗎？
-
-目前提供的Adobe沒有過期的憑證持有者 [!DNL Commerce] 自2023年4月23日起認證。 因此，所有作用中的Adobe [!DNL Commerce] 通過認證的應徵者可選擇透過持續學習續約 [憑證的更新路徑](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-renew.html){target="_blank"}.
-
-+++
-
-**Adobe認證管理員設定檔**
-
-+++為什麼我看到 _參與率_ 在「Adobe認證管理員」中「我的設定檔」的「歷史記錄」區段底下？
-
-這是為了標示您符合Adobe認證重新啟動計畫的資格。 已指派此參與權的應徵者可在每個應用程式中完成重新開始其已過期的認證的要求。
-
-+++
-
-+++我已完成要求，但在我的設定檔歷史記錄中看不到結果，我何時會取得憑證？
-
-完成需求後，將在72小時內授予認證。 請務必注意，此方案僅會授予合格候選人的認證。
-
-+++
-
-+++如果在完成重新啟動要求後，我的認證仍顯示為過期，怎麼辦？
-
-很遺憾，認證一旦過期，即無法延長。 在這種情況下，會核發新憑證，而不是更新舊憑證。
+>[!NOTE]
+>
+>重新啟動計畫已於2023年10月20日結束。 此為一次性服務，日後不會再出現。
 
 +++
 
