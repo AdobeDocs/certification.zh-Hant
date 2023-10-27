@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: b6f4b0796e4d67efe7457f582fb97f9b4d5727db
+source-git-commit: 63a6ec27ef65f9c5a68539d1d8ffcd3395cef753
 workflow-type: tm+mt
 source-wordcount: '2812'
 ht-degree: 2%
@@ -299,7 +299,7 @@ ht-degree: 2%
 
 請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 第一。 然後，若要更新您的認證，請按一下Adobe [!DNL Marketo Engage] 商務從業者專家更新連結如下。
 
-[！BADGE取得Adobe [!DNL Marketo Engage] 商務從業者專家更新考試AD5-E836]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[！BADGE取得Adobe [!DNL Marketo Engage] 商務從業者專家更新考試AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
 
 >[!NOTE]
 >
