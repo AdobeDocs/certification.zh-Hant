@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="考試AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 7473424c80c0df6d796910b18f1d770b2a30fe1c
+source-git-commit: 954e46f77812963518b858e75669cf98183c4a44
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '821'
 ht-degree: 1%
 
 ---
@@ -17,10 +17,6 @@ ht-degree: 1%
 # Adobe的認證歷程 [!DNL Marketo Engage] 架構師Master
 
 {{intro}}
-
->[!NOTE]
->
->這是最新的Adobe [!DNL Marketo Engage] 架構師主要考試。 如果您已開始學習或已排程 [較舊版本](ame-m-architect.md)，您必須在2023年10月31日之前完成考試。
 
 ## 考試說明 {#exam-description}
 
