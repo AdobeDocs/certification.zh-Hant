@@ -1,13 +1,13 @@
 ---
-title: Audience Manager認證概述
-description: Adobe Audience Manager的認證選項概觀
+title: Audience Manager 概述
+description: Adobe Experience Manager 認證選項概觀
 solution: Audience Manager
 product: Audience Manager
-exl-id: a278740d-7175-4e23-8b46-310dbf6fd97f
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+exl-id: aeeef127-446c-4d22-8791-b93ea755545a
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 4%
+ht-degree: 14%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 4%
 
 **專業**
 
-* [商務從業人員](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
+* [商業從業人員](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
 
 **專家**
 
-* [商務從業人員](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
+* [商業從業人員](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
 
 **主版**
 

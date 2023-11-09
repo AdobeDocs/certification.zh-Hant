@@ -3,11 +3,11 @@ title: Campaign Classic認證概述
 description: Adobe Campaign Classic 認證選項概觀
 solution: Campaign, Campaign Classic v7
 version: Classic v7
-exl-id: 70d2e3e2-5e58-43e2-b093-15cdb16f0a0c
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+exl-id: c80ad5d1-6245-4c99-b4ac-97b8dc48e80f
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 28%
+ht-degree: 38%
 
 ---
 
@@ -15,12 +15,12 @@ ht-degree: 28%
 
 **專業**
 
-* [商務從業人員](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
+* [商業從業人員](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
 * [Developer](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
 
 **專家**
 
-* [商務從業人員](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
+* [商業從業人員](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
 * [Developer](/help/certifications/acc/acc-e-developer.md) <!--AD0-E330-->
 
 **主版**

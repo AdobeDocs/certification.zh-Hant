@@ -3,11 +3,11 @@ title: Analytics認證概述
 description: Adobe Analytics 認證選項概觀
 solution: Analytics
 product: Analytics
-exl-id: e765bf4c-e0bc-45d7-a5c7-f501aad7fdd2
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '41'
-ht-degree: 26%
+ht-degree: 36%
 
 ---
 
@@ -15,12 +15,12 @@ ht-degree: 26%
 
 **專業**
 
-* [商務從業人員](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
+* [商業從業人員](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
 * [Developer](/help/certifications/aa/aa-p-developer.md) <!--AD0-E213-->
 
 **專家**
 
-* [商務從業人員](/help/certifications/aa/aa-e-business.md) <!--AD0-E208-->
+* [商業從業人員](/help/certifications/aa/aa-e-business.md) <!--AD0-E208-->
 * [Developer](/help/certifications/aa/aa-e-developer.md) <!--AD0-E209-->
 
 **主版**
