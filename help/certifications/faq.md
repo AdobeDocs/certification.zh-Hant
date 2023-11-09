@@ -1,20 +1,20 @@
 ---
 title: 常見問題集
-description: 取得有關 Adobe 認證計劃問題的答案。了解認證的好處、如何註冊以及聯絡窗口。
+description: 取得有關Adobe數位體驗認證計畫問題的解答。 了解認證的好處、如何註冊以及聯絡窗口。
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 8f1f4244c9184a1b99d29fc0b48e4ca9992264bd
+source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
 workflow-type: tm+mt
-source-wordcount: '2344'
-ht-degree: 1%
+source-wordcount: '2348'
+ht-degree: 0%
 
 ---
 
 # Adobe認證常見問題集
 
-若要進一步瞭解Adobe認證計畫，請參閱以下的常見問題集(FAQ)。
+若要瞭解有關Adobe數位體驗認證計畫的詳細資訊，請參閱以下常見問題集(FAQ)。
 
 ![橫幅](/help/certifications/assets/home_banner_narrow.png)
 
