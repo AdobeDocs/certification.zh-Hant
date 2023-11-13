@@ -6,7 +6,7 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: 72c191b0f6c62776b9cd02e1ae504d105ae6b827
+source-git-commit: 11fd762f20fc6f16fe31e919775b0260ebc41b8b
 workflow-type: tm+mt
 source-wordcount: '2066'
 ht-degree: 11%
@@ -92,43 +92,43 @@ ht-degree: 11%
 
 **區段1**
 
-* [編寫內容片段](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=zh-Hant)
-* [關於Adobe Experience Manager Assets as a DAM解決方案](https://experienceleague.adobe.com/docs/experience-manager-65/assets/assets.html)
-* [Adobe Experience Manager資產支援的格式](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html#:~:text=Not%20applicable-,Supported%20raster%20image%20formats%20in%20Experience%20Manager,-The%20supported%20raster)
-* [概觀](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transformer/overview.html)
-* [AEM Forms簡介](https://experienceleague.adobe.com/docs/experience-manager-65/forms/getting-started/introduction-aem-forms.html)
-* [標籤頁面](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-tagging-feature-video-use.html)
+* [編寫內容片段](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=zh-Hant){target="_blank"}
+* [關於Adobe Experience Manager Assets as a DAM解決方案](https://experienceleague.adobe.com/docs/experience-manager-65/assets/assets.html){target="_blank"}
+* [Adobe Experience Manager資產支援的格式](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html#:~:text=Not%20applicable-,Supported%20raster%20image%20formats%20in%20Experience%20Manager,-The%20supported%20raster){target="_blank"}
+* [概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transformer/overview.html){target="_blank"}
+* [AEM Forms簡介](https://experienceleague.adobe.com/docs/experience-manager-65/forms/getting-started/introduction-aem-forms.html){target="_blank"}
+* [標籤頁面](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-tagging-feature-video-use.html){target="_blank"}
 
 **區段2**
 
-* [設定對 AEM as a Cloud Service 的存取權限](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/overview.html#:~:text=The%20AEM%20Users%20product%20profile%20affords%20users%20read%2Donly%20access%20to%20AEM%20via%20membership%20in%20AEM%E2%80%99s%20Contributors%20group.)
-* [AEM 使用者、群組和權限](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/aem-users-groups-and-permissions.html)
-* [Sitemap](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/seo/sitemaps.html)
-* [Adobe Experience Manager與Creative Cloud整合最佳實務](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/aem-cc-integration-best-practices.html)
-* [AEM-CIF核心元件與Adobe Experience Platform整合](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html)
-* [使用者管理與安全性](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html)
-* [Admin Console概觀](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)
-* [AEM發佈](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/publish.html)
+* [設定對 AEM as a Cloud Service 的存取權限](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/overview.html#:~:text=The%20AEM%20Users%20product%20profile%20affords%20users%20read%2Donly%20access%20to%20AEM%20via%20membership%20in%20AEM%E2%80%99s%20Contributors%20group.){target="_blank"}
+* [AEM 使用者、群組和權限](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/aem-users-groups-and-permissions.html){target="_blank"}
+* [Sitemap](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/seo/sitemaps.html){target="_blank"}
+* [Adobe Experience Manager與Creative Cloud整合最佳實務](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/aem-cc-integration-best-practices.html){target="_blank"}
+* [AEM-CIF核心元件與Adobe Experience Platform整合](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html){target="_blank"}
+* [使用者管理與安全性](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html){target="_blank"}
+* [Admin Console概觀](https://helpx.adobe.com/tw/enterprise/using/admin-console.html){target="_blank"}
+* [AEM發佈](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/publish.html){target="_blank"}
 
 **區段3**
 
-* [AEM Screens 簡介](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/introduction.html)
-* [透過AEMas a Cloud Service強化您的數位體驗](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3)
-* [Adobe Experience Manager as a Headless CMS 簡介](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html)
-* [從建立到傳遞，管理產品、說明和支援內容。](https://business.adobe.com/products/experience-manager/guides/aem-guides.html)
-* [Experience Manager Assets Brand Portal概觀](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html)
-* [專案角色與責任](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html)
-* [新增頁面註解](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/annotations.html)
-* [製作頁面的快速入門手冊](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/getting-started/quick-start.html)
-* [透過AEM Assets使用連線資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/connected-assets.html)
-* [規劃](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/planning.html#before-you-start)
-* [定義測試案例](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/test-cases.html)
+* [AEM Screens 簡介](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/introduction.html){target="_blank"}
+* [透過AEMas a Cloud Service強化您的數位體驗](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3){target="_blank"}
+* [Adobe Experience Manager as a Headless CMS 簡介](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html){target="_blank"}
+* [從建立到傳遞，管理產品、說明和支援內容。](https://business.adobe.com/products/experience-manager/guides/aem-guides.html){target="_blank"}
+* [Experience Manager Assets Brand Portal概觀](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
+* [專案角色與責任](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html){target="_blank"}
+* [新增頁面註解](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/annotations.html){target="_blank"}
+* [編寫頁面的快速入門手冊](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/getting-started/quick-start.html){target="_blank"}
+* [透過AEM Assets使用連線資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/connected-assets.html){target="_blank"}
+* [規劃](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/planning.html#before-you-start){target="_blank"}
+* [定義測試案例](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/test-cases.html){target="_blank"}
 
 **區段4**
 
-* [啟動](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html)
-* [使用工作流程編輯器](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/workflow/use-the-workflow-editor.html)
-* [Assets 管理員搜尋邊欄](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/assets-admin-search-rail.html#:~:text=The%20Assets%20admin%20search%20rail,using%20custom%20criteria%20in%20Omnisearch.&amp;text=The%20asset%20set%20in%20Search，邊欄%20configuration%20for%20AEM%20assets。)
+* [啟動](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html){target="_blank"}
+* [使用工作流程編輯器](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/workflow/use-the-workflow-editor.html){target="_blank"}
+* [Assets 管理員搜尋邊欄](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/assets-admin-search-rail.html#:~:text=The%20Assets%20admin%20search%20rail,using%20custom%20criteria%20in%20Omnisearch.&amp;text=The%20asset%20set%20in%20Search，邊欄%20configuration%20for%20AEM%20assets。){target="_blank"}
 
 ## 更新您的認證
 
@@ -139,6 +139,8 @@ ht-degree: 11%
 >[!NOTE]
 >
 >這項考試是免費的、公開的，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等待 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
+
++++
 
 +++Adobe [!DNL Experience Manager] 開發人員專業版
 
