@@ -8,10 +8,10 @@ level: Experienced
 badge: label="考試AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 7e8e35f64fad7e82c6560eac5ba04d1e9ebbd937
 workflow-type: tm+mt
-source-wordcount: '946'
-ht-degree: 11%
+source-wordcount: '958'
+ht-degree: 10%
 
 ---
 
@@ -111,6 +111,14 @@ ht-degree: 11%
 * 識別共同作業的意義 [!DNL Adobe Analytics] 變數錯誤。
 * 在案例中，找出應遵循的測試和偵錯驗證最佳實務。
 * 識別如何追蹤 [!DNL Adobe Analytics] 伺服器呼叫(即從信標請求到顯示在報表中。)
+
+<br>
+
+### 整備問卷
+
+{{readiness}}
+
+[參加線上整備問卷](https://sei.caveon.com/launchpad/ad-q-e213-readiness-questionnaire-for-adobe-analytics-developer-professional-exam){target="_blank"}
 
 <br>
 
