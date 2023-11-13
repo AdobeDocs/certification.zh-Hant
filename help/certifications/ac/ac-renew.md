@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
+source-git-commit: 5bd6a4adbb5bc4317af1a500c3216b056a5328f9
 workflow-type: tm+mt
-source-wordcount: '2490'
+source-wordcount: '2044'
 ht-degree: 2%
 
 ---
@@ -32,73 +32,19 @@ ht-degree: 2%
 
 >[!TAB 專業]
 
->[!NOTE]
->
->所有Adobe Commerce Professional認證的持續學習更新方法將 **2023年11月10日停止提供**. 這些認證仍可透過續約考試免費續約。
++++ Adobe [!DNL Commerce] 商務從業者專業人士
 
-## 免費連續學習更新適用於：
+## 您必須擁有下列專案 **主要** 使用此方法續約的認證：
 
-[!DNL Adobe Commerce] 商務從業者專業人士
-[!DNL Adobe Commerce] 開發人員專業版
-[!DNL Adobe Commerce] 前端開發人員專業版
+* Adobe [!DNL Commerce] 商務從業者專業人士
 
-+++檢視持續學習的詳細資訊
-
-### 您必須至少具備下列其中一項 **主要** 要更新的認證：
-
-* [!DNL Adobe Commerce] 商務從業者專業人士
-* [!DNL Adobe Commerce] 開發人員專業版
-* [!DNL Adobe Commerce] 前端開發人員專業版
-
-### 更新您的應用程式的相關指示 [!DNL Adobe Commerce] 認證
-
-* **步驟1：** 已成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
-* **步驟2：** 學習Experience League的課程
-* **步驟3：** 從下列選項中選擇，以完成續約。
-
-  **選項A：**
-選取 **三個課程** 完成及通過每個課程評估，分數為80%或以上。 課程評量是免費、隨選、非監督及公開的。 您可以重複這些課程，直到成功通過80%的評量為止。
-
-  **選項B：**
-首先，選取 **兩個課程** 完成及通過每個課程評估，分數為80%或以上。 課程評量是免費、隨選、非監督及公開的。 您可以重複這些課程，直到成功通過80%的評量為止。
-
-  第二， **提交客戶推薦表單** 以獲得Adobe認證的個人身分，驗證您是否已繼續領導和/或參與Adobe Experience Cloud實作專案。 本表確認您在認證續約2年期間參與了至少100小時的示範專案參與。
-
-  [客戶參考表 [!DNL Adobe Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA711){target="_blank"}
-
-  當您的客戶參考資料經過稽核後，Adobe認證團隊會通知您。 如果您的參考未被接受，只要是在憑證過期之前，您就可以再次提交直到成功。
-
->[!NOTE]
->
->如果您保留多個 [!DNL Adobe Commerce] 專家及主要認證，僅需完成一項認證的更新要求，其餘認證會自動更新。
-
-### 適用於專業人士的課程與課程評估：
-
-| 專業課程 | 課程評估 |
-| ------- | ------- |
-| [Adobe [!DNL Commerce] 電子商務趨勢](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA714](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA714){target="_blank"} |
-| [Adobe [!DNL Commerce] 個人化](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA715](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA715){target="_blank"} |
-| [Adobe [!DNL Commerce] AI自動化](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA716](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA716){target="_blank"} |
-| [[!DNL Commerce]：與Experience Platform及其他專案的資料整合](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA720](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA720){target="_blank"} |
-| [[!DNL Commerce]：Adobe上的可撰寫商務 [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA721](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA721){target="_blank"} |
-
-+++
-
-## 免費的隨選測驗續約可供Adobe使用 [!DNL Commerce] 商務從業者專業人士
-
-+++檢視考試詳細資料
-
-### 您必須擁有下列專案 **主要** 使用此方法續約的認證：
-
-Adobe Commerce商業從業者專業人士
-
-### 續約認證的說明：
+## 續約認證的說明：
 
 * **步驟1**：已成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
 * **步驟2**：檢閱考試目標和資源
 * **步驟3**：考試及格
 
-### 準備就緒
+## 準備就緒
 
 **考試詳細資料：**
 
@@ -112,21 +58,36 @@ Adobe Commerce商業從業者專業人士
 
 **範圍和目標：**
 
-**第1節：Magento Open Source核心功能(54%)**
+第1節：Magento Open Source核心功能(54%)
 
-識別Magento Open Source的功能區分正確的範圍及何時使用每個產品目錄管理的知識使用Magento Open Source功能操控定價描述標準客戶歷程描述標準訂單生命週期描述與商店維護相關的日常工作說明不同型別的內容元素及何時使用
+* 識別Magento Open Source功能
+* 區分正確範圍及何時使用
+* 展示目錄管理的知識
+* 使用Magento Open Source功能操控定價
+* 說明標準客戶歷程
+* 說明標準訂單生命週期
+* 說明與商店維護相關的日常工作
+* 說明不同型別的內容元素及使用時機
 
-**第2節：Adobe Commerce基本知識(14%)**
+第2節：Adobe Commerce基本知識(14%)
 
-識別Adobe Commerce中可用的主要功能識別Adobe Commerce中的服務附加元件識別Adobe Commerce的託管選項
+* 識別Adobe Commerce中可用的主要功能
+* 識別Adobe Commerce中的服務附加元件
+* 識別Adobe Commerce的託管選項
 
-**第3節：數位行銷和電子商務基礎知識(22%)**
+第3節：數位行銷和電子商務基礎知識(22%)
 
-識別Adobe Commerce中可用的主要功能識別Adobe Commerce中的服務附加元件識別Adobe Commerce的託管選項識別電子商務網站的主要功能識別基本電子商務概念
+* 識別Adobe Commerce中可用的主要功能
+* 識別Adobe Commerce中的服務附加元件
+* 識別Adobe Commerce的託管選項
+* 識別電子商務網站的主要功能
+* 識別基本電子商務概念
 
-**第4節：法規遵循/安全性基本知識(10%)**
+第4節：法規遵循/安全性基本知識(10%)
 
-瞭解隱私權法規與付款安全性規範的基本概念識別Adobe Commerce專案的常見安全性層面識別協助工具規範的最佳實務與法律要求
+* 瞭解隱私權法規與付款安全性合規的基本概念
+* 識別Adobe Commerce專案的常見安全性問題
+* 確定無障礙法規遵循的最佳實務和法律要求
 
 ### 準備
 
@@ -136,10 +97,10 @@ Adobe Commerce商業從業者專業人士
 
 **區段1**
 
-* [Adobe Commerce 內容和設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html){target="_blank"}
+* [ [!DNL Commerce] Adobe 內容和設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html){target="_blank"}
 * [Widget](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
-* [Adobe Commerce 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html){target="_blank"}
-* [Adobe Commerce商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
+* [Adobe [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html){target="_blank"}
+* [Adobe [!DNL Commerce] 商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
 * [店面品牌](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/storefront-branding.html){target="_blank"}
 * [新增客戶變數](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html){target="_blank"}
 * [購物車價格規則](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart.html){target="_blank"}
@@ -168,10 +129,10 @@ Adobe Commerce商業從業者專業人士
 **區段4**
 
 * [GDPR](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/privacy/gdpr.html){target="_blank"}
-* [Adobe Commerce安全性最佳實務](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf){target="_blank"}
+* [Adobe [!DNL Commerce] 安全性最佳實務](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf){target="_blank"}
 * [如何使您的電子商務網站符合ADA標準](https://business.adobe.com/blog/perspectives/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
 
-### 更新您的認證
+## 更新您的認證
 
 更新您的Adobe [!DNL Commerce] 商務從業人員專業認證：
 
@@ -192,21 +153,19 @@ Adobe Commerce商業從業者專業人士
 
 +++
 
-## 免費的隨選測驗續約可供Adobe使用 [!DNL Commerce] 開發人員專業版
++++Adobe [!DNL Commerce] 開發人員專業版
 
-+++檢視考試詳細資料
-
-### 您目前的認證（未過期）應該位於：
+## 您必須擁有下列專案 **主要** 使用此方法續約的認證：
 
 Adobe [!DNL Commerce] 開發人員專業版
 
-### 續約認證的說明：
+## 續約認證的說明：
 
 * **步驟1**：已成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
 * **步驟2**：檢閱考試目標和資源
 * **步驟3**：考試及格
 
-### 準備就緒
+## 準備就緒
 
 **考試詳細資料：**
 
@@ -222,29 +181,60 @@ Adobe [!DNL Commerce] 開發人員專業版
 
 **第1節：與管理員合作(7%)**
 
-說明ACL如何使用角色和資源識別建立或修改管理網格/表單時要使用的元件識別建立商店/管理設定和選單專案時要使用的檔案
+* 說明ACL如何與角色和資源搭配運作
+* 識別建立或修改管理網格/表單時要使用的元件
+* 識別建立商店/管理員設定和功能表專案時要使用的檔案
 
 **第2節：架構(36%)**
 
-描述Magento檔案結構描述MagentoCLI命令描述cron功能給定案例，描述di.xml的使用情況給定案例，建立控制器描述模組結構描述索引功能描述本地化描述外掛程式、偏好設定、事件觀察者和攔截器描述自訂模組路由描述URL重寫描述Magento快取系統描述商店、網站和商店檢視（基本瞭解）
+* 說明Magento檔案結構
+* 說明MagentoCLI命令
+* 說明cron功能
+* 給定一個案例，說明di.xml的用法
+* 指定情境，建立控制器
+* 說明模組結構
+* 說明索引功能
+* 說明本地化
+* 說明外掛程式、偏好設定、事件觀察器和攔截器
+* 說明自訂模組路由
+* 說明URL重寫
+* 說明Magento快取系統
+* 說明商店、網站和商店檢視（基本瞭解）
 
 **第3節：EAV/資料庫(17%)**
 
-給定一個情境，變更/新增/移除屬性集和/或屬性描述不同型別的屬性給定一個情境，使用DB綱要來改變資料庫表格描述模型、資源模型和集合描述實體屬性值(EAV)的基本知識
+* 給定一個情境，變更/新增/移除屬性集和/或屬性
+* 說明不同型別的屬性
+* 指定情境，使用資料庫綱要來變更資料庫表格
+* 說明模型、資源模型和集合
+* 說明實體屬性值(EAV)的基本概念
 
 **第4節：配置/UI (18%)**
 
-說明CMS頁面和區塊的使用情況給定案例，修改版面設定給定案例，修改頁面樣式說明主題結構給定案例，使用JavaScript檔案（基本）說明客戶資料的前端使用情況
+* 說明CMS頁面和區塊的使用方式
+* 指定情境，修改版面
+* 指定情境，修改頁面樣式
+* 說明主題結構
+* 在情景中，使用JavaScript檔案（基本）
+* 說明客戶資料的前端使用情況
 
 **第5節：結帳與銷售(12%)**
 
-說明購物車元件說明購物車促銷規則給定案例，說明基本的結帳修改給定案例，說明報價資料的基本使用給定案例，設定付款和運送方式給定案例，設定稅捐規則、貨幣、購物車和/或結帳
+* 說明購物車元件
+* 描述購物車促銷規則
+* 指定情境，說明基本的結帳修改
+* 在案例中，說明報價資料的基本用法
+* 在案例中，設定付款和送貨方法
+* 在案例中，設定稅捐規則、貨幣、購物車及/或結帳
 
 **區段6：目錄(10%)**
 
-識別類別管理與產品管理的基本知識描述產品型別描述價格規則描述價格型別
+* 識別類別管理和產品管理的基本知識
+* 說明產品型別
+* 說明價格規則
+* 說明價格型別
 
-### 準備
+## 準備
 
 您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
@@ -301,7 +291,7 @@ Adobe [!DNL Commerce] 開發人員專業版
 * [目錄價格規則](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
 * [群組定價](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
 
-### 更新您的認證
+## 更新您的認證
 
 更新您的Adobe [!DNL Commerce] 開發人員專業認證：
 
