@@ -1,32 +1,36 @@
 ---
 title: 認證續約
-description: 瞭解如何更新Adobe [!DNL Campaign Standard] 憑證過期前的認證。
+description: 瞭解如何更新Adobe [!DNL Campaign Standard] 認證過期之前。
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '1404'
+source-wordcount: '1445'
 ht-degree: 11%
 
 ---
 
-# 續約您的Adobe [!DNL Campaign Standard] 認證
+# 更新您的Adobe [!DNL Campaign Standard] 認證
 
-您的Adobe認證有效期為兩年。 如果您快要達到兩年期限，就應該更新您的認證，以保持其作用中。
+您的Adobe認證有效期為兩年。 如果您快要迎來兩年的成績，是時候更新您的認證以保持其作用中了。
 
-首先，在下列標籤上選取適當的層級（「專業」、「專家」或「主要」）。 接著，請仔細檢閱更新認證所需執行的動作。
+首先，在下方標籤上選取適當的層級（專業、專家或主版）。 接著，請仔細檢閱更新認證所需的動作。
 
 在認證過期之前，請務必提供足夠的時間完成所有需求。
 
-請務必注意，如果認證過期，您必須重新參加認證考試，這並非免費。
+請務必注意，如果認證過期，您必須重新參加認證考試，此考試並非免費。
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>**請先登入：** 下列連結將可運作 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**若要共用連結：** 如果您想要與同事分享更新考試或評量的連結，請連結至整體考試更新頁面，而非考試本身的URL，以避免登入問題。
 
 >[!BEGINTABS]
 
@@ -38,17 +42,17 @@ ht-degree: 11%
 
 >[!TAB 專家]
 
-+++Adobe [!DNL Campaign Standard] 商務從業人員專家續約
++++Adobe [!DNL Campaign Standard] 商務從業者專家續約
 
 您目前的認證（未過期）應該位於：
 
 * Adobe [!DNL Campaign Standard] 商務從業者專家
 
-## 更新認證的說明：
+## 續約認證的說明：
 
-* **步驟1**：成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟1**：已成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
 * **步驟2**：檢閱考試目標和資源
-* **步驟3**：參加並通過測驗
+* **步驟3**：考試及格
 
 ### 準備就緒
 
@@ -56,7 +60,7 @@ ht-degree: 11%
 
 * 及格分數：23/30
 * 時間：110分鐘
-* 費用：免費/非保管
+* 費用：免費/非託管
 * 傳遞：隨選
 * 可用語言：英文
 * 先決條件：目前（未過期）Adobe [!DNL Campaign Standard] 商務從業人員專家認證
@@ -73,7 +77,7 @@ ht-degree: 11%
 
 第2節：傳遞管理
 
-* 根據範例需求，設計和設定傳送
+* 根據範例需求，設計和設定傳遞
 * 在傳遞設計中套用最佳實務
 
 第3節：工作流程設計和執行
@@ -82,17 +86,17 @@ ht-degree: 11%
 * 識別目標：資料收集、細分、對象、清單、篩選
 * 根據使用案例，識別主要行銷相關表格的使用
 
-第4節：管理、監督及報告
+第4節：管理、監控及報告
 
-* 解釋傳遞錯誤記錄檔並識別及解決工作流程錯誤
-* 判斷和衡量傳遞和行銷活動的成功
+* 解譯傳遞錯誤記錄檔並識別及解決工作流程錯誤
+* 判斷和衡量傳遞與行銷活動的成功
 * 識別存取許可權和已命名的許可權
 
-## 準備就緒
+## 準備
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **第1節：行銷活動管理**
 
@@ -112,13 +116,13 @@ ht-degree: 11%
 
 ## 更新您的認證
 
-請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要更新考試，請按一下 [!DNL Campaign Standard] 商務從業者續約 — 下方的AD5-822連結。
+請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 第一。 然後，若要更新考試，請按一下 [!DNL Campaign Standard] 商務從業者續約 — 下方的AD5-822連結。
 
-* [[!DNL Campaign Standard] 商務從業人員續約 — AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
+* [[!DNL Campaign Standard] 商務從業者續約 — AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
 >[!NOTE]
 >
->此測驗是免費的、公開的書本，而且沒有監考。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
+>這項考試是免費的、公開的，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等待 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
 +++
 
@@ -128,11 +132,11 @@ ht-degree: 11%
 
 * Adobe [!DNL Campaign Standard] 開發人員專家
 
-## 更新認證的說明：
+## 續約認證的說明：
 
-* **步驟1**：成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟1**：已成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
 * **步驟2**：檢閱考試目標和資源
-* **步驟3**：參加並通過測驗
+* **步驟3**：考試及格
 
 ### 準備就緒
 
@@ -140,7 +144,7 @@ ht-degree: 11%
 
 * 及格分數：23/30
 * 時間：60分鐘
-* 費用：免費/非保管
+* 費用：免費/非託管
 * 傳遞：隨選
 * 可用語言：英文
 * 先決條件：目前（未過期）Adobe [!DNL Campaign Standard] 開發人員專家認證
@@ -150,19 +154,19 @@ ht-degree: 11%
 
 第1節：資料模型化與管理(30%)
 
-* 套用程式，以在不同使用案例中使用API介面
+* 套用程式，以跨不同使用案例利用API介面
 * 套用程式以建立自訂資源
 * 決定指派資料模型最佳實務的正確策略
 * 建議使用匯入或匯出工作流程的方法
 
 區段2：Campaign Management (40%)
 
-* 指定情境，識別事件觸發程式
+* 指定情境，識別事件觸發器
 * 說明調解程式
-* 設定傳遞的自訂報告
+* 設定傳遞的自訂報表
 * 決定設定通訊通道的正確方法（即時和非即時）
 * 說明設定及個人化登入頁面的程式
-* 特定情況下，疑難排解工作流程錯誤和整合
+* 在特定情況下，疑難排解工作流程錯誤和整合
 * 識別新Campaign功能的使用案例
 
 第3節：管理(30%)
@@ -175,11 +179,11 @@ ht-degree: 11%
 * 套用程式以匯入和匯出組態套件
 * 建議管理使用者存取和許可權或組織結構的程式
 
-## 準備就緒
+## 準備
 
-您不必在參加考試前完成訓練，僅靠訓練無法提供通過考試所需的知識和技能。 培訓與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
 
-以下是一些協助您準備的建議資源：
+以下是一些可幫助您準備的建議資源：
 
 **第1節：資料模型化與管理**
 
@@ -226,13 +230,13 @@ ht-degree: 11%
 
 ## 更新您的認證
 
-請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 首先。 然後，若要更新您的認證，請按一下 [!DNL Campaign Standard] 開發人員續約 — 下方的AD5-821連結。
+請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 第一。 然後，若要更新您的認證，請按一下 [!DNL Campaign Standard] 開發人員續約 — 下方的AD5-821連結。
 
 * [[!DNL Campaign Standard] 開發人員續約 — AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 
 >[!NOTE]
 >
->此測驗是免費的、公開的書，且非監考。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
+>這項考試是免費的、公開的、非監督的。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等待 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
 +++
 

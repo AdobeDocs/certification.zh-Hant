@@ -1,5 +1,5 @@
 ---
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
 source-wordcount: '1741'
 ht-degree: 0%
@@ -218,3 +218,5 @@ Adobe使用Examity管理線上監考的考試。 在測驗入口網站中，您�
 ## 續約您的認證 {#renewing-intro}
 
 認證將在兩年後到期。 若要維護您的認證，您必須在認證過期之前進行更新。 造訪 [更新您的認證](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} 頁面以取得詳細資訊。
+
+<!--divider-->

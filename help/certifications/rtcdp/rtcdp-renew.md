@@ -1,6 +1,6 @@
 ---
 title: 認證續約
-description: 瞭解如何更新 [!DNL Experience Platform] 中的認證 [!DNL Real-Time Customer Data Platform].
+description: 瞭解如何更新您的 [!DNL Experience Platform] 中的認證 [!DNL Real-Time Customer Data Platform].
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
@@ -8,26 +8,30 @@ recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
-source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---
 
-# 續約您的Adobe [!DNL Real-Time CDP] 認證
+# 更新您的Adobe [!DNL Real-Time CDP] 認證
 
-您的Adobe認證有效期為兩年。 如果您快要達到兩年期限，就應該更新您的認證，以保持其作用中。
+您的Adobe認證有效期為兩年。 如果您快要迎來兩年的成績，是時候更新您的認證以保持其作用中了。
 
-首先，在下列標籤上選取適當的層級（「專業」、「專家」或「主要」）。 接著，請仔細檢閱更新認證所需執行的動作。
+首先，在下方標籤上選取適當的層級（專業、專家或主版）。 接著，請仔細檢閱更新認證所需的動作。
 
 在認證過期之前，請務必提供足夠的時間完成所有需求。
 
-請務必注意，如果認證過期，您必須重新參加認證考試，這並非免費。
+請務必注意，如果認證過期，您必須重新參加認證考試，此考試並非免費。
 
 >[!IMPORTANT]
 >
->以下章節和連結將發揮作用 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>**請先登入：** 下列連結將可運作 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**若要共用連結：** 如果您想要與同事分享更新考試或評量的連結，請連結至整體考試更新頁面，而非考試本身的URL，以避免登入問題。
 
 >[!BEGINTABS]
 
@@ -41,7 +45,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->專家續約即將推出。
+>專家更新即將推出。
 
 >[!ENDTABS]
 
