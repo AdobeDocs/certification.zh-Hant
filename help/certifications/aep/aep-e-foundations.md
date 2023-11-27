@@ -7,13 +7,13 @@ role: Developer
 badge: label="考試AD0-E600與AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
+source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
 workflow-type: tm+mt
-source-wordcount: '1424'
-ht-degree: 8%
+source-wordcount: '1318'
+ht-degree: 9%
 
 ---
-
 
 # Adobe的認證歷程 [!DNL Experience Platform] 專家
 
@@ -23,9 +23,7 @@ ht-degree: 8%
 
 {{exam-description}}
 
->[!IMPORTANT]
->
->Adobe [!DNL Experience Platform] 專家認證目前需要通過兩項考試： **Adobe [!DNL Experience Platform] 技術基礎(AD0-E600)** 和 **Adobe [!DNL Real-Time CDP] 技術從業人員(AD7-E601)**. 自2023年11月1日起，將推出新的測驗，而這只是此認證所需的測驗。
+
 
 <br>
 
@@ -208,8 +206,6 @@ AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知�
 <br>
 
 ## 需求#2：Adobe的資訊 [!DNL Real-Time CDP] 技術從業人員(AD7-E601) {#req-2}
-
-AD7-E601考試涵蓋建立、管理和瞭解客戶個人檔案、細分、跨來源的目的地和其他主題。 該測驗會驗證採用Real-time CDP進行受眾細分、目的地匯出和即時啟用以符合資料和隱私權法規的統一設定檔所需的基礎技能和知識。 應徵者應具備客戶資料平台(CDP)經驗和Adobe知識 [!DNL Experience Platform].
 
 <br>
 

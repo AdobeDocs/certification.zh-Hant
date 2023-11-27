@@ -8,10 +8,10 @@ recommendations: disable, exclude
 badge: label="考試AD0-E600與AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
 workflow-type: tm+mt
-source-wordcount: '1404'
-ht-degree: 8%
+source-wordcount: '1385'
+ht-degree: 9%
 
 ---
 
@@ -22,10 +22,6 @@ ht-degree: 8%
 ## 考試說明 {#exam-description}
 
 {{exam-description}}
-
->[!IMPORTANT]
->
->Adobe [!DNL Real-Time Customer Data Platform] 專家認證需要通過兩個考試： **Adobe [!DNL Experience Platform] 技術基礎(AD0-E600)** 和 **Adobe [!DNL Real-Time CDP] 技術從業人員(AD7-E601)**.
 
 <br>
 
