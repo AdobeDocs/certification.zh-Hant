@@ -4,9 +4,9 @@ description: 瞭解如何獲得Adobe認證。 在取得認證之前、期間和�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 0fb6103fcb33878235ca93a16fc5ddedb66442c5
+source-git-commit: 229674d0a8441d8e369b995449a8093bfa01657e
 workflow-type: tm+mt
-source-wordcount: '1553'
+source-wordcount: '1550'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,10 @@ ht-degree: 1%
 >[!TIP]
 >
 >**本店年終特價從網購星期一開始！**<br>
->從11月27日到12月31日，從Adobe數位體驗認證計畫取得認證考試憑單的50%優惠。 此優惠方案只有在您透過以下方式購買時才有效： [Adobe認證憑單中心](https://experienceleague.adobe.com/docs/analytics/analyze/home.html). 使用促銷代碼 **Holiday2023** 結帳時。 <br><i>此優惠方案僅適用於提及的時間範圍，且僅適用於新訂單，不適用於先前進行的購買。 憑單代碼的有效期為購買日起一年。</i>
+><br>
+>從11月27日到12月31日，從Adobe數位體驗認證計畫取得認證考試憑單的50%優惠。 此優惠方案只有在您透過以下方式購買時才有效： [Adobe認證憑單中心](https://market.xvoucher.com/adobe). 使用促銷代碼 **Holiday2023** 結帳時。<br>
+><br>
+><i>此優惠方案僅適用於提及的時間範圍，且僅適用於新訂單，不適用於先前進行的購買。 憑單代碼的有效期為購買日起一年。</i>
 
 >[!BEGINTABS]
 
