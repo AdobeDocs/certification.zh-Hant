@@ -4,7 +4,7 @@ description: ' [!DNL Experience Cloud]  認證快速入門了解本計劃和本�
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 229674d0a8441d8e369b995449a8093bfa01657e
+source-git-commit: 4de79881e1a06c70a2759b7397f87335cbe8a77c
 workflow-type: tm+mt
 source-wordcount: '811'
 ht-degree: 2%
@@ -18,9 +18,7 @@ Adobe認證的設計目的，是要驗證使用數位行銷解決方案之專業
 >[!TIP]
 >
 >**本店年終特價從網購星期一開始！**<br>
-><br>
 >從11月27日到12月31日，從Adobe數位體驗認證計畫取得認證考試憑單的50%優惠。 此優惠方案只有在您透過以下方式購買時才有效： [Adobe認證憑單中心](https://market.xvoucher.com/adobe). 使用促銷代碼 **Holiday2023** 結帳時。<br>
-><br>
 ><i>此優惠方案僅適用於提及的時間範圍，且僅適用於新訂單，不適用於先前進行的購買。 憑單代碼的有效期為購買日起一年。</i>
 
 >[!BEGINTABS]
