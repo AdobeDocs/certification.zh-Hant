@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="考試AD0-E600與AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 20f5c9e848d9fdcbadfe02e9880d121a5b3ceba7
+source-git-commit: 7d13d115cb8de666444f96b9dc21a55e5124f6e3
 workflow-type: tm+mt
-source-wordcount: '1599'
+source-wordcount: '1748'
 ht-degree: 7%
 
 ---
@@ -73,7 +73,7 @@ ht-degree: 7%
 >
 ><br>
 >
->**如果您已排程考試AD0-E600**，我們強烈建議取消您的約會，並在新考試發行時重新排程。 如有疑問，請聯絡 [認證支援](mailto:certif@adobe.com){target="_blank"}.
+>**如果您已排程考試AD0-E600**，我們強烈建議您在考試入口網站取消約會（請參閱下方的步驟3），並在新考試發行時重新排程。 如有疑問，請聯絡 [認證支援](mailto:certif@adobe.com){target="_blank"}.
 
 AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知識 [!DNL Experience Platform] 專家級。
 
@@ -176,6 +176,14 @@ AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知�
 
 +++步驟3：排程並支付考試費用
 
+>[!IMPORTANT]
+>
+>AD0-E600測驗的排程已被擱置。 此測驗目前正在更新並將於以下日期發行： **2024年1月15日**. 在該日期之後，此認證只需要通過一次考試，而不是目前所需的兩次考試。
+>
+><br>
+>
+>**如果您已排程考試AD0-E600**，我們強烈建議您在考試入口網站取消約會，並在新考試發行時重新排程。 如有疑問，請聯絡 [認證支援](mailto:certif@adobe.com){target="_blank"}.
+
 {{schedule-and-pay}}
 
 +++
@@ -195,6 +203,14 @@ AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知�
 {{about-certification-exam}}
 
 ## 排程或參加考試AD0-E600
+
+>[!IMPORTANT]
+>
+>AD0-E600測驗的排程已被擱置。 此測驗目前正在更新並將於以下日期發行： **2024年1月15日**. 在該日期之後，此認證只需要通過一次考試，而不是目前所需的兩次考試。
+>
+><br>
+>
+>**如果您已排程考試AD0-E600**，我們強烈建議您在考試入口網站取消約會，並在新考試發行時重新排程。 如有疑問，請聯絡 [認證支援](mailto:certif@adobe.com){target="_blank"}.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
