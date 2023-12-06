@@ -7,14 +7,14 @@ product: Customer Journey Analytics
 badge: label="考試AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '488'
-ht-degree: 17%
+source-wordcount: '431'
+ht-degree: 2%
 
 ---
 
-# Adobe的認證歷程 [!DNL Customer Journey Analytics] 專家
+# Adobe的認證歷程 [!DNL Customer Journey Analytics] 開發人員專家
 
 {{intro}}
 
@@ -62,7 +62,7 @@ ht-degree: 17%
 * 設定具有主要身分的連線（人員ID）
 * 設定與多個資料集的連線
 * 設定資料檢視（量度/維度設定）
-* 設定 Adobe [!DNL Customer Journey Analytics]
+* 設定Adobe [!DNL Customer Journey Analytics]
 * 轉換維度和量度內的資料
 * 分析工作區基本知識（視覺效果、歸因設定、篩選器、計算量度）
 * 瞭解CJA (DULE)中的資料控管
@@ -121,26 +121,26 @@ ht-degree: 17%
 
 **區段1：連線**
 
-* [連線概觀](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html?lang=zh-Hant){target="_blank"}
+* [連線總覽](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html){target="_blank"}
 * [建立連線](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=zh-Hant){target="_blank"}
 
 **第2節：資料檢視**
 
-* [資料檢視概觀](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=zh-Hant){target="_blank"}
+* [資料檢視總覽](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=zh-Hant){target="_blank"}
 * [元件設定](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
 
 **第3節：資料驗證和疑難排解**
 
-* [資料檢視概觀](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=zh-Hant){target="_blank"}
+* [資料檢視總覽](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=zh-Hant){target="_blank"}
 * [建立或編輯資料檢視](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html){target="_blank"}
 * [元件設定](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
-* [標準元件參考](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=zh-Hant){target="_blank"}
+* [標準元件參考](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html){target="_blank"}
 
 **第4節：報告與啟用**
 
-* [視覺效果概觀](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Analysis Workspace 概觀](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
-* [資料檢視概觀](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=zh-Hant){target="_blank"}
+* [視覺效果概述](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
+* [Analysis Workspace概觀](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
+* [資料檢視總覽](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=zh-Hant){target="_blank"}
 
 <br>
 
