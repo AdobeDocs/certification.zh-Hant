@@ -7,9 +7,9 @@ role: User
 badge: label="考試AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '1104'
+source-wordcount: '948'
 ht-degree: 1%
 
 ---
@@ -82,7 +82,7 @@ ht-degree: 1%
 * Cookie行為的基本知識
 * 如何閱讀解決方案設計參考資料
 
-環境:
+環境：
 
 * 桌上型電腦/網站，包含桌上型電腦和行動裝置
 * 行動應用程式（基本瞭解）/針對行動裝置使用Target
@@ -187,7 +187,7 @@ ht-degree: 1%
 **第3節：分析和報告**
 
 * [使用個人化前瞻分析報表](https://experienceleague.adobe.com/docs/target-learn/tutorials/reports/use-the-personalization-insights-reports.html){target="_blank"}
-* [將 Target 與 Analytics 整合](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html){target="_blank"}
+* [將Target與Analytics整合](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html){target="_blank"}
 * [使用Adobe Analytics作為的資料來源 [!DNL Adobe Target] (A4T)](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/use-analytics-as-a-data-source-a4t.html){target="_blank"}
 * [在Analysis Workspace中為自動鎖定目標活動設定A4T報表](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html){target="_blank"}
 
@@ -240,14 +240,14 @@ ht-degree: 1%
 
 ## 排程或參加考試AD0-E406-J （日文）
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E406-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    前往考試入口網站 — 日文考試
 </span>
 </a>
-
-[日文排程指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 

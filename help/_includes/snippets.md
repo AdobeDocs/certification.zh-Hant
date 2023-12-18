@@ -1,7 +1,7 @@
 ---
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '1741'
+source-wordcount: '1746'
 ht-degree: 0%
 
 ---
@@ -123,7 +123,7 @@ Adobe使用名為Examity的廠商來管理排程的監考考試。 所有新的�
 
 **購買憑單**
 
-您可以使用憑單支付考試費用。 若要購買考試憑單，請前往 [Adobe認證憑單中心](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}.
+您可以使用憑單支付考試費用。 若要購買考試憑單，請前往 [Adobe認證憑單中心](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=zh-Hant){target="_blank"}.
 
 您可在排程考試時套用憑單代碼。 如需憑單折扣資訊，請參閱下文。
 
@@ -220,3 +220,9 @@ Adobe使用Examity管理線上監考的考試。 在測驗入口網站中，您�
 認證將在兩年後到期。 若要維護您的認證，您必須在認證過期之前進行更新。 造訪 [更新您的認證](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} 頁面以取得詳細資訊。
 
 <!--divider-->
+
+## 日文考試詳細資料 {#Japanese-exam-details}
+
+請安排在星期日至星期四下午5點至凌晨2點之間的考試，以確保我們能夠指派一名講日語的監考員。 如果您排程超出這些時數，我們無法保證會講日語的監護。
+
+[日文排程指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
