@@ -6,16 +6,20 @@ role: Developer
 badge: label="考試AD0-E905" type="neutral"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 3%
+source-wordcount: '736'
+ht-degree: 0%
 
 ---
 
 # Adobe的認證歷程 [!DNL Workfront] 核心開發人員專業版
 
 {{intro}}
+
+>[!NOTE]
+>
+>此考試，Adobe [!DNL Workfront] Core Developer Professional (AD0-E905)已更新。 如果您已開始學習或計畫接受此版本，請務必在2024年2月26日之前完成。 如果您正開始使用，建議您參加 [此測驗的最新版本(AD0-E908)](aw-core-p-developer-23-12.md).
 
 ## 考試說明 {#exam-description}
 
@@ -43,7 +47,7 @@ ht-degree: 3%
 * 專案協調員
 * 策略專家
 * 資源管理員
-* 分析師
+* 分析人員
 * IT專家
 * [!DNL Workfront] 實作顧問/主管
 
@@ -144,7 +148,7 @@ ht-degree: 3%
 * [建立請求佇列](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
 * [瞭解請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [自訂表單概述](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
-* [建立和分享自訂表單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
+* [建立和共用自訂表格](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
 
 **第2節：預算與規劃**
 
@@ -211,6 +215,10 @@ ht-degree: 3%
 {{about-certification-exam}}
 
 ## 排程或參加考試AD0-E905
+
+>[!NOTE]
+>
+>此考試，Adobe [!DNL Workfront] Core Developer Professional (AD0-E905)已更新。 如果您已開始學習或計畫接受此版本，請務必在2024年2月26日之前完成。 如果您正開始使用，建議您參加 [此測驗的最新版本(AD0-E908)](aw-core-p-developer-23-12.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
