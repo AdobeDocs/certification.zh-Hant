@@ -1,13 +1,13 @@
 ---
 title: 開始使用Adobe認證
-description: ' [!DNL Experience Cloud]  認證快速入門了解本計劃和本網站。'
+description: 開始使用 [!DNL Experience Cloud] 認證。 了解本計劃和本網站。
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: f3c825b8306646b870970f767db9060435865815
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '811'
-ht-degree: 2%
+source-wordcount: '825'
+ht-degree: 1%
 
 ---
 
@@ -15,9 +15,14 @@ ht-degree: 2%
 
 Adobe認證的設計目的，是要驗證使用數位行銷解決方案之專業人員的知識與技能。 使用下列標籤開始瞭解認證計畫。
 
->[!TIP]
+>[!NOTE]
 >
->**本店年終特價從網購星期一開始！** <br><br> 從11月27日到12月31日，從Adobe數位體驗認證計畫取得認證考試憑單的50%優惠。 此優惠方案只有在您透過以下方式購買時才有效： [Adobe認證憑單中心](https://market.xvoucher.com/adobe). 使用促銷代碼 **Holiday2023** 結帳時。 <br><br> <i>此優惠方案僅適用於提及的時間範圍，且僅適用於新訂單，不適用於先前進行的購買。 憑單代碼的有效期為購買日起一年。</i>
+>Adobe將於2023年12月22日至2024年1月1日關閉。 在此期間如需支援，預計會延遲回應。 感謝您的耐心等候。
+
+>[!BEGINSHADEBOX]
+>
+>**優惠券八折優惠！** <br><br> 從11月27日到12月31日，從Adobe數位體驗認證計畫取得認證考試憑單的50%優惠。 此優惠方案只有在您透過以下方式購買時才有效： [Adobe認證憑單中心](https://market.xvoucher.com/adobe). 使用促銷代碼 **Holiday2023** 結帳時。 <br><br> <i>此優惠方案僅適用於提及的時間範圍，且僅適用於新訂單，不適用於先前進行的購買。 憑單代碼的有效期為購買日起一年。</i>
+>[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 

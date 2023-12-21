@@ -1,7 +1,7 @@
 ---
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '1746'
+source-wordcount: '1769'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 ## 介紹 {#intro}
 
 本頁提供如何取得此認證的資訊。 其中包括考試說明、學習資料、認證程式的逐步指示，以及如何更新您的認證。
+
+>[!WARNING]
+>
+>Adobe將於2023年12月22日至2024年1月1日關閉。 在此期間如需支援，預計會延遲回應。 感謝您的耐心等候。
 
 <!--divider-->
 

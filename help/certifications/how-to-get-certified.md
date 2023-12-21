@@ -4,10 +4,10 @@ description: 瞭解如何獲得Adobe認證。 在取得認證之前、期間和�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: f3c825b8306646b870970f767db9060435865815
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '1550'
-ht-degree: 1%
+source-wordcount: '1503'
+ht-degree: 0%
 
 ---
 
@@ -15,13 +15,18 @@ ht-degree: 1%
 
 瞭解如何獲得Adobe認證。 在取得認證之前、期間和之後，尋找您所需的所有資源。
 
->[!TIP]
+>[!NOTE]
 >
->**本店年終特價從網購星期一開始！** <br><br> 從11月27日到12月31日，從Adobe數位體驗認證計畫取得認證考試憑單的50%優惠。 此優惠方案只有在您透過以下方式購買時才有效： [Adobe認證憑單中心](https://market.xvoucher.com/adobe). 使用促銷代碼 **Holiday2023** 結帳時。 <br><br> <i>此優惠方案僅適用於提及的時間範圍，且僅適用於新訂單，不適用於先前進行的購買。 憑單代碼的有效期為購買日起一年。</i>
+>Adobe將於2023年12月22日至2024年1月1日關閉。 在此期間如需支援，預計會延遲回應。 感謝您的耐心等候。
+
+>[!BEGINSHADEBOX]
+>
+>**優惠券八折優惠！** <br><br> 從11月27日到12月31日，從Adobe數位體驗認證計畫取得認證考試憑單的50%優惠。 此優惠方案只有在您透過以下方式購買時才有效： [Adobe認證憑單中心](https://market.xvoucher.com/adobe). 使用促銷代碼 **Holiday2023** 結帳時。 <br><br> <i>此優惠方案僅適用於提及的時間範圍，且僅適用於新訂單，不適用於先前進行的購買。 憑單代碼的有效期為購買日起一年。</i>
+>[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 
->[!TAB 報名]
+>[!TAB 註冊]
 
 Adobe使用Examity管理線上監考的考試。
 
@@ -63,9 +68,9 @@ Adobe支援或檢查都無法處理重新排程和取消請求。 48小時以內
 
 | Adobe認證 | 價格(USD) | 印度價格(USD) |
 | ------- | ------- | ------- |
-| Adobe認證專家 | $125 | $95 |
-| Adobe Certified Expert | $225 | $150 |
-| Adobe認證主版 | $225 | $150 |
+| Adobe認證專家 | 125美元 | $95 |
+| Adobe Certified Expert | 225美元 | 150美元 |
+| Adobe認證主版 | 225美元 | 150美元 |
 
 **續約價格**
 
