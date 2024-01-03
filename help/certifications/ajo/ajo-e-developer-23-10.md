@@ -5,20 +5,17 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="考試AD0-E606" type="neutral"
-source-git-commit: 2181390cb00114540230097e9d21fbc2602aad9c
+exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
+source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
 workflow-type: tm+mt
-source-wordcount: '679'
-ht-degree: 7%
+source-wordcount: '591'
+ht-degree: 1%
 
 ---
 
 # Adobe的認證歷程 [!DNL Journey Optimizer] 開發人員專家
 
 {{intro}}
-
->[!NOTE]
->
->這是最新的Adobe [!DNL Journey Optimizer] 開發人員專家測驗(AD0-E606)。 如果您已開始學習或已排程 [較舊版本](ajo-e-developer.md)，您必須在2023年12月22日之前完成。
 
 ## 考試說明 {#exam-description}
 
@@ -143,7 +140,7 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 **第4節：內容製作**
 
 * [AJO指南、SMS頻道、隱私權、設定、歷程、運算式、內容管理、追蹤和監視、推播通知頻道](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-* [Journey Optimizer 教學課程](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}
+* [Journey OptimizerTutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}
 
 **第5節：資料模型製作**
 
@@ -175,10 +172,6 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 {{about-certification-exam}}
 
 ## 排程或參加考試AD0-E606
-
->[!NOTE]
->
->這是最新的Adobe [!DNL Journey Optimizer] 開發人員專家測驗(AD0-E606)。 如果您已開始學習或已排程 [較舊版本](ajo-e-developer.md)，您必須在2023年12月22日之前完成。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
