@@ -5,9 +5,9 @@ solution: Workfront
 role: Developer
 badge: label="考試AD0-E908" type="neutral"
 mini-toc-levels: 1
-source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
+source-git-commit: 87f0c3b4ff24d750cd528009001012b6e4f5724c
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->這是最新的Adobe [!DNL Workfront] 核心開發人員專業資格考試(ADO-E908)。 如果您已開始學習或已排程 [舊版(ADO-E905)](aw-core-p-developer.md)，您必須在2024年2月26日前完成。
+>這是最新的Adobe [!DNL Workfront] 核心開發人員專業資格考試(ADO-E908)。 如果您已開始學習或已排程 [舊版(ADO-E905)](aw-core-p-developer.md)，您必須在2024年2月26日前完成。 如果您需要重新排程，則必須參加新的考試。
 
 ## 考試說明 {#exam-description}
 
