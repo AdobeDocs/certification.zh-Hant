@@ -3,9 +3,9 @@ title: Workfront認證概述
 description: Adobe Workfront 認證選項概觀
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: 922961fcab8c3cf6745d3239d112625d717b1b82
+source-git-commit: 6242b08cb1ecd63d58bd059dd3b5ac4ccd3f20f9
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '124'
 ht-degree: 7%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 7%
 
 此 **Adobe [!DNL Workfront] 核心開發人員專業版** 認證考試已更新。
 
-目前版本為： [Adobe Marketo Engage (AD0-E905)](/help/certifications/aw/aw-core-p-developer.md)
+目前版本為： [Adobe [!DNL Workfront] Core Developer Professional (AD0-E905)](/help/certifications/aw/aw-core-p-developer.md)
 
 如果您已經排程或開始學習目前的考試，請確定您已排程並完成考試 **2024年2月26日之前**.
 
-不過，如果您正開始進行認證，我們建議您參加 **新增** 測驗版本： [Adobe Marketo Engage (AD0-E908)](/help/certifications/aw/aw-core-p-developer-23-12.md)
+不過，如果您正開始進行認證，我們建議您參加 **新增** 測驗版本： [Adobe [!DNL Workfront] Core Developer Professional (AD0-E908)](/help/certifications/aw/aw-core-p-developer-23-12.md)
 
 ## 所有可供Adobe使用的考試 [!DNL Workfront]
 
