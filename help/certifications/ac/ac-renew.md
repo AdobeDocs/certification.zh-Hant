@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: b8ef42ca081201940034bc1a2129aecf086d4ed5
+source-git-commit: e966c384d1b08ceecfa02aca78a246beadcd6bc2
 workflow-type: tm+mt
 source-wordcount: '2241'
 ht-degree: 0%
@@ -313,6 +313,8 @@ Adobe [!DNL Commerce] 開發人員專業版
 >[!NOTE]
 >
 >這項考試是免費的、公開的，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等待 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
+
++++
 
 +++Adobe [!DNL Commerce] 前端開發人員專業版
 
