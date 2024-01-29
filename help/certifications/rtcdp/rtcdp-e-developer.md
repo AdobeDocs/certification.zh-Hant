@@ -7,9 +7,9 @@ role: Developer,Data Architect
 badge: label="考試AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
+source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
 workflow-type: tm+mt
-source-wordcount: '954'
+source-wordcount: '958'
 ht-degree: 3%
 
 ---
@@ -239,6 +239,12 @@ ht-degree: 3%
 * [以屬性為基礎的存取控制端對端指南](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/end-to-end-guide.html){target="_blank"}
 * [Identity Service](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/overview.html#identity-service){target="_blank"}
 * [使用案例概述](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/end-to-end-guide.html#use-case-overview){target="_blank"}
+
+<br>
+
+**參加練習測試**
+
+{{practice-test}}
 
 +++
 
