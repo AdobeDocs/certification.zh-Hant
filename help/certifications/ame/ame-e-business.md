@@ -7,7 +7,7 @@ role: User
 badge: label="考試AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: d91f73b3d70ad04a864c196d3a9fb802475392ae
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 * 等級：專家（1-3年經驗）
 * 及格分數：32/50
-* 時間：110分鐘
+* 時間：100分鐘
 * 傳遞：線上監護（需要存取攝影機）
 * 可用語言：英文、日文
 * 費用：225美元（全球） / 150美元（印度）
