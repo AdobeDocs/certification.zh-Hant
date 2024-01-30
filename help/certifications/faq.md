@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
+source-git-commit: 9802690f29bce27e1e65666d9abe66b4baf0a1e6
 workflow-type: tm+mt
-source-wordcount: '2348'
+source-wordcount: '2341'
 ht-degree: 1%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 1%
 
 [!DNL Examity] 提供聊天、電子郵件和電話支援。 Adobe支援無法協助解決考試期間發生的技術問題。
 
-[!DNL Examity] 支援: `adobepartnersupport@examity.com`
+[!DNL Examity] 支援： `adobepartnersupport@examity.com`
 
 最快速的說明資源是透過他們的聊天。 所有考生在參加考試前，應先確認電腦具備適當的系統需求。
 
@@ -84,8 +84,8 @@ Adobe可因應特定特殊需求。 如果您需要更多的時間來完成考�
 +++如何取得分數報告的復本？
 
 * 步驟1：登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe/){target="_blank"}、CertMetrics。 使用您的ID或電子郵件地址和密碼登入。
-* 步驟2：按一下「成績單」。
-* 步驟3：捲動成績單歷程記錄並選取您要檢視的報告。 您可以透過電子郵件將報告傳送給您，或是在熒幕上檢視。
+* 步驟2：按一下「歷史記錄」。
+* 步驟3：捲動歷程記錄並選取您要檢視的報告。 您可以透過電子郵件將報告傳送給您，或是在熒幕上檢視。
 
 +++
 
