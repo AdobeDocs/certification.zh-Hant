@@ -4,9 +4,9 @@ description: 瞭解 [!DNL Experience Cloud] Adobe認證。 了解獲得認證能
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: 8d59047bbea28438b655b98296ae19e0c281098b
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '403'
 ht-degree: 6%
 
 ---
@@ -22,6 +22,8 @@ Adobe數位體驗認證計畫的建立是為了協助您證明Adobe技能 [!DNL 
 Adobe [!DNL Experience Cloud] 是一套數位行銷解決方案，可讓企業跨多個管道（包括網路、行動裝置、電子郵件和社群媒體）提供個人化客戶體驗。 Adobe [!DNL Experience Cloud] 包含一系列產品，例如Adobe [!DNL Real-Time CDP]，Adobe [!DNL Experience Manager]，Adobe [!DNL Commerce]，Adobe [!DNL Journey Optimizer]，Adobe [!DNL Customer Analytics]、等等。
 
 獲得Adobe認證，展現您的熟練程度，將您的事業提升到新的境界。
+
+[**依計畫檢視認證清單**](#view-all-certifications)
 
 ## 為何要取得認證？
 
@@ -42,8 +44,7 @@ Adobe數位體驗認證計畫是專為不同領域的專業人士所設計，包
 
 <a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">開始使用</span></a>
 
-
-## 檢視所有認證
+## 檢視所有認證 {#view-all-certifications}
 
 有關每個可用產品認證的所有詳細資訊都列在左側目錄和以下清單中：
 

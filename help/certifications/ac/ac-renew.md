@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
+source-git-commit: 8d59047bbea28438b655b98296ae19e0c281098b
 workflow-type: tm+mt
-source-wordcount: '2241'
+source-wordcount: '2293'
 ht-degree: 0%
 
 ---
@@ -140,16 +140,9 @@ ht-degree: 0%
 
 更新您的Adobe [!DNL Commerce] 商務從業人員專業認證：
 
-1. 登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}
+請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 第一。 然後，若要更新您的認證，請按一下Adobe [!DNL Commerce] 商務從業者專業更新考試(AD5-E840)連結如下。
 
-2. 按一下下面的按鈕，前往考試入口網站並參加考試(AD5-E840)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   前往考試入口網站
-</span>
-</a>
+[!BADGE 接受Adobe [!DNL Commerce] 商務從業人員專業更新考試(AD5-E840)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840 newtab=true"}
 
 >[!NOTE]
 >
@@ -299,16 +292,9 @@ Adobe [!DNL Commerce] 開發人員專業版
 
 更新您的Adobe [!DNL Commerce] 開發人員專業認證：
 
-1. 登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}
+請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 第一。 然後，若要更新您的認證，請按一下Adobe [!DNL Commerce] 以下的開發人員專業更新考試(AD5-E839)連結。
 
-2. 按一下下面的按鈕，前往考試入口網站並參加考試(AD5-E839)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   前往考試入口網站
-</span>
-</a>
+[!BADGE 接受Adobe [!DNL Commerce] 開發人員專業更新考試(AD5-E839)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839 newtab=true"}
 
 >[!NOTE]
 >
@@ -433,16 +419,9 @@ Adobe [!DNL Commerce] 前端開發人員專業版
 
 更新您的Adobe [!DNL Commerce] 前端開發人員專業認證：
 
-1. 登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}
+請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 第一。 然後，若要更新您的認證，請按一下Adobe [!DNL Commerce] 前端開發人員專業更新考試(AD5-E844)連結如下。
 
-2. 按一下下面的按鈕，前往考試入口網站並參加考試(AD5-E844)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   前往考試入口網站
-</span>
-</a>
+[!BADGE 接受Adobe [!DNL Commerce] 前端開發人員專業更新考試(AD5-E844)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844 newtab=true"}
 
 >[!NOTE]
 >
