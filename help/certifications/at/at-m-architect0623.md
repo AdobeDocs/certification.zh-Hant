@@ -6,10 +6,11 @@ product: Target
 role: Data Architect
 badge: label="考試AD0-E409" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
+source-git-commit: 31a239ac92392d84d8307f9f298b9904234d167d
 workflow-type: tm+mt
-source-wordcount: '841'
-ht-degree: 16%
+source-wordcount: '665'
+ht-degree: 1%
 
 ---
 
@@ -67,9 +68,9 @@ ht-degree: 16%
 * HTML、CSS、HTTP、XML設定
 * 原生行動開發IDE、iOS開發基本知識、Android開發基本知識
 * Postman等API工具
-* VEC helper
+* VEC協助程式
 
-環境:
+環境：
 
 * Adobe Experience Cloud
 * 不使用Tag Manager的使用者端實施
@@ -150,53 +151,59 @@ ht-degree: 16%
 
 **區段1**
 
-* [Target 活動類型](https://experienceleague.adobe.com/docs/target/using/activities/target-activities-guide.html){target="_blank"}
+* [Target活動型別](https://experienceleague.adobe.com/docs/target/using/activities/target-activities-guide.html){target="_blank"}
 * [多變數測試概覽](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
-* [at.js 函數](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/atjs-functions.html){target="_blank"}
+* [at.js函式](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/atjs-functions.html){target="_blank"}
 * [訪客設定檔](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html){target="_blank"}
 
 **區段2**
 
-* [將 Target 與 Adobe Campaign 整合](https://experienceleague.adobe.com/docs/target/using/integrate/campaign-and-target.html){target="_blank"}
-* [Adobe Analytics 作為 Adobe Target (A4T) 的報告來源](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html){target="_blank"}
-* [Experience Cloud 對象](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=zh-Hant){target="_blank"}
+* [將Target與Adobe Campaign整合](https://experienceleague.adobe.com/docs/target/using/integrate/campaign-and-target.html){target="_blank"}
+* [Adobe Analytics作為Adobe Target (A4T)的報表來源](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html){target="_blank"}
+* [Experience Cloud對象](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=zh-Hant){target="_blank"}
 * [在Adobe Target中使用體驗片段選件](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/personalization/experience-fragment-target-offer-feature-video-use.html){target="_blank"}
 
 **區段3**
 
 * [主機](https://experienceleague.adobe.com/docs/target/using/administer/hosts.html){target="_blank"}
 * [使用者](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/users/user-management.html){target="_blank"}
-* [設定企業權限](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/enterprise/properties-overview.html){target="_blank"}
-* [可視化體驗撰寫器最佳做法與限制](https://experienceleague.adobe.com/docs/target/using/experiences/vec/experience-composer-best-practices.html){target="_blank"}
+* [設定企業許可權](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/enterprise/properties-overview.html){target="_blank"}
+* [視覺化體驗撰寫器最佳作法和限制](https://experienceleague.adobe.com/docs/target/using/experiences/vec/experience-composer-best-practices.html){target="_blank"}
 
 
 **區段4**
 
-* [將 Recommendations 與電子郵件整合](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/integrating-recs-email.html){target="_blank"}
+* [將Recommendations與電子郵件整合](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/integrating-recs-email.html){target="_blank"}
 * [表單式體驗撰寫器](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
-* [建立 JSON 選件](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
+* [建立JSON選件](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
 
 **區段5**
 
 * [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
-* [Recommendations 常見問題](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
+* [Recommendations常見問題集](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
 * [動態消息](https://experienceleague.adobe.com/docs/target/using/recommendations/entities/feeds.html){target="_blank"}
-* [使用 Velocity 自訂設計](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/customizing-a-template.html){target="_blank"}
+* [使用Velocity自訂設計](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/customizing-a-template.html){target="_blank"}
 
 **區段6**
 
 * [Adobe Target混合部署](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/hybrid-deployment.html){target="_blank"}
-* [Target 在行動應用程式中如何運作](https://experienceleague.adobe.com/docs/target-dev/developer/mobile-apps/version-4/how-target-works-mobile-apps.html){target="_blank"}
+* [Target在行動應用程式中如何運作](https://experienceleague.adobe.com/docs/target-dev/developer/mobile-apps/version-4/how-target-works-mobile-apps.html){target="_blank"}
 * [設計Target實施](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.5-design-target-implementation.html){target="_blank"}
 * [搭配Platform Web SDK使用Adobe Target](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/target-overview.html){target="_blank"}
 
 **區段7**
 
-* [活動 QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
+* [活動問答](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
 * [疑難排解內容傳送](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
-* [設計常見問題](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
-* [Recommendations 常見問題](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
+* [設計常見問題集](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
+* [Recommendations常見問題集](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
 * [在Platform Web SDK中登入Target適用的Adobe Analytics (A4T)](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
+
+<br>
+
+**參加練習測試**
+
+{{practice-test}}
 
 +++
 
