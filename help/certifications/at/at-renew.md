@@ -7,10 +7,10 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: 5d8842eefd4c61966743d52e3eb843890d92648c
 workflow-type: tm+mt
-source-wordcount: '1521'
-ht-degree: 8%
+source-wordcount: '1209'
+ht-degree: 0%
 
 ---
 
@@ -114,52 +114,52 @@ ht-degree: 8%
 **區段1**
 
 * [成功量度](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html){target="_blank"}
-* [標準](https://experienceleague.adobe.com/docs/target/using/recommendations/criteria/algorithms.html){target="_blank"}
+* [條件](https://experienceleague.adobe.com/docs/target/using/recommendations/criteria/algorithms.html){target="_blank"}
 * [個人化測試和藍圖建立的快速入門](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/create-personalization-roadmap-testing-plan.html){target="_blank"}
 * [使用Adobe Target最佳化的最佳實務](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization.html){target="_blank"}
 * [設定量度](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-set-metrics.html){target="_blank"}
 * [建立僅限於此活動的對象](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
-* [Adobe Analytics 作為 Adobe Target (A4T) 的報告來源](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html){target="_blank"}
+* [Adobe Analytics作為Adobe Target (A4T)的報表來源](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html){target="_blank"}
 * [在Analysis Workspace中為自動分配活動設定A4T報表](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html){target="_blank"}
 
 **區段2**
 
-* [建立 JSON 選件](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
+* [建立JSON選件](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
 * [表單式體驗撰寫器](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
 * [建立僅限於此活動的對象](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
 * [進階設定](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html#section_7CE95A2FA8F5438E936C365A6D43BC5B){target="_blank"}
-* [活動 QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-* [在 Target 中建立對象](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/create-audience.html){target="_blank"}
+* [活動問答](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
+* [在Target中建立對象](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/create-audience.html){target="_blank"}
 * [修改](https://experienceleague.adobe.com/docs/target/using/experiences/vec/modifications/vec-code-editor.html){target="_blank"}
 * [表單式體驗撰寫器](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
 * [在類似頁面上包含相同體驗](https://experienceleague.adobe.com/docs/target/using/experiences/vec/temtest.html){target="_blank"}
 * [目標與設定](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-goals-and-settings.html){target="_blank"}
-* [建立 A/B 測試](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html){target="_blank"}
-* [體驗鎖定 (XT)](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/experience-target.html){target="_blank"}
+* [建立A/B測試](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html){target="_blank"}
+* [體驗鎖定(XT)](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/experience-target.html){target="_blank"}
 * [預估成功的多變數測試活動所需的流量](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/create-mvt/traffic-estimator.html){target="_blank"}
-* [管理排除項目](https://experienceleague.adobe.com/docs/target/using/activities/automated-personalization/managing-exclusions.html){target="_blank"}
+* [管理排除專案](https://experienceleague.adobe.com/docs/target/using/activities/automated-personalization/managing-exclusions.html){target="_blank"}
 
 **區段3**
 
-* [報告設定](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
-* [A/B 測試該執行多久？](https://experienceleague.adobe.com/docs/target/using/activities/abtest/sample-size-determination.html){target="_blank"}
+* [報表設定](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+* [A/B測試該執行多久？](https://experienceleague.adobe.com/docs/target/using/activities/abtest/sample-size-determination.html){target="_blank"}
 * [自動分配總覽](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#frequent-return-visitors-can-inflate-experience-conversion-rates.){target="_blank"}
-* [Automated Personalization 摘要報表](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/reports-ap.html){target="_blank"}
+* [Automated Personalization摘要報表](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/reports-ap.html){target="_blank"}
 * [自動鎖定目標摘要報表](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/auto-target-summary-report.html){target="_blank"}
-* [體驗效能報表 (MVT)](https://experienceleague.adobe.com/docs/target/using/reports/multivariate-test-reports/experience-performance-report.html){target="_blank"}
-* [十個常見的 A/B 測試陷阱和避免方法](https://experienceleague.adobe.com/docs/target/using/activities/abtest/common-ab-testing-pitfalls.html){target="_blank"}
+* [體驗效能報表(MVT)](https://experienceleague.adobe.com/docs/target/using/reports/multivariate-test-reports/experience-performance-report.html){target="_blank"}
+* [十個常見的A/B測試陷阱和避免方法](https://experienceleague.adobe.com/docs/target/using/activities/abtest/common-ab-testing-pitfalls.html){target="_blank"}
 
 **區段4**
 
 * [疑難排解活動錯誤](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
 * [使用Adobe Experience Platform Debugger測試Adobe Target實施](https://experienceleague.adobe.com/docs/experience-platform/debugger/solutions/target.html){target="_blank"}
-* [報告設定](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+* [報表設定](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
 
 ### 更新您的認證
 
 請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 第一。 然後，若要更新您的認證，請按一下Adobe [!DNL Target] 商務從業者專業更新考試連結如下。
 
-[！BADGE取得Adobe [!DNL Target]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E838 newtab=true"}
+[!BADGE 接受Adobe [!DNL Target] 商務從業人員專業更新考試AD5-E838]{type=Informative url="https://scorpion.caveon.com/launchpad/ad5-e838-adobe-target-business-practitioner-professional-renewal newtab=true"}
 
 >[!NOTE]
 >
