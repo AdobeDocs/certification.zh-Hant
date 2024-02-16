@@ -7,9 +7,9 @@ role: Developer,Data Architect
 badge: label="考試AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 16ffac2b0619d0cdce85e6f73a45cff84a5e306b
 workflow-type: tm+mt
-source-wordcount: '958'
+source-wordcount: '877'
 ht-degree: 3%
 
 ---
@@ -17,10 +17,6 @@ ht-degree: 3%
 # Adobe的認證歷程 [!DNL Real-Time Customer Data Platform] 開發人員專家
 
 {{intro}}
-
->[!TIP]
->
->取得 **50%優惠** 本考試、購買及排程您的考試 **測驗** 早於 **2024年2月15日**. 折扣將會自動套用。 如需採購與排程指示，請參閱下列步驟3。 <br><br><i>請注意，此優惠不適用於透過任何其他網站進行的購買。</i>
 
 ## 考試說明 {#exam-description}
 
@@ -251,10 +247,6 @@ ht-degree: 3%
 <br>
 
 +++步驟3：排程並支付考試費用
-
->[!TIP]
->
->取得 **50%優惠** 本考試、購買及排程您的考試 **測驗** 早於 **2024年2月15日**. 折扣將會自動套用。 <br><br><i>請注意，此優惠不適用於透過任何其他網站進行的購買。</i>
 
 {{schedule-and-pay}}
 
