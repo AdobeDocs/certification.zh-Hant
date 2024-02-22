@@ -7,10 +7,10 @@ role: Developer
 badge: label="考試AD0-E136" type="neutral"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 15%
+source-wordcount: '611'
+ht-degree: 1%
 
 ---
 
@@ -63,10 +63,10 @@ ht-degree: 15%
 * 工作流程轉換工具
 * Dispatcher工具
 * 內容傳遞網路(CDN)
-* Best Practices Analyzer
+* 最佳做法分析工具
 * AEM現代化
 * 存放庫瀏覽器
-* 開發人員控制台
+* 開發人員主控台
 * IMSAdobe的使用者對應工具
 * I/O cmd工具
 * New Relic
@@ -144,29 +144,35 @@ ht-degree: 15%
 
 * [[!DNL Experience Manager] as a Cloud Service使用手冊](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 * [Adobe移轉指南 [!DNL Experience Manager] 適用於合作夥伴的as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html){target="_blank"}
-* [AEM as a Cloud Service 重大變更](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html){target="_blank"}
+* [AEMas a Cloud Service重大變更](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html){target="_blank"}
 
 **第2節：設計**
 
-* [Adobe [!DNL Experience Manager] as a Cloud Service檔案](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html){target="_blank"}
+* [Adobe [!DNL Experience Manager] as a Cloud Service檔案](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=zh-Hant){target="_blank"}
 * [簡介](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html){target="_blank"}
 
 **第3節：部署**
 
 * [程式碼品質測試](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html){target="_blank"}
 * [新增自訂網域名稱](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/add-custom-domain-name.html){target="_blank"}
-* [正在設定 DNS 設定](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/configure-dns-settings.html){target="_blank"}
+* [正在設定DNS設定](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/configure-dns-settings.html){target="_blank"}
 
 **第4節：移轉**
 
 * [在發佈執行個體上執行內容轉移工具](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/running-content-transfer-tool-publish-instance.html){target="_blank"}
-* [內容轉移工具的先決條件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html?lang=zh-Hant){target="_blank"}
-* [以記錄檔為 AEM as a Cloud Service 除錯](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html){target="_blank"}
+* [內容轉移工具的先決條件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html){target="_blank"}
+* [使用記錄檔為AEMas a Cloud Service除錯](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html){target="_blank"}
 
 **第5節：實作**
 
 * [在Adobe Cloud Manager中使用CI/CD管道](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
-* [部署至 AEM as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html){target="_blank"}
+* [部署至AEMas a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html){target="_blank"}
+
+<br>
+
+**參加練習測試**
+
+{{practice-test}}
 
 +++
 
