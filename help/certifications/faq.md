@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '2342'
+source-wordcount: '2485'
 ht-degree: 1%
 
 ---
@@ -62,6 +62,16 @@ ht-degree: 1%
 +++如有認證問題或問題，可以聯絡誰？
 
 關於考試報名、考試付款、考試傳送、測試中心、考試評論、考試問題、測試體驗、考試安排或認證入口網站相關問題，請聯絡 `certif@adobe.com`.
+
++++
+
++++我可以取消或重新安排考試約會嗎？
+
+如果在排程的考試約會之前48小時內發起，通常可以取消和重新排程。 應徵者必須自行修改此約會。
+
+Adobe支援或檢查都無法處理重新排程和取消請求。 48小時以內的取消作業，除考試費用外，另須支付重排費用。
+
+如果您無法重新排程考試，即使考試已超過48小時，這可能是因為有新版本的考試。 如果您的預約是參加先前版本的考試，您將無法重新排程您的考試預約。 建議您儘可能預約考試。 如果無法執行，您必須取消考試，並排程新的約會以參加新的考試。
 
 +++
 

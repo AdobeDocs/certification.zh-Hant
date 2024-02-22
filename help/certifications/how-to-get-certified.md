@@ -4,9 +4,9 @@ description: 瞭解如何獲得Adobe認證。 在取得認證之前、期間和�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1494'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,7 @@ Adobe使用Examity管理線上監考的考試。
 
 * [如何報名參加線上監考考試](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
 * [如何啟動測驗並連線至監考員](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
+* [測驗測試者系統需求](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!TAB 參加測驗]
 
@@ -43,9 +44,11 @@ Adobe使用Examity管理線上監考的考試。
 
 **取消與重新排程**
 
-如果在排定的考試約會之前48小時啟動，則可以取消和重新排程。 應徵者必須自行修改此約會。
+如果在排程的考試約會之前48小時內發起，通常可以取消和重新排程。 應徵者必須自行修改此約會。
 
 Adobe支援或檢查都無法處理重新排程和取消請求。 48小時以內的取消作業，除考試費用外，另須支付重排費用。
+
+如果您無法重新排程考試，即使考試已超過48小時，這可能是因為有新版本的考試。 如果您的預約是參加先前版本的考試，您將無法重新排程您的考試預約。 建議您儘可能預約考試。 如果無法執行，您必須取消考試，並排程新的約會以參加新的考試。
 
 **考試之後**
 
