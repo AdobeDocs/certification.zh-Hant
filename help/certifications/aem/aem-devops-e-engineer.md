@@ -7,10 +7,10 @@ role: Developer
 badge: label="考試AD0-E124" type="neutral"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: b85f78f953bf07135a2c77680b9015f7a8d17990
 workflow-type: tm+mt
-source-wordcount: '769'
-ht-degree: 6%
+source-wordcount: '686'
+ht-degree: 1%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 6%
 * 及格分數：30/50
 * 時間：100分鐘
 * 傳遞：線上監護（需要存取攝影機）
-* 可用語言：英文
+* 可用語言：英文、日文
 * 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E124
+* 測驗ID：AD0-E124 （英文）、AD0-E124-J （日文）
 
 <br>
 
@@ -140,7 +140,7 @@ ht-degree: 6%
 **第1節：設定Adobe Experience Manager**
 
 * [基本設定概念](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html){target="_blank"}
-* [AEM 的移難排解](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html){target="_blank"}
+* [疑難排解AEM](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html){target="_blank"}
 * [在AEM中設定OSGi](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html){target="_blank"}
 
 **第2節：操作Cloud Manager和Cloud Manager API**
@@ -151,7 +151,7 @@ ht-degree: 6%
 
 **第3節：設定Web Proxy基礎結構**
 
-* [Dispatcher 設定](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html){target="_blank"}
+* [Dispatcher設定](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html){target="_blank"}
 * [快取效能](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html){target="_blank"}
 
 **第4節：建置和部署**
@@ -159,7 +159,7 @@ ht-degree: 6%
 * [程式碼部署](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html){target="_blank"}
 * [設定生產管道](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html){target="_blank"}
 * [如何使用套件](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html){target="_blank"}
-* [AEM 專案結構](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html){target="_blank"}
+* [AEM專案結構](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html){target="_blank"}
 
 **第5節：品品質度的監控和報告**
 
@@ -170,7 +170,7 @@ ht-degree: 6%
 
 **第6節：操作Admin Console**
 
-* [AEM as a Cloud Service 的 IMS 支援](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
+* [AEM的IMS支援as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
 * [Adobe IMS使用者群組和AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html){target="_blank"}
 
 +++
@@ -197,12 +197,23 @@ ht-degree: 6%
 
 {{about-certification-exam}}
 
-## 排程或參加考試AD0-E124
+## 安排或參加考試AD0-E124 （英文）
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   前往考試入口網站
+   前往考試入口網站 — 英文考試
+</span>
+</a>
+
+## 排程或參加考試AD0-E124-J （日文）
+
+{{Japanese-exam-details}}
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   前往考試入口網站 — 日文考試
 </span>
 </a>
 
