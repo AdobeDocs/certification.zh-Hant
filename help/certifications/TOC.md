@@ -2,9 +2,9 @@
 user-guide-title: Adobe 的認證
 breadcrumb-title: Adobe 的認證
 user-guide-description: 瞭解 [!DNL Experience Cloud] Adobe認證。 了解獲得認證能為您做什麼。
-source-git-commit: b8ace7d5d249933e54f6828356cd7e569bfe3f84
+source-git-commit: 9da619a40b8ebfdee7c9940cc56138f84ae76e8d
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '253'
 ht-degree: 32%
 
 ---
@@ -145,7 +145,7 @@ ht-degree: 32%
          + [開發人員（核心）](/help/certifications/aw/aw-core-e-developer-23-08.md)
          + [AEM增強型聯結器](/help/certifications/aw/aw-aem-e-connector.md)
       + [續約](/help/certifications/aw/aw-renew.md)
-+ [一般使用者的認證](https://learning.adobe.com/certification/credentials)
+   + [ADLS提供的合格測驗](https://learning.adobe.com/certification/credentials)
 + 隱藏 {#hidden}
    + [認證重啟資格考試檢查程式](exam-eligibility-check.md)
    + [Experience Platform 概觀](/help/certifications/aep/aep-overview.md)
