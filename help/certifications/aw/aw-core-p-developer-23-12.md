@@ -6,9 +6,9 @@ role: Developer
 badge: label="考試AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 # Adobe的認證歷程 [!DNL Workfront] 核心開發人員專業版
 
 {{intro}}
-
->[!NOTE]
->
->這是最新的Adobe [!DNL Workfront] 核心開發人員專業資格考試(ADO-E908)。 如果您已開始學習或已排程 [舊版(ADO-E905)](aw-core-p-developer.md)，您必須在2024年2月26日前完成。 如果您需要重新排程，則必須參加新的考試。
 
 ## 考試說明 {#exam-description}
 
@@ -239,10 +235,6 @@ Adobe [!DNL Workfront] Core Developer Certified Professional擁有：
 {{about-certification-exam}}
 
 ## 排程或參加考試AD0-E908
-
->[!NOTE]
->
->這是最新的Adobe [!DNL Workfront] 核心開發人員專業資格考試(ADO-E908)。 如果您已開始學習或已排程 [舊版(ADO-E905)](aw-core-p-developer.md)，您必須在2024年2月26日前完成。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E908" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
