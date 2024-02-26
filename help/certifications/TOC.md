@@ -2,7 +2,7 @@
 user-guide-title: Adobe 的認證
 breadcrumb-title: Adobe 的認證
 user-guide-description: 瞭解 [!DNL Experience Cloud] Adobe認證。 了解獲得認證能為您做什麼。
-source-git-commit: 9da619a40b8ebfdee7c9940cc56138f84ae76e8d
+source-git-commit: 4ff319790c8be6b9f66f95dcd18709b3536d62d7
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 32%
@@ -16,9 +16,6 @@ ht-degree: 32%
 + [快速入門](getting-started.md)
 + [如何取得認證](how-to-get-certified.md)
 + [更新您的認證](renew.md)
-+ [重新啟動程式](restart-program.md)
-+ [我的設定檔](my-profile.md)
-+ [常見問題集](faq.md)
 + 技術認證（依解決方案） {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
       + [廣告概述](/help/certifications/aac/aac-overview.md)
@@ -146,7 +143,10 @@ ht-degree: 32%
          + [AEM增強型聯結器](/help/certifications/aw/aw-aem-e-connector.md)
       + [續約](/help/certifications/aw/aw-renew.md)
    + [ADLS提供的合格測驗](https://learning.adobe.com/certification/credentials)
++ [常見問題集](faq.md)
 + 隱藏 {#hidden}
    + [認證重啟資格考試檢查程式](exam-eligibility-check.md)
    + [Experience Platform 概觀](/help/certifications/aep/aep-overview.md)
    + [Developer)](/help/certifications/aep/aep-e-foundations.md)
+   + [重新啟動程式](restart-program.md)
+   + [我的設定檔](my-profile.md)
