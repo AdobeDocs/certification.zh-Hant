@@ -6,9 +6,10 @@ product: Magento
 role: Developer
 badge: label="考試AD0-E720" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
+source-git-commit: 231b3e61d7135dadfdc04be56bdb7f855d7c0112
 workflow-type: tm+mt
-source-wordcount: '924'
+source-wordcount: '794'
 ht-degree: 0%
 
 ---
@@ -26,7 +27,7 @@ ht-degree: 0%
 ### 考試詳細資料 {#exam-details}
 
 * 等級：專家（1-3年經驗）
-* 及格分數：33/50
+* 及格分數：29/50
 * 時間：100分鐘
 * 傳遞：線上監護（需要存取攝影機）
 * 可用語言：英文
@@ -194,7 +195,7 @@ ht-degree: 0%
 **第6節：工具（CLI與Grunt）**
 
 * [設定指南](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
-* [內部部署安裝概覽](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html?lang=en){target="_blank"}
+* [內部部署安裝概述](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html?lang=en){target="_blank"}
 * [建立變數](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [雲端基礎結構上的Commerce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
