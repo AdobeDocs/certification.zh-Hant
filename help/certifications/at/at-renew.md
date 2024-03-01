@@ -7,7 +7,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 5d8842eefd4c61966743d52e3eb843890d92648c
+source-git-commit: f4aa50b8d3121567589fb94139bd01b833a6bd04
 workflow-type: tm+mt
 source-wordcount: '1209'
 ht-degree: 0%
@@ -159,7 +159,7 @@ ht-degree: 0%
 
 請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 第一。 然後，若要更新您的認證，請按一下Adobe [!DNL Target] 商務從業者專業更新考試連結如下。
 
-[!BADGE 接受Adobe [!DNL Target] 商務從業人員專業更新考試AD5-E838]{type=Informative url="https://scorpion.caveon.com/launchpad/ad5-e838-adobe-target-business-practitioner-professional-renewal newtab=true"}
+[!BADGE 接受Adobe [!DNL Target] 商務從業人員專業更新考試AD5-E838]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E838 newtab=true"}
 
 >[!NOTE]
 >
