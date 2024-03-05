@@ -7,9 +7,9 @@ role: Developer
 badge: label="考試AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: 8d50d5574c0f9066acc58272e44994e2771cbefc
+source-git-commit: dddfd2d13bd27666a4a17e4c8002b91b555381ee
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '561'
 ht-degree: 2%
 
 ---
@@ -30,9 +30,9 @@ ht-degree: 2%
 * 及格分數：26/50
 * 時間：100分鐘
 * 傳遞：線上監護（需要存取攝影機）
-* 可用語言：英文
+* 可用語言：英文、日文
 * 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E134
+* 測驗ID：AD0-E134 （英文）、AD0-E134-J （日文）
 
 <br>
 
@@ -191,9 +191,20 @@ ht-degree: 2%
 
 {{about-certification-exam}}
 
-## 排程或參加考試AD0-E134
+## 安排或參加考試AD0-E134 （英文）
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   前往考試入口網站
+</span>
+</a>
+
+## 排程或參加考試AD0-E134-J （日文）
+
+{{Japanese-exam-details}}
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    前往考試入口網站
