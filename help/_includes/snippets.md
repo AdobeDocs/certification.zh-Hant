@@ -1,5 +1,5 @@
 ---
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
 workflow-type: tm+mt
 source-wordcount: '1746'
 ht-degree: 0%
@@ -123,7 +123,7 @@ Adobe使用名為Examity的廠商來管理排程的監考考試。 所有新的�
 
 **購買憑單**
 
-您可以使用憑單支付考試費用。 若要購買考試憑單，請前往 [Adobe認證憑單中心](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=zh-Hant){target="_blank"}.
+您可以使用憑單支付考試費用。 若要購買考試憑單，請前往 [Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 您可在排程考試時套用憑單代碼。 如需憑單折扣資訊，請參閱下文。
 
