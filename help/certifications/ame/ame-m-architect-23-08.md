@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="考試AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 87ed809862370a10d085156bea4f947a3b2f0743
+source-git-commit: c81e158a12b6f52a01919f15c32e6614139ebd9d
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 1%
+source-wordcount: '733'
+ht-degree: 0%
 
 ---
 
@@ -154,7 +154,7 @@ ht-degree: 1%
 **第1節：專案領導力**
 
 * [Champion部落格 — Marketo國家](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-* [Marketo產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [Marketo產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"}
 * [檔案 — REST API](https://developers.marketo.com/rest-api/){target="_blank"}
 
 **第2節：Adobe [!DNL Marketo Engage] 架構設計**
@@ -171,18 +171,15 @@ ht-degree: 1%
 
 **第4節：進階作業**
 
-* [Marketo產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [Marketo產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"}
 * [隱藏軟退信](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
 * [瞭解工作區和人員分割](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 
-
 <br>
 
-**範例問題**
+**參加練習測試**
 
-{{sample-questions}}
-
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+{{practice-test}}
 
 +++
 
