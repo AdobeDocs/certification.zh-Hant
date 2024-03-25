@@ -7,16 +7,20 @@ role: User
 badge: label="考試AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '582'
-ht-degree: 16%
+source-wordcount: '505'
+ht-degree: 0%
 
 ---
 
 # Adobe的認證歷程 [!DNL Analytics] 商務從業者專業人士
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/391) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -125,37 +129,27 @@ ht-degree: 16%
 
 {{study-materials-intro}}
 
-**第1節：業務分析**
+**考試準備指南**
 
-* [Analytics 工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Analytics 元件指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=zh-Hant){target="_blank"}
-* [實作 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=zh-Hant){target="_blank"}
-* [Data Workbench 說明](https://experienceleague.adobe.com/docs/data-workbench/using/home.html?lang=zh-Hant){target="_blank"}
+{{exam-prep-guide}}
 
-**第2節：專案的報表和控制面板**
+<a href="https://app.rockinfo.com/courses/playScorm/391" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [Analytics 管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hant){target="_blank"}
-* [Analytics 工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [視覺效果概述](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html#quick-viz){target="_blank"}
-* [Analytics 元件指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=zh-Hant){target="_blank"}
-* [Customer Journey Analytics 指南](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}
-
-**第3節：細分和計算量度**
-
-* [Analytics 元件指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=zh-Hant){target="_blank"}
-
-**第4節：一般工具知識與疑難排解**
-
-* [實作 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=zh-Hant){target="_blank"}
-* [Analytics 元件指南](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=zh-Hant){target="_blank"}
-
-<br>
+<span class="spectrum-Button-label has-no-wrap">
+   檢視考試準備指南
+</span>
+</a>
 
 **範例問題**
 
 {{sample-questions}}
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   檢視範例問題
+</span>
+</a>
 
 +++
 

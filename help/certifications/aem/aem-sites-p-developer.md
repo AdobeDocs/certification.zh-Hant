@@ -7,16 +7,26 @@ role: Developer
 badge: label="考試AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '518'
-ht-degree: 20%
+source-wordcount: '414'
+ht-degree: 0%
 
 ---
 
 # Adobe的認證歷程 [!DNL Experience Manager Sites] 開發人員專業版
 
 {{intro}}
+
+>[!NOTE]
+>
+>現在提供免費的隨選資源，協助您準備考試：
+>
+>* **課程：** 進行 [訓練課程](https://app.rockinfo.com/courses/105) 其中包括關鍵概念的解釋、實作示範和知識檢查。
+>
+>* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/364) 提供量身打造的考試準備流程，包括考試成功所需的深入學習資料。
+>
+>如果系統提示您登入，請使用您的Adobe ID。
 
 ## 考試說明 {#exam-description}
 
@@ -105,44 +115,38 @@ ht-degree: 20%
 
 {{study-materials-intro}}
 
-**第1節：組態**
+**參加課程**
 
-* [AEM 6.4 管理使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
-* [AEM 6.4 Deploying使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
-* [Dispatcher 總覽](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
+{{take-course}}
 
-**第2節：AEM開發**
+<a href="https://app.rockinfo.com/courses/105" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [AEM 6.4 管理使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
-* [AEM 6.5 Deploying使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
-* [AEM 6.5 Developing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
-* [核心元件簡介](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html){target="_blank"}
-* [元件基本知識](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html){target="_blank"}
+<span class="spectrum-Button-label has-no-wrap">
+   參加課程
+</span>
+</a>
 
-**第3節：建置和部署**
+**考試準備指南**
 
-* [核心元件簡介](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html){target="_blank"}
-* [快速入門 [!DNL AEM Sites] - WKND教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html){target="_blank"}
+{{exam-prep-guide}}
 
+<a href="https://app.rockinfo.com/courses/playScorm/364" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-**第4節：環境維護**
-
-* [AEM 6.4 Deploying使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=zh-Hant){target="_blank"}
-* [AEM 6.4 Developing 使用指南](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
-* [操作控制面板](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en#automated-maintenance-tasks){target="_blank"}
-* [Adobe版本注意事項 [!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] 概覽](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-* [核心元件簡介](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html)
-* [[!DNL AEM as Cloud Service] 影片和教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html){target="_blank"}
-* [Adobe [!DNL Experience Manager] 版本更新和藍圖](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html){target="_blank"}
-
-<br>
+<span class="spectrum-Button-label has-no-wrap">
+   檢視考試準備指南
+</span>
+</a>
 
 **範例問題**
 
 {{sample-questions}}
 
-[檢視範例問題](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   檢視範例問題
+</span>
+</a>
 
 +++
 

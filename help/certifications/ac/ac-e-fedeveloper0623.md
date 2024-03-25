@@ -7,9 +7,9 @@ role: Developer
 badge: label="考試AD0-E720" type="neutral"
 mini-toc-levels: 1
 exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
-source-git-commit: 231b3e61d7135dadfdc04be56bdb7f855d7c0112
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '730'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # 的認證歷程 [!DNL Adobe Commerce] 前端開發人員專家
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/385) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -157,53 +161,20 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**第1節：主題管理（主題階層、影像設定、翻譯）**
-
-* [主題](https://developer.adobe.com/commerce/frontend-core/guide/themes/)
-* [範本](https://developer.adobe.com/commerce/frontend-core/guide/templates/)
-* [新增自訂變數](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html?lang=en)
-* [翻譯](https://developer.adobe.com/commerce/frontend-core/guide/translations/)
-
-**第2節：配置XML與範本（phtml範本）**
-
-* [版面](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
-* [常見自訂工作](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/xml-manage.html){target="_blank"}
-* [元件開發](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [安全性](https://developer.adobe.com/commerce/php/development/security/){target="_blank"}
-
-**第3節：樣式**
-
-* [回應式網頁設計](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/){target="_blank"}
-* [自訂主題樣式](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
-* [編碼標準](https://developer.adobe.com/commerce/php/coding-standards/){target="_blank"}
-* [階層式樣式表(CSS)](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
-
-**第4節：JavaScript （影像widget、影像庫、客戶資料模組、去底版範本）**
-
-* [JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
-* [UI元件簡介](https://developer.adobe.com/commerce/frontend-core/ui-components/){target="_blank"}
-* [自訂簽出](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/){target="_blank"}
-* [可觀察陣列](https://knockoutjs.com/documentation/observableArrays.html){target="_blank"}
-
-**第5節：管理員設定和PageBuilder**
-
-* [頁面](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
-* [什麼是頁面產生器？](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
-* [JavaScript套裝](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
-* [Google reCAPTCHA](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
-
-**第6節：工具（CLI與Grunt）**
-
-* [設定指南](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
-* [內部部署安裝概述](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html?lang=en){target="_blank"}
-* [建立變數](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
-* [雲端基礎結構上的Commerce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
-
-<br>
-
 **參加練習測試**
 
 {{practice-test}}
+
+**考試準備指南**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/385" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   檢視考試準備指南
+</span>
+</a>
 
 +++
 

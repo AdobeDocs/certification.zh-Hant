@@ -7,9 +7,9 @@ role: Developer
 badge: label="考試AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '715'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,16 @@ ht-degree: 0%
 # Adobe的認證歷程 [!DNL Commerce] 開發人員專業版
 
 {{intro}}
+
+>[!NOTE]
+>
+>現在提供免費的隨選資源，協助您準備考試：
+>
+>* **課程：** 進行 [訓練課程](https://app.rockinfo.com/courses/106) 其中包括關鍵概念的解釋、實作示範和知識檢查。
+>
+>* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/382) 提供量身打造的考試準備流程，包括考試成功所需的深入學習資料。
+>
+>如果系統提示您登入，請使用您的Adobe ID。
 
 ## 考試說明 {#exam-description}
 
@@ -172,94 +182,31 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**第1節：使用管理員**
-
-* [版面](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
-* [使用者角色](https://docs.magento.com/user-guide/system/permissions-user-roles.html){target="_blank"}
-* [UI元件簡介](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html){target="_blank"}
-* [用於部署的組態檔](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [擴充性與模組化](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html){target="_blank"}
-
-**第2節：架構**
-
-* [擴充性與模組化](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html){target="_blank"}
-* [用於部署的組態檔](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [命令列工具](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
-* [活動和觀察者](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
-* [管理系統簡介](https://docs.magento.com/user-guide/system/tools.html){target="_blank"}
-* [範本](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
-* [翻譯](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
-* [URL重新寫入](https://docs.magento.com/user-guide/marketing/url-rewrite.html){target="_blank"}
-* [設定快取](https://devdocs.magento.com/guides/v2.4/config-guide/cache.html){target="_blank"}
-* [設定及使用清漆](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
-* [網站商店和檢視](https://docs.magento.com/user-guide/stores/websites-stores-views.html){target="_blank"}
-* [網站、存放區和檢視範圍](https://docs.magento.com/user-guide/configuration/scope.html){target="_blank"}
-* [建立類別](https://docs.magento.com/user-guide/catalog/category-create.html){target="_blank"}
-* [存放區和網站結構](https://docs.magento.com/user-guide/stores/stores-all-stores.html){target="_blank"}
-
-**第3節：數位行銷和電子商務基礎知識**
-
-* [[!DNL Commerce] Tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
-* [活動和觀察者](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
-* [分層導覽](https://docs.magento.com/user-guide/catalog/navigation-layered.html){target="_blank"}
-* [產品屬性概述](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
-* [宣告式結構描述概述](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/){target="_blank"}
-
-**第4節：配置/UI**
-
-* [頁面](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [版面](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
-* [階層式樣式表](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-overview.html){target="_blank"}
-* [主題](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [JavaScript簡介](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_overview.html){target="_blank"}
-* [編碼標準](https://devdocs.magento.com/guides/v2.4/coding-standards/bk-coding-standards.html){target="_blank"}
-* [頁面快取](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"}
-
-**第5節：結帳與銷售**
-
-* [訂單管理與作業](https://docs.magento.com/user-guide/sales/order-management.html){target="_blank"}
-* [購物車](https://docs.magento.com/user-guide/sales/cart.html){target="_blank"}
-* [購物車價格規則](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"}
-* [自訂簽出](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_overview.html){target="_blank"}
-* [通用 [!DNL Commerce] 表格](https://docs.magento.com/mbi/data-analyst/data-warehouse-mgr/common-mage-tables.html){target="_blank"}
-* [新增新的付款整合](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* [貨幣](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
-
-**第6節：目錄**
-
-* [類別概觀](https://docs.magento.com/user-guide/catalog/categories.html){target="_blank"}
-* [建立產品](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
-* [促銷活動](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [動態區塊](https://docs.magento.com/user-guide/cms/dynamic-blocks.html){target="_blank"}
-* [目錄價格規則](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"}
-* [進階定價](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
-
-**第7節：Adobe [!DNL Commerce] 雲端架構**
-
-* [[!DNL Commerce] 在雲端基礎結構上](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html){target="_blank"}
-* [的雲端架構 [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html){target="_blank"}
-* [入門架構](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/starter-architecture.html){target="_blank"}
-* [Pro架構](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
-* [擴充架構](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/scaled-architecture.html){target="_blank"}
-
-**第8節：設定/設定Adobe [!DNL Commerce] 雲端**
-
-* [組態檔概述](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
-* [應用程式設定的屬性](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html){target="_blank"}
-* [設定用於部署的環境變數](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/configure-env-yaml.html){target="_blank"}
-* [Adobe [!DNL Commerce] 在雲端產品說明上](https://helpx.adobe.com/legal/product-descriptions/adobe-commerce-on-cloud.html){target="_blank"}
-
-**區段9： [!DNL Commerce] 雲端CLI工具（管理元件）**
-
-* [雲端CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli.html){target="_blank"}
-* [使用CLI管理分支](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html){target="_blank"}
-* [設定服務](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/services-yaml.html){target="_blank"}
-
-<br>
-
 **參加練習測試**
 
 {{practice-test}}
+
+**參加課程**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   參加課程
+</span>
+</a>
+
+**考試準備指南**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/382" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   檢視考試準備指南
+</span>
+</a>
 
 +++
 

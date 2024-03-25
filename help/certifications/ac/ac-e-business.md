@@ -8,9 +8,9 @@ level: Experienced
 badge: label="考試AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '1265'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,11 @@ ht-degree: 0%
 # 的認證歷程 [!DNL Adobe Commerce] 商務從業者專家
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/386) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+
 
 ## 考試說明 {#exam-description}
 
@@ -155,89 +160,20 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**第1節：核心功能/一般設定**
-
-* [[!DNL Commerce] 商家檔案](https://docs.magento.com/user-guide/getting-started.html){target="_blank"}
-* [瞭解產品型別](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-1-product-types-options.html){target="_blank"}
-* [客戶管理](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-2-customer-management.html){target="_blank"}
-* [建立產品](https://docs.magento.com/user-guide/catalog/product-types.html){target="_blank"}
-* [管理員功能表](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-1-menus.html){target="_blank"}
-* [資料網格](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-2-data-grids.html){target="_blank"}
-* [商店設定](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-7-business-settings.html){target="_blank"}
-* [商店和購買體驗簡介](https://docs.magento.com/user-guide/stores/stores.html){target="_blank"}
-* [管理系統簡介：作業管理](https://docs.magento.com/user-guide/operations.html){target="_blank"}
-* [匯入和匯出產品](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-7-import-export-products.html){target="_blank"}
-* [資料傳輸](https://docs.magento.com/user-guide/system/data-transfer.html){target="_blank"}
-* [購物車](https://docs.magento.com/user-guide/sales/cart.html){target="_blank"}
-* [簽出](https://docs.magento.com/user-guide/sales/checkout-process.html){target="_blank"}
-* [送貨與傳遞](https://docs.magento.com/user-guide/shipping/delivery.html){target="_blank"}
-* [訂單管理與作業](https://docs.magento.com/user-guide/sales/order-management.html){target="_blank"}
-* [禮品卡](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-8-gift-cards.html){target="_blank"}
-* [禮卡產品](https://docs.magento.com/user-guide/catalog/product-gift-card.html){target="_blank"}
-* [贈品選項](https://docs.magento.com/user-guide/sales/gift-options.html){target="_blank"}
-* [電子郵件通訊](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html){target="_blank"}
-* [電子郵件範本](https://docs.magento.com/user-guide/marketing/email-templates.html){target="_blank"}
-* [Adobe適用的B2B簡介 [!DNL Commerce]](https://docs.magento.com/user-guide/stores/b2b-basics.html){target="_blank"}
-* [獎勵和忠誠計畫](https://docs.magento.com/user-guide/marketing/rewards-loyalty.html){target="_blank"}
-
-**區段2：銷售**
-
-* [促銷活動](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [產品類別](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/2-1-categories.html){target="_blank"}
-* [類別定位](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-2-arrange-product-categories.html){target="_blank"}
-* [產品設定](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-2-product-settings.html){target="_blank"}
-* [屬性](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-3-product-attributes.html){target="_blank"}
-* [屬性集](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-4-product-attribute-sets.html){target="_blank"}
-* [簡單產品](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-5-create-simple-product.html){target="_blank"}
-* [可設定的屬性](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-6-configurable-attributes.html){target="_blank"}
-* [分層導覽](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-1-layered-navigation.html){target="_blank"}
-* [目錄管理簡介](https://docs.magento.com/user-guide/catalog.html){target="_blank"}
-* [進階定價](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
-
-**第3部分：數位行銷**
-
-* [簡介 [!DNL Commerce] 銷售與促銷](https://docs.magento.com/user-guide/marketing.html){target="_blank"}
-* [SEO總覽](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [Business Intelligence快速入門（網路研討會影片）](https://business.adobe.com/resources/getting-started-magento-business-intelligence.html){target="_blank"}
-* [Google網站工具](https://docs.magento.com/user-guide/marketing/google-tools.html){target="_blank"}
-* [Business Intelligence工具](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
-
-**第4節：附加模組和其他產品**
-
-* [B2B功能](https://docs.magento.com/user-guide/configuration/general/b2b-features.html){target="_blank"}
-* [Adobe適用的B2B簡介 [!DNL Commerce]](https://docs.magento.com/user-guide/stores/b2b-features.html){target="_blank"}
-* [管理詳細目錄](https://docs.magento.com/user-guide/catalog/inventory-management.html){target="_blank"}
-* [MBI簡介](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
-* [搜尋引擎必要條件](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/elasticsearch.html){target="_blank"}
-* [稅金](https://docs.magento.com/user-guide/tax/taxes.html){target="_blank"}
-* [使用共用目錄](https://docs.magento.com/user-guide/catalog/catalog-shared.html){target="_blank"}
-* [Adobe Sensei支援Magento產品Recommendations](https://business.adobe.com/summit/2020/adobe-sensei-powers-magento-product-recommendations.html){target="_blank"}
-* [產品Recommendations簡介](https://docs.magento.com/user-guide/marketing/product-recommendations.html){target="_blank"}
-
-**第5節：系統架構**
-
-* [適用於商業使用者的Commerce — 網站、商店和檢視](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-3-apps-scopes-sites-stores.html){target="_blank"}
-* [適用於業務使用者的Commerce — 商店檢視和快取清除](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-4-store-views-cache.html){target="_blank"}
-* [適用於商務使用者的Commerce — 店面](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-1-storefront-experience.html){target="_blank"}
-* [存放區詳細資料](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
-* [「報表」功能表](https://docs.magento.com/user-guide/reports.html){target="_blank"}
-* [Adobe Commerce Web API快速入門](https://devdocs.magento.com/guides/v2.4/get-started/bk-get-started-api.html){target="_blank"}
-
-**第6節：合規性/安全性**
-
-* [使用者和角色](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-5-users-roles.html){target="_blank"}
-* [角色範圍與許可權](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-6-role-scopes.html){target="_blank"}
-* [權限](https://docs.magento.com/user-guide/system/permissions.html){target="_blank"}
-* [存放區隱私權原則](https://docs.magento.com/user-guide/stores/privacy-policy.html){target="_blank"}
-* [安全性與合規性](https://docs.magento.com/user-guide/payment-services/security.html){target="_blank"}
-* [安全性](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"}
-* [依國家/地區的稅捐准則](https://docs.magento.com/user-guide/tax/international-tax-guidelines.html){target="_blank"}
-
-<br>
-
 **參加練習測試**
 
 {{practice-test}}
+
+**考試準備指南**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/386" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   檢視考試準備指南
+</span>
+</a>
 
 +++
 

@@ -8,17 +8,20 @@ level: Experienced
 badge: label="考試AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 4a1f0a422dca8343b690d9ed7b1d22f8a319d659
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
 
 # Adobe的認證歷程 [!DNL Commerce] 架構師Master
 
-
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/388) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -141,42 +144,20 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**第1節：設計**
-
-* [建立產品](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
-* [頁面快取](https://developer.adobe.com/commerce/php/development/cache/page/){target="_blank"}
-* [簡介 [!DNL Commerce] 客戶管理](https://docs.magento.com/user-guide/customers/customers-menu.html){target="_blank"}
-* [活動和觀察者](https://developer.adobe.com/commerce/php/development/components/events-and-observers/){target="_blank"}
-* [SEO總覽](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [存放區詳細資料](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
-* [頁面](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [新增新的付款整合（付款方式）](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* [驗證](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
-* [GraphQL概觀](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
-
-**第2節：複查**
-
-* [簡介](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-* [新增自訂文字欄位屬性](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
-* [應用程式測試指南簡介](https://devdocs.magento.com/guides/v2.4/test/testing.html){target="_blank"}
-* [元件開發](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [最佳實務](https://support.magento.com/hc/en-us/categories/360002582351-Best-Practices-){target="_blank"}
-* [設定清漆](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
-
-**第3節：設定和部署**
-
-* [設定參考指南](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
-* [用於部署的組態檔](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [設定Redis](https://devdocs.magento.com/guides/v2.4/config-guide/redis/config-redis.html){target="_blank"}
-* [貨幣](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
-* [初始化和啟動程式概述](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
-* [Fastly服務總覽](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
-
-<br>
-
 **參加練習測試**
 
 {{practice-test}}
+
+**考試準備指南**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/388" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   檢視考試準備指南
+</span>
+</a>
 
 +++
 

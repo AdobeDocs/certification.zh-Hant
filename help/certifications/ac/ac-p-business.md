@@ -7,9 +7,9 @@ role: User
 badge: label="考試AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Adobe的認證歷程 [!DNL Commerce] 商務從業者專業人士
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/383) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -130,57 +134,20 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**區段1： [!DNL Magento Open Source] 核心功能**
-
-* [屬性](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
-* [[!DNL Magento] 2模組開發 — Simple Hello World模組](https://www.mageplaza.com/magento-2-module-development/){target="_blank"}
-* [相關產品、向上銷售和交叉銷售](https://docs.magento.com/user-guide/catalog/related-products-up-sells-cross-sells.html){target="_blank"}
-* [購買點](https://docs.magento.com/user-guide/sales/point-of-purchase.html){target="_blank"}
-* [離線付款方法](https://docs.magento.com/user-guide/payment/offline-payment-methods.html){target="_blank"}
-* [SEO和搜尋](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [頁面產生器](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
-* [付款總覽](https://docs.magento.com/user-guide/payment/payments.html){target="_blank"}
-* [促銷活動](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [購物車價格規則](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"}
-* [設定參考指南](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
-* [範圍](https://docs.magento.com/user-guide/configuration/scope.html){target="_blank"}
-* [存放區和網站結構](https://docs.magento.com/user-guide/stores/stores-all-stores.html){target="_blank"}
-* [存放區檢視](https://docs.magento.com/user-guide/stores/stores-all-create-view.html){target="_blank"}
-* [管理搜尋詞](https://docs.magento.com/user-guide/marketing/search-terms.html){target="_blank"}
-
-**第2節：Adobe [!DNL Commerce] 基本知識**
-
-* [雲端指南 [!DNL Commerce]](https://devdocs.magento.com/cloud/bk-cloud.html){target="_blank"}
-* [[!DNL Magento] Business Intelligence簡介](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
-* [頁面](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [設定參考指南](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
-* [Live Search簡介](https://docs.magento.com/user-guide/live-search/overview.html){target="_blank"}
-* [簡介 [!DNL Commerce] 銷售與促銷](https://docs.magento.com/user-guide/marketing/merchandising.html){target="_blank"}
-* [簽出](https://docs.magento.com/user-guide/sales/checkout-process.html){target="_blank"}
-* [Adobe [!DNL Commerce] Admin System指南](https://docs.magento.com/user-guide/system/system.html){target="_blank"}
-
-**第3節：數位行銷和電子商務基礎知識**
-
-* [促銷活動](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [購物協助](https://docs.magento.com/user-guide/marketing/shopping-tools.html){target="_blank"}
-* [變數和客戶通訊](https://docs.magento.com/user-guide/marketing/communications.html){target="_blank"}
-* [SEO總覽](https://docs.magento.com/user-guide/marketing/seo-best-practices.html){target="_blank"}
-* [使用網站地圖](https://docs.magento.com/user-guide/marketing/sitemap-xml.html){target="_blank"}
-* [客戶歷程](https://docs.magento.com/user-guide/quick-tour/customer-journey.html){target="_blank"}
-* [Business Intelligence工具](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
-
-**第4節：合規性/安全性基本知識**
-
-* [無障礙指引](https://devdocs.magento.com/guides/v2.4/pattern-library/general/accessibilityguideline/accessibilityGuideline.html#visual){target="_blank"}
-* [安全性](https://docs.magento.com/user-guide/stores/security.html){target="_blank"}
-* [瞭解ADA法規遵循及其與電子商務網站的關係](https://magento.com/blog/best-practices/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
-* [Adobe [!DNL Commerce] 安全性最佳實務指南](https://www.adobe.com/content/dam/cc/en/security/pdfs/Adobe-Magento-Commerce-Best-Practices-Guide.pdf){target="_blank"}
-
-<br>
-
 **參加練習測試**
 
 {{practice-test}}
+
+**考試準備指南**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/383" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   檢視考試準備指南
+</span>
+</a>
 
 +++
 
