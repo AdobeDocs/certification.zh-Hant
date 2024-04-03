@@ -7,10 +7,10 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: 856946800cb9911550c2c79555350e1f250d1665
 workflow-type: tm+mt
-source-wordcount: '1171'
-ht-degree: 1%
+source-wordcount: '1714'
+ht-degree: 0%
 
 ---
 
@@ -36,9 +36,135 @@ ht-degree: 1%
 
 >[!TAB 專業]
 
+## Adobe [!DNL Audience Manager] 商務從業者專業更新考試
+
+您目前的認證（未過期）應該位於：
+
+* Adobe [!DNL Audience Manager] 商務從業者專業人士
+
+### 續約認證的說明：
+
+* **步驟1**：已成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟2**：檢閱考試目標和資源
+* **步驟3**：考試及格
+
+### 準備就緒
+
+**考試詳細資料：**
+
+* 等級：專業（0至12個月經驗）
+* 及格分數：27/35
+* 時間：70分鐘
+* 交貨：隨選/非監督
+* 可用語言：英文
+* 費用：免費
+* 考試ID：AD5-E852Adobe [!DNL Audience Manager] 商務從業者專業更新考試
+
+### 考試目標與範圍**
+
+**區段建立與整合32%**
+
+* 找出將第一方、第二方和第三方資料用於目標定位和分析目的的方法
+* 說明啟動業務或行銷活動目標的基本程式
+* 區分割槽段啟用方法
+* 識別不同型別的目的地
+* 識別不同型別的來源
+
+**特徵建立16%**
+
+* 在情境中，識別訊號、特徵、區段和對象
+* 識別不同型別特徵的使用
+
+**報告與測量16%**
+
+* 在案例中，產生報表以測量啟用或行銷活動目標
+* 在案例中，根據符合率來比較對象
+
+**疑難排解10%**
+
+* 在特定的情況下，疑難排解來自不同來源和來源型別的傳入資料
+* 驗證傳入資料檔案的格式
+
+**分類法12%**
+
+* 使用清楚且一致的命名法，識別整理資料夾結構的最佳實務
+* 使用一致且清楚的命名法，將特徵和區段分類至資料夾
+
+**設定檔合併、ID同步和Audience Marketplace14%**
+
+* 將使用者特徵組織到單一統一設定檔中，以建立以家庭或裝置為基礎的受眾
+* 使用Audience Marketplace識別啟動
+
+### 準備
+
+您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+
+以下是一些可幫助您準備的建議資源：
+
+**區段1**
+
+* [收集的資料型別](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-types-collected.html?lang=en){target="_blank"}
+* [Audience Manager的資料安全性](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-security.html){target="_blank"}
+* [資料隱私權請求](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-requests.html){target="_blank"}
+* [Audience Manager概觀](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=zh-Hant){target="_blank"}
+* [客戶資料摘要常見問題集](https://experienceleague.adobe.com/docs/audience-manager/user-guide/faqs/faq-cdf.html){target="_blank"}
+* [目的地產生器](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-reference/destination-builder.html){target="_blank"}
+* [定義的巨集目的地](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-reference/destination-macros.html){target="_blank"}
+* [啟用對象以批次設定檔匯出目的地](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html?lang=en){target="_blank"}
+* [新增以裝置為基礎的目的地](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/add-device-based-destinations.html?lang=en){target="_blank"}
+
+**區段2**
+
+* [瞭解Analytics和Audience Manager中的區段](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/audience-analytics-workflow/aam-analytics-segments.html?lang=zh-Hant){target="_blank"}
+* [瞭解訊號](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-understanding-signals.html?lang=en){target="_blank"}
+* [關鍵變數的前置詞要求](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-variable-prefixes.html?lang=en){target="_blank"}
+* [特徵Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=en){target="_blank"}
+* [建立演演算法特徵](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-algorithmic-traits.html?lang=en){target="_blank"}
+
+**區段3**
+
+* [轉換報表](https://experienceleague.adobe.com/docs/analytics/technotes/ga-to-aa/reports/conversions-reports.html?lang=en){target="_blank"}
+* [不重複使用者觸及](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-unique-reach.html?lang=en){target="_blank"}
+* [廣告單位重疊](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-ad-unit-overlap.html?lang=en){target="_blank"}
+* [瞭解匹配率](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html?lang=en){target="_blank"}
+* [可定址對象低符合率的成因](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=en#low-match-rates){target="_blank"}
+* [瞭解ID同步和匹配率](https://experienceleague.adobe.com/docs/id-service/using/intro/match-rates.html?lang=en){target="_blank"}
+
+**區段4**
+
+* [上線狀態報表：關於](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#onboarding-status-about){target="_blank"}
+* [資料來源清單與設定](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html?lang=en){target="_blank"}
+* [傳入資料檔案內容：語法、無效字元、變數和範例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=en){target="_blank"}
+
+**區段5**
+
+* [Audience Manager使用案例](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/intro-to-audience-manager/audience-manager-use-cases.html?lang=en){target="_blank"}
+* [建立特徵分類法](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=en){target="_blank"}
+* [使用通用分類法將特徵分類](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html?lang=en){target="_blank"}
+* [建立區段分類法](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-segment-taxonomy.html?lang=en){target="_blank"}
+
+**區段6**
+
+* [設定檔合併規則的一般使用案例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html?lang=en){target="_blank"}
+* [設定檔合併規則概述](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=en)
+* [設定檔合併規則快速入門](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-start.html?lang=en){target="_blank"}
+* [建立、定價和管理資料摘要](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-providers/marketplace-create-manage-feeds.html?lang=en){target="_blank"}
+* [Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace.html?lang=en){target="_blank"}
+
+### 更新您的認證
+
+請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 第一。 然後，若要更新您的認證，請按一下下列連結。
+
+[!BADGE 接受Adobe [!DNL Audience Manager] 商務從業人員專業更新考試 — AD5-E852]{type=Informative url="https://www.certmetrics.com/adobe/support/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E852&amp;cid=358899 newtab=true"}
+
 >[!NOTE]
 >
->即將推出專業更新。
+>這項考試是免費的、公開的，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等待 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
+
+
+
+
+<!--divider-->
 
 >[!TAB 專家]
 
@@ -103,7 +229,7 @@ ht-degree: 1%
 
 [!BADGE 範例問題]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
 
-**資源:**
+**資源：**
 
 * [Adobe [!DNL Audience Manager] 產品檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe支援 — Experience Cloud對象](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
