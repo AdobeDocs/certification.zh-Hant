@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 856946800cb9911550c2c79555350e1f250d1665
+source-git-commit: 408319cc7072f063cbcdfdda84a019075defbc72
 workflow-type: tm+mt
-source-wordcount: '1714'
+source-wordcount: '1729'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 >[!TAB 專業]
 
-## Adobe [!DNL Audience Manager] 商務從業者專業更新考試
+### Adobe [!DNL Audience Manager] 商務從業者專業更新考試
 
 您目前的認證（未過期）應該位於：
 
@@ -60,9 +60,9 @@ ht-degree: 0%
 * 費用：免費
 * 考試ID：AD5-E852Adobe [!DNL Audience Manager] 商務從業者專業更新考試
 
-### 考試目標與範圍**
+### 考試目標與範圍
 
-**區段建立與整合32%**
+**區段1：區段建立與整合(32%)**
 
 * 找出將第一方、第二方和第三方資料用於目標定位和分析目的的方法
 * 說明啟動業務或行銷活動目標的基本程式
@@ -70,27 +70,27 @@ ht-degree: 0%
 * 識別不同型別的目的地
 * 識別不同型別的來源
 
-**特徵建立16%**
+**第2節：特徵建立(16%)**
 
 * 在情境中，識別訊號、特徵、區段和對象
 * 識別不同型別特徵的使用
 
-**報告與測量16%**
+**第3節：報告與測量(16%)**
 
 * 在案例中，產生報表以測量啟用或行銷活動目標
 * 在案例中，根據符合率來比較對象
 
-**疑難排解10%**
+**第4節：疑難排解(10%)**
 
 * 在特定的情況下，疑難排解來自不同來源和來源型別的傳入資料
 * 驗證傳入資料檔案的格式
 
-**分類法12%**
+**區段5：分類法(12%)**
 
 * 使用清楚且一致的命名法，識別整理資料夾結構的最佳實務
 * 使用一致且清楚的命名法，將特徵和區段分類至資料夾
 
-**設定檔合併、ID同步和Audience Marketplace14%**
+**第6節：設定檔合併、ID同步和Audience Marketplace(14%)**
 
 * 將使用者特徵組織到單一統一設定檔中，以建立以家庭或裝置為基礎的受眾
 * 使用Audience Marketplace識別啟動
@@ -161,18 +161,13 @@ ht-degree: 0%
 >
 >這項考試是免費的、公開的，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等待 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
-
-
-
-<!--divider-->
-
 >[!TAB 專家]
 
 您目前的認證（未過期）應該位於：
 
 * Adobe Audience Manager商業從業者專家
 
-## 續約認證的說明：
+### 續約認證的說明：
 
 * **步驟1**：已成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
 * **步驟2**：檢閱考試目標和資源
@@ -188,9 +183,9 @@ ht-degree: 0%
 * 交貨：隨選/非監督
 * 可用語言：英文
 * 費用：免費
-* 測驗ID：AD5-E826 - Adobe Audience Manager商務從業者專家續約
+* 測驗ID：AD5-E826 - Adobe Audience Manager商務從業者專家更新測驗
 
-**考試目標與範圍**
+### 考試目標與範圍
 
 **區段1：區段建立與整合(25%)**
 
@@ -229,7 +224,7 @@ ht-degree: 0%
 
 [!BADGE 範例問題]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
 
-**資源：**
+### 資源：
 
 * [Adobe [!DNL Audience Manager] 產品檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe支援 — Experience Cloud對象](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
@@ -249,11 +244,11 @@ ht-degree: 0%
 
 >[!TAB 主版]
 
-您目前的認證（未過期）應該位於：
+### 您目前的認證（未過期）應該位於：
 
 * Adobe Audience Manager Architect主機
 
-## 更新認證的說明
+### 更新認證的說明
 
 * **步驟1**  — 檢閱考試目標
 * **步驟2**  — 檢閱資源
@@ -269,11 +264,11 @@ ht-degree: 0%
 * 交貨：隨選/非監督
 * 可用語言：英文
 * 費用：免費
-* 考試ID：AD5-E825 - Adobe Audience Manager Architect主要續約
+* 考試ID：AD5-E825 - Adobe Audience Manager Architect主要更新考試
 
-**範圍和目標：**
+## 考試目標與範圍：
 
-第1節：實作分析(28%)
+**第1節：實作分析(28%)**
 
 * 決定如何指南AAM並支援其實作為獨立產品或雲端解決方案的一部分
 * 分析傳出目的地選項並推薦AAM實作方法
@@ -281,14 +276,14 @@ ht-degree: 0%
 * 識別訪客資料檢視器、標籤、RBAC等功能，以符合業務目標
 * 決定如何設計和測試建立區段和特徵所需的畫素
 
-第2節：解決方案設計和Recommendations (17%)
+**第2節：解決方案設計和Recommendations (17%)**
 
 * 根據客戶使用案例來判斷受眾和啟用的AAM功能
 * 套用程式性概念，以運用對象身分解決方案來補充設計架構
 * 識別屬性和行為資料，並將其對應至特定業務使用案例
 * 套用程式概念以設計資料夾分類法和命名慣例
 
-第3節：細分和啟動(31%)
+**第3節：細分和啟動(31%)**
 
 * 套用程式概念以在中建立目的地 [!DNL Audience Manager]
 * 識別訊號以建立規則型、已上線和演演算法特徵
@@ -297,12 +292,12 @@ ht-degree: 0%
 * 套用程式性概念以建立演演算法或預測性模型
 * 根據使用案例決定分段邏輯
 
-第4節：隱私權與資料控管(7%)
+**第4節：隱私權與資料控管(7%)**
 
 * 推薦 [!DNL Audience Manager] 與治理、隱私和安全性相關的功能
 * 識別符合政府法規的客戶資料政策
 
-第5節：績效與報表(17%)
+**第5節：績效與報表(17%)**
 
 * 決定如何在AAM中設定報表，以根據業務需求收集訊號、特徵和區段效能
 
