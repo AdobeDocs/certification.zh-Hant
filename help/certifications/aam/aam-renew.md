@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 408319cc7072f063cbcdfdda84a019075defbc72
+source-git-commit: 4259d28b4cb603fe1d0aa1d184b9f27ad1b8bd03
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
@@ -36,17 +36,17 @@ ht-degree: 0%
 
 >[!TAB 專業]
 
+## 續約認證的說明：
+
+* **步驟1**：已成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟2**：檢閱考試目標和資源
+* **步驟3**：考試及格
+
 ### Adobe [!DNL Audience Manager] 商務從業者專業更新考試
 
 您目前的認證（未過期）應該位於：
 
 * Adobe [!DNL Audience Manager] 商務從業者專業人士
-
-### 續約認證的說明：
-
-* **步驟1**：已成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
-* **步驟2**：檢閱考試目標和資源
-* **步驟3**：考試及格
 
 ### 準備就緒
 
@@ -163,15 +163,15 @@ ht-degree: 0%
 
 >[!TAB 專家]
 
-您目前的認證（未過期）應該位於：
-
-* Adobe Audience Manager商業從業者專家
-
-### 續約認證的說明：
+## 續約認證的說明：
 
 * **步驟1**：已成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
 * **步驟2**：檢閱考試目標和資源
 * **步驟3**：考試及格
+
+### 您目前的認證（未過期）應該位於：
+
+* Adobe Audience Manager商業從業者專家
 
 ### 準備就緒
 
@@ -244,15 +244,15 @@ ht-degree: 0%
 
 >[!TAB 主版]
 
-### 您目前的認證（未過期）應該位於：
-
-* Adobe Audience Manager Architect主機
-
-### 更新認證的說明
+## 更新認證的說明
 
 * **步驟1**  — 檢閱考試目標
 * **步驟2**  — 檢閱資源
 * **步驟3**  — 參加並通過測驗
+
+### 您目前的認證（未過期）應該位於：
+
+* Adobe Audience Manager Architect主機
 
 ### 準備就緒
 
