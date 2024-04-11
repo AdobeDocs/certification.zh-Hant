@@ -7,9 +7,9 @@ role: User
 badge: label="考試AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/383) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>現在提供免費的隨選資源，協助您準備考試：
+>
+>**課程**：如果您正要開始， [Adobe Commerce基礎課程](https://app.rockinfo.com/courses/148) 提供認證歷程中可建置的知識基礎。
+>
+>**考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/383) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。
+>
+>_如果系統提示您登入，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -137,6 +143,17 @@ ht-degree: 0%
 **參加練習測試**
 
 {{practice-test}}
+
+**參加課程**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/148" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   參加Adobe Commerce基礎課程
+</span>
+</a>
 
 **考試準備指南**
 
