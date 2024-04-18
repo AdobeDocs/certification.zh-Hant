@@ -7,7 +7,7 @@ role: Developer,Data Architect
 badge: label="考試AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 16ffac2b0619d0cdce85e6f73a45cff84a5e306b
+source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
 workflow-type: tm+mt
 source-wordcount: '877'
 ht-degree: 3%
@@ -21,6 +21,18 @@ ht-degree: 3%
 ## 考試說明 {#exam-description}
 
 {{exam-description}}
+
+<br>
+
+### 考試詳細資料 {#exam-details}
+
+* 等級：專家（1-3年經驗）
+* 及格分數：45/68
+* 時間：136分鐘
+* 傳遞：線上監護（需要存取攝影機）
+* 語言：英文
+* 費用：225美元（全球） / 150美元（印度）
+* 考試ID：AD0-E605
 
 <br>
 
@@ -66,18 +78,6 @@ ht-degree: 3%
 
 * AEP
 * 邊緣網路
-
-<br>
-
-### 考試詳細資料 {#exam-details}
-
-* 等級：專家（1-3年經驗）
-* 及格分數：45/68
-* 時間：136分鐘
-* 傳遞：線上監護（需要存取攝影機）
-* 語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E605
 
 <br>
 
@@ -178,7 +178,7 @@ ht-degree: 3%
 **區段3**
 
 * [設定資料流以從UI中的雲端儲存空間來源擷取批次資料](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/dataflow/cloud-storage.html#activate-inbound-data-for-profile-population){target="_blank"}
-* [Edge Network Server API總覽](https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/overview.html?lang=zh-Hant){target="_blank"}
+* [Edge Network伺服器API總覽](https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/overview.html?lang=zh-Hant){target="_blank"}
 * [透過Adobe Experience Platform Web SDK內嵌資料](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-data-ingestion/ingest-use-guides/edge-network/aepwebsdk.html){target="_blank"}
 * [使用HTTP API串流資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-http-api.html?lang=zh-Hant){target="_blank"}
 * [事件轉送快速入門](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/getting-started.html){target="_blank"}

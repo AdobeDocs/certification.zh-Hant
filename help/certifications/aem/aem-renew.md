@@ -6,9 +6,9 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: 0ed57ea2810ffabed39e9bfd9612b3df43c4cea4
+source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
 workflow-type: tm+mt
-source-wordcount: '2111'
+source-wordcount: '2123'
 ht-degree: 0%
 
 ---
@@ -118,7 +118,7 @@ ht-degree: 0%
 
 * [AEM Screens簡介](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/introduction.html){target="_blank"}
 * [透過AEMas a Cloud Service強化您的數位體驗](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3){target="_blank"}
-* [Adobe Experience Manager as a Headless CMS簡介](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html){target="_blank"}
+* [Adobe Experience Manager as a Headless CMS簡介](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html?lang=zh-Hant){target="_blank"}
 * [從建立到傳遞，管理產品、說明和支援內容。](https://business.adobe.com/products/experience-manager/guides/aem-guides.html){target="_blank"}
 * [Experience Manager Assets Brand Portal概觀](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
 * [專案角色與責任](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html){target="_blank"}
@@ -130,7 +130,7 @@ ht-degree: 0%
 
 **區段4**
 
-* [啟動](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html){target="_blank"}
+* [啟動](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=zh-Hant){target="_blank"}
 * [使用工作流程編輯器](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/workflow/use-the-workflow-editor.html){target="_blank"}
 * [Assets管理員搜尋邊欄](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/assets-admin-search-rail.html#:~:text=The%20Assets%20admin%20search%20rail,using%20custom%20criteria%20in%20Omnisearch.&amp;text=The%20asset%20set%20in%20Search，邊欄%20configuration%20for%20AEM%20assets。){target="_blank"}
 
@@ -138,7 +138,7 @@ ht-degree: 0%
 
 請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 第一。 然後，若要更新您的認證，請按一下下方的按鈕。
 
-[！BADGE取得Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E843 newtab=true"}
+[!BADGE 接受Adobe [!DNL Experience Manager] 商務從業人員專業更新考試AD5-E843]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E843 newtab=true"}
 
 >[!NOTE]
 >
@@ -248,7 +248,7 @@ ht-degree: 0%
 
 請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 第一。 然後，若要更新您的認證，請按一下下方的按鈕。
 
-[！BADGE取得Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true"}
+[!BADGE 接受Adobe [!DNL Experience Manager] Sites開發人員專業更新考試AD5-E837]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true"}
 
 >[!NOTE]
 >
@@ -356,7 +356,7 @@ ht-degree: 0%
 
 請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 第一。 然後，若要更新您的認證，請按一下下方的按鈕。
 
-[！BADGE取得Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E850 newtab=true"}
+[!BADGE 接受Adobe [!DNL Experience Manager] Assets開發人員專業更新考試AD5-E850]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E850 newtab=true"}
 
 >[!NOTE]
 >
@@ -371,7 +371,6 @@ ht-degree: 0%
 * Adobe [!DNL Experience Manager Sites] 開發人員專家
 * Adobe [!DNL Experience Manager Sites] 商務從業者專家
 * Adobe [!DNL Experience Manager Sites] 架構師Master
-* Adobe [!DNL Experience Manager Assets] 開發人員專家
 * Adobe [!DNL Experience Manager] 開發/作業工程師專家
 * Adobe [!DNL Experience Manager Forms] 開發人員專家
 
