@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="考試AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: d50dfa88269e422b67613528efaa9057205a8a44
+source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1116'
 ht-degree: 0%
 
 ---
@@ -115,14 +115,14 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1節：行銷活動和歷程最佳化**
+**區段1：行銷活動和歷程最佳化(48%)**
 
 * 在案例中，識別如何建立客戶歷程
 * 在案例中，決定如何驗證客戶歷程
 * 假設歷程執行後發生的情況，請識別如何評估客戶歷程
 * 在情景中，識別何時使用單一事件或業務事件
 
-**第2節：Offer decisioning**
+**區段2：Offer decisioning(12%)**
 
 * 識別如何建立優惠方案集合
 * 識別offer decisioning的階段
@@ -131,7 +131,7 @@ ht-degree: 0%
 * 在情景中，識別何時大規模使用offer decisioning或個人化
 * 在案例中，區分靜態和動態選件
 
-**第3節：內容製作**
+**區段3：內容製作(20%)**
 
 * 識別如何使用資產要點
 * 在案例中，識別如何在電子郵件中新增個人化欄位
@@ -141,7 +141,7 @@ ht-degree: 0%
 * 識別片段型別
 * 識別如何建立電子郵件範本
 
-**第4節：AEP基礎**
+**第4節：AEP基礎(20%)**
 
 * 在給定情況下，決定何時使用不同型別的資料
 * 識別檢閱設定檔屬性和對象成員資格的位置
