@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="考試AD0-E409" type="neutral"
 mini-toc-levels: 1
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 31a239ac92392d84d8307f9f298b9904234d167d
+source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '678'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 1%
 <br>
 
 ### 目標對象 {#intended-audience}
+
+此認證的預定候選者包括下列團隊/組織的成員：
 
 * 轉換率最佳化工程師/架構師
 * 個人化工程師/架構師
