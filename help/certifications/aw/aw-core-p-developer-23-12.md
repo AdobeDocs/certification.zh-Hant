@@ -6,9 +6,9 @@ role: Developer
 badge: label="考試AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
+source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Adobe的認證歷程 [!DNL Workfront] 核心開發人員專業版
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新課程：** 此 [Adobe Workfront核心開發人員 — 專業課程](https://app.rockinfo.com/courses/231) 包括關鍵概念的解釋、實作示範和知識檢查。 _如果系統提示您登入，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -51,10 +55,10 @@ ht-degree: 0%
 
 ### 最低體驗 {#minimum-experience}
 
-Adobe [!DNL Workfront] Core Developer Certified Professional擁有：
+雖然這項測驗不需要編碼/程式設計知識，但至少需要3至6個月的Adobe實踐經驗 [!DNL Workfront]
 
-* 注意：雖然這項考試不需要編碼/程式設計知識。
-* 使用Adobe至少3至6個月的實踐經驗 [!DNL Workfront]
+合格候選人也應具備：
+
 * Adobe體驗 [!DNL Workfront] 功能和連線能力，包括接收、核准、規劃、執行和報告
 * 深入瞭解Adobe [!DNL Workfront] 物件型別，包括自訂表單和核准工作流程、範本、持續時間、工作量/計畫時數
 * 深入瞭解Adobe [!DNL Workfront] 設定，包括存取層級、版面配置範本、專案偏好設定和其他方法，以實現一般使用者設計的簡單化
@@ -69,19 +73,19 @@ Adobe [!DNL Workfront] Core Developer Certified Professional擁有：
 
 {{exam-objectives}}
 
-**第1節：策略與輸入23%**
+**第1節：策略與輸入(23%)**
 
 * 使用Portfolio和計畫
 * 使用請求佇列
 * 使用自訂Forms
 * 使用基本核准
 
-**第2節：預算與計畫11%**
+**第2節：預算與規劃(11%)**
 
 * 使用資源規劃工具
 * 在指定案例/需求集合時，套用設定以設定專案範本
 
-**區段3：使用者體驗25%**
+**區段3：使用者體驗(25%)**
 
 * 說明建立正確使用者體驗時使用者管理的最佳實務
 * 在案例中，套用系統間共用與存取許可權的正確設定
@@ -89,13 +93,13 @@ Adobe [!DNL Workfront] Core Developer Certified Professional擁有：
 * 示範如何建立和使用時程表
 * 說明聯結器、外掛程式和附加元件的用途和價值
 
-**第4節：度量和報表16%**
+**第4節：量度和報表(16%)**
 
 * 說明建立、傳送及自訂報表的基本概念
 * 說明如何建置和自訂儀表板
 * 示範如何設定報告的功能檢視
 
-**第5節：執行24%**
+**第5節：執行(24%)**
 
 * 示範如何設定核准和校訂工作流程
 * 瞭解為專案建立問題的目的
@@ -209,6 +213,12 @@ Adobe [!DNL Workfront] Core Developer Certified Professional擁有：
 **參加練習測試**
 
 {{practice-test}}
+
+**參加課程**
+
+{{take-course}}
+
+[參加Adobe Workfront核心開發人員 — 專業課程](https://app.rockinfo.com/courses/231)
 
 +++
 

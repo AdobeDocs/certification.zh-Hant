@@ -6,9 +6,9 @@ role: Developer
 badge: label="考試AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
 workflow-type: tm+mt
-source-wordcount: '779'
+source-wordcount: '823'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Adobe的認證歷程 [!DNL Workfront] Project Manager專業版
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新課程：** 此 [Adobe Workfront Project Manager — 專業課程](https://app.rockinfo.com/courses/230) 包括關鍵概念的解釋、實作示範和知識檢查。 _如果系統提示您登入，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -181,6 +185,12 @@ ht-degree: 0%
 **參加練習測試**
 
 {{practice-test}}
+
+**參加課程**
+
+{{take-course}}
+
+[參加Adobe Workfront Project Manager — 專業課程](https://app.rockinfo.com/courses/230)
 
 +++
 
