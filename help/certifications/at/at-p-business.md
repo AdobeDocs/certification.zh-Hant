@@ -7,16 +7,20 @@ role: User
 badge: label="考試AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '593'
-ht-degree: 1%
+source-wordcount: '563'
+ht-degree: 0%
 
 ---
 
 # 的認證歷程 [!DNL Adobe Target] 商務從業者專業人士
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/593) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -127,41 +131,18 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**第1節：規劃與策略**
-
-* [[!DNL Adobe Target] 商業從業者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
-* [[!DNL Adobe Target] 檔案](https://experienceleague.adobe.com/docs/target.html){target="_blank"}
-* [訪客設定檔](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html){target="_blank"}
-* [[!DNL Adobe Target] 歡迎套件](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
-* [成功量度](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html){target="_blank"}
-* [對象的類別](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html){target="_blank"}
-
-**第2節：設定、執行和管理**
-
-* [視覺化體驗撰寫器(VEC)](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html){target="_blank"}
-* [[!DNL Adobe Target] 歡迎套件](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
-* [A/B測試概覽](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
-* [建立體驗鎖定目標活動](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html){target="_blank"}
-* [多變數測試概覽](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
-* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
-* [建立對象](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html??lang=zh-Hant){target="_blank"}
-* [活動問答](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-
-**第3節：分析和報告**
-
-* [報表設定](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
-* [A/B測試概覽](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
-
-**第4節：疑難排解**
-
-* [[!DNL Adobe Target] 商業從業者指南](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
-* [Adobe Experience Cloud Debugger概觀](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html){target="_blank"}
-
-<br>
 
 **參加練習測試**
 
 {{practice-test}}
+
+**考試準備指南**
+
+{{exam-prep-guide}}
+
+[檢視考試準備指南](https://app.rockinfo.com/courses/playScorm/593)
+
+<br>
 
 +++
 

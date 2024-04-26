@@ -8,16 +8,20 @@ level: Experienced
 badge: label="考試AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '814'
-ht-degree: 1%
+source-wordcount: '717'
+ht-degree: 0%
 
 ---
 
 # 的認證歷程 [!DNL Adobe Analytics] 開發人員專業版
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/532) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -140,49 +144,11 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**第1節：Adobe Experience Cloud生態系統中的Analytics**
+**考試準備指南**
 
-* [Adobe Experience Cloud Identity服務](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
-* [常見問答](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
-* [AEM 6.5 Authoring使用指南](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [標籤總覽](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
+{{exam-prep-guide}}
 
-**第2節：根據解決方案設計參考資料的分析策略和設計**
-
-* [實作 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=zh-Hant){target="_blank"}
-* [Analytics管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hant){target="_blank"}
-* [清單變數](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/list-var-admin.html){target="_blank"}
-* [銷售eVar和產品尋找方法](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/merchandising-evars.html){target="_blank"}
-
-**第3節：Analytics實施與設定**
-
-* [Analytics工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=zh-Hant){target="_blank"}
-* [快速提示 — 將資料傳遞至Launch規則](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
-* [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
-* [如何收集分析資料](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/how-analytics-data-is-collected.html){target="_blank"}
-
-**第4節：標籤管理系統**
-
-* [標籤總覽](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
-* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [封包分析器](https://experienceleague.adobe.com/docs/analytics/implementation/validate/packet-monitor.html){target="_blank"}
-* [Satellite物件參考](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html){target="_blank"}
-
-**第5節：行動服務與API**
-
-* [[!DNL Adobe Analytics]：電子郵件行銷(ESP)整合個案研究](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
-* [[!DNL Adobe Analytics] API](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
-* [歡迎使用企業和團隊管理指南](https://helpx.adobe.com/tw/enterprise/admin-guide.html){target="_blank"}
-* [Analytics報表API](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
-* [處理規則的運作方式](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
-
-**第6節：測試、驗證和疑難排解**
-
-* [JavaScript錯誤參考](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors){target="_blank"}
-* [Analytics技術備忘稿](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=zh-Hant){target="_blank"}
-* [Linkdownloadfiletypes](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linkdownloadfiletypes.html){target="_blank"}
-* [使用追蹤已點按的元件 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/track-clicked-component.html){target="_blank"}
-* [[!DNL Adobe Analytics] 實作除錯 — 工具](https://www.thelearningproject.in/posts/adobe-analytics-implementation-debugging-tools/){target="_blank"}
+[檢視考試準備指南](https://app.rockinfo.com/courses/playScorm/532)
 
 <br>
 

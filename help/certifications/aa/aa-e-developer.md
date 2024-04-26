@@ -8,16 +8,20 @@ level: Experienced
 badge: label="考試AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '707'
-ht-degree: 1%
+source-wordcount: '647'
+ht-degree: 0%
 
 ---
 
 # Adobe的認證歷程 [!DNL Analytics] 開發人員專家
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/530) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -147,39 +151,11 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**第1節：瞭解Adobe Experience Cloud生態系統中的Analytics**
+**考試準備指南**
 
-* [Analytics技術備忘稿](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=zh-Hant){target="_blank"}
-* [設定Analytics和Experience CloudID](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=zh-Hant){target="_blank"}
-* [Analytics影片和教學課程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
+{{exam-prep-guide}}
 
-**第2節：根據解決方案設計參考(SDR)的策略和設計**
-
-* [管理資源](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
-* [[!DNL Adobe Analytics] 文件](https://experienceleague.adobe.com/docs/analytics.html)
-
-**第3節：Analytics實施與設定**
-
-* [實作 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=zh-Hant){target="_blank"}
-* [瞭解和建立報告套裝](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=zh-Hant){target="_blank"}
-* [設定連結追蹤 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
-
-**第4節：標籤管理系統**
-
-* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [標籤總覽](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
-* [概觀](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
-
-**第5節：行動服務**
-
-* [對行動裝置實作Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
-* [將行動服務處理規則移轉至 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
-
-**第6節：測試、驗證和疑難排解**
-
-* [Adobe Experience Platform Debugger概觀](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html){target="_blank"}
-* [啟用、偵錯並自訂 [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
-* [Analysis Workspace效能最佳化](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html?lang=zh-Hant){target="_blank"}
+[檢視考試準備指南](https://app.rockinfo.com/courses/playScorm/530)
 
 <br>
 

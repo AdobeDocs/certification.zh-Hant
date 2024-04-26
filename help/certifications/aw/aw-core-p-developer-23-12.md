@@ -6,9 +6,9 @@ role: Developer
 badge: label="考試AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '886'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**可用的新課程：** 此 [Adobe Workfront核心開發人員 — 專業課程](https://app.rockinfo.com/courses/231) 包括關鍵概念的解釋、實作示範和知識檢查。 _如果系統提示您登入，請使用您的Adobe ID。_
+>現在提供免費的隨選資源，協助您準備考試：
+>
+>* **可用的新課程：** 此 [Adobe Workfront核心開發人員 — 專業課程](https://app.rockinfo.com/courses/231) 包括關鍵概念的解釋、實作示範和知識檢查。
+>
+>* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/596) 提供量身打造的考試準備流程，包括考試成功所需的深入學習資料。
+>
+>_如果系統提示您登入，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -128,88 +134,6 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**區段1**
-
-* [建立和管理計畫](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/create-and-manage-programs/create-and-manage-programs.html){target="_blank"}
-* [刪除和停用投資組合](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/create-and-manage-portfolios/delete-deactivate-portfolios.html){target="_blank"}
-* [Portfolio最佳化工具概觀](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html){target="_blank"}
-* [建立請求佇列](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
-* [建立路由規則](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-routing-rules.html){target="_blank"}
-* [建立佇列主題](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics.html){target="_blank"}
-* [使用顯示邏輯和略過邏輯的考量事項](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/display-or-skip-logic-custom-form.html#considerations-for-using-display-logic-and-skip-logic){target="_blank"}
-* [使用表單設計工具來組織和預覽表單](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/form-designer/design-a-form/organize-a-form.html){target="_blank"}
-* [建立和共用自訂表格](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
-* [共用自訂表格](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/manage-custom-forms/share-access-to-a-custom-form.html){target="_blank"}
-* [核准流程總覽](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approval-process-in-workfront.html){target="_blank"}
-* [建立及管理自動化工作流程範本](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/configure-proofing/create-manage-automated-workflow-templates.html){target="_blank"}
-* [建立主題群組](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-topic-groups.html){target="_blank"}
-* [建立及管理請求佇列](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html){target="_blank"}
-
-**區段2**
-
-* [開始使用資源管理](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-management/get-started-resource-management.html){target="_blank"}
-* [專案範本概觀](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/project-template-overview.html){target="_blank"}
-* [共用範本](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-template.html)
-* [共用專案範本](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html){target="_blank"}
-* [使用Adobe Workfront資源規劃工具檢閱資源可用性和配置](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-availability-allocation-resource-planner.html){target="_blank"}
-
-**區段3**
-
-* [最佳實務 — 儀表板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/dashboards-bp.html){target="_blank"}
-* [最佳實務 — 版面配置範本](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/layout-templates-bp.html){target="_blank"}
-* [建立及管理版面範本](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/create-and-manage-layout-templates.html){target="_blank"}
-* [何時及如何停用或刪除使用者](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html){target="_blank"}
-* [新存取層級概觀](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview.html){target="_blank"}
-* [授予專案存取權](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/configure-access/grant-access-projects.html){target="_blank"}
-* [以Adobe共用報表 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/share-report.html){target="_blank"}
-* [將問題/請求轉換為專案](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/create-a-project-from-a-request.html){target="_blank"}
-* [最佳實務 — 組織單位](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/organizational-units-bp.html){target="_blank"}
-* [建立和修改自訂存取層級](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels.html){target="_blank"}
-* [從Adobe匯出資料 [!DNL Workfront] 透過Kick-Starts](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/export-data-from-wf-via-kick-starts.html){target="_blank"}
-* [Kick-Start資料匯入工具](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts-data-importer.html){target="_blank"}
-* [管理小時型別](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/set-up-wf/configure-timesheets-schedules/hour-types.html){target="_blank"}
-* [Adobe [!DNL Workfront] 適用於Jira](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html){target="_blank"}
-* [Adobe [!DNL Workfront] Creative Cloud應用程式的外掛程式](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html){target="_blank"}
-* [設定Adobe [!DNL Workfront] 適用於Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html){target="_blank"}
-* [在Adobe中建立和管理時程表 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-and-manage-timesheets.html){target="_blank"}
-* [排程總覽](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/set-up-wf/configure-timesheets-schedules/schedules-overview.html){target="_blank"}
-
-**區段4**
-
-* [在檢視中使用條件式格式](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-conditional-formatting-views.html){target="_blank"}
-* [開始使用Adobe中的報告 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-basics/get-started-reports-workfront.html){target="_blank"}
-* [新增圖表至報表](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/add-chart-report.html)
-* [依授權型別存取物件和區域](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/legacy-access-levels/access-to-objects-and-areas-by-license-type.html){target="_blank"}
-* [將外部網頁內嵌在控制面板中](https://experienceleague.adobe.com/docs/workfront/using/reporting/dashboards/create-dashboards/embed-external-web-page-dashboard.html){target="_blank"}
-* [Canvas儀表板概觀](https://experienceleague.adobe.com/docs/workfront/using/reporting/dashboards/create-dashboards/canvas-dashboards-overview.html){target="_blank"}
-* [建立儀表板](https://experienceleague.adobe.com/docs/workfront/using/reporting/dashboards/create-dashboards/create-dashboard.html){target="_blank"}
-* [建立自訂部分](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/create-custom-tabs.html){target="_blank"}
-* [在Adobe中建立或編輯檢視 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/create-edit-views.html){target="_blank"}
-* [編輯報表設定](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/edit-report-settings.html){target="_blank"}
-
-**區段5**
-
-* [將問題轉換為Adobe中的任務 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-task.html){target="_blank"}
-* [將問題轉換為Adobe中的專案 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html){target="_blank"}
-* [建立問題](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/create-issues.html){target="_blank"}
-* [瞭解Adobe中的物件 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html){target="_blank"}
-* [定義專案的請求型別](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/define-request-types-for-project.html){target="_blank"}
-* [管理群組狀態](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/manage-group-statuses.html){target="_blank"}
-* [[!DNL Workfront] 檔案](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreating_Custom_Status_and_Priority_Labels%){target="_blank"}
-* [使用自訂狀態作為群組的預設狀態](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/use-custom-statuses-as-default-statuses-group.html){target="_blank"}
-* [設定卡片縮減](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-planning-boards/configure-card-falloff.html){target="_blank"}
-* [在展示板上使用連線的卡片](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html){target="_blank"}
-* [記錄時間](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time.html){target="_blank"}
-* [帳單與收入概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/billing-and-revenue-overview.html){target="_blank"}
-* [計算成本績效指數(CPI)](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-cpi.html){target="_blank"}
-* [管理小時型別](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/set-up-wf/configure-timesheets-schedules/hour-types.html){target="_blank"}
-* [移動問題](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/move-issues.html){target="_blank"}
-* [校訂角色總覽](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles.html){target="_blank"}
-* [檢閱及核准證明](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html){target="_blank"}
-* [在中設定具有自動化工作流程的校訂 [!DNL Workfront] 證明](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/automated-workflow-in-wf-proof/set-up-proof-auto-workflow.html){target="_blank"}
-
-<br>
-
 **參加練習測試**
 
 {{practice-test}}
@@ -219,6 +143,12 @@ ht-degree: 0%
 {{take-course}}
 
 [參加Adobe Workfront核心開發人員 — 專業課程](https://app.rockinfo.com/courses/231)
+
+**考試準備指南**
+
+{{exam-prep-guide}}
+
+[檢視考試準備指南](https://app.rockinfo.com/courses/playScorm/596)
 
 +++
 
