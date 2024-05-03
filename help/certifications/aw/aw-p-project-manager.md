@@ -6,7 +6,7 @@ role: Developer
 badge: label="考試AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
+source-git-commit: 092884a61dd0c439f6fb80be271eb28db6399049
 workflow-type: tm+mt
 source-wordcount: '721'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >* **課程：** 此 [Adobe Workfront Project Manager — 專業課程](https://app.rockinfo.com/courses/230) 包括關鍵概念的解釋、實作示範和知識檢查。
 >
->* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/551) 提供量身打造的考試準備流程，包括考試成功所需的深入學習資料。
+>* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/609) 提供量身打造的考試準備流程，包括考試成功所需的深入學習資料。
 >
 >_如果系統提示您登入，請使用您的Adobe ID。_
 
@@ -157,7 +157,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[檢視考試準備指南](https://app.rockinfo.com/courses/playScorm/551)
+[檢視考試準備指南](https://app.rockinfo.com/courses/playScorm/609)
 
 +++
 
