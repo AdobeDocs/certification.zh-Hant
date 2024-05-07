@@ -7,9 +7,9 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: d8759508e4f618a8c66c91c9ebce0478f2bd5168
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '1862'
+source-wordcount: '1864'
 ht-degree: 3%
 
 ---
@@ -240,10 +240,10 @@ ht-degree: 3%
 
 **區段2**
 
-* [共用專案](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=zh-Hant)
+* [共用專案](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=zh-Hant)
 * [元件概觀](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=zh-Hant)
 * [警報產生器](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html?lang=zh-Hant)
-* [建立行動計分卡](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=zh-Hant)
+* [建立行動計分卡](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/mobapp/create-scorecard.html?lang=zh-Hant)
 
 **區段3**
 
@@ -302,7 +302,7 @@ ht-degree: 3%
 
   [Adobe Analytics客戶參考表格](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
-  當您的客戶參考資料經過稽核後，Adobe認證團隊會通知您。 如果您的參考未被接受，只要是在憑證過期之前，您就可以再次提交直到成功。
+  當您的客戶參考資料經過稽核後，Adobe數位體驗認證計畫會通知您。 如果您的參考未被接受，只要是在憑證過期之前，您就可以再次提交直到成功。
 
 >[!NOTE]
 >

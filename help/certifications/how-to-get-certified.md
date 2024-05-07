@@ -4,9 +4,9 @@ description: 瞭解如何獲得Adobe認證。 在取得認證之前、期間和�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '1494'
+source-wordcount: '1496'
 ht-degree: 0%
 
 ---
@@ -96,7 +96,7 @@ Adobe支援或檢查都無法處理重新排程和取消請求。 48小時以內
 
 >[!TAB 認證廠商]
 
-Adobe認證團隊與廠商合作，協助支援計畫的倡議和目標。  以下是廠商及其聯絡資訊：
+Adobe數位體驗認證計畫與廠商合作，協助支援計畫的倡議和目標。 以下是廠商及其聯絡資訊：
 
 | 廠商名稱 | 說明 | 支援頁面/電子郵件 |
 | ------- | ------- | ------- |
