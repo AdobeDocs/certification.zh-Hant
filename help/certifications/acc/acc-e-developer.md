@@ -7,9 +7,9 @@ role: Developer
 badge: label="考試AD0-E330" type="neutral"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: 6196ca57b04cb2c197db3c3dc96eedb89fbf9ccc
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '727'
+source-wordcount: '732'
 ht-degree: 1%
 
 ---
@@ -136,7 +136,7 @@ ht-degree: 1%
 
 <br>
 
-+++步驟2：準備考試
++++步驟2：使用我們的免費學習材料準備考試
 
 **研究材料**
 
@@ -144,7 +144,7 @@ ht-degree: 1%
 
 **第1節：系統組態**
 
-* [[!DNL Campaign Classic] v7檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html){target="_blank"}
+* [[!DNL Campaign Classic] v7檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=zh-Hant){target="_blank"}
 * [開始使用異動訊息](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/about-transactional-messaging.html){target="_blank"}
 * [一般架構](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/architecture-and-hosting-models/general-architecture.html){target="_blank"}
 * [開始使用Adobe Campaign整合](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/about-campaign-integrations.html){target="_blank"}

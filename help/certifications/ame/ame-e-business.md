@@ -7,9 +7,9 @@ role: User
 badge: label="考試AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---
@@ -160,7 +160,7 @@ ht-degree: 0%
 
 <br>
 
-+++步驟2：準備考試
++++步驟2：使用我們的免費學習材料準備考試
 
 **研究材料**
 

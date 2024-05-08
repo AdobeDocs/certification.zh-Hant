@@ -8,10 +8,10 @@ role: User
 badge: label="考試AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 6%
+source-wordcount: '585'
+ht-degree: 1%
 
 ---
 
@@ -130,7 +130,7 @@ ht-degree: 6%
 
 <br>
 
-+++步驟2：準備考試
++++步驟2：使用我們的免費學習材料準備考試
 
 **研究材料**
 
@@ -147,12 +147,12 @@ ht-degree: 6%
 
 **第2節：報表、見解和工具**
 
-* [[!DNL Analytics] 工具指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [[!DNL Analytics] Tools指南](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=zh-Hant){target="_blank"}
 * [開始使用 [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
 * [[!DNL Campaign] 報告](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
 * [建立 [!DNL Analytics] 用於Adobe的設定檔 [!DNL Advertising] 啟用與報告](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
 * [報告 [!DNL Advertising] Adobe中的資料 [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}
-* [報告時間處理](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html?lang=zh-Hant){target="_blank"}
+* [報表時間處理功能](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html?lang=zh-Hant){target="_blank"}
 * [Adobe [!DNL Analytics] 儀表板計分卡產生器](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html?lang=zh-Hant){target="_blank"}
 
 **第3節：行銷活動管理**
@@ -169,7 +169,7 @@ ht-degree: 6%
 * [PDF中的格點、參考線和測量](https://helpx.adobe.com/in/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"}
 * [Attribution &amp; Measurement](https://business.adobe.com/in/products/advertising/attribution-measurement.html){target="_blank"}
 * [Marketo Measure說明檔案](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
-* [轉換變數 (eVar)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
+* [轉換變數(eVar)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
 
 +++
 

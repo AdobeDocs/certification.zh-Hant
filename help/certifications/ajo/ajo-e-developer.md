@@ -7,9 +7,9 @@ role: Developer
 badge: label="考試AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
 hidefromtoc: true
-source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '633'
 ht-degree: 4%
 
 ---
@@ -132,7 +132,7 @@ ht-degree: 4%
 
 <br>
 
-+++步驟2：準備考試
++++步驟2：使用我們的免費學習材料準備考試
 
 **研究材料**
 
@@ -140,7 +140,7 @@ ht-degree: 4%
 
 **第1節：管理與設定**
 
-* [Adobe [!DNL Journey Optimizer] 檔案](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] 檔案](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 
    * 存取控制
    * 設定訊息
@@ -167,11 +167,11 @@ ht-degree: 4%
 * [Adobe簡介 [!DNL Experience Platform] 課程](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
 * [Adobe快速入門 [!DNL Experience Platform] 資料工程師專用課程](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
 * [資料工程師適用的資料擷取課程](https://experienceleague.adobe.com/?lang=zh-Hant?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
-* [數位體驗藍圖](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"}
+* [數位體驗藍圖](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=zh-Hant){target="_blank"}
 
 **第3節：Offer decisioning**
 
-* [Adobe [!DNL Journey Optimizer] 檔案](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] 檔案](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 
    * 決策管理
 
@@ -181,7 +181,7 @@ ht-degree: 4%
 
 **第4節：內容製作**
 
-* [Adobe [!DNL Journey Optimizer] 檔案](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] 檔案](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 
    * 設計內容
    * 歷程
@@ -191,7 +191,7 @@ ht-degree: 4%
 
 **第5節：Journey Orchestration**
 
-* [Adobe [!DNL Journey Optimizer] 檔案](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] 檔案](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 
    * 歷程
    * 追蹤和監視

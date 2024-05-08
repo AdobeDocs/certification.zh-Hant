@@ -6,10 +6,10 @@ product: Journey Optimizer
 role: Developer
 badge: label="考試AD0-E606" type="neutral"
 exl-id: null
-source-git-commit: b114bb411e6881bea4fc3f8cd90720fe0f695bc1
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '679'
-ht-degree: 7%
+source-wordcount: '650'
+ht-degree: 1%
 
 ---
 
@@ -122,7 +122,7 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 
 <br>
 
-+++步驟2：準備考試
++++步驟2：使用我們的免費學習材料準備考試
 
 **研究材料**
 
@@ -131,25 +131,25 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 **第1節：管理與設定**
 
 * [Experience Platform，存取控制，沙箱指南](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=zh-Hant){target="_blank"}
-* [AJO指南、設定、SMS頻道、歷程](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [AJO指南、設定、SMS頻道、歷程](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 * [AJO API](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
 **第2節：Journey Orchestration**
 
-* [AJO指南、歷程、運算式、追蹤和監視](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [AJO指南、歷程、運算式、追蹤和監視](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 
 **第3節：Offer decisioning**
 
-* [AJO指南、決定管理、API參考](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [AJO指南、決定管理、API參考](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 
 **第4節：內容製作**
 
-* [AJO指南、SMS頻道、隱私權、設定、歷程、運算式、內容管理、追蹤和監視、推播通知頻道](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-* [Journey Optimizer 教學課程](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}
+* [AJO指南、SMS頻道、隱私權、設定、歷程、運算式、內容管理、追蹤和監視、推播通知頻道](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
+* [Journey OptimizerTutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}
 
 **第5節：資料模型製作**
 
-* [AJO指南、設定、對象、設定檔和身分、資料管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [AJO指南、設定、對象、設定檔和身分、資料管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 * [Experience Platform、資料集、來源聯結器指南、APITutorials、平台身分服務指南、分段UI、UITutorials](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
 +++

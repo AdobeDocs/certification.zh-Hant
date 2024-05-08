@@ -8,9 +8,9 @@ level: Experienced
 badge: label="考試AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '594'
 ht-degree: 1%
 
 ---
@@ -87,7 +87,7 @@ ht-degree: 1%
 * 決定適當的結構，以建立使用清晰且一致命名法的特性和區段
 * 決定使用明確的資料夾結構來維持有組織的平台的正確技巧
 
-**第6節：設定檔合併、ID同步和Audience Marketplace**
+**第6節：設定檔合併、ID同步和Audience Marketplace(14%)**
 
 * 將使用者特徵組織到單一統一設定檔中，以建立以家庭或裝置為基礎的受眾
 * 使用Audience Marketplace識別啟動
@@ -106,7 +106,7 @@ ht-degree: 1%
 
 <br>
 
-+++步驟2：準備考試
++++步驟2：使用我們的免費學習材料準備考試
 
 **研究材料**
 

@@ -8,10 +8,10 @@ badge: label="考試AD0-E600與AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '1318'
-ht-degree: 9%
+source-wordcount: '1069'
+ht-degree: 1%
 
 ---
 
@@ -125,7 +125,7 @@ AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知�
 
 <br>
 
-+++步驟2：準備考試
++++步驟2：使用我們的免費學習材料準備考試
 
 **研究材料**
 
@@ -265,7 +265,7 @@ AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知�
 
 <br>
 
-+++步驟2：準備考試
++++步驟2：使用我們的免費學習材料準備考試
 
 **研究材料**
 
@@ -281,13 +281,13 @@ AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知�
 * [AEP應用程式服務：Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
 * [Real-Time CDP快速入門](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
 * [Real-time Customer Data Platform首頁和控制面板](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
-* [在UI中監視目的地的資料流](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=zh-Hant){target="_blank"}
+* [在UI中監視目的地的資料流](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html){target="_blank"}
 * [在Adobe中建立及啟用區段 [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [隱私權概觀](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
 * [Real-time CDP中的資料控管](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
 * [套用資料治理框架](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html){target="_blank"}
 * [開始使用資料控管](https://video.tv.adobe.com/v/333350/){target="_blank"}
-* [資料治理概觀](https://video.tv.adobe.com/v/29708/){target="_blank"}
+* [資料控管概觀](https://video.tv.adobe.com/v/29708/){target="_blank"}
 * [資料控管示範](https://video.tv.adobe.com/v/36653/){target="_blank"}
 * [使用治理標籤來分類資料](https://video.tv.adobe.com/v/29709/){target="_blank"}
 * [建立資料使用原則](https://video.tv.adobe.com/v/32977/){target="_blank"}
@@ -321,7 +321,7 @@ AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知�
 * [Real-time CDP：目的地](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
 * [目的地概觀](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html){target="_blank"}
 * [建立目的地並啟用資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
-* [Activation 總覽](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
+* [Activation概述](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
 * [目的地目錄總覽](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html){target="_blank"}
 * [對目的地啟用設定檔和區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 * [整合Google Customer Match](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/integrate-with-google-customer-match.html){target="_blank"}
