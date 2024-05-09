@@ -8,16 +8,20 @@ level: Experienced
 badge: label="考試AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 8b103c67e4232498461482ae33937eda7cb2c0f7
 workflow-type: tm+mt
-source-wordcount: '594'
-ht-degree: 1%
+source-wordcount: '423'
+ht-degree: 0%
 
 ---
 
 # Adobe的認證歷程 [!DNL Audience Manager] 商務從業者專業人士
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/616) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -112,55 +116,11 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**第1節：區段建立與整合**
+**考試準備指南**
 
-* [將資料使用情況大量上傳到Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.html){target="_blank"}
-* [關於區段](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html){target="_blank"}
-* [在中建立轉換特徵 [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html){target="_blank"}
-* [[!DNL Audience Manager] 教學課程](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=tr){target="_blank"}
-* [GDPR整備指引 [!DNL Audience Manager] 客戶（資料控管單位）](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-reference/aam-gdpr-readiness.html){target="_blank"}
-* [區段詳細資訊頁面](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-summary-view.html){target="_blank"}
-* [客戶秘訣 — 特徵和區段最佳實務](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html){target="_blank"}
+{{exam-prep-guide}}
 
-**第2節：特徵建立**
-
-* [訊號、特徵和區段](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=zh-Hant){target="_blank"}
-* [區段：用途、構成和規則](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
-* [Experience Platform區段共用對象 [!DNL Audience Manager] 和其他Experience Cloud解決方案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
-* [特徵和區段資格參考](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html){target="_blank"}
-* [區段產生器的特徵和區段母體資料](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder-data.html?lang=zh-Hant){target="_blank"}
-
-**第3節：報告與測量**
-
-* [使用Audience Optimization報告瞭解媒體效能](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
-* [Experience Platform區段共用對象 [!DNL Audience Manager] 和其他Experience Cloud解決方案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
-* [瞭解匹配率](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html){target="_blank"}
-* [建立Analytics資料的資料來源](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/data-sources/create-a-data-source-for-analytics-data.html?lang=ru){target="_blank"}
-
-**第4節：疑難排解**
-
-* [全域資料來源](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/global-data-sources.html#:~:text=Global%20data%20sources%20are%20accessible,by%20manufacturers%20for%20advertising%20purposes.){target="_blank"}
-* [資料來源清單與設定](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html){target="_blank"}
-* [管理資料來源](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html){target="_blank"}
-* [傳入資料檔案內容：語法、無效字元、變數和範例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html){target="_blank"}
-* [即時傳入資料擷取](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/real-time-inbound-data-integration/real-time-data-transfer.html){target="_blank"}
-* [傳入資料傳輸的ID同步](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html){target="_blank"}
-
-**第5節：分類法**
-
-* [資料夾特徵：關於](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
-* [特徵儲存](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-storage.html){target="_blank"}
-* [建立特徵分類法](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html){target="_blank"}
-* [瞭解區段](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/personalization/segmentation.html){target="_blank"}
-
-**第6節：設定檔合併、ID同步和Audience Marketplace**
-
-* [設定檔合併規則增強功能如何影響細分、啟用和報告](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.html){target="_blank"}
-* [在中建立轉換特徵 [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html){target="_blank"}
-* [透過臨機啟動API依需求對批次目的地啟用對象區段](https://experienceleague.adobe.com/docs/experience-platform/destinations/api/ad-hoc-activation-api.html){target="_blank"}
-* [對目的地啟用設定檔和區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
-
-<br>
+[檢視考試準備指南](https://app.rockinfo.com/courses/playScorm/616)
 
 **範例問題**
 
