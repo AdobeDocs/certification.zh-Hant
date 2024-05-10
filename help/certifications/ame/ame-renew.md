@@ -7,10 +7,10 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: e8af3d80437671df62f99a60f80eecc31c5976bf
 workflow-type: tm+mt
-source-wordcount: '2843'
-ht-degree: 2%
+source-wordcount: '2421'
+ht-degree: 0%
 
 ---
 
@@ -130,7 +130,7 @@ ht-degree: 2%
 * [讓電子郵件運作正常](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.html){target="_blank"}
 * [智慧列示的最佳實務](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html){target="_blank"}
 * [瞭解事件計畫](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
-* [利用預設程式的靈活性](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/leverage-the-flexibility-of-default-programs.html){target="_blank"}
+* [善用預設程式的彈性](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/leverage-the-flexibility-of-default-programs.html){target="_blank"}
 * [依收件者時區排程電子郵件程式](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.html){target="_blank"}
 * [復製程式](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html){target="_blank"}
 * [瞭解標籤](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html){target="_blank"}
@@ -270,40 +270,40 @@ ht-degree: 2%
 
 **第1節：管理與維護**
 
-* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （欄位管理、CRM同步、稽核軌跡、使用者管理、工作區與分割區、智慧列示、自訂欄位）
+* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} （欄位管理、CRM同步、稽核軌跡、使用者管理、工作區與分割區、智慧列示、自訂欄位）
 * [AdobeMarketo國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （與Salesforce同步，CRM整合）
 
 **第2節：行銷活動/行銷活動管理**
 
 * [AdobeMarketo國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (隨機範例、具有資料值的智慧型行銷活動引發、等待步驟、member.webinar url、行銷活動檢測器、篩選邏輯、在電子郵件中使用權杖、透過表單填寫建立銷售機會、資產和工作區、管理Forms)
-* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (智慧清單、智慧行銷活動、需求產生Forms、需求產生事件、電子郵件行銷、建立方案、事件、稽核軌跡、使用方案、管理標籤、滴管培養、登陸頁面、權杖、管理其他整合、Webhook、方案成員自訂欄位、工作區和人員分割)
+* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} (智慧清單、智慧行銷活動、需求產生Forms、需求產生事件、電子郵件行銷、建立方案、事件、稽核軌跡、使用方案、管理標籤、滴管培養、登陸頁面、權杖、管理其他整合、Webhook、方案成員自訂欄位、工作區和人員分割)
 
 **第3節：銷售機會管理**
 
 * [AdobeMarketo國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （製作潛在客戶生命週期計畫影片，從電子郵件取消訂閱）
-* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (智慧行銷活動、Marketo Sales Insight、有趣的時刻、管理智慧清單中的人員、系統管理欄位)
+* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} (智慧行銷活動、Marketo Sales Insight、有趣的時刻、管理智慧清單中的人員、系統管理欄位)
 
 **第4節：資料管理**
 
 * [AdobeMarketo國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (維護潛在客戶跳出電子郵件文章的目錄、如何管理您的Marketo資料庫以進行傳遞能力支援部落格、Marketo活動資料保留政策 — 在幕後文章)
-* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （電子郵件行銷硬退信和軟退信、報表型別、個人化、動態內容）
+* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} （電子郵件行銷硬退信和軟退信、報表型別、個人化、動態內容）
 
 **第5節：報表**
 
 * [AdobeMarketo國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （設定贏取最佳實務文章）
-* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （報表、績效深入分析、方案績效報表、編輯報表、方案會籍）
+* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} （報表、績效深入分析、方案績效報表、編輯報表、方案會籍）
 
 **第6節：最佳實務**
 
 * [潛在客戶評分的最終指南](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
-* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} （使用方案、電子郵件行銷、A/B測試）
+* [Experience League- [!DNL Marketo Engage] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"} （使用方案、電子郵件行銷、A/B測試）
 * [AdobeMarketo國家](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （請留意您的QA程式）
 
 ### 更新您的認證
 
 請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 第一。 然後，若要更新您的認證，請按一下Adobe [!DNL Marketo Engage] 商務從業者專家更新連結如下。
 
-[！BADGE取得Adobe [!DNL Marketo Engage]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
+[!BADGE 接受Adobe [!DNL Marketo Engage] 商務從業者專家更新考試AD5-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
 
 >[!NOTE]
 >
@@ -326,7 +326,7 @@ ht-degree: 2%
 **考試詳細資料：**
 
 * 等級：專家（3至5年經驗）
-* 及格分數：27/36
+* 及格分數：23/36
 * 時間：72分鐘
 * 交貨：隨選/非監督
 * 可用語言：英文
@@ -382,7 +382,7 @@ ht-degree: 2%
 **第1節：專案領導力**
 
 * [Champion部落格 — Marketo國家](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-* [Marketo產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [Marketo產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"}
 * [檔案 — REST API](https://developers.marketo.com/rest-api/){target="_blank"}
 * [瞭解收入模型](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
 
@@ -402,7 +402,7 @@ ht-degree: 2%
 
 **第4節：進階作業**
 
-* [Marketo產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [Marketo產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hant){target="_blank"}
 * [隱藏軟退信](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
 * [瞭解工作區和人員分割](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 * [瞭解Marketo自訂物件](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html){target="_blank"}
