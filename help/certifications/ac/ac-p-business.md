@@ -7,7 +7,7 @@ role: User
 badge: label="考試AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 0%
@@ -102,7 +102,7 @@ ht-degree: 0%
 
 * 識別數位行銷工具的基本用途(Google Analytics/Adobe Analytics、Google Tag Manager、電子郵件行銷、細分、社交外掛程式)
 * 說明SEO的基本原則
-* 識別常見電子商務工具的基本用途（即購物摘要）
+* 識別常見電子商務工具（例如購物摘要）的基本用法
 * 識別電子商務網站的主要功能
 * 識別基本電子商務概念（包括店面選項）
 
@@ -134,7 +134,7 @@ ht-degree: 0%
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 

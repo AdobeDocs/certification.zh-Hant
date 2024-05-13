@@ -7,9 +7,9 @@ role: User
 badge: label="考試AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '744'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 您應該有：
 
-* 2年數位分析經驗與行銷背景
+* 2年數位分析經驗，含行銷背景
 * 深入瞭解數位分析量度和維度
 * 瞭解Web技術的商業價值
 * 將業務需求轉換為量度或KPI的功能
@@ -68,7 +68,7 @@ ht-degree: 0%
 * 協助客戶瞭解如何擷取/提取他們想要的資訊（例如，協助他們定義業務問題）
 * 從功能的角度瞭解這項技術的運作方式，並瞭解使用者端的實作（例如資料的位置、收集方式和追蹤方式）
 * 至少一年 [!DNL Adobe Analytics] 實作體驗
-* 基本瞭解數位分析如何篩選/建構資料
+* 基本瞭解Digital Analytics如何篩選/結構化資料
 * 對整合的認識 [!DNL Adobe Analytics] 與其他Adobe解決方案
 
 此外，您也應熟悉下列技術和環境：
@@ -76,7 +76,7 @@ ht-degree: 0%
 * FTP使用者端
 * 目前 [!DNL Adobe Analytics] Workspace功能和Workspace以外的其他報告選項(例如 排程專案和排程報告)
 * 偵錯相關工具 [!DNL Adobe Analytics] (封包監視器，例如Adobe Debugger、瀏覽器開發人員工具、Charles)
-* 管理控制檯(Analytics報表套裝管理控制檯和Experience Cloud管理控制檯)
+* Admin Console(Analytics報表套裝Admin Console與Experience CloudAdmin Console)
 * AdobeLaunch基礎知識/基本知識
 * 應用程式、SPA、基本網站瞭解
 * Mobile Services UI
@@ -152,7 +152,7 @@ ht-degree: 0%
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 

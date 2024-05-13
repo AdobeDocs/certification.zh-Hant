@@ -7,7 +7,7 @@ role: User
 badge: label="考試AD0-E132" type="neutral"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 0%
@@ -90,7 +90,7 @@ ht-degree: 0%
 * 套用程式概念以建立元件
 * 建立可編輯的範本
 * 建立使用者端資料庫
-* 在CRX-DE Lite中更新內容
+* 更新CRXDE Lite中的內容
 * 使用JCR結構導覽至節點
 * 建立體驗和內容片段
 * 擴充核心元件
@@ -122,7 +122,7 @@ ht-degree: 0%
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 

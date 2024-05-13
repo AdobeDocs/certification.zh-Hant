@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="考試AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '934'
+source-wordcount: '933'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >現在提供免費的隨選課程，協助您準備考試。 選擇最符合您體驗水準的課程，立即開始您的學習歷程！
 >
->* 此 [Adobe Experience Platform基礎課程](https://app.rockinfo.com/courses/216) 將向您介紹Adobe Experience Cloud，這是建立在唯一大規模個人化設計基礎上的端對端數位行銷工具套裝。
+>* 此 [Adobe Experience Platform基礎課程](https://app.rockinfo.com/courses/216) 介紹Adobe Experience Cloud，這是以唯一專為大規模個人化而設計的平台所建置的端對端數位行銷工具套裝。
 >* 此 [Adobe Journey Optimizer基礎課程](https://app.rockinfo.com/courses/113) 提供此特定應用程式的知識基礎。
 >* 此 [Adobe Journey Optimizer商業從業者專業課程](https://app.rockinfo.com/courses/107) 以基礎課程為基礎，協助您準備專業級認證考試。
 >* 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/588) 提供量身打造的考試準備流程，包括考試成功所需的深入學習資料。
@@ -84,8 +84,8 @@ ht-degree: 0%
 * 瞭解並使用歷程中的不同活動
 * 基本偵錯 — 透過測試模式或報告（不需要查詢服務）
 * 收集並記錄企業的歷程需求
-* 瞭解歷程和管道的最佳實務（例如傳送的最佳時間、使用的最佳管道、不同使用案例的最佳歷程設計模式、何時使用異動和行銷訊息）
-* 瞭解傳遞能力概念（例如不同的彈回數、預熱）
+* 瞭解歷程和管道的最佳實務（例如，最佳傳送時間、最佳使用管道、不同使用案例的最佳歷程設計模式、何時使用異動和行銷訊息）
+* 瞭解傳遞能力概念（例如，不同的彈回數、預熱）
 * 瞭解頻率、疲勞規則
 * 預覽資料集
 * 對身分的基本瞭解
@@ -167,7 +167,7 @@ ht-degree: 0%
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 

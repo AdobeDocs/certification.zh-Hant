@@ -7,9 +7,9 @@ role: User
 badge: label="考試AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '863'
 ht-degree: 1%
 
 ---
@@ -74,7 +74,7 @@ ht-degree: 1%
 
 技術：
 
-* Marketing Cloud Debugger /也稱為Adobe Experience Cloud Debugger
+* Marketing Cloud Debugger/亦稱為Adobe Experience Cloud Debugger
 * Adobe Analytics作為Target的報表來源（尤其是A4T整合）
 * 瀏覽器的主控台/瀏覽器開發人員工具，例如主控台、網路索引標籤
 * 瀏覽器中的網路工具
@@ -90,7 +90,7 @@ ht-degree: 1%
 
 環境：
 
-* 桌上型電腦/網站，包含桌上型電腦和行動裝置
+* 桌上型電腦/網站，包括桌上型電腦和行動裝置
 * 行動應用程式（基本瞭解）/針對行動裝置使用Target
 * Staging-development
 * 生產
@@ -163,7 +163,7 @@ ht-degree: 1%
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 

@@ -7,7 +7,7 @@ role: Developer
 badge: label="考試AD0-E125" type="neutral"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 0%
@@ -73,7 +73,7 @@ ht-degree: 0%
 * 可與資料服務整合
 * 工作流程實施
 * 基本瞭解AEM Forms Workbench (JEE)，以建立長線 — 短線流程與服務。
-* 使用GuideBridge API開發javascript clientlibs
+* 使用GuideBridge API開發JavaScript clientlibs
 * 根據簽署v government CAC，可知道要使用哪種AEM Forms環境案頭或伺服器
 * 基本瞭解Java/J2EE和JavaScript，以便撰寫邏輯和呼叫不同的服務。
 * 預填最適化表單
@@ -96,7 +96,7 @@ ht-degree: 0%
 * 建置Forms
 * 設定Forms資料模型
 * 自訂AEM Forms
-* 善用GuideBridge API開發及使用Javascript ClientLib
+* 善用GuideBridge API開發及使用JavaScript ClientLib
 
 **第2節：處理與工作流程(34%)**
 
@@ -146,7 +146,7 @@ ht-degree: 0%
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 

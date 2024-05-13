@@ -8,9 +8,9 @@ level: Experienced
 badge: label="考試AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '753'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,6 @@ ht-degree: 0%
 >[!NOTE]
 >
 >**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/386) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
-
 
 ## 考試說明 {#exam-description}
 
@@ -88,10 +87,10 @@ ht-degree: 0%
 * 決定如何利用產品型別及其功能來滿足客戶需求
 * 解釋需求和模型，以判斷它們是否符合原生功能
 * 示範管理員面板的知識以及常用功能的位置
-* 展示匯入/匯出Adobe的能力 [!DNL Commerce] 實體
+* 示範匯入/匯出Adobe的能力 [!DNL Commerce] 實體
 * 瞭解如何以原生方式設定購物車和結帳
 * 評估Adobe中原生可用的送貨方法 [!DNL Commerce] 以及它們如何套用至常見的使用案例
-* 瞭解使用Adobe建立和發佈風格化內容的方法 [!DNL Commerce] 包含PageBuilder的CMS功能
+* 瞭解使用Adobe建立和發佈風格化內容的方法 [!DNL Commerce] 包括頁面產生器的CMS功能
 * 使用原生工具管理訂單生命週期
 * 展示設定各種贈品選項（禮品卡、禮品包裝、贈品訊息）的能力
 * 設定和修改異動電子郵件
@@ -154,7 +153,7 @@ ht-degree: 0%
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 

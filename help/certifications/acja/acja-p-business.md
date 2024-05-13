@@ -7,7 +7,7 @@ role: User
 badge: label="考試AD0-E608" type="neutral"
 mini-toc-levels: 1
 exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >現在提供免費的隨選資源，協助您準備考試：
 >
->* **課程：** 如果您剛開始使用，或需要重新整理程式，請使用 [Adobe Experience Platform基礎課程](https://app.rockinfo.com/courses/216) 存取重要概念、產品逐步說明和知識檢查的解釋。 本課程將為您提供認證歷程的知識基礎。
+>* **課程：** 如果您剛開始使用，或需要重新整理程式，請接受 [Adobe Experience Platform基礎課程](https://app.rockinfo.com/courses/216) 存取重要概念、產品逐步說明和知識檢查的解釋。 本課程將為您提供認證歷程的知識基礎。
 >
 >* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/375) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。
 >
@@ -107,7 +107,7 @@ ht-degree: 0%
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 

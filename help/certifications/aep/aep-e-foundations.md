@@ -8,7 +8,7 @@ badge: label="考試AD0-E600與AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '1069'
 ht-degree: 1%
@@ -125,7 +125,7 @@ AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知�
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 
@@ -134,7 +134,7 @@ AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知�
 **第1節：資料模式**
 
 * [瞭解結構描述](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=zh-Hant){target="_blank"}
-* [結構描述和XDM概覽/Adobe [!DNL Experience Platform]：資料模型與擷取](https://video.tv.adobe.com/v/27105){target="_blank"}
+* [結構描述和XDM總覽/Adobe [!DNL Experience Platform]：資料模型與擷取](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [在結構描述中模型資料](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
 * [結構描述和XDM概觀](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=zh-Hant){target="_blank"}
 
@@ -265,7 +265,7 @@ AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知�
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 

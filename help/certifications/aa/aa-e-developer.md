@@ -8,9 +8,9 @@ level: Experienced
 badge: label="考試AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,9 @@ ht-degree: 0%
 
 ### 最低體驗 {#minimum-experience}
 
-您應具有在混合角色中擔任實施顧問的經驗，並在以下領域擁有約2年的經驗： [!DNL Adobe Analytics] 實作。 您充當IT與業務之間的橋樑，將業務需求轉換為技術解決方案(SDR)，並根據分析人員提供的需求，瞭解需要哪種型別的變數、在哪裡以及如何收集資料、設計資料模型（資料層）、設定和維護標籤管理解決方案。
+您應具有在混合角色中擔任實施顧問的經驗，並在以下領域擁有約2年的經驗： [!DNL Adobe Analytics] 實作。 您充當IT與業務之間的橋樑，將業務需求轉換為技術解決方案(SDR)，並根據分析師提供的需求，瞭解需要哪種型別的變數、在哪裡以及如何收集資料、設計資料模型（資料層）、設定和維護標籤管理解決方案。
 
-您身為Analytics開發人員，很少會在頁面上實作標籤，而是由IT或系統整合商實作。
+身為Analytics開發人員，您很少實作頁面上的標籤，而是由IT或系統整合商實作。
 
 您應熟悉下列工具和環境：
 
@@ -145,7 +145,7 @@ ht-degree: 0%
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 

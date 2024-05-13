@@ -7,7 +7,7 @@ role: User,Developer
 badge: label="考試AD0-E457" type="neutral"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 1%
@@ -55,7 +55,9 @@ ht-degree: 1%
 * 1至2年的行銷技術經驗
 * 3至6個月的對象啟用體驗
 * 使用布林值邏輯、數位行銷術語、資料分析和策略的體驗
-* 瞭解業務目標和KPI、熟悉數位行銷技術棧疊和各種平台整合，並瞭解資料流程（ID型別、ID同步、畫素追蹤、以人物為基礎的目的地）
+* 業務目標和KPI的知識
+* 熟悉數位行銷技術棧疊和各種平台整合
+* 瞭解資料流程（ID型別、ID同步、畫素追蹤、以人物為基礎的目的地）
 
 您應熟悉下列技術和環境：
 
@@ -63,7 +65,7 @@ ht-degree: 1%
 
 * DSP Platform （Trade Desk、按兩下「競標管理員」，以此類推）
 * Excel
-* Tableau和類似工具(PowerBI、Qlik)
+* Tableau和類似工具(Power BI、Qlik)
 * 廣告伺服器（按兩下「促銷活動管理員」）
 * Adobe/Google Analytics
 * Adobe Experience Platform
@@ -132,7 +134,7 @@ ht-degree: 1%
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 

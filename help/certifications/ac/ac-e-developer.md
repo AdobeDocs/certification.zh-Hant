@@ -7,7 +7,7 @@ level: Experienced
 badge: label="考試AD0-E716" type="neutral"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '858'
 ht-degree: 0%
@@ -148,7 +148,7 @@ ht-degree: 0%
 * 說明如何使用UI更新雲端變數
 * 說明使用UI的環境管理
 * 使用UI展示對分支的理解
-* 識別Adobe Commerce雲端計畫功能
+* 識別Adobe Commerce Cloud計畫功能
 
 **區段9： [!DNL Commerce] 雲端CLI工具（管理元件） (6%)**
 
@@ -179,7 +179,7 @@ ht-degree: 0%
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 

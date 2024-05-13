@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="考試AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >現在提供免費的隨選資源，協助您準備考試：
 >
->* **課程：** 如果您剛開始使用，或需要重新整理程式，請使用 [Adobe Experience Platform基礎課程](https://app.rockinfo.com/courses/216) 存取重要概念、產品逐步說明和知識檢查的解釋。 本課程將為您提供認證歷程的知識基礎。
+>* **課程：** 如果您剛開始使用，或需要重新整理程式，請使用 [Adobe Experience Platform基礎課程](https://app.rockinfo.com/courses/216) 存取重要概念、產品逐步說明和知識檢查的解釋。 本課程提供基礎知識，讓您在認證歷程中精益求精。
 >
 >* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/377) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。
 >
@@ -101,7 +101,7 @@ ht-degree: 0%
 
 **第3節：業務分析(30%)**
 
-* 識別與業務KPI相關聯的使用案例
+* 識別繫結回業務KPI的使用案例
 * 在Platform中對客戶區段執行資料分析
 * 展示對資料流程概念的理解
 
@@ -124,7 +124,7 @@ ht-degree: 0%
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 

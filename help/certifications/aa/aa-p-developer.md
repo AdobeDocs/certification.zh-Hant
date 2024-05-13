@@ -8,7 +8,7 @@ level: Experienced
 badge: label="考試AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '722'
 ht-degree: 0%
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 您也應該有以下工作的經驗：
 
-* 解譯解決方案設計檔案(SDR)並瞭解所有檔案的用途 [!DNL Adobe Analytics] 變數已收集
+* 解讀解決方案設計檔案(SDR)並瞭解所有檔案的用途 [!DNL Adobe Analytics] 變數已收集
 * 瞭解並使用Adobe (Experience Platform) Launch
 * 瞭解基準線的設定 [!DNL Adobe Analytics] 維度和事件頁面名稱、連結名稱、Activity Map等，但將與專家開發人員合作，以進行更多客戶實施 — 變數對應仍由專家級開發人員擁有
 * 按照AA專家提供的設計在Launch中建立和設定規則
@@ -81,7 +81,7 @@ ht-degree: 0%
 
 * 識別Adobe Experience Cloud ID的特性和功能。
 * 識別AdobeLaunch的用途。
-* 瞭解如何啟用/支援 [!DNL Adobe Analytics] Adobe Experience Cloud生態系統中的標籤。
+* 確定如何啟用/支援 [!DNL Adobe Analytics] Adobe Experience Cloud生態系統中的標籤。
 
 **第2節：根據SDR的分析策略和設計(12%)**
 
@@ -138,7 +138,7 @@ ht-degree: 0%
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 

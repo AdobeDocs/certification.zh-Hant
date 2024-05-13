@@ -7,7 +7,7 @@ role: Developer
 badge: label="考試AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '759'
 ht-degree: 0%
@@ -146,7 +146,7 @@ ht-degree: 0%
 * 辨識雲端使用者管理和上線UI的基本知識
 * 說明使用UI的環境管理
 * 說明使用UI的分支
-* 識別Adobe Commerce雲端計畫功能
+* 識別Adobe Commerce Cloud計畫功能
 
 **區段9： [!DNL Commerce] 雲端CLI工具（管理元件） (6%)**
 
@@ -176,7 +176,7 @@ ht-degree: 0%
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 

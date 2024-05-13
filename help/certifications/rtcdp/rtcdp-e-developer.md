@@ -7,9 +7,9 @@ role: Developer,Data Architect
 badge: label="考試AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 8e20ec297693b463b2065e70c6f057e03c3cee60
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ ht-degree: 0%
 * 熟悉資料擷取模式限制
 * 瞭解目的地和要使用的目的地
 * 瞭解邊緣資料收集架構
-* 能夠判斷需要設定哪些AEP許可權（即屬性層級許可權） （向客戶提出建議）
+* 能夠決定需要設定的AEP許可權（即屬性層級許可權） （向客戶提出建議）
 * 對查詢服務使用案例的基本瞭解
 * 對來源/目的地SDK的基本瞭解
 
@@ -100,7 +100,7 @@ ht-degree: 0%
 * 說明設定檔元件的運作方式
 * 說明身分圖表如何運作
 * 說明設定檔構成
-* 邊緣與中心設定檔之間的差異
+* 區別邊緣與集線器設定檔
 
 **資料擷取(13%)**
 
@@ -146,7 +146,7 @@ ht-degree: 0%
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 

@@ -1,15 +1,15 @@
 ---
 title: 前端開發人員專業人員新認證
-description: 瞭解如何成為Adobe的認證Adobe Developer專業人員 [!DNL Commerce] .
+description: 瞭解如何成為Adobe的認證Adobe Developer專業人員 [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
 badge: label="考試AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >現在提供免費的隨選資源，協助您準備考試：
 >
->* **課程**：如果您正要開始使用，或需要重新整理程式，請參閱 [Adobe Commerce基礎課程](https://app.rockinfo.com/courses/148) 存取重要概念、產品逐步說明和知識檢查的解釋。 本課程將為您提供認證歷程的知識基礎。
+>* **課程**：如果您正要開始使用，或需要重新整理程式，請將 [Adobe Commerce基礎課程](https://app.rockinfo.com/courses/148) 存取重要概念、產品逐步說明和知識檢查的解釋。 這提供了您可以在認證歷程中建構的知識基礎。
 >
 >* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/384) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。
 >
@@ -106,7 +106,7 @@ ht-degree: 0%
 * 說明特定部分檔案(_extends.less、_extend.less、_theme.less、_widgets.less、_module.less)之間的差異
 * 在案例中，示範覆寫或擴充的能力 [!DNL Magento] 更少
 * 說明LESS的基本概念
-* 說明樣式的階層（程式庫、模組、主題）
+* 說明樣式（程式庫、模組、主題）的階層
 * 說明使用者端和伺服器端編譯
 
 **第4節：JavaScript (18%)**
@@ -118,7 +118,7 @@ ht-degree: 0%
 * 說明去底色JS的使用方式
 * 說明jQuery Widget的使用方式
 
-**第5節：管理員設定和PageBuilder (6%)**
+**第5節：管理員設定和頁面產生器(6%)**
 
 * 展示自訂頁面產生器和CMS內容的能力」
 * 將主題套用/排程至特定範圍（網站、商店、商店檢視）
@@ -127,7 +127,7 @@ ht-degree: 0%
 
 **第6節：工具（CLI與程式碼） (8%)**
 
-* 說明基本bin/magento命令的使用方式
+* 說明基本bin/Magento命令的使用方式
 * 說明撰寫器命令的使用方式（安裝、更新、需要、移除）
 * 區別部署模式的適當使用案例
 * 說明Cloud提供的其他工具（Fastly、下載資料庫、內容部署）
@@ -146,7 +146,7 @@ ht-degree: 0%
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 

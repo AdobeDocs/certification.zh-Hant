@@ -9,7 +9,7 @@ badge: label="考試AD0-E600與AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
 hidefromtoc: true
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '1474'
 ht-degree: 0%
@@ -136,7 +136,7 @@ AD0-E600測驗會驗證基本功能與Adobe經常執行之工作的技能與知�
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 
@@ -306,7 +306,7 @@ AD7-E601考試涵蓋建立、管理和瞭解客戶個人檔案、細分、跨來
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 

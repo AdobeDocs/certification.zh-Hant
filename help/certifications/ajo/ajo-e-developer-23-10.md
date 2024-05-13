@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="考試AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '649'
 ht-degree: 1%
 
 ---
@@ -80,10 +80,10 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 
 **區段2：Journey Orchestration(22%)**
 
-* 在案例中，將目標客戶鎖定於多管道/多步驟歷程中
+* 在案例中，將目標鎖定在多管道/多步驟歷程中的客戶
 * 解讀報表並偵錯效能度量
 * 在情景下，確定歷程型別的適當使用案例
-* 準備測試案例（例如實驗或多管道歷程）
+* 準備測試案例（例如，實驗或多頻道歷程）
 
 **區段3：Offer decisioning(16%)**
 
@@ -121,7 +121,7 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 
 <br>
 
-+++步驟2：使用我們的免費學習材料準備考試
++++步驟2：使用這些免費的學習資料準備考試
 
 **研究材料**
 
