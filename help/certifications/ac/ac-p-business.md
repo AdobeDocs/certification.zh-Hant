@@ -7,7 +7,7 @@ role: User
 badge: label="考試AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 2848558a21682c15837c676bb2c1eb3d95c9bc48
+source-git-commit: 06625c3d7b0672b42a71e43a62cec7c09eb02abd
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >現在提供免費的隨選資源，協助您準備考試：
 >
->* **課程**：取用 [Adobe Commerce商業從業者專業課程](https://app.rockinfo.com/courses/playScorm/620) 以取得關鍵概念的解釋、實作示範和知識檢查。 如果您剛開始使用， [Adobe Commerce基礎課程](https://app.rockinfo.com/courses/148) 提供認證歷程中可建置的知識基礎。
+>* **課程**：取用 [Adobe Commerce商業從業者專業課程](https://app.rockinfo.com/courses/105) 以取得關鍵概念的解釋、實作示範和知識檢查。 如果您剛開始使用， [Adobe Commerce基礎課程](https://app.rockinfo.com/courses/148) 提供認證歷程中可建置的知識基礎。
 >
->* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/383) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。
+>* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/620) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。
 >
 >_如果系統提示您登入，請使用您的Adobe ID。_
 
