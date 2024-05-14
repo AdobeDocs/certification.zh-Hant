@@ -7,9 +7,9 @@ role: User
 badge: label="考試AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: 2848558a21682c15837c676bb2c1eb3d95c9bc48
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Adobe的認證歷程 [!DNL Marketo Engage] 專業
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/618) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -147,42 +151,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**第1節：建立和管理方案**
-
-* [瞭解計畫](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html){target="_blank"}
-* [瞭解電子郵件程式](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html){target="_blank"}
-* [瞭解參與計畫](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
-* [瞭解事件計畫](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
-* [瞭解程式中的我的Token](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html){target="_blank"}
-* [Marketo字彙表](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html){target="_blank"}
-* [瞭解計畫會員資格](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
-
-**第2節：建立資產**
-
-* [瞭解計畫中的本機資產](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.html){target="_blank"}
-* [建立表單](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form.html){target="_blank"}
-* [Token概述](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.html){target="_blank"}
-* [瞭解登陸頁面](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.html){target="_blank"}
-
-**第3節：定義及鎖定對象**
-
-* [瞭解Smart Campaign](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html){target="_blank"}
-* [智慧列示的最佳作法](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html){target="_blank"}
-* [建立細分](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
-* [瞭解動態內容](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.html){target="_blank"}
-
-**第4節：分析和建立報表**
-
-* [在方案中建立報告](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.html){target="_blank"}
-* [瞭解智慧清單](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.html){target="_blank"}
-* [報表型別概觀](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
-* [管理報表訂閱](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html){target="_blank"}
-
-<br>
-
 **參加練習測試**
 
 {{practice-test}}
+
+**考試準備指南**
+
+{{exam-prep-guide}}
+
+[檢視考試準備指南](https://app.rockinfo.com/courses/playScorm/618)
 
 +++
 
