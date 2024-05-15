@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="考試AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >* **課程：** 如果您剛開始使用，或需要重新整理程式，請使用 [Adobe Experience Platform基礎課程](https://app.rockinfo.com/courses/216) 存取重要概念、產品逐步說明和知識檢查的解釋。 本課程提供基礎知識，讓您在認證歷程中精益求精。
 >
->* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/377) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。
+>* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/377) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。
 >
 >_如果系統提示您登入，請使用您的Adobe ID。_
 
