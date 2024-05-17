@@ -7,9 +7,9 @@ role: Developer
 badge: label="考試AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >現在提供免費的隨選資源，協助您準備考試：
 >
->* **課程：** 進行 [訓練課程](https://app.rockinfo.com/courses/105) 其中包括關鍵概念的解釋、實作示範和知識檢查。
+>* **課程：** 取得 [適用於開發人員的Adobe Experience Manager Sites — 專業課程](https://app.rockinfo.com/courses/105)，其中包含重要概念的解釋、實作示範和知識檢查。 如果您剛開始使用，或需要重新整理程式，請接受 [Adobe Experience Manager基礎課程](https://app.rockinfo.com/courses/240)，這是您可以在憑證歷程中建置的知識基礎。
 >
 >* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/381) 提供量身打造的考試準備流程，包括成功考試所需的資料。
 >
@@ -119,34 +119,21 @@ ht-degree: 0%
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/105" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[參加Adobe Experience Manager基礎課程](https://app.rockinfo.com/courses/240)
 
-<span class="spectrum-Button-label has-no-wrap">
-   參加課程
-</span>
-</a>
+[參加開發人員適用的Adobe Experience Manager Sites — 專業課程](https://app.rockinfo.com/courses/105)
 
 **考試準備指南**
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/381" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   檢視考試準備指南
-</span>
-</a>
+[檢視考試準備指南](https://app.rockinfo.com/courses/playScorm/381)
 
 **範例問題**
 
 {{sample-questions}}
 
-<a href="https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   檢視範例問題
-</span>
-</a>
+[檢視範例問題](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions)
 
 +++
 

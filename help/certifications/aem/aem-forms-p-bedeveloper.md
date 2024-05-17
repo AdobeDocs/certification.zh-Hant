@@ -7,9 +7,9 @@ role: Developer
 badge: label="考試AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/367) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>現在提供免費的隨選資源，協助您準備考試：
+>
+>* **課程：** 如果您剛開始使用，或需要重新整理程式，請接受 [Adobe Experience Manager基礎課程](https://app.rockinfo.com/courses/240) 存取重要概念、產品逐步說明和知識檢查的解釋。 本課程將為您提供認證歷程的知識基礎。
+>
+>* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/367) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。
+>
+>_如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -133,6 +139,12 @@ ht-degree: 0%
 **研究材料**
 
 {{study-materials-intro}}
+
+**參加課程**
+
+{{take-course}}
+
+[參加Adobe Experience Manager基礎課程](https://app.rockinfo.com/courses/240)
 
 **考試準備指南**
 
