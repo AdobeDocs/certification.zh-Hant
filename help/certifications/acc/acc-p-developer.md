@@ -7,9 +7,9 @@ role: Developer
 badge: label="考試AD0-E331" type="neutral"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: e001459970c3d533de4b0de3ad7e5650acd20e93
 workflow-type: tm+mt
-source-wordcount: '767'
+source-wordcount: '658'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Adobe的認證歷程 [!DNL Campaign Classic] 開發人員專業版
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/624) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -152,58 +156,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**第1節：系統組態**
-
-* [資料結構描述](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html){target="_blank"}
-* [擴充或建立方案](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html#extending-or-creating-schemas){target="_blank"}
-* [綱要結構](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html){target="_blank"}
-* [清單 [!DNL Campaign Classic] 選項](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/appendices/configuring-campaign-options.html){target="_blank"}
-* [設定外部帳戶](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/configuration/external-accounts.html?lang=zh-Hant){target="_blank"}
-* [型別規則](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html#typology-rules){target="_blank"}
-
-**第2節：自訂**
-
-* [編輯結構描述](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/edit-schema.html){target="_blank"}
-* [擴充綱要](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/extending-a-schema.html){target="_blank"}
-* [自訂您的執行個體](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/customize.html){target="_blank"}
-* [使用案例：依條件選取種子地址](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/use-case--selecting-seed-addresses-on-criteria.html){target="_blank"}
-* [關於Campaign中的加入和退出](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/understanding-opt-in-and-opt-out-processes/about-opt-in-and-opt-out-in-campaign.html){target="_blank"}
-
-**第3節：作業安全性**
-
-* [建立及管理操作員群組](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html){target="_blank"}
-* [使用已命名的許可權來設定許可權](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
-* [建立及管理操作員群組](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html){target="_blank"}
-
-**第4節：技術工作流程**
-
-* [開始使用匯入和匯出資料](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=zh-Hant){target="_blank"}
-* [如何使用工作流程資料](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/how-to-use-workflow-data.html){target="_blank"}
-* [Campaign資料模型說明](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-description.html){target="_blank"}
-* [建立工作流程](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/building-a-workflow.html){target="_blank"}
-* [監視工作流程的執行](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=zh-Hant){target="_blank"}
-* [設定及管理核准流程](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html){target="_blank"}
-
-**第5節：執行個體維護**
-
-* [追蹤記錄問題](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/working-with-log-toc/tracking-logs-issues.html){target="_blank"}
-* [記錄精確度](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/working-with-log-toc/log-precision.html){target="_blank"}
-* [行銷活動工作流程熱度圖](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html){target="_blank"}
-
-**第6節：Campaign設定**
-
-* [建立及設定行銷活動範本](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-templates.html){target="_blank"}
-* [設定及管理核准流程](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/marketing-campaign-approval.html?lang=zh-Hant){target="_blank"}
-* [稽核軌跡](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=zh-Hant){target="_blank"}
-* [使用範本](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/delivery-bestpractices/use-templates.html){target="_blank"}
-* [開始使用工作流程](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=zh-Hant){target="_blank"}
-* [工作流程執行](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/common-general-issues-toc/workflow-execution.html){target="_blank"}
-
-<br>
-
 **參加練習測試**
 
 {{practice-test}}
+
+**考試準備指南**
+
+{{exam-prep-guide}}
+
+[檢視考試準備指南](https://app.rockinfo.com/courses/playScorm/624)
 
 +++
 
