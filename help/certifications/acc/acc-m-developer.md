@@ -7,16 +7,20 @@ role: Data Architect
 badge: label="考試AD0-E328" type="neutral"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 7a4da86f05dffd04ec46b82f8b47871c8d736723
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 1%
+source-wordcount: '620'
+ht-degree: 0%
 
 ---
 
 # Adobe的認證歷程 [!DNL Campaign Classic] 架構師Master
 
 {{intro}}
+
+>[!NOTE]
+>
+>**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/635) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -135,45 +139,11 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**第1節：解決方案定義**
+**考試準備指南**
 
-* [管理訂閱](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/subscriptions-and-referrals/managing-subscriptions.html){target="_blank"}
-* [開始使用Campaign伺服器設定](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/additional-configurations/configuring-campaign-server.html?lang=zh-Hant){target="_blank"}
-* [開始使用傳遞監視](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=zh-Hant){target="_blank"}
-* [硬體大小調整建議](https://experienceleague.adobe.com/docs/campaign-classic/using/technotes/hardware-sizing.html){target="_blank"}
-* [獨立部署](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/standalone-deployment.html?lang=zh-Hant){target="_blank"}
+{{exam-prep-guide}}
 
-**第2部分：資料景觀設計**
-
-* [Power Booster與Power Cluster](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/power-booster-and-power-cluster.html){target="_blank"}
-* [限制PII檢視](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/restricting-pii-view.html){target="_blank"}
-* [工作流程最佳實務](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
-* [資料模型最佳實務](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html){target="_blank"}
-* [管理隱私權請求](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-requests/privacy-requests.html){target="_blank"}
-
-**第3節：安裝與管理**
-
-* [建立優惠方案空間](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/managing-environments/creating-offer-spaces.html){target="_blank"}
-* [CRM聯結器](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
-* [傳入頻道上的優惠方案](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/case-study/offers-on-an-inbound-channel.html){target="_blank"}
-* [使用資料包](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
-* [外部帳戶](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html){target="_blank"}
-
-**第4節：專案領導力**
-
-* [監視工作流程的執行](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=zh-Hant){target="_blank"}
-* [設定身分和單一登入](https://helpx.adobe.com/uk/enterprise/using/set-up-identity.html){target="_blank"}
-* [資料庫對應](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/database-mapping.html){target="_blank"}
-* [工作流程熱度圖](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html){target="_blank"}
-
-**第5節：自訂**
-
-* [合作使用Campaign與Experience Cloud觸發程式](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html){target="_blank"}
-* [JavaScript指令碼和範本](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
-* [Snowflake巨量資料管理](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/fda/big-data-segmentation-on-snowflake.html){target="_blank"}
-* [CRM聯結器](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
-* [互動與優惠管理](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/interaction-overview/interaction-and-offer-management.html){target="_blank"}
-* [操作原則](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/operating-principle.html){target="_blank"}
+[檢視考試準備指南](https://app.rockinfo.com/courses/playScorm/635)
 
 +++
 
