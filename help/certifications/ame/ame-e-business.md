@@ -7,7 +7,7 @@ role: User
 badge: label="考試AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 070217df98c666389b1e7a7f900e39afdfd36c5b
 workflow-type: tm+mt
 source-wordcount: '701'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/390) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/144) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -174,7 +174,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/390" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://app.rockinfo.com/courses/144" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    檢視考試準備指南
