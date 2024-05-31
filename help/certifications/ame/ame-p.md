@@ -7,9 +7,9 @@ role: User
 badge: label="考試AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 2848558a21682c15837c676bb2c1eb3d95c9bc48
+source-git-commit: 594ffcacc7c753515f39c42cb66373a3e2266e93
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/618) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/247) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -85,12 +85,20 @@ ht-degree: 0%
 
 **第1節：建立和管理方案(39%)**
 
-* 針對業務需求/問題，確定適當的報表策略以執行分析
-* 分析資料以回答業務問題
-* 識別轉換漏斗（以概念來瞭解業務分析）
-* 請參閱解決方案設計參考資料(SDR)以判斷哪些資料可在報表中使用
-* 分析報表資料以彙總並得出結論
-* 識別報告中的離群值和異常
+* 識別何時使用4種計畫型別中的每種。
+* 識別使用事件程式的原因/時間。
+* 識別使用預設程式的原因/時機。
+* 識別參與計畫的特殊功能。
+* 識別電子郵件程式的特殊功能。
+* 識別可以複製的內容。
+* 識別自訂標籤的優點。
+* 識別管道的用途。
+* 說明期間成本的重要性。
+* 認識使用潛在客戶評分的概念。
+* 瞭解通訊限制。
+* 認可計畫會員資格和贏取。
+* 瞭解客戶偏好設定（訂閱、通訊）。
+* 啟動前，請套用最佳實務進行檢閱。
 
 **第2節：建立資產(19%)**
 
@@ -159,7 +167,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[檢視考試準備指南](https://app.rockinfo.com/courses/playScorm/618)
+[檢視考試準備指南](https://app.rockinfo.com/courses/247)
 
 +++
 
