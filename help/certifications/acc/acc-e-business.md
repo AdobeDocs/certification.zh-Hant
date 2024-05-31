@@ -7,7 +7,7 @@ role: User
 badge: label="考試AD0-E327" type="neutral"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: d9c2badb16c24d51e834841b27b2b0947bc6d889
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '508'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/630) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/253) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -140,7 +140,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[檢視考試準備指南](https://app.rockinfo.com/courses/playScorm/630)
+[檢視考試準備指南](https://app.rockinfo.com/courses/253)
 
 +++
 

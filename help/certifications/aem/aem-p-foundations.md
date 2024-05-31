@@ -7,7 +7,7 @@ role: User
 badge: label="考試AD0-E132" type="neutral"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **課程：** 如果您剛開始使用，或需要重新整理程式，請接受 [Adobe Experience Manager基礎課程](https://app.rockinfo.com/courses/240) 存取重要概念、產品逐步說明和知識檢查的解釋。 本課程將為您提供認證歷程的知識基礎。
 >
->* **考試準備指南：**  此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/368) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。
+>* **考試準備指南：**  此 [考試準備指南](https://app.rockinfo.com/courses/124) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。
 >
 >_如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
@@ -144,12 +144,8 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/368" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[檢視考試準備指南](https://app.rockinfo.com/courses/124)
 
-<span class="spectrum-Button-label has-no-wrap">
-   檢視考試準備指南
-</span>
-</a>
 
 +++
 

@@ -7,10 +7,10 @@ role: Developer
 badge: label="考試AD0-E136" type="neutral"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '564'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/playScorm/373) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/129) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -67,7 +67,7 @@ ht-degree: 1%
 * 工作流程轉換工具
 * Dispatcher工具
 * 內容傳遞網路(CDN)
-* 最佳做法分析工具
+* Best Practices Analyzer
 * AEM現代化
 * 存放庫瀏覽器
 * 開發人員主控台
@@ -152,12 +152,7 @@ ht-degree: 1%
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/373" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   檢視考試準備指南
-</span>
-</a>
+[檢視考試準備指南](https://app.rockinfo.com/courses/129)
 
 +++
 
