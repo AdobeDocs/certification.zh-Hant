@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: 2dccb15126e43c102ab9afdbd99f75c73e315deb
 workflow-type: tm+mt
 source-wordcount: '1864'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -133,7 +133,7 @@ ht-degree: 3%
 
 **區段5**
 
-* [Analytics匯出指南](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=zh-Hant){target="_blank"}
+* [Analytics匯出指南](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
 * [處理規則的運作方式](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
 * [ADOBE ANALYTICS API](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
 
@@ -171,7 +171,7 @@ ht-degree: 3%
 
 **考試詳細資料：**
 
-* 及格分數：26/35
+* 及格分數：27/35
 * 時間：70分鐘
 * 費用：免費/非託管
 * 傳遞：隨選
@@ -233,37 +233,37 @@ ht-degree: 3%
 
 **區段1**
 
-* [貢獻分析概觀](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=zh-Hant)
+* [貢獻分析概觀](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)
 * [Analysis Workspace 概觀](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html)
 * [轉換漏斗](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
 * [登入維度](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
 
 **區段2**
 
-* [共用專案](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=zh-Hant)
-* [元件概觀](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=zh-Hant)
-* [警報產生器](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html?lang=zh-Hant)
-* [建立行動計分卡](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/mobapp/create-scorecard.html?lang=zh-Hant)
+* [共用專案](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
+* [元件概觀](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
+* [警報產生器](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html)
+* [建立行動計分卡](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
 
 **區段3**
 
 * [區段比較](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html)
 * [建立量度](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
-* [在Analysis Workspace中使用下拉式篩選器](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=zh-Hant)
-* [標記區段](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
+* [在Analysis Workspace中使用下拉式篩選器](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html)
+* [標籤區段](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
 
 **區段4**
 
 * [疑難排解資料的尖峰和下降](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
-* [自訂事件](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=zh-Hant)
-* [下載 PDF 或 CSV 檔案](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=zh-Hant)
+* [自訂事件](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html)
+* [下載PDF或CSV檔案](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
 * [URL引數的初學者指南](https://www.semrush.com/blog/url-parameters/)
 
 **區段5**
 
 * [行銷管道的處理規則](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
 * [分類概觀](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
-* [建立虛擬報表套裝](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html?lang=zh-Hant)
+* [建立虛擬報表套裝](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html)
 * [隱私權法規常見問題集](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
 
 ## 更新您的認證
