@@ -7,9 +7,9 @@ role: User
 badge: label="考試AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 594ffcacc7c753515f39c42cb66373a3e2266e93
+source-git-commit: 8102211f100b326a62f51081f34db145320fe231
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '727'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/247) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>現在提供免費的隨選資源，協助您準備考試：
+>
+>* **課程**：如果您正要開始使用，或需要重新整理程式，請將 [Adobe Marketo Engage基礎課程](https://app.rockinfo.com/courses/261) 存取重要概念、產品逐步說明和知識檢查的解釋。 這提供了您可以在認證歷程中建構的知識基礎。
+>
+>* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/247) 提供量身打造的考試準備流程，包括考試成功所需的深入學習資料。
+>
+>_如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -162,6 +168,12 @@ ht-degree: 0%
 **參加練習測試**
 
 {{practice-test}}
+
+**參加課程**
+
+{{take-course}}
+
+[參加Adobe Marketo Engage基礎課程](https://app.rockinfo.com/courses/261)
 
 **考試準備指南**
 
