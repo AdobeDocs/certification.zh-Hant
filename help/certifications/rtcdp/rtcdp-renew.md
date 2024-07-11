@@ -7,7 +7,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
-source-git-commit: 2b18ae63bce685f340fc7075519b7b61904f9056
+source-git-commit: f443d1012717ae90dea490d67595bfa5c879484b
 workflow-type: tm+mt
 source-wordcount: '692'
 ht-degree: 1%
@@ -110,7 +110,7 @@ ht-degree: 1%
 * [Real-Time CDP中的資料控管](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
 * [資料使用原則概觀](https://experienceleague.adobe.com/docs/experience-platform/data-governance/policies/overview.html?lang=zh-Hant){target="_blank"}
 * [管理UI中的資料使用標籤](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/user-guide.html?lang=zh-Hant){target="_blank"}
-* [自動執行原則](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/auto-enforcement.html){target="_blank"}
+* [自動執行原則](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/auto-enforcement.html?lang=zh-Hant){target="_blank"}
 * [使用請求產生器](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=zh-Hant#request-builder){target="_blank"}
 
 **區段3**
@@ -140,19 +140,13 @@ ht-degree: 1%
 
 請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 第一。 然後，若要更新您的認證，請按一下下方的按鈕。
 
-[！BADGE取得Adobe [!DNL Real-Time CDP]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E845 newtab=true"}
+[!BADGE 接受Adobe [!DNL Real-Time CDP] 商務從業人員專業更新考試AD5-E845]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E845 newtab=true"}
 
 >[!NOTE]
 >
 >這項考試是免費的、公開的，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等待 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
 +++
-
->[!TAB 專家]
-
->[!NOTE]
->
->專家更新即將推出。
 
 >[!ENDTABS]
 
