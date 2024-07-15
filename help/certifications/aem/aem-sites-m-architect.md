@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Experience Manager Sites] 架構師Master
+# Adobe[!DNL Experience Manager Sites]架構者主人的憑證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/130) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/130)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -55,8 +55,8 @@ ht-degree: 0%
 您應該有：
 
 * 至少3年建置AEM Sites的建築師經驗
-* 在AdobeManaged Services和Adobe中工作的能力 [!DNL Experience Manager as a Cloud Service]
-* 設定Adobe的功能 [!DNL Experience Manager] 環境和基礎結構
+* 能夠在AdobeManaged Services和Adobe[!DNL Experience Manager as a Cloud Service]中工作
+* 能夠設定Adobe[!DNL Experience Manager]環境和基礎架構
 
 此外，您應該能夠執行下列工作：
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 * 為內容/資產定義內容模型，以因應未來的需求
 * 根據業務需求定義必要的範本和元件
 * 識別何時使用現成/功能/核心元件與自訂元件
-* 設計快取、負載平衡和安全性策略（Dispatcher、防火牆、CDN）
+* 設計快取、負載平衡及安全性策略(Dispatcher、防火牆、CDN)
 * 提供初始設定和功能傳遞的高層級工作量估計
 * 建立國際化的功能和使用案例
 * 定義策略以支援多網站和多語言
@@ -87,13 +87,13 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1節：探索(18%)**
+**區段1：探索(18%)**
 
 * 將高階業務目標轉換為功能需求
 * 在案例中，評估架構的目前狀態
 * 判斷解決方案設計的非功能性技術需求
 
-**第2節：解決方案設計(44%)**
+**區段2：解決方案設計(44%)**
 
 * 根據業務需求，設計詳細的架構和解決方案
 * 在特定的情況下，決定適合設計的安全性解決方案
@@ -102,14 +102,14 @@ ht-degree: 0%
 * 套用程式概念來設計可擴充且可復原的架構
 * 在情景中，建議移轉策略
 
-**第3節：實作(22%)**
+**區段3：實作(22%)**
 
 * 在情境下，識別並解決實施階段期間顯示的設計問題
 * 在案例中，根據需求建議實作方法
 * 決定用來建立解決方案原型以證明概念的適當方法
 * 在特定的情況下，診斷並解決實作期間遇到的問題
 
-**第4節：維護(16%)**
+**區段4：維護(16%)**
 
 * 在特定的情況下，診斷並解決生產環境中遇到的問題
 * 套用程式概念以規劃新功能和升級的使用
@@ -139,7 +139,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -213,6 +213,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

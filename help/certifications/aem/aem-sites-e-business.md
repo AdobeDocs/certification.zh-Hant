@@ -1,6 +1,6 @@
 ---
 title: 商務從業者專家認證
-description: 瞭解如何成為商務從業者認證專家 [!DNL Experience Manager Sites].
+description: 瞭解如何在 [!DNL Experience Manager Sites]中成為認證商務從業專家。
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Experience Manager Sites] 商務從業者專家
+# Adobe[!DNL Experience Manager Sites]商務從業者專家的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/127) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/127)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 * 經驗豐富的AEM特色與功能，協助開發人員尋找商業解決方案
 * 使用AEM產品管理內容以推動數位體驗的能力
 * 瞭解目前有哪些模組
-* 深入瞭解模組，例如 [!DNL Sites]， [!DNL Assets]、和 [!DNL Forms]
+* 深入瞭解模組，例如[!DNL Sites]、[!DNL Assets]和[!DNL Forms]
 
 此外，您也應熟悉下列技術和環境：
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 * 多網站管理
 * 監控工具
 * 版本設定
-* 個人化和內容中心
+* Personalization與內容中心
 * SPA編輯器
 * 標籤
 * 瀏覽器使用情況
@@ -96,7 +96,7 @@ ht-degree: 0%
 * 建議如何運用AEM功能來滿足業務需求
 * 套用進行內容編輯培訓所需的程式概念
 
-**第2節：架構(24%)**
+**區段2：架構(24%)**
 
 * 建議資訊架構，使用內部部署或Adobe代管（雲端）環境來運用AEM標準功能以滿足業務需求
 * 說明AEM如何與協力廠商服務整合
@@ -112,7 +112,7 @@ ht-degree: 0%
 * 決定如何在預算和/或範圍內達成核心業務目標
 * 決定應如何回答開發人員有關業務目標的問題
 
-**第4節：設定與實作(16%)**
+**區段4：設定與實作(16%)**
 
 * 決定如何設定和使用內容元件，以顯示AEM的最佳實務
 * 確認功能實施是否正確，並找出及描述發生的錯誤
@@ -141,7 +141,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -219,6 +219,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

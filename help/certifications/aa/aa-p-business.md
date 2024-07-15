@@ -1,6 +1,6 @@
 ---
 title: 商務從業人員專業認證
-description: 瞭解如何成為認證 [!DNL Adobe Analytics] 商務從業者專業人士。
+description: 瞭解如何成為 [!DNL Adobe Analytics] 商務從業者專業認證。
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Analytics] 商務從業者專業人士
+# Adobe[!DNL Analytics]商務從業人員專業人士的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/145) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/145)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ### 最低體驗 {#minimum-experience}
 
-您至少應有3個月的經驗 [!DNL Adobe Analytics] 以及下列體驗：
+您應該在[!DNL Adobe Analytics]中至少擁有3個月的體驗以及下列體驗：
 
 * 行銷背景或來自行銷角色，但可能來自各種工作角色。
 * 熟悉數位分析量度和維度。
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1節：業務分析(34%)**
+**區段1：業務分析(34%)**
 
 * 針對業務需求/問題，確定適當的報表策略以執行分析
 * 分析資料以回答業務問題
@@ -89,7 +89,7 @@ ht-degree: 0%
 * 指定情境，決定要使用的適當專案
 * 行銷活動績效報表
 
-**區段3：細分和計算量度(19%)**
+**第3節：細分和計算量度(19%)**
 
 * 決定如何使用最佳實務來開發和設定基本區段
 * 套用程式以與組織中的其他人共用區段
@@ -98,8 +98,8 @@ ht-degree: 0%
 
 **第4節：一般工具知識與疑難排解(9%)**
 
-* 瞭解存在於中的不同型別的尺寸與引數 [!DNL Adobe Analytics] （evar、prop和事件）
-* 決定如何從匯出資料 [!DNL Adobe Analytics]
+* 瞭解[!DNL Adobe Analytics]中存在的不同型別的維度和引數（eVar、prop和事件）
+* 決定如何從[!DNL Adobe Analytics]匯出資料
 
 <br>
 
@@ -125,7 +125,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -199,6 +199,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

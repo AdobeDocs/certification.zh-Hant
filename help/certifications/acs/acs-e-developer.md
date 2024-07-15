@@ -1,6 +1,6 @@
 ---
 title: 開發人員專家認證
-description: 瞭解如何成為認證Adobe Developer專家Adobe [!DNL Campaign Standard].
+description: 瞭解如何成為認證Adobe Developer專家Adobe [!DNL Campaign Standard]。
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Campaign Standard] 開發人員專家
+# Adobe[!DNL Campaign Standard]開發人員專家的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/256) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [測驗準備指南](https://app.rockinfo.com/courses/256)提供量身打造的測驗準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 您應該有：
 
-* Adobe至少兩年 [!DNL Campaign Standard] 軟體體驗
+* Adobe[!DNL Campaign Standard]軟體經驗至少兩年
 * 至少兩年於多管道數位行銷宣傳與網頁開發（例如REST API）的相關經驗
 * 能夠在Adobe Campaign中執行任務（包括範本開發、技術工作流程、方案開發和整合），並能夠使用控制面板監視執行個體
 * 在管道傳送環境（電子郵件、直接郵件、行動裝置和社交）中工作的體驗
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1節：資料模型化與管理(26%)**
+**區段1：資料模型化與管理(26%)**
 
 * 在特定的情況下，將使用者端需求轉換為自訂資源
 * 決定如何設定畫面和篩選定義
@@ -101,7 +101,7 @@ ht-degree: 0%
 * 決定使用創意設計工具建立電子郵件的正確方法
 * 決定建立自訂報表的正確方法
 
-**第3節：管理(24%)**
+**區段3：管理(24%)**
 
 * 確定建立使用者安全群組和組織單位的正確方法
 * 決定管理和部署套件的正確方法
@@ -134,7 +134,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -201,6 +201,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

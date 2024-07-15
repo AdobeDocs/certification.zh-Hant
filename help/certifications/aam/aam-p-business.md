@@ -1,6 +1,6 @@
 ---
 title: 商務從業人員專業認證
-description: 瞭解如何獲得Adobe認證 [!DNL Audience Manager] 商務從業者專業人士。
+description: 瞭解如何成為Adobe [!DNL Audience Manager] 商務從業者專業人員。
 solution: Audience Manager
 product: Audience Manager
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Audience Manager] 商務從業者專業人士
+# Adobe[!DNL Audience Manager]商務從業人員專業人士的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/245) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/245)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 * 識別不同型別的目的地
 * 識別不同型別的來源
 
-**第2節：特徵建立(16%)**
+**區段2：特徵建立(16%)**
 
 * 在情境中，識別訊號、特徵、區段和對象
 * 識別不同型別特徵的使用
@@ -86,12 +86,12 @@ ht-degree: 0%
 * 在特定的情況下，疑難排解來自不同來源和來源型別的傳入資料
 * 驗證傳入資料檔案的格式
 
-**區段5：分類法(12%)**
+**區段5：分類(12%)**
 
 * 決定適當的結構，以建立使用清晰且一致命名法的特性和區段
 * 決定使用明確的資料夾結構來維持有組織的平台的正確技巧
 
-**第6節：設定檔合併、ID同步和Audience Marketplace(14%)**
+**第6節：設定檔合併、識別碼同步和Audience Marketplace(14%)**
 
 * 將使用者特徵組織到單一統一設定檔中，以建立以家庭或裝置為基礎的受眾
 * 使用Audience Marketplace識別啟動
@@ -112,7 +112,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -175,7 +175,7 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。
 

@@ -1,6 +1,6 @@
 ---
 title: 商務從業人員專業認證
-description: 瞭解如何獲得Adobe認證 [!DNL Advertising DSP] 商務從業者專業人士。
+description: 瞭解如何成為Adobe [!DNL Advertising DSP] 商務從業者專業人員。
 solution: Advertising
 product: Advertising Cloud
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Advertising DSP] 商務從業者專業人士
+# Adobe[!DNL Advertising DSP]商務從業人員專業人士的認證歷程
 
 {{intro}}
 
@@ -50,13 +50,13 @@ ht-degree: 0%
 
 您應該有：
 
-* 6個月以上的使用體驗 [!DNL Adobe Advertising]
+* 使用[!DNL Adobe Advertising]的6個月以上體驗
 * 在媒體購買軟體時，規劃及或測量關鍵績效指標的經驗
 
 您也應該熟悉下列工具和技術：
 
-* 廣告測試/偵錯軟體（VAST INSPECTOR、Chrome開發人員工具）
-* 分析工具([!DNL Adobe Analytics]，Google Analytics)
+* 廣告測試/偵錯軟體(VAST INSPECTOR、Chrome開發人員工具)
+* Analytics工具([!DNL Adobe Analytics]，Google Analytics)
 * 協力廠商標籤軟體(Sizmek、Google標籤管理員)
 * 協力廠商媒體品質工具(IAS、MOAT)
 * 主要瀏覽器
@@ -85,7 +85,7 @@ ht-degree: 0%
 * 套用程式概念以疑難排解行銷活動
 * 在特定情況下，管理與平台內解決方案的整合
 
-**第3節：報告與分析(26%)**
+**區段3：報告與分析(26%)**
 
 * 在特定的情況下，讀取平台內的資料
 * 在特定的情況下，建立和讀取自訂報告
@@ -114,14 +114,14 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
 **第1節：設定行銷活動**
 
-* [關於中的對象管理 [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
-* [中的詳細目錄功能概觀 [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
+* [關於 [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}中的對象管理
+* [ [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}中的詳細目錄功能概觀
 * [[!DNL Campaign] 設定](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html){target="_blank"}
 * [位置設定](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html){target="_blank"}
 
@@ -130,8 +130,8 @@ ht-degree: 0%
 * [如何 [!DNL Advertising DSP] 最佳化您的行銷活動](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
 * [關於自訂目標](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html){target="_blank"}
 * [設定效能行銷活動的最佳實務](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html){target="_blank"}
-* [關於隨選進階存貨](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html){target="_blank"}
-* [報告工具 [!DNL Advertising] 行銷管道](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html){target="_blank"}
+* [關於隨選付費詳細目錄](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html){target="_blank"}
+* 使用 [!DNL Advertising] 行銷管道](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html){target="_blank"}進行[報告
 
 **第3節：報告與分析**
 
@@ -139,8 +139,8 @@ ht-degree: 0%
 
 **第4節：提供行銷活動的建議**
 
-* [如何 [!DNL Advertising] DSP會最佳化您的行銷活動](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
-* [關於中的廣告管理 [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
+* [DSP如何最佳化您的行銷活動](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"} [!DNL Advertising] 
+* [關於 [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}中的廣告管理
 
 +++
 
@@ -195,6 +195,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

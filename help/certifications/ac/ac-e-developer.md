@@ -1,6 +1,6 @@
 ---
 title: 開發人員專家認證
-description: 瞭解如何成為Adobe領域的認證Adobe Developer專家 [!DNL Commerce].
+description: 瞭解如何成為Adobe [!DNL Commerce]的認證Adobe Developer專家。
 solution: Commerce
 role: Developer
 level: Experienced
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 的認證歷程 [!DNL Adobe Commerce] 開發人員專家
+# [!DNL Adobe Commerce]開發人員專家的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/141) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/141)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -52,9 +52,9 @@ ht-degree: 0%
 
 ### 最低體驗 {#minimum-experience}
 
-您應具有至少1至3年的Adobe經驗 [!DNL Commerce] 開發，並且您熟悉以下技術和環境：
+您應該至少擁有1至3年的Adobe[!DNL Commerce]開發經驗，並且熟悉下列技術和環境：
 
-* Adobe [!DNL Commerce] - 2.4版
+* Adobe[!DNL Commerce] - 2.4版
 * PHP
 * XDebug/PHP偵錯工具、瀏覽器偵錯工具
 * 絨毛工具
@@ -73,14 +73,14 @@ ht-degree: 0%
 
 **考試目標與範圍**
 
-**區段1：Adobe [!DNL Commerce] 架構與客製化技術(36%)**
+**區段1：Adobe[!DNL Commerce]架構和自訂技術(36%)**
 
-* 示範如何在Adobe中有效使用快取 [!DNL Commerce]
+* 示範如何有效使用Adobe[!DNL Commerce]中的快取
 * 建置、使用及操控自訂擴充功能屬性
 * 建議如何將主題自訂更新套用至產品/類別頁面的解決方案
 * 正確套用觀察者、偏好設定和外掛程式（排序順序的影響）
-* 展示在Adobe中使用組態層的能力 [!DNL Commerce]
-* 展示路由在Adobe中運作方式的知識 [!DNL Commerce]
+* 示範在Adobe[!DNL Commerce]中使用組態層的能力
+* 示範路由在Adobe[!DNL Commerce]中如何運作的知識
 * 示範自訂pagebuilder的功能
 * 決定在單一執行個體上設定多個網站的影響和限制
 * 說明相依性插入的功能和限制
@@ -88,12 +88,12 @@ ht-degree: 0%
 * 說明Git修補程式的使用案例，以及Composer中的檔案層級修改
 * 在CLI中建立新命令
 * 示範如何撰寫整合測試
-* 識別Adobe [!DNL Commerce] 安全性功能（CSP、逸出、表單金鑰、淨化、reCAPTCHA、輸入驗證）
+* 識別Adobe[!DNL Commerce]安全性功能（CSP、逸出、表單金鑰、淨化、reCAPTCHA、輸入驗證）
 * 說明CRON排程系統的運作方式
 * 展示載入及操控資料的能力
 * 示範使用應用程式模擬的能力
 
-**第2節：使用資料庫與EAV (10%)**
+**第2節：使用資料庫和EAV (10%)**
 
 * 以程式設計方式操控EAV屬性和屬性集
 * 示範擴充資料庫綱要的能力
@@ -121,16 +121,16 @@ ht-degree: 0%
 * 展示自訂銷售作業的能力
 * 說明如何自訂總計
 
-**第6節：API與服務(4%)**
+**區段6： API與服務(4%)**
 
 * 示範建立新API或擴充現有API的能力
 * 展示使用佇列系統的能力
 
-**第7節：Adobe [!DNL Commerce] 雲端架構(16%)**
+**區段7：Adobe[!DNL Commerce]雲端架構(16%)**
 
-* 展示Adobe知識 [!DNL Commerce] 架構/環境工作流程
+* 展示Adobe[!DNL Commerce]架構/環境工作流程的知識
 * 示範雲端專案檔案、許可權和結構的實用知識
-* 展示根據Adobe設定多網域型商店的能力 [!DNL Commerce] 雲端（多網域網站混合了開發工作和支援）
+* 展示在Adobe[!DNL Commerce]雲端上設定多網域型存放區的能力（多網域網站混合了開發工作和支援）
 * 示範應用程式服務的一般知識以及如何管理它們(YAML、PHP、MariaDB、Redis、RabbitMQ等)
 * 識別如何存取不同型別的記錄
 * 展示部署專案的能力（部署的主要步驟）
@@ -140,9 +140,9 @@ ht-degree: 0%
 * 區分何時聯絡支援*Yaml檔案和限制（DIY與支援票證）
 * 展示OOTB FASTLY功能設定和安裝的基本知識
 
-**第8節：設定/設定Adobe [!DNL Commerce] 雲端(10%)**
+**第8節：設定/設定Adobe[!DNL Commerce]雲端(10%)**
 
-* 說明如何設定/設定Adobe [!DNL Commerce] 雲端
+* 說明如何設定/設定Adobe[!DNL Commerce]雲端
 * 套用基本的雲端疑難排解知識（Web UI和變數的階層，設定優先順序）
 * 展示對雲端使用者管理和上線UI的瞭解
 * 說明如何使用UI更新雲端變數
@@ -150,7 +150,7 @@ ht-degree: 0%
 * 使用UI展示對分支的理解
 * 識別Adobe Commerce Cloud計畫功能
 
-**區段9： [!DNL Commerce] 雲端CLI工具（管理元件） (6%)**
+**區段9： [!DNL Commerce]雲端CLI工具（管理元件） (6%)**
 
 * 示範如何使用CLI更新雲端變數
 * 展示使用CLI進行環境管理（CLI專屬功能：啟動電子郵件、重新設定環境基底、快照、資料庫傾印、本機環境設定）
@@ -181,7 +181,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -248,6 +248,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

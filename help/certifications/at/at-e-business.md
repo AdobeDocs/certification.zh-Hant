@@ -1,6 +1,6 @@
 ---
 title: 商務從業者專家認證
-description: 瞭解如何成為認證Adobe業務從業者專家 [!DNL Adobe Target].
+description: 瞭解如何在 [!DNL Adobe Target]中成為認證Adobe業務從業專家。
 solution: Target
 product: Target
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 的認證歷程 [!DNL Adobe Target] 商務從業者專家
+# [!DNL Adobe Target]商務從業者專家的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/236) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/236)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -55,15 +55,15 @@ ht-degree: 0%
 
 您應該有：
 
-* 2年以上的最佳化平台使用經驗，包括 [!DNL Adobe Target]
-* 的實作體驗 [!DNL Adobe Target]
+* 2年以上的最佳化平台使用經驗，包括[!DNL Adobe Target]
+* 使用[!DNL Adobe Target]的實作體驗
 * 2年以上最佳化計畫經驗（主導/貢獻）
 * 瞭解Target/Adobe Marketing Cloud管理任務的基本知識（偏好設定、使用者角色和許可權、設定）
 * 瞭解業務KPI並將其轉換為最佳化目標的能力
 * 根據需求評估提出建議的能力
-* 判斷適當專案的能力 [!DNL Adobe Target] 根據最佳化目標的活動型別
+* 根據最佳化目標決定適當[!DNL Adobe Target]活動型別的能力
 * 有關如何使用HTML和CSS來最佳化使用者體驗的知識
-* 瞭解JavaScript概念
+* 瞭解JavaScript的概念
 * 適用於最佳化的統計概念和資料分析知識
 * 深入瞭解三個步驟的工作流程（體驗、鎖定目標、目標與設定，包括所有報表來源）
 * 將活動報告結果轉換為可操作見解和建議的能力
@@ -79,8 +79,8 @@ ht-degree: 0%
 * 瀏覽器的主控台/瀏覽器開發人員工具，例如主控台、網路索引標籤
 * 瀏覽器中的網路工具
 * 對其他Adobe工具的基本瞭解
-* 開發人員主控台（任何網頁瀏覽器）
-* [!DNL Adobe Target] 範例電腦
+* Developer Console （任何網頁瀏覽器）
+* [!DNL Adobe Target]範例電腦
 * Adobe Audience Manager基礎知識
 * Adobe Experience Cloud （作為Target的對象來源）
 * Adobe Experience Manager
@@ -117,7 +117,7 @@ ht-degree: 0%
 * 評估對象需求
 * 決定適當的分析報表來源(即Target或Adobe Analytics)
 
-**第2節：設定、執行和管理(42%)**
+**區段2：設定、執行和管理(42%)**
 
 * 說明表單式體驗撰寫器與視覺化體驗撰寫器的使用
 * 套用程式以使用VEC建立體驗
@@ -134,10 +134,10 @@ ht-degree: 0%
 * 套用程式以執行活動品質保證
 * 套用程式以管理Target中的活動和對象
 
-**第3節：分析和報告(17%)**
+**區段3：分析和報告(17%)**
 
 * 定義並評估報表設定，以協助設定報表中顯示的元素
-* 評估並比較 [!DNL Adobe Target] 計畫Target活動和驗證Target活動報表時的樣本大小電腦設定
+* 計畫Target活動和驗證Target活動報表時，評估並比較[!DNL Adobe Target]樣本大小電腦設定
 * 評估並識別A/B測試的相關常見問題以及如何避免這些問題
 * 瞭解Automated Personalization摘要報表與其他報表的差異
 * 評估體驗效能報表(MVT)
@@ -165,7 +165,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -243,6 +243,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

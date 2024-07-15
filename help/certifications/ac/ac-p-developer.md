@@ -1,6 +1,6 @@
 ---
 title: 開發人員專業認證
-description: 瞭解如何成為Adobe的認證Adobe Developer專業人員 [!DNL Commerce].
+description: 瞭解如何成為Adobe [!DNL Commerce]的認證Adobe Developer專業人員。
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Commerce] 開發人員專業版
+# Adobe[!DNL Commerce]開發人員專業人員的認證歷程
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >現在提供免費的隨選資源，協助您準備考試：
 >
->* **課程：** 取得 [Adobe Commerce開發人員專業課程](https://app.rockinfo.com/courses/92) 其中包括關鍵概念的解釋、實作示範和知識檢查。 如果您剛開始使用， [Adobe Commerce基礎課程](https://app.rockinfo.com/courses/148) 提供認證歷程中可建置的知識基礎。
+>* **課程：**&#x200B;參加[Adobe Commerce Developer Professional課程](https://app.rockinfo.com/courses/92)，其中包含重要概念的解釋、實作示範和知識檢查。 如果您剛開始，[Adobe Commerce基礎課程](https://app.rockinfo.com/courses/148)會提供您可在認證歷程中建構的知識基礎。
 >
->* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/136) 提供量身打造的考試準備流程，包括成功考試所需的資料。
+>* **備考指南：** [備考指南](https://app.rockinfo.com/courses/136)提供量身打造的備考程式，包括成功備考所需的資料。
 >
 >如果系統提示您登入，請使用您的Adobe ID。
 
@@ -60,11 +60,11 @@ ht-degree: 0%
 
 ### 最低體驗 {#minimum-experience}
 
-您應該已經習慣在Adobe中工作 [!DNL Commerce] 並且對Adobe有基本的瞭解 [!DNL Commerce] 管理開發、架構、EAV/資料庫、版面/UI、結帳與銷售，以及目錄。
+您應該熟悉使用Adobe[!DNL Commerce]，並且對Adobe[!DNL Commerce]的管理員開發、架構、EAV/資料庫、版面/UI、結帳與銷售以及目錄有基本的瞭解。
 
 此外，您也應熟悉下列技術和環境：
 
-* Adobe [!DNL Commerce] - 2.4版
+* Adobe[!DNL Commerce] - 2.4版
 * 對PHP的良好理解
 * MYSQL知識
 * 物件導向程式設計知識
@@ -82,10 +82,10 @@ ht-degree: 0%
 * 識別建立或修改管理網格/表單時要使用的元件
 * 識別建立商店/管理員設定和功能表專案時要使用的檔案
 
-**第2節：架構(29%)**
+**區段2：架構(29%)**
 
-* 說明 [!DNL Magento] 檔案結構
-* 說明 [!DNL Magento] CLI命令
+* 描述[!DNL Magento]檔案結構
+* 描述[!DNL Magento]個CLI命令
 * 說明cron功能
 * 給定一個案例，說明di.xml的用法
 * 指定情境，建立控制器
@@ -95,10 +95,10 @@ ht-degree: 0%
 * 說明外掛程式、偏好設定、事件觀察器和攔截器
 * 說明自訂模組路由
 * 說明URL重寫
-* 說明 [!DNL Magento] 快取系統
+* 說明[!DNL Magento]快取系統
 * 說明商店、網站和商店檢視（基本瞭解）
 
-**第3節：EAV/資料庫(13%)**
+**區段3： EAV/資料庫(13%)**
 
 * 給定一個情境，變更/新增/移除屬性集和/或屬性
 * 說明不同型別的屬性
@@ -106,7 +106,7 @@ ht-degree: 0%
 * 說明模型、資源模型和集合
 * 說明實體屬性值(EAV)的基本概念
 
-**第4節：配置/UI (15%)**
+**區段4：配置/UI (15%)**
 
 * 將變更套用至現有產品型別並建立新產品型別
 * 修改和擴充現有目錄實體
@@ -129,29 +129,29 @@ ht-degree: 0%
 * 說明價格規則
 * 說明價格型別
 
-**第7節：Adobe [!DNL Commerce] 雲端架構(12%)**
+**區段7：Adobe[!DNL Commerce]雲端架構(12%)**
 
-* 定義Adobe [!DNL Commerce] 架構/環境工作流程
+* 定義Adobe[!DNL Commerce]架構/環境工作流程
 * 說明雲端專案檔案、許可權和結構
-* 列出Adobe上可用的服務 [!DNL Commerce] 在雲端
+* 列出雲端上Adobe[!DNL Commerce]上可用的服務
 * 說明如何存取不同型別的記錄
 * 說明套用修補程式的步驟（識別要放置修補程式的資料夾）
 * 說明如何維護和升級ECE工具
 * 識別何時致電支援*Yaml檔案和限制（DIY與支援票證）
 
-**第8節：設定/設定Adobe [!DNL Commerce] 雲端(4%)**
+**第8節：設定/設定Adobe[!DNL Commerce]雲端(4%)**
 
-* 識別如何設定/設定Adobe [!DNL Commerce] 雲端
+* 識別如何設定/設定Adobe[!DNL Commerce]雲端
 * 定義基本雲端疑難排解（Web UI和變數的階層、設定優先順序）
 * 辨識雲端使用者管理和上線UI的基本知識
 * 說明使用UI的環境管理
 * 說明使用UI的分支
 * 識別Adobe Commerce Cloud計畫功能
 
-**區段9： [!DNL Commerce] 雲端CLI工具（管理元件） (6%)**
+**區段9： [!DNL Commerce]雲端CLI工具（管理元件） (6%)**
 
-* 說明Adobe的獨家功能 [!DNL Commerce] 雲端CLI工具（CLI專屬功能：啟動電子郵件、重新設定環境基礎、快照、資料庫傾印、本機環境設定）
-* 說明使用Adobe的分支 [!DNL Commerce] 雲端CLI工具
+* 說明Adobe[!DNL Commerce]雲端CLI工具的專屬功能（CLI專屬功能：啟用電子郵件、重新設定環境基礎、快照、資料庫傾印、本機環境設定）
+* 說明使用Adobe[!DNL Commerce] Cloud CLI工具的分支
 * 識別連線至雲端服務的方法？ (My SQL， Redis， tunnel：info)
 
 <br>
@@ -178,7 +178,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -263,6 +263,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

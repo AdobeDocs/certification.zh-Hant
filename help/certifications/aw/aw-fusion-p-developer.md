@@ -1,6 +1,6 @@
 ---
 title: 開發人員專業認證
-description: 瞭解如何成為Adobe的認證Adobe Developer專業人員 [!DNL Workfront Fusion].
+description: 瞭解如何成為Adobe [!DNL Workfront Fusion]的認證Adobe Developer專業人員。
 solution: Workfront
 role: Developer
 badge: label="考試AD0-E902" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Workfront Fusion] 開發人員專業版
+# Adobe[!DNL Workfront Fusion]開發人員專業人員的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/228) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/228)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -54,10 +54,10 @@ ht-degree: 0%
 
 您應該有：
 
-* 與 [!DNL Workfront] API和API總管，但不一定能熟練使用API呼叫
-* 能夠使用自訂API呼叫來處理 [!DNL Workfront] 和其他API
-* 將模組用於 [!DNL Workfront] 應用程式和其他動作，例如建立、讀取、更新、刪除和搜尋
-* 能夠建立可行的解決方案，在不影響業務成果的情況下創造成果 [!DNL Fusion] 護欄
+* 能夠使用[!DNL Workfront] API和API總管，但不一定精通API呼叫
+* 能夠使用自訂API呼叫來使用[!DNL Workfront]和其他API
+* 能夠為[!DNL Workfront]應用程式和其他動作（如建立、讀取、更新、刪除和搜尋）使用模組
+* 能夠建立可行的解決方案，在不影響[!DNL Fusion]護欄的情況下產生業務成果
 * 能夠選取適當的觸發程式模組以完成業務成果
 * 瞭解如何使用流量控制（路由、迭代器/彙總、說明流量）
 * 執行基本疑難排解和錯誤處理的能力
@@ -73,29 +73,29 @@ ht-degree: 0%
 
 **第1節：基礎技術概念(39%)**
 
-* 給定 [!DNL Fusion] 案例中有一個欄位格式需要為另一個欄位格式，提供可用於正確轉換資料的可能函式
-* 給定 [!DNL Fusion] 若案例要求將函式巢狀內嵌在另一個函式中，請選取正確格式的運算式
-* 確定使用團隊控制存取連線和其他專案的方法 [!DNL Fusion] 功能
-* 給定 [!DNL Fusion] 案例，識別系統和功能的限制
-* 給定 [!DNL Fusion] 需要時區操控的案例，區分使用者、可見組織和需要覆寫時區的位置
-* 給定 [!DNL Fusion] 情境，選取適當的 [!DNL Workfront] 模組或動作
-* 給定 [!DNL Fusion] 案例中，選取對應面板運算式和/或模組，以便適當地將輸入資料轉換為輸出資料
-* 找出正確的方式，以利用 [!DNL Fusion] 開發工具，用於疑難排解執行中的錯誤，或判斷對協力廠商系統的呼叫和回應
-* 給定 [!DNL Fusion] 當一個路徑中的資料需要在另一個路徑中的情況下，提供可讓該資料在其他路由路徑上可用的集合解決方案
-* 確定使用或產生 [!DNL Fusion] 符合業務需求的範本
-* 給定 [!DNL Fusion] 情境，識別要做什麼來檢視執行和/或解決錯誤
-* 識別 [!DNL Fusion] 用於處理情境需求的情境設定
-* 給定 [!DNL Fusion] 案例中，選取適當的流量控制和/或決定流量控制模組的正確組合
+* 假設[!DNL Fusion]案例中有一個欄位格式需要為另一個欄位格式，請提供可用於正確轉換資料的可能函式
+* 假設有[!DNL Fusion]案例要求將函式巢狀在另一個函式內，請選取正確格式的運算式
+* 識別使用團隊來控制存取連線和其他[!DNL Fusion]功能的方法
+* 指定[!DNL Fusion]情境，識別系統和功能的限制
+* 在需要時區操作的[!DNL Fusion]情況下，區分使用者、可見組織和需要覆寫時區的位置
+* 指定[!DNL Fusion]個情境，請選取適當的[!DNL Workfront]個模組或動作
+* 在[!DNL Fusion]案例中，選取對應面板運算式和/或模組，以便適當地轉換輸入資料至輸出資料
+* 找出正確的方法，利用[!DNL Fusion]開發工具來疑難排解執行中的錯誤，或判斷對協力廠商系統的呼叫和回應
+* 在[!DNL Fusion]情況下，如果另一個路徑需要某個路徑的資料，請提供設定取得解決方案，讓該資料可用於其他路由路徑
+* 識別使用或產生符合業務需求之[!DNL Fusion]範本的方式
+* 在[!DNL Fusion]案例中，識別要檢視執行和/或解決錯誤的動作
+* 識別[!DNL Fusion]個案例設定中的不同選項，以滿足案例需求
+* 在[!DNL Fusion]案例中，選取適當的流量控制和/或決定流量控制模組的正確組合
 
 **第2節：情境設計與架構(35%)**
 
 * 提供步驟清單，選擇正確的序列以剖析JSON並轉換為套裝
 * 指定一組需求，識別正確的資料查詢方法
 * 識別立即觸發程式和排程觸發程式之間的差異
-* 識別上傳檔案的正確模組 [!DNL Workfront]
-* 根據業務需求，找出正確的追蹤方法 [!DNL Fusion] 已處理記錄（非使用者）且當
-* 給定 [!DNL Fusion] 案例，找出簡化設計及/或最佳化維護的機會
-* 識別 [!DNL Fusion] 記錄情境的最佳實務
+* 識別上傳檔案至[!DNL Workfront]的正確模組
+* 根據業務需求，識別追蹤[!DNL Fusion]處理記錄（非使用者）的正確方法，以及何時
+* 在[!DNL Fusion]情況下，找出簡化設計及/或最佳化維護的機會
+* 識別[!DNL Fusion]記錄案例的最佳實務
 * 在特定的情況下，找出減少情境中資料流動的機會
 * 以搜尋模組及下列彙總器上顯示的組合數目為例，說明組合檢測器所處理和顯示的作業數目變更
 * 識別在組合檢視窗中找到的資訊
@@ -106,15 +106,15 @@ ht-degree: 0%
 
 * 識別測試計畫的元素
 * 識別測試案例的元素
-* 給定 [!DNL Fusion] 案例，正確識別適當的指令以處理不可靠的服務
-* 識別在中新增自訂錯誤處理的程式 [!DNL Fusion] 情境
+* 在[!DNL Fusion]案例中，正確識別處理不可靠服務的適當指令
+* 識別在[!DNL Fusion]案例中新增自訂錯誤處理的程式
 * 識別如何追蹤、讀取和解決未完成的執行
-* 給定 [!DNL Fusion] 缺少必要資料的情境，請選取處理無效資料的方法
+* 假定[!DNL Fusion]案例缺少必要的資料，請選取處理無效資料的方法
 
 **第4節：使用API (10%)**
 
 * 給定傳回429：太多請求的第三方API，請識別可防止或處理錯誤的解決方案
-* 給定 [!DNL Fusion] 中沒有新功能的案例 [!DNL Workfront] 模組，識別正確的參考和模組型別以使用新功能
+* 在[!DNL Workfront]模組中無法使用[!DNL Fusion]新功能的情況下，識別使用新功能的正確參考和模組型別
 * 如果協力廠商系統沒有專用應用程式，請識別HTTP應用程式並選取適當的模組
 * 識別CRUD作業與REST API其他常用功能之間的差異
 
@@ -134,7 +134,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -201,6 +201,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

@@ -1,6 +1,6 @@
 ---
 title: 專業認證
-description: 瞭解如何成為認證Adobe [!DNL Marketo Engage] 專業。
+description: 瞭解如何成為認證Adobe [!DNL Marketo Engage] 專業人員。
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Marketo Engage] 專業
+# Adobe[!DNL Marketo Engage]專業人士的認證歷程
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >現在提供免費的隨選資源，協助您準備考試：
 >
->* **課程**：如果您正要開始使用，或需要重新整理程式，請將 [Adobe Marketo Engage基礎課程](https://app.rockinfo.com/courses/261) 存取重要概念、產品逐步說明和知識檢查的解釋。 這提供了您可以在認證歷程中建構的知識基礎。
+>* **課程**：若您剛開始上課或需要複習者，請參加[Adobe Marketo Engage基礎課程](https://app.rockinfo.com/courses/261)，取得重要概念、產品逐步說明及知識檢查的說明。 這提供了您可以在認證歷程中建構的知識基礎。
 >
->* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/247) 提供量身打造的考試準備流程，包括考試成功所需的深入學習資料。
+>* **備考指南：** [備考指南](https://app.rockinfo.com/courses/247)提供量身打造的備考程式，包括您考試成功所需的深入學習資料。
 >
 >_如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1節：建立和管理方案(39%)**
+**第1節：建置和管理程式(39%)**
 
 * 識別何時使用4種計畫型別中的每種。
 * 識別使用事件程式的原因/時間。
@@ -106,7 +106,7 @@ ht-degree: 0%
 * 瞭解客戶偏好設定（訂閱、通訊）。
 * 啟動前，請套用最佳實務進行檢閱。
 
-**第2節：建立資產(19%)**
+**區段2：建置資產(19%)**
 
 * 在Design Studio中操控檔案（上傳/取代影像和檔案）。
 * 使用表單編輯器建立/修改表單。
@@ -116,7 +116,7 @@ ht-degree: 0%
 * 區分草稿與已核准資產之間的差異。
 * 區分本機與全域資產之間的差異。
 
-**第3節：定義對象及鎖定對象(33%)**
+**第3節：定義及鎖定對象(33%)**
 
 * 建立/修改智慧列示。
 * 瞭解Smart Campaign流程步驟。
@@ -124,16 +124,16 @@ ht-degree: 0%
 * 解譯Smart Campaign結果。
 * 說明區段的用途及其用途。
 * 識別並導覽資料庫。
-* 說明如何在Adobe中設定隱私權設定 [!DNL Marketo Engage].
+* 說明如何在Adobe[!DNL Marketo Engage]中設定隱私權設定。
 * 區分智慧列示和靜態清單。
 * 定義系統智慧清單。
 * 比較和對比不同型別的智慧行銷活動。
 * 瞭解Smart Campaign觸發器和篩選器的運作方式。
 * 區別不同的清單匯入。
 
-**第4節：分析和建立報表(9%)**
+**第4節：分析和建立報告(9%)**
 
-* 說明標準Adobe [!DNL Marketo Engage] 報表和何時該使用（電子郵件連結效能、電子郵件效能、登陸頁面效能、人員效能、方案效能、網頁活動等）
+* 說明標準Adobe[!DNL Marketo Engage]報告及其使用時機（電子郵件連結效能、電子郵件效能、登陸頁面效能、人員效能、方案效能、網頁活動等）
 * 瞭解控制面板資訊和量度（電子郵件計畫控制面板、參與計畫控制面板）
 * 理解電子郵件深入分析量度
 
@@ -161,7 +161,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -245,6 +245,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

@@ -1,6 +1,6 @@
 ---
 title: 認證續約
-description: 瞭解如何更新Adobe [!DNL Advertising] 認證過期之前。
+description: 瞭解如何在您的Adobe [!DNL Advertising] 認證過期前更新。
 solution: Advertising
 product: Advertising Cloud
 role: User,Developer, Data Architect
@@ -9,12 +9,12 @@ hidefromtoc: true
 exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8
 source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 1%
+source-wordcount: '171'
+ht-degree: 0%
 
 ---
 
-# 更新您的 [!DNL Adobe Advertising] 認證
+# 更新您的[!DNL Adobe Advertising]認證
 
 通過認證測驗後，您的認證有效期為兩年。
 
@@ -22,11 +22,11 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->**請先登入：** 下列連結將可運作 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>**請先登入：**&#x200B;下列連結在&#x200B;**成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}後**&#x200B;只能運作&#x200B;**。**
 >
 ><br>
 >
->**若要共用連結：** 如果您想要與同事分享更新考試或評量的連結，請連結至整體考試更新頁面，而非考試本身的URL，以避免登入問題。
+>**若要共用連結：**&#x200B;如果您想要與同事共用更新考試或評量的連結，請連結至整體考試更新頁面，而非考試本身的URL，以避免登入問題。
 
 >[!BEGINTABS]
 
@@ -52,6 +52,6 @@ ht-degree: 1%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

@@ -1,6 +1,6 @@
 ---
 title: 開發人員專業認證
-description: 瞭解如何成為認證 [!DNL Adobe Analytics] 開發人員專業版。
+description: 瞭解如何成為 [!DNL Adobe Analytics] 開發人員專業認證。
 solution: Analytics
 product: Analytics
 role: Developer
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# 的認證歷程 [!DNL Adobe Analytics] 開發人員專業版
+# [!DNL Adobe Analytics]開發人員專業人員的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/217) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/217)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -53,22 +53,22 @@ ht-degree: 0%
 
 您應該有：
 
-* 6至12個月的經驗 [!DNL Adobe Analytics] 實作（網頁和行動應用程式）
+* [!DNL Adobe Analytics]實作（網頁和行動應用程式）中的6至12個月經驗
 * 根據分析人員提供的需求，在支援Analytics實作團隊在IT與業務之間架起橋樑，以瞭解業務需求如何轉換為技術解決方案(SDR)的經驗
 * 瞭解所需的變數型別、收集資料的位置和方式、設計資料模型（資料層）、設定和維護標籤管理解決方案
 
 您也應該有以下工作的經驗：
 
-* 解讀解決方案設計檔案(SDR)並瞭解所有檔案的用途 [!DNL Adobe Analytics] 變數已收集
+* 解譯解決方案設計檔案(SDR)並瞭解所收集的所有[!DNL Adobe Analytics]變數的用途
 * 瞭解並使用Adobe (Experience Platform) Launch
-* 瞭解基準線的設定 [!DNL Adobe Analytics] 維度和事件頁面名稱、連結名稱、Activity Map等，但將與專家開發人員合作，以進行更多客戶實施 — 變數對應仍由專家級開發人員擁有
+* 瞭解基準[!DNL Adobe Analytics]維度和事件Page Name、連結名稱、Activity Map等的設定，但將與專家開發人員合作，以進行更多客戶實作 — 變數對應仍由專家層級開發人員擁有
 * 按照AA專家提供的設計在Launch中建立和設定規則
 * 測試和驗證在變數和事件中擷取的資料，藉由利用Web主控台偵錯工具或Charles記錄檔之類的行動應用程式系統觸發
-* 瞭解資料層是什麼，並知道如何讀取JavaScript物件
+* 瞭解資料層是什麼，且知道如何讀取JavaScript物件
 * 共用報告、區段和請求存取權的程式，但不包括如何管理使用者群組、治理通訊協定以及管理SDR
 * 提供指引並設定行動/SDK解決方案
 * 瞭解影片追蹤（事件型）背後的一般架構（提供知識庫檔案）
-* 從Analysis Workspace執行基本報表，並瞭解可用的資料輸出： [!DNL Adobe Analytics] Data Warehouse
+* 從Analysis Workspace執行基本報告，並瞭解[!DNL Adobe Analytics]Data Warehouse中可用的資料輸出
 * Adobe Experience Platform Launch的基本體驗(Adobe啟動)
 
 <br>
@@ -81,40 +81,40 @@ ht-degree: 0%
 
 * 識別Adobe Experience Cloud ID的特性和功能。
 * 識別AdobeLaunch的用途。
-* 確定如何啟用/支援 [!DNL Adobe Analytics] Adobe Experience Cloud生態系統中的標籤。
+* 瞭解如何啟用/支援Adobe Experience Cloud生態系統中的標籤[!DNL Adobe Analytics]。
 
-**第2節：根據SDR的分析策略和設計(12%)**
+**第2節：根據SDR (12%)的分析策略和設計**
 
 * 提供解決方案設計參考，確定必須填入哪些資料物件。
 * 取得技術規格檔案的一部分，請確定如何實作資料擷取。
 
-**第3節：Analytics實施與設定(30%)**
+**第3節： Analytics實作與設定(30%)**
 
-* 確定部署步驟 [!DNL Adobe Analytics] 程式碼。
+* 識別部署[!DNL Adobe Analytics]程式碼的步驟。
 * 識別Analytics追蹤所需的最低部署程式碼功能。
-* 識別在中設定各種元件的步驟 [!DNL Adobe Analytics] UI。
-* 識別的功能 [!DNL Adobe Analytics] 報表套裝和變數設定。
+* 識別在[!DNL Adobe Analytics] UI中設定各種元件的步驟。
+* 識別[!DNL Adobe Analytics]報表套裝和變數設定的函式。
 * 識別資料層和資料層值的特性。
 * 識別用於追蹤功能（例如連結追蹤和電子商務追蹤）的App Measurement函式。
 
-**第4節：Tag Management系統(18%)**
+**區段4： Tag Management Systems (18%)**
 
 * 使用標籤稽核來識別是否符合要求。
 * 確定使用Adobe Launch設定網站標籤的步驟。
 * 在案例中，請說明如何啟用、修改和疑難排解Adobe Launch中的擴充功能。
 * 識別如何建立規則和資料元素。
 
-**第5節：元件 [!DNL Adobe Analytics] (8%)**
+**區段5： [!DNL Adobe Analytics] (8%)的元件**
 
-* 識別的功能 [!DNL Adobe Analytics] api （資料摘要、倉儲、資料來源、報表）。
+* 識別[!DNL Adobe Analytics] API （資料摘要、倉儲、資料來源、報表）的功能。
 * 識別處理規則的特性。
 
-**第6節：測試、驗證和疑難排解(18%)**
+**第6節：測試、驗證及疑難排解(18%)**
 
 * 識別常見JavaScript錯誤的含義。
-* 識別共同作業的意義 [!DNL Adobe Analytics] 變數錯誤。
+* 識別常見[!DNL Adobe Analytics]變數錯誤的意義。
 * 在案例中，找出應遵循的測試和偵錯驗證最佳實務。
-* 識別如何追蹤 [!DNL Adobe Analytics] 伺服器呼叫(即從信標請求到顯示在報表中。)
+* 識別如何追蹤[!DNL Adobe Analytics]伺服器呼叫(即從信標請求到顯示在報表中。)
 
 <br>
 
@@ -140,7 +140,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -207,7 +207,7 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。
 

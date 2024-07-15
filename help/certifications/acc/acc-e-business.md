@@ -1,6 +1,6 @@
 ---
 title: 商務從業者專家認證
-description: 瞭解如何成為認證Adobe商務從業專家 [!DNL Campaign Classic].
+description: 瞭解如何成為具有 [!DNL Campaign Classic]的認證Adobe業務從業者專家。
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Campaign Classic] 商務從業者專家
+# Adobe[!DNL Campaign Classic]商務從業者專家的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/253) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [測驗準備指南](https://app.rockinfo.com/courses/253)提供量身打造的測驗準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 您應該有：
 
-* 廣泛Adobe至少2年 [!DNL Campaign Classic] 軟體體驗
+* 至少2年豐富的Adobe[!DNL Campaign Classic]軟體經驗
 * 使用數位全通路開發行銷活動和戰術的多年經驗
 * 透過經驗將業務需求解譯/翻譯為可行的Campaign交付專案
 * 體驗ROI、點進率和轉換等行銷量度
@@ -77,14 +77,14 @@ ht-degree: 0%
 * 說明目標對應
 * 說明如何設定網頁應用程式和網路表單
 
-**第2節：工作流程管理(22%)**
+**區段2：工作流程管理(22%)**
 
 * 評估一組給定的行銷活動要求並建議行動方針
 * 在情景中，分析工作流程錯誤
 * 根據一組行銷活動需求，決定行銷工作流程的正確設計
 * 在執行工作流程時套用建議的作法
 
-**第3節：資料管理(24%)**
+**區段3：資料管理(24%)**
 
 * 說明關聯式資料庫的核心概念
 * 決定工作流程可以存取的不同資料來源
@@ -94,19 +94,19 @@ ht-degree: 0%
 * 套用步驟來設定預先定義的篩選器
 * 根據業務需求，識別適當的輸入表單
 
-**第4節：傳遞管理(14%)**
+**區段4：傳遞管理(14%)**
 
 * 套用步驟以建立/設定傳遞
 * 在案例中，選取並設定適當的校訂對象以供核准
 * 分析和解讀傳遞稽核
 
-**區段5：報表(12%)**
+**區段5：報告(12%)**
 
 * 在特定的情況下，決定要產生的適當報表
 * 解讀內建報告
 * 說明記錄清理/清除對報告的影響
 
-**第6節：管理(8%)**
+**區段6：管理(8%)**
 
 * 在案例中，說明清除記錄對報表的影響
 * 根據業務需求，授予適當的授權和存取權
@@ -128,7 +128,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -195,6 +195,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

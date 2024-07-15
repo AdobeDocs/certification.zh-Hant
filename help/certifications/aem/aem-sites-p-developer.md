@@ -1,6 +1,6 @@
 ---
 title: 開發人員專業認證
-description: 瞭解如何成為認證Adobe業務從業者專家 [!DNL Experience Manager Sites].
+description: 瞭解如何在 [!DNL Experience Manager Sites]中成為認證Adobe業務從業專家。
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Experience Manager Sites] 開發人員專業版
+# Adobe[!DNL Experience Manager Sites]開發人員專業人員的認證歷程
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >現在提供免費的隨選資源，協助您準備考試：
 >
->* **課程：** 取得 [適用於開發人員的Adobe Experience Manager Sites — 專業課程](https://app.rockinfo.com/courses/105)，其中包含重要概念的解釋、實作示範和知識檢查。 如果您剛開始使用，或需要重新整理程式，請接受 [Adobe Experience Manager基礎課程](https://app.rockinfo.com/courses/240)，這是您可以在憑證歷程中建置的知識基礎。
+>* **課程：**&#x200B;參加[開發人員適用的Adobe Experience Manager Sites — 專業課程](https://app.rockinfo.com/courses/105)，其中包含重要概念的解釋、實作示範和知識檢查。 如果您剛開始上課或需要複習者，請參加[Adobe Experience Manager基礎課程](https://app.rockinfo.com/courses/240)，此課程提供您可在認證歷程中建構的知識基礎。
 >
->* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/121) 提供量身打造的考試準備流程，包括成功考試所需的資料。
+>* **備考指南：** [備考指南](https://app.rockinfo.com/courses/121)提供量身打造的備考程式，包括成功備考所需的資料。
 >
 >如果系統提示您登入，請使用您的Adobe ID。
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 您應是應用程式開發人員，且具備：
 
-* 使用AEM的0至12個月經驗 [!DNL Platform]
+* 使用AEM [!DNL Platform]的0至12個月經驗
 * 執行元件開發的能力
 * 對AEM中的MVC架構、生命週期架構和程式庫有基本的瞭解
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1節：組態(26%)**
+**區段1：組態(26%)**
 
 * 瞭解AEM Dispatcher設定和快取的用途
 * 決定在AEM中設定多站台的正確步驟
@@ -76,7 +76,7 @@ ht-degree: 0%
 * 決定管理自訂Oak索引的正確步驟
 * 決定設定OOTB SAML或IMS整合的正確步驟
 
-**區段2：AEM開發(40%)**
+**區段2： AEM開發(40%)**
 
 * 決定實作核心元件之正確步驟
 * 連線元件功能，包括HTL、型號和服務
@@ -88,12 +88,12 @@ ht-degree: 0%
 * 定義Maven專案結構
 * 從原型設定專案
 
-**第4節：環境維護(22%)**
+**區段4：環境維護(22%)**
 
 * 在某種情況下，請決定對AEM環境中的問題進行偵錯所需的步驟
 * 說明AEM維護版本
 * 識別如何跨拓撲設定AEM
-* 決定規劃和移轉至AEMas a Cloud Service所需的步驟
+* 決定規劃和移轉至AEM as a Cloud Service所需的步驟
 
 <br>
 
@@ -111,7 +111,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -188,7 +188,7 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。
 

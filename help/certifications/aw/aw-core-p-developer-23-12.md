@@ -1,6 +1,6 @@
 ---
 title: 核心開發人員專業認證
-description: 瞭解如何成為Adobe的認證Adobe Developer專業人員 [!DNL Workfront].
+description: 瞭解如何在Adobe [!DNL Workfront]中成為認證Adobe Developer專業人員。
 solution: Workfront
 role: Developer
 badge: label="考試AD0-E908" type="neutral"
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Workfront] 核心開發人員專業版
+# Adobe[!DNL Workfront] Core Developer Professional的認證歷程
 
 {{intro}}
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 >
 >現在提供免費的隨選資源，協助您準備考試：
 >
->* **可用的新課程：** 此 [Adobe Workfront核心開發人員 — 專業課程](https://app.rockinfo.com/courses/231) 包括關鍵概念的解釋、實作示範和知識檢查。
+>* **可用的新課程：** [Adobe Workfront Core Developer - Professional課程](https://app.rockinfo.com/courses/231)包含重要概念的解釋、實作示範和知識檢查。
 >
->* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/238) 提供量身打造的考試準備流程，包括成功考試所需的資料。
+>* **備考指南：** [備考指南](https://app.rockinfo.com/courses/238)提供量身打造的備考程式，包括成功備考所需的資料。
 >
 >_如果系統提示您登入，請使用您的Adobe ID。_
 
@@ -55,22 +55,22 @@ ht-degree: 0%
 * 資源管理員
 * 分析人員
 * IT專家
-* [!DNL Workfront] 實作顧問/主管
+* [!DNL Workfront]實作顧問/主管
 
 <br>
 
 ### 最低體驗 {#minimum-experience}
 
-雖然這項測驗不需要編碼/程式設計知識，但至少需要3至6個月的Adobe實踐經驗 [!DNL Workfront]
+雖然此測驗不需要編碼/程式設計知識，但至少需要3至6個月的實際操作經驗(使用Adobe[!DNL Workfront])
 
 合格候選人也應具備：
 
-* Adobe體驗 [!DNL Workfront] 功能和連線能力，包括接收、核准、規劃、執行和報告
-* 深入瞭解Adobe [!DNL Workfront] 物件型別，包括自訂表單和核准工作流程、範本、持續時間、工作量/計畫時數
-* 深入瞭解Adobe [!DNL Workfront] 設定，包括存取層級、版面配置範本、專案偏好設定和其他方法，以實現一般使用者設計的簡單化
+* 透過接收、核准、規劃、執行和報告，體驗Adobe[!DNL Workfront]的功能和連線能力
+* 深入瞭解Adobe[!DNL Workfront]物件型別，包括自訂表單和核准工作流程、範本、持續時間、工作量/計畫時數
+* 深入瞭解Adobe[!DNL Workfront]設定，包括存取層級、版面配置範本、專案偏好設定和其他方法，以簡化一般使用者設計
 * 瞭解流程對應並有相關經驗
-* 瞭解不同的Adobe [!DNL Workfront] 角色以及如何參與支援
-* 熟悉原生聯結器及其他Adobe [!DNL Workfront] 產品和服務
+* 瞭解不同的Adobe[!DNL Workfront]角色以及如何參與支援
+* 熟悉原生聯結器及其他Adobe[!DNL Workfront]產品和服務
 * 熟悉專案管理，包括敏捷和瀑布以及資源管理概念
 
 <br>
@@ -99,20 +99,20 @@ ht-degree: 0%
 * 示範如何建立和使用時程表
 * 說明聯結器、外掛程式和附加元件的用途和價值
 
-**第4節：量度和報表(16%)**
+**區段4：度量和報告(16%)**
 
 * 說明建立、傳送及自訂報表的基本概念
 * 說明如何建置和自訂儀表板
 * 示範如何設定報告的功能檢視
 
-**第5節：執行(24%)**
+**區段5：執行(24%)**
 
 * 示範如何設定核准和校訂工作流程
 * 瞭解為專案建立問題的目的
 * 示範如何自訂群組層級專案狀態
-* 確定在中啟用Agile所需的屬性 [!DNL Workfront]
-* 識別輸入時間的方法 [!DNL Workfront]
-* 識別中財務追蹤的元素 [!DNL Workfront]
+* 識別在[!DNL Workfront]中啟用Agile所需的屬性
+* 識別在[!DNL Workfront]中輸入時間的方法
+* 識別[!DNL Workfront]中的財務追蹤元素
 
 <br>
 
@@ -130,7 +130,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -142,7 +142,7 @@ ht-degree: 0%
 
 {{take-course}}
 
-[參加Adobe Workfront核心開發人員 — 專業課程](https://app.rockinfo.com/courses/231)
+[參加Adobe Workfront Core Developer - Professional課程](https://app.rockinfo.com/courses/231)
 
 **考試準備指南**
 
@@ -203,6 +203,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

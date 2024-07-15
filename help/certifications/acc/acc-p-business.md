@@ -1,6 +1,6 @@
 ---
 title: 商務從業人員專業認證
-description: 瞭解如何成為認證Adobe商務從業人員的專業人員，在 [!DNL Campaign Classic].
+description: 瞭解如何在 [!DNL Campaign Classic]中成為認證Adobe商務從業者專業人員。
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 ---
 
-# Adobe的認證歷程 [!DNL Campaign Classic] 商務從業者專業人士
+# Adobe[!DNL Campaign Classic]商務從業人員專業人士的認證歷程
 
 {{intro}}
 
@@ -93,7 +93,7 @@ ht-degree: 1%
 * 在情景中，確定哪個工作流程解決方案最適合用於連續、等待、循環、中止的情況
 * 識別與舊版相較之Campaign V8的新功能和特色
 
-**第3節：資料作業(20%)**
+**區段3：資料作業(20%)**
 
 * 決定如何修改檢視中的欄以測試資料/輸出
 * 說明聯合、交集、排除和分割工作流程目標定位活動的用途
@@ -102,7 +102,7 @@ ht-degree: 1%
 * 在案例中，決定如何劃分對象並儲存為清單和儲存格
 * 在特定的情況下，請設定目的地，以決定要匯出資料至目的地的最佳方法
 
-**第4節：傳遞設定(28%)**
+**區段4：傳遞設定(28%)**
 
 * 在情景中，判斷正確的傳送型別
 * 根據業務需求，決定如何建立範本
@@ -144,7 +144,7 @@ ht-degree: 1%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -161,11 +161,11 @@ ht-degree: 1%
 
 * [在工作流程中鎖定目標活動](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
 * [工作流程中的流量控制活動](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/about-flow-control-activities.html){target="_blank"}
-* [工作流程中的動作活動](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html){target="_blank"}
+* 工作流程中的[動作活動](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html){target="_blank"}
 * [工作流程屬性](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html){target="_blank"}
 * [開始使用工作流程](https://experienceleague.adobe.com/docs/campaign/campaign-v8/data/workflows.html){target="_blank"}
 
-**第3節：資料作業**
+**區段3：資料作業**
 
 * [Adobe Campaign工作區](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html?lang=zh-Hant){target="_blank"}
 * [開始使用工作流程](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=zh-Hant){target="_blank"}
@@ -174,9 +174,9 @@ ht-degree: 1%
 * [開始使用行銷活動](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=zh-Hant){target="_blank"}
 * [使用來源和目的地](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
 
-**第4節：傳遞設定**
+**區段4：傳遞設定**
 
-* [建立及設計電子郵件傳遞](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/create-and-design-email-deliveries.html?lang=zh-Hant){target="_blank"}
+* [建立和設計電子郵件傳遞](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/create-and-design-email-deliveries.html?lang=zh-Hant){target="_blank"}
 * [通訊通道](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
 * [關於種子地址](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html){target="_blank"}
 * [開始使用訊息追蹤](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html){target="_blank"}
@@ -185,8 +185,8 @@ ht-degree: 1%
 
 **第5節：管理與報告**
 
-* [關於傳遞報表](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
-* [開始使用報告功能](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
+* [關於傳遞的報告](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
+* [開始使用報告](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
 * [開始使用傳遞監視](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=zh-Hant){target="_blank"}
 * [開始使用描述性分析](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html?lang=zh-Hant){target="_blank"}
 * [開始使用許可權](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
@@ -250,6 +250,6 @@ ht-degree: 1%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

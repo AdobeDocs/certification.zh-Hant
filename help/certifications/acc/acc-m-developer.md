@@ -1,6 +1,6 @@
 ---
 title: 架構師主要認證
-description: 瞭解如何成為認證Adobe架構師主人，於 [!DNL Campaign Classic].
+description: 瞭解如何在 [!DNL Campaign Classic]中成為認證Adobe架構師大師。
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Campaign Classic] 架構師Master
+# Adobe[!DNL Campaign Classic]架構者主人的憑證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/254) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [測驗準備指南](https://app.rockinfo.com/courses/254)提供量身打造的測驗準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -42,9 +42,9 @@ ht-degree: 0%
 
 ### 目標對象 {#intended-audience}
 
-* Adobe技術主管 [!DNL Campaign Classic] 背景
-* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] 開發人員
-* Adobe [!DNL Campaign Classic] 開發人員或類似角色
+* 具有Adobe[!DNL Campaign Classic]背景的技術主管
+* Adobe Certified Expert - [!DNL Campaign Classic]開發人員
+* Adobe[!DNL Campaign Classic]開發人員或類似的角色
 * Martech解決方案架構師
 
 <br>
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 您應該有：
 
-* 具有多個Adobe的體驗 [!DNL Campaign Classic] 實施
+* 體驗多個Adobe[!DNL Campaign Classic]實作
 * 瞭解Adobe Campaign作為數位行銷解決方案的工作原理，並根據專案要求加以實作
 * 建立功能設計檔案的能力
 * 為Adobe Campaign安裝建立功能工作範圍的能力
@@ -75,11 +75,11 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1節：解決方案定義(24%)**
+**區段1：方案定義(24%)**
 
 * 根據特定業務需求，決定與解決方案設計相關的資訊
 * 在情境下，提供效能、基礎架構和設定建議
-* 分析 [!DNL Campaign Classic] 提供改善建議的設定
+* 分析[!DNL Campaign Classic]設定以提供改進建議
 * 決定業務需求以設計數位行銷解決方案
 * 在案例中，指定正確的產品部署方法
 
@@ -92,13 +92,13 @@ ht-degree: 0%
 **第3節：安裝與管理(16%)**
 
 * 指定一組重要模組，驗證模組設定的設定
-* 在案例中，建議使用整合解決方案，以啟用與Adobe的原生和第三方整合 [!DNL Campaign Classic]
+* 在案例中，建議整合解決方案，以啟用Adobe[!DNL Campaign Classic]的原生與協力廠商整合
 * 給定一個情境，確定診斷方法
 * 指定Adobe和非Adobe應用程式整合的整合引數和方法
 * 針對特定情境，建議解決方案設計期間所需的適當硬體基礎架構
 * 在案例中，判斷將解決方案提升至個別環境的正確方法
 
-**第4節：專案領導力(10%)**
+**區段4：專案領導力(10%)**
 
 * 根據客戶需求，決定所需的適當活動與資源
 * 在案例中，分析整體解決方案以判斷技術風險、假設、問題和相依性
@@ -135,7 +135,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -198,8 +198,8 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。
 
 

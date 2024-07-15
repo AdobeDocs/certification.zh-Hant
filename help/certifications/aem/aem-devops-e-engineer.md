@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/126) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/126)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -80,7 +80,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1節：設定Adobe Experience Manager (18%)**
+**區段1：設定Adobe Experience Manager (18%)**
 
 * 決定設定基本Adobe Experience Manager設定的正確方法
 * 在特定情況下，疑難排解Adobe Experience Manager問題
@@ -89,28 +89,28 @@ ht-degree: 0%
 **第2節：操作Cloud Manager和Cloud Manager API (20%)**
 
 * 確定透過UI管理Cloud Manager環境設定的正確方法
-* 確定在Cloud Manager上布建程式和環境的正確方法
+* 決定在Cloud Manager上布建程式和環境的正確方法
 * 決定移轉至Adobe Experience Manager as a Cloud Service的正確方法
 * 決定在Adobe I/O上設定整合的正確方法
 
 **第3節：設定Web Proxy基礎結構(12%)**
 
-* 確定管理Dispatcher設定的正確方法
+* 決定管理Dispatcher設定的正確方法
 * 在某種情況下，疑難排解快取問題
 
 **第4節：建置和部署(28%)**
 
-* 確定管理Cloud Manager部署的正確方法
+* 決定管理Cloud Manager部署的正確方法
 * 在情景中，分析Cloud Manager管道的狀態
 * 決定跨多個Adobe Experience Manager執行個體管理內容套件的正確方法
 * 確定變更Maven檔案以支援管道的正確方法
 
-**第5節：監控和報告品品質度(14%)**
+**區段5：監視和報告品品質度(14%)**
 
 * 決定收集效能度量和報表的正確方法
 * 決定擴充基礎建設的正確方法
 
-**第6節：操作Admin Console(8%)**
+**區段6：操作Admin Console(8%)**
 
 * 確定在Admin Console中提交支援請求的正確方法
 * 決定設定同盟SSO並同步Adobe Experience Manager使用者和群組的正確方法
@@ -137,7 +137,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -211,6 +211,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

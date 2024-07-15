@@ -1,6 +1,6 @@
 ---
 title: 技術基礎專業認證
-description: 瞭解如何成為認證Adobe [!DNL Experience Manager] 專業。
+description: 瞭解如何成為認證Adobe [!DNL Experience Manager] 專業人員。
 solution: Experience Manager
 product: Experience Manager
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Experience Manager] 技術基礎專業人員
+# Adobe[!DNL Experience Manager]技術基礎專業人員的認證歷程
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >現在提供免費的隨選資源，協助您準備考試：
 >
->* **課程：** 如果您剛開始使用，或需要重新整理程式，請接受 [Adobe Experience Manager基礎課程](https://app.rockinfo.com/courses/240) 存取重要概念、產品逐步說明和知識檢查的解釋。 本課程將為您提供認證歷程的知識基礎。
+>* **課程：**&#x200B;若您剛開始上課或需要複習者，請參加[Adobe Experience Manager基礎課程](https://app.rockinfo.com/courses/240)，取得重要概念、產品逐步說明及知識檢查的說明。 本課程將為您提供認證歷程的知識基礎。
 >
->* **考試準備指南：**  此 [考試準備指南](https://app.rockinfo.com/courses/124) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。
+>* **備考指南：** [備考指南](https://app.rockinfo.com/courses/124)提供量身打造的認證備考流程，包括取得此認證所需的資料。
 >
 >_如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 * 套用程式概念以翻譯內容
 * 使用多網站和即時副本
 
-**第2節：實作(42%)**
+**區段2：實作(42%)**
 
 * 套用程式概念以建立元件
 * 建立可編輯的範本
@@ -108,7 +108,7 @@ ht-degree: 0%
 * 部署套件
 * 安裝AEM執行個體
 
-**第4節：維護與使用者管理(12%)**
+**第4節：維護和使用者管理(12%)**
 
 * 管理使用者存取權
 * 修改OSGI設定
@@ -130,7 +130,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -200,8 +200,8 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。
 
 

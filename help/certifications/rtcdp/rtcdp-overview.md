@@ -10,7 +10,7 @@ ht-degree: 22%
 
 ---
 
-# [!DNL Adobe Real-Time CDP] 認證概述
+# [!DNL Adobe Real-Time CDP]認證概述
 
 **專業**
 
@@ -20,4 +20,4 @@ ht-degree: 22%
 
 * [開發人員](/help/certifications/rtcdp/rtcdp-e-developer.md) <!--AD0-E605-->
 
-造訪 [更新您的認證](/help/certifications/renew.md) 頁面以檢視此產品是否提供續約選項。
+請造訪[更新您的認證](/help/certifications/renew.md)頁面，檢視此產品是否有續約選項。

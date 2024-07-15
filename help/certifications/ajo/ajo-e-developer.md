@@ -14,13 +14,13 @@ ht-degree: 4%
 
 ---
 
-# Adobe的認證歷程 [!DNL Journey Optimizer] 開發人員專家
+# Adobe[!DNL Journey Optimizer]開發人員專家的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->此考試，Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603)已更新。 如果您已開始學習或計畫接受此版本，請務必在2023年12月22日之前完成。 如果您正開始使用，建議您參加 [此測驗的最新版本](ajo-e-developer-23-10.md).
+>此測驗(Adobe[!DNL Journey Optimizer]開發人員專家(AD0-E603))已更新。 如果您已開始學習或計畫接受此版本，請務必在2023年12月22日之前完成。 如果您正要開始，建議您參加此測驗的[最新版本](ajo-e-developer-23-10.md)。
 
 ## 考試說明 {#exam-description}
 
@@ -78,27 +78,27 @@ ht-degree: 4%
 
 {{exam-objectives}}
 
-**第1節：管理與設定(17%)**
+**區段1：管理與設定(17%)**
 
 * 確定角色以及套用至每個角色的許可權
 * 說明如何指派/重設/刪除沙箱
 * 展示對管道管理的瞭解
 * 展示對於事件/動作/資料來源的瞭解
 
-**第2節：Adobe Experience Platform Foundation (33%)**
+**區段2： Adobe Experience Platform Foundation (33%)**
 
 * 展示對Experience Data Model (XDM)的瞭解
 * 說明如何設定資料來源和資料擷取
 * 展示對細分服務的瞭解
 * 說明如何設定AJO的結構描述
-* 判斷AJO上即時客戶設定檔的行為
+* 判斷AJO上即時客戶個人檔案的行為
 
 **區段3：Offer decisioning(11%)**
 
 * 展示對於建立和管理優惠方案及元件的瞭解
 * 示範如何使用測試設定檔來執行優惠方案模擬
 
-**第4節：內容製作(20%)**
+**區段4：內容製作(20%)**
 
 * 示範如何建立電子郵件、簡訊、應用程式內訊息和推播通知
 * 使用協助程式功能，展示對內容操控和個人化的瞭解
@@ -134,11 +134,11 @@ ht-degree: 4%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
-**第1節：管理與設定**
+**區段1：管理與組態**
 
 * [Adobe [!DNL Journey Optimizer] 檔案](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 
@@ -151,7 +151,7 @@ ht-degree: 4%
 * [沙箱總覽](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=zh-Hant){target="_blank"}
 
 
-**第2節：AEP Foundation**
+**區段2： AEP Foundation**
 
 * [Adobe [!DNL Experience Platform] 檔案](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
@@ -159,17 +159,17 @@ ht-degree: 4%
    * 即時客戶設定檔指南
    * Platform Identity Service指南
    * 設定資料流
-   * 來源聯結器指南
+   * Source聯結器指南
    * Data Ingestion指南
    * 分段服務指南
    * 結構描述
 
 * [Adobe簡介 [!DNL Experience Platform] 課程](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
-* [Adobe快速入門 [!DNL Experience Platform] 資料工程師專用課程](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
-* [資料工程師適用的資料擷取課程](https://experienceleague.adobe.com/?lang=zh-Hant?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
+* [資料工程師的Adobe [!DNL Experience Platform] 快速入門](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
+* [資料工程師的資料擷取課程](https://experienceleague.adobe.com/?lang=zh-Hant?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
 * [數位體驗藍圖](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=zh-Hant){target="_blank"}
 
-**第3節：Offer decisioning**
+**區段3：Offer decisioning**
 
 * [Adobe [!DNL Journey Optimizer] 檔案](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 
@@ -179,7 +179,7 @@ ht-degree: 4%
 
    * 建立歷程
 
-**第4節：內容製作**
+**區段4：內容製作**
 
 * [Adobe [!DNL Journey Optimizer] 檔案](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 
@@ -189,7 +189,7 @@ ht-degree: 4%
    * 個人化
    * 登陸頁面
 
-**第5節：Journey Orchestration**
+**區段5：Journey Orchestration**
 
 * [Adobe [!DNL Journey Optimizer] 檔案](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 
@@ -232,7 +232,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->此考試，Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603)已更新。 如果您已開始學習或計畫接受此版本，請務必在2023年12月22日之前完成。 如果您正開始使用，建議您參加 [此測驗的最新版本](ajo-e-developer-23-10.md).
+>此測驗(Adobe[!DNL Journey Optimizer]開發人員專家(AD0-E603))已更新。 如果您已開始學習或計畫接受此版本，請務必在2023年12月22日之前完成。 如果您正要開始，建議您參加此測驗的[最新版本](ajo-e-developer-23-10.md)。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -261,6 +261,6 @@ ht-degree: 4%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

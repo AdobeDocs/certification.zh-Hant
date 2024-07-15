@@ -1,6 +1,6 @@
 ---
 title: 專家認證
-description: 瞭解如何成為Adobe的認證專家 [!DNL Customer Journey Analytics]
+description: 瞭解如何成為Adobe [!DNL Customer Journey Analytics]的認證專家
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Customer Journey Analytics] 開發人員專家
+# Adobe[!DNL Customer Journey Analytics]開發人員專家的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/132) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/132)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ### 最低體驗 {#minimum-experience}
 
-您應有12至24個月的Adobe經驗 [!DNL Customer Journey Analytics]，並且可以執行下列工作：
+您應該在Adobe[!DNL Customer Journey Analytics]中有12到24個月的經驗，並能夠執行下列工作：
 
 * 閱讀和瞭解XDM結構（類別）
 * 展示對平台介面的熟悉度
@@ -66,9 +66,9 @@ ht-degree: 0%
 * 設定具有主要身分的連線（人員ID）
 * 設定與多個資料集的連線
 * 設定資料檢視（量度/維度設定）
-* 設定Adobe [!DNL Customer Journey Analytics]
+* 設定Adobe[!DNL Customer Journey Analytics]
 * 轉換維度和量度內的資料
-* 分析工作區基本知識（視覺效果、歸因設定、篩選器、計算量度）
+* 分析Workspace基本知識（視覺效果、歸因設定、篩選器、計算量度）
 * 瞭解CJA (DULE)中的資料控管
 * 跨管道量度或人物式篩選器建立篩選器
 * 區分/瞭解AEP中的沙箱
@@ -119,7 +119,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -186,6 +186,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

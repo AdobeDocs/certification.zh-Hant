@@ -6,27 +6,27 @@ exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 10%
+ht-degree: 7%
 
 ---
 
-# Adobe [!DNL Experience Manager] 認證概述
+# Adobe[!DNL Experience Manager]認證概述
 
 選取您的層級與職務角色，以尋找您感興趣之認證的詳細資訊。
 
-如果您想瞭解更新現有認證的相關資訊，請造訪 [更新您的認證](/help/certifications/renew.md) 頁面以檢視續約選項是否可用。
+若您正在尋找更新現有憑證的資訊，請瀏覽[更新您的憑證](/help/certifications/renew.md)頁面，檢視是否有可用的更新選項。
 
 **專業**
 
-* [商業從業人員](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
+* [商務從業人員](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
 * [開發人員（網站）](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
-* [開發人員（資產）](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
+* [開發人員(Assets)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
 * [後端開發人員(Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
 * [技術基礎](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
 
 **專家**
 
-* [商務從業人員（網站）](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
+* [商務從業者（網站）](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
 * [開發人員（網站）](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
 * [DevOps](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
 * [開發人員(Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
@@ -36,4 +36,4 @@ ht-degree: 10%
 
 * [架構者（網站）](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
-造訪 [更新您的認證](/help/certifications/renew.md) 頁面以檢視此產品是否提供續約選項。
+請造訪[更新您的認證](/help/certifications/renew.md)頁面，檢視此產品是否有續約選項。

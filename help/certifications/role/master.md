@@ -1,10 +1,10 @@
 ---
 title: 主要技術認證
-description: 主要使用者的憑證選項概要
+description: 主要使用者的憑證選項概觀
 source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 44%
+ht-degree: 23%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 44%
 
 **Campaign Classic**
 
-* [Developer](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
+* [開發人員](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
 
 **Commerce**
 
@@ -43,4 +43,3 @@ ht-degree: 44%
 >
 >* [專家技術認證](expert.md)
 >* [專業技術認證](professional.md)
-

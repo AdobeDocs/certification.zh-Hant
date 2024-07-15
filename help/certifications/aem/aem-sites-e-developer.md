@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Experience Manager] Sites開發人員專家
+# Adobe[!DNL Experience Manager] Sites開發人員專家的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/125) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/125)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -80,10 +80,10 @@ ht-degree: 0%
 * 確定建立和管理AEM Dispatcher設定的步驟
 * 決定設定多租用的正確步驟
 * 說明如何建立和管理OSGi設定
-* 在特定的情況下，請確定建立和管理自訂Oak索引的正確方法
+* 在情景下，請確定建立和管理自訂Oak索引的正確方法
 * 決定設定OOTB SAML和LDAP整合的正確步驟
 
-**第2節：AEM開發(44%)**
+**區段2： AEM開發(44%)**
 
 * 決定實作SPA結構、範本和元件的正確步驟
 * 根據設計，建立包括HTL、模型和服務的自訂元件
@@ -97,7 +97,7 @@ ht-degree: 0%
 * 確定設定和維護前端與後端相依性管理的步驟
 * 建置專案時決定正確的原型
 
-**第4節：環境維護(22%)**
+**區段4：環境維護(22%)**
 
 * 在特定的情況下，決定管理AEM環境所需的步驟
 * 說明有關發行管理的設定步驟
@@ -128,7 +128,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -206,6 +206,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

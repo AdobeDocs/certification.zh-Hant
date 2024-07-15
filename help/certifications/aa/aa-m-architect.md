@@ -1,6 +1,6 @@
 ---
 title: 架構師主要認證
-description: 瞭解如何成為認證 [!DNL Adobe Analytics] 架構師Master。
+description: 瞭解如何成為 [!DNL Adobe Analytics] 架構師大師。
 solution: Analytics
 product: Analytics
 level: Experienced
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# 的認證歷程 [!DNL Adobe Analytics] 架構師Master
+# [!DNL Adobe Analytics]架構者主人的憑證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/223) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/223)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -54,9 +54,9 @@ ht-degree: 0%
 
 ### 最低體驗 {#minimum-experience}
 
-您至少應有3至4年的設計經驗 [!DNL Adobe Analytics] 架構、資料層規格、標籤管理，以及對JavaScript程式碼的基本瞭解。
+您至少應有3至4年的設計[!DNL Adobe Analytics]架構、資料層規格和標籤管理經驗，並且對JavaScript程式碼有基本的瞭解。
 
-此外，您還負責將業務需求轉換為追蹤規格， [!DNL Adobe Analytics] 變數，並且您熟悉以下技術和環境：
+此外，您負責將業務需求轉換為追蹤規格和[!DNL Adobe Analytics]變數，而且您熟悉下列技術和環境：
 
 * 網站分析應用程式
 * Adobe Experience Cloud
@@ -72,13 +72,13 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1節：探索(18%)**
+**區段1：探索(18%)**
 
 * 展示稽核網站的能力
 * 調查建立業務需求的使用者端需求
 * 指定情境，建立測量架構
 
-**第2節：解決方案設計(54%)**
+**區段2：解決方案設計(54%)**
 
 * 將業務需求轉換為變數和量度
 * 示範管理報表套裝設定的功能
@@ -87,7 +87,7 @@ ht-degree: 0%
 * 為網站開發人員撰寫技術規格
 * 建立Experience Cloud使用者/群組
 
-**第3節：實作後(28%)**
+**區段3： Post實作(28%)**
 
 * 根據一組需求，透過瀏覽器開發人員工具和Adobe報告驗證追蹤
 * 套用程式性概念以管理資料擷取和關係
@@ -111,7 +111,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -178,7 +178,7 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。
 

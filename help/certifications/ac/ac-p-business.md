@@ -1,6 +1,6 @@
 ---
 title: 商務從業人員專業認證
-description: 瞭解如何成為Adobe的認證Adobe商業從業者專業人員 [!DNL Commerce].
+description: 瞭解如何成為Adobe [!DNL Commerce]的認證Adobe商務從業者專業人員。
 solution: Commerce
 product: Magento
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Commerce] 商務從業者專業人士
+# Adobe[!DNL Commerce]商務從業人員專業人士的認證歷程
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >現在提供免費的隨選資源，協助您準備考試：
 >
->* **課程**：取用 [Adobe Commerce商業從業者專業課程](https://app.rockinfo.com/courses/219) 以取得關鍵概念的解釋、實作示範和知識檢查。 如果您剛開始使用， [Adobe Commerce基礎課程](https://app.rockinfo.com/courses/148) 提供認證歷程中可建置的知識基礎。
+>* **課程**：參加[Adobe Commerce商業從業者專業課程](https://app.rockinfo.com/courses/219)，瞭解重要概念、實作示範和知識檢查的說明。 如果您剛開始，[Adobe Commerce基礎課程](https://app.rockinfo.com/courses/148)會提供您可在認證歷程中建構的知識基礎。
 >
->* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/137) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。
+>* **備考指南：** [備考指南](https://app.rockinfo.com/courses/137)提供量身打造的認證備考流程，包括取得此認證所需的資料。
 >
 >_如果系統提示您登入，請使用您的Adobe ID。_
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 * 專案經理
 * 產品擁有者
 * 顧問
-* [!DNL Adobe Commerce] 策略師
+* [!DNL Adobe Commerce]個策略師
 * 電子商務管理員/Director/經理/顧問
 * 數位行銷Director/經理/開發人員
 * 解決方案專家
@@ -62,11 +62,11 @@ ht-degree: 0%
 
 ### 最低體驗 {#minimum-experience}
 
-您至少應有0至12個月的動手體驗，使用 [!DNL Magento Open Source] 2.4.3版(使用LUMA或BLANK主題和基本瞭解Adobe) [!DNL Commerce] 版本2.4.3。
+使用LUMA或BLANK佈景主題，[!DNL Magento Open Source] 2.4.3版至少應有0至12個月的實作體驗，且對Adobe[!DNL Commerce] 2.4.3版有基本的瞭解。
 
 此外，您應該對電子商務體驗有基本的瞭解，並熟悉下列概念：
 
-* 數位行銷(SEO、CMS、電子郵件行銷、銷售技巧 [交叉銷售、向上銷售]、分析、報告和監視)
+* 數位行銷（SEO、CMS、電子郵件行銷、銷售技巧[交叉銷售、追加銷售]、分析、報告和監視）
 * 電子商務術語（銷售/行銷策略，例如全頻道和多頻道）
 * 定價與促銷活動
 * 客戶購買歷程
@@ -81,24 +81,24 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**區段1： [!DNL Magento Open Source] 核心功能(49%)**
+**區段1： [!DNL Magento Open Source]核心功能(49%)**
 
-* 識別的功能 [!DNL Magento Open Source]
+* 識別[!DNL Magento Open Source]的功能
 * 區分正確範圍及何時使用
 * 展示目錄管理的知識
-* 使用操控定價 [!DNL Magento Open Source] 功能
+* 使用[!DNL Magento Open Source]功能操控定價
 * 說明標準客戶歷程
 * 說明標準訂單生命週期
 * 說明與商店維護相關的日常工作
 * 說明不同型別的內容元素及使用時機
 
-**第2節：Adobe [!DNL Commerce] 基本知識(14%)**
+**區段2：Adobe[!DNL Commerce]基本知識(14%)**
 
-* 識別Adobe中可用的主要功能 [!DNL Commerce]
-* 識別Adobe中的服務附加元件 [!DNL Commerce]
-* 識別Adobe的託管選項 [!DNL Commerce]
+* 識別Adobe[!DNL Commerce]中可用的主要功能
+* 識別Adobe[!DNL Commerce]中的服務附加元件
+* 識別Adobe[!DNL Commerce]的託管選項
 
-**第3節：數位行銷和電子商務基礎知識(24%)**
+**第3節：數位行銷與電子商務基礎知識(24%)**
 
 * 識別數位行銷工具的基本用途(Google Analytics/Adobe Analytics、Google Tag Manager、電子郵件行銷、細分、社交外掛程式)
 * 說明SEO的基本原則
@@ -109,7 +109,7 @@ ht-degree: 0%
 **第4節：合規性/安全性基本知識(13%)**
 
 * 瞭解隱私權法規與付款安全性合規的基本概念
-* 識別Adobe的常見安全性問題 [!DNL Commerce] 專案
+* 識別Adobe[!DNL Commerce]專案的常見安全性方面
 * 確定無障礙法規遵循的最佳實務和法律要求
 
 <br>
@@ -136,7 +136,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -150,7 +150,7 @@ ht-degree: 0%
 
 [參加Adobe Commerce基礎課程](https://app.rockinfo.com/courses/148)
 
-[參加Adobe Commerce商業從業者專業課程](https://app.rockinfo.com/courses/219)
+[參加Adobe Commerce商務從業人員專業課程](https://app.rockinfo.com/courses/219)
 
 **考試準備指南**
 
@@ -211,6 +211,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

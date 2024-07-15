@@ -1,6 +1,6 @@
 ---
 title: 商務從業人員專業認證
-description: 瞭解如何成為認證 [!DNL Adobe Target] 商務從業者專業人士。
+description: 瞭解如何成為認證的 [!DNL Adobe Target] 商務從業者專業人士。
 solution: Target
 product: Target
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 的認證歷程 [!DNL Adobe Target] 商務從業者專業人士
+# [!DNL Adobe Target]商務從業人員專業人士的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/235) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/235)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -55,8 +55,8 @@ ht-degree: 0%
 
 您應該有：
 
-* 最佳化平台的0至12個月使用經驗，包括 [!DNL Adobe Target]
-* 監督的實作體驗 [!DNL Adobe Target]
+* 最佳化平台的0至12個月經驗，包括[!DNL Adobe Target]
+* 監督的[!DNL Adobe Target]實作體驗
 * 0至12個月的體驗領導/協助最佳化計畫
 * 能夠識別基本的Target/Adobe Marketing Cloud管理工作（偏好設定、使用者角色和許可權、設定）
 * 三步驟工作流程的基本知識（體驗、目標定位、目標與設定，包括所有報表來源）
@@ -79,7 +79,7 @@ ht-degree: 0%
 * 在案例中，評估對象需求
 * 說明適當的分析報表來源(即Target或Adobe Analytics)
 
-**第2節：設定、執行和管理(50%)**
+**區段2：設定、執行和管理(50%)**
 
 * 說明表單式體驗撰寫器與視覺化體驗撰寫器的使用
 * 說明使用VEC建立體驗的程式
@@ -96,10 +96,10 @@ ht-degree: 0%
 * 說明進行活動QA的程式
 * 說明在Target內管理活動和對象的程式
 
-**第3節：分析和報告(16%)**
+**區段3：分析和報告(16%)**
 
 * 說明有助於設定報表中顯示之元素的設定
-* 說明差異，在 [!DNL Adobe Target] 規劃與驗證之間的樣本大小計算器設定
+* 說明計畫與驗證之間[!DNL Adobe Target]樣本大小計算器設定的差異
 * 說明A/B測試的相關常見問題
 * 識別Automated Personalization摘要報表與其他報表的差異
 * 說明體驗效能報表(MVT)的功能
@@ -127,7 +127,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -196,6 +196,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

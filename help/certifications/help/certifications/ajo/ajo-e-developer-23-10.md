@@ -13,13 +13,13 @@ ht-degree: 1%
 
 ---
 
-# Adobe的認證歷程 [!DNL Journey Optimizer] 開發人員專家
+# Adobe[!DNL Journey Optimizer]開發人員專家的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->這是最新的Adobe [!DNL Journey Optimizer] 開發人員專家測驗(AD0-E606)。 如果您已開始學習或已排程 [較舊版本](ajo-e-developer.md)，您必須在2023年12月22日之前完成。
+>這是最新的Adobe[!DNL Journey Optimizer] Developer Expert考試(AD0-E606)。 如果您已開始學習或排程了[較舊版本](ajo-e-developer.md)，則必須在2023年12月22日前完成。
 
 
 ## 考試說明 {#exam-description}
@@ -71,7 +71,7 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 
 {{exam-objectives}}
 
-**第1節：管理與設定(20%)**
+**區段1：管理與設定(20%)**
 
 * 識別執行各種工作所需的許可權
 * 說明沙箱的概念，以及如何跨業務單位使用資料
@@ -94,13 +94,13 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 * 套用處理以建立決定
 * 套用程式，以新增不同管道上的優惠方案
 
-**第4節：內容製作(22%)**
+**區段4：內容製作(22%)**
 
 * 示範如何建立電子郵件、簡訊、應用程式內訊息和推播通知
 * 解譯協助程式函式和個人化語法，以顯示將顯示內容
 * 展示對於驗證、證明、偵錯和發佈歷程的瞭解
 
-**第5節：資料模型製作(18%)**
+**第5節：資料模型(18%)**
 
 * 區分設定檔和事件型別結構描述
 * 說明如何設定資料來源和資料擷取
@@ -124,33 +124,33 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
-**第1節：管理與設定**
+**區段1：管理與組態**
 
 * [Experience Platform，存取控制，沙箱指南](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=zh-Hant){target="_blank"}
-* [AJO指南、設定、SMS頻道、歷程](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
+* [AJO指南，設定，簡訊頻道，歷程](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 * [AJO API](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
-**第2節：Journey Orchestration**
+**區段2：Journey Orchestration**
 
-* [AJO指南、歷程、運算式、追蹤和監視](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
+* [AJO指南，歷程，運算式，追蹤和監視](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 
-**第3節：Offer decisioning**
+**區段3：Offer decisioning**
 
-* [AJO指南、決定管理、API參考](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
+* [AJO指南，決定管理， API參考](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 
-**第4節：內容製作**
+**區段4：內容製作**
 
-* [AJO指南、SMS頻道、隱私權、設定、歷程、運算式、內容管理、追蹤和監視、推播通知頻道](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
+* [AJO指南，簡訊頻道，隱私權，設定，歷程，運算式，內容管理，追蹤和監視，推播通知頻道](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 * [Journey OptimizerTutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}
 
-**第5節：資料模型製作**
+**第5節：資料模型化**
 
-* [AJO指南、設定、對象、設定檔和身分、資料管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
-* [Experience Platform、資料集、來源聯結器指南、APITutorials、平台身分服務指南、分段UI、UITutorials](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
+* [AJO指南，設定，對象，設定檔與身分，資料管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
+* [Experience Platform，資料集， Source Connectors Guide， APITutorials， Platform Identity Service Guide， Segmentation UI， UITutorials](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
 +++
 
@@ -180,7 +180,7 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 
 >[!NOTE]
 >
->這是最新的Adobe [!DNL Journey Optimizer] 開發人員專家測驗(AD0-E606)。 如果您已開始學習或已排程 [較舊版本](ajo-e-developer.md)，您必須在2023年12月22日之前完成。
+>這是最新的Adobe[!DNL Journey Optimizer] Developer Expert考試(AD0-E606)。 如果您已開始學習或排程了[較舊版本](ajo-e-developer.md)，則必須在2023年12月22日前完成。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -209,6 +209,6 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

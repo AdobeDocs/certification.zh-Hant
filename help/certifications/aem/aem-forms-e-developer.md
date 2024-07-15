@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Experience Manager Forms] 開發人員專家
+# Adobe[!DNL Experience Manager Forms]開發人員專家的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/128) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/128)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 * 預填最適化表單
 * 對OSGi、Sling元件的基本瞭解或知識
 * 使用檔案服務
-* AEM Designer， AEM Workbench， AEM Workspace
+* AEM Designer， AEM workbench， AEM工作區
 * 最適化表單主控台
 * Java IDE工具
 * Maven
@@ -91,14 +91,14 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1節：Forms建立與管理(36%)**
+**區段1：建立和管理Forms (36%)**
 
 * 建置Forms
 * 設定Forms資料模型
 * 自訂AEM Forms
 * 善用GuideBridge API開發及使用JavaScript ClientLib
 
-**第2節：處理與工作流程(34%)**
+**區段2：處理程式和工作流程(34%)**
 
 * 設計和協調表單核准工作流程
 * 使用Document Services API開發OSGi套件
@@ -115,12 +115,12 @@ ht-degree: 0%
 * 執行Forms的AEM Dispatcher設定
 * 瀏覽不同的主控台
 
-**第4節：API端點與整合(8%)**
+**區段4： API端點和整合(8%)**
 
 * 整合Adobe Experience Cloud
 * 產生和使用各種端點服務
 
-**第5節：互動式通訊(4%)**
+**區段5：互動式通訊(4%)**
 
 * 設計、示範及實作互動式通訊的程式
 
@@ -148,7 +148,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -215,6 +215,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

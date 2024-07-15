@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Experience Manager Forms] 後端開發人員專業版
+# Adobe[!DNL Experience Manager Forms]後端開發人員專業人員的認證歷程
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >現在提供免費的隨選資源，協助您準備考試：
 >
->* **課程：** 如果您剛開始使用，或需要重新整理程式，請接受 [Adobe Experience Manager基礎課程](https://app.rockinfo.com/courses/240) 存取重要概念、產品逐步說明和知識檢查的解釋。 本課程將為您提供認證歷程的知識基礎。
+>* **課程：**&#x200B;若您剛開始上課或需要複習者，請參加[Adobe Experience Manager基礎課程](https://app.rockinfo.com/courses/240)，取得重要概念、產品逐步說明及知識檢查的說明。 本課程將為您提供認證歷程的知識基礎。
 >
->* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/123) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。
+>* **備考指南：** [備考指南](https://app.rockinfo.com/courses/123)提供量身打造的認證備考流程，包括取得此認證所需的資料。
 >
 >_如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
@@ -87,14 +87,14 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**區段1：Forms建立與管理(26%)**
+**區段1：建立和管理Forms (26%)**
 
 * 在案例中，識別建置AEM Forms所需的步驟
 * 說明Forms資料模型
 * 識別自訂AEM Forms的步驟
-* 在案例中，識別運用GuideBridge API來使用JavaScript ClientLib的步驟
+* 在案例中，找出運用GuideBridge API來使用JavaScript ClientLib的步驟
 
-**第2節：處理與工作流程(34%)**
+**區段2：處理程式和工作流程(34%)**
 
 * 在案例中，識別表單核准工作流程的步驟
 * 使用Document Services API識別OSGi套件組合的功能
@@ -111,12 +111,12 @@ ht-degree: 0%
 * 說明為Forms設定AEM Dispatcher的步驟
 * 說明導覽不同主控台的步驟
 
-**第4節：API端點與整合(10%)**
+**區段4： API端點和整合(10%)**
 
 * 在案例中，說明將AEM表單與Adobe Experience Cloud整合的流程
 * 識別產生各種端點服務的步驟
 
-**第5節：互動式通訊(9%)**
+**區段5：互動式通訊(9%)**
 
 * 在案例中，示範並實作互動式通訊的程式
 
@@ -136,7 +136,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -209,8 +209,8 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。
 
 

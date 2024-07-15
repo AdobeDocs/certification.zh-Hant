@@ -1,6 +1,6 @@
 ---
 title: 架構師主要認證
-description: 瞭解如何獲得Adobe認證 [!DNL Audience Manager] 架構師Master。
+description: 瞭解如何成為認證的Adobe [!DNL Audience Manager] 架構師大師。
 solution: Audience Manager
 product: Audience Manager
 role: Data Architect
@@ -11,11 +11,11 @@ exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
 source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '562'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
-# 的認證歷程 [!DNL Adobe Audience Manager] 架構師Master
+# [!DNL Adobe Audience Manager]架構者主人的憑證歷程
 
 {{intro}}
 
@@ -39,7 +39,7 @@ ht-degree: 3%
 
 ### 目標對象 {#intended-audience}
 
-* [!DNL Audience Manager] 顧問
+* [!DNL Audience Manager]顧問
 * 多解決方案架構師
 * Adobe實務負責人
 * 企業架構師
@@ -60,10 +60,10 @@ ht-degree: 3%
 
 * 分析業務需求以瞭解現有資料和所需的其他資料
 * 設計並開發特定實作以滿足客戶需求
-* 實作Adobe [!DNL Audience Manager] 使用不同的方法
+* 使用其他方法實作Adobe[!DNL Audience Manager]
 * 建立區段
 * 在不同Adobe和非Adobe雲端解決方案之間啟用受眾區段
-* 在中產生和分析不同的報表 [!DNL Audience Manager]
+* 在[!DNL Audience Manager]內產生和分析不同的報告
 * 瞭解資料收集策略
 
 <br>
@@ -74,7 +74,7 @@ ht-degree: 3%
 
 **考試目標與範圍**
 
-**第1節：實作分析(26%)**
+**區段1：實作分析(26%)**
 
 * 決定如何指南AAM並支援其實作為獨立產品或雲端解決方案的一部分
 * 分析傳出目的地選項並推薦AAM實作方法
@@ -89,9 +89,9 @@ ht-degree: 3%
 * 識別屬性和行為資料，並將其對應至特定業務使用案例
 * 套用程式概念以設計資料夾分類法和命名慣例
 
-**第3節：細分和啟動(30%)**
+**第3節：細分與啟用(30%)**
 
-* 套用程式概念以在中建立目的地 [!DNL Audience Manager]
+* 套用程式概念以在[!DNL Audience Manager]中建立目的地
 * 識別訊號以建立規則型、已上線和演演算法特徵
 * 套用程式概念以使用頻率/造訪間隔建立區段
 * 決定如何使用設定檔合併規則建立區段
@@ -100,10 +100,10 @@ ht-degree: 3%
 
 **第4節：隱私權與資料控管(8%)**
 
-* 推薦 [!DNL Audience Manager] 與治理、隱私和安全性相關的功能
+* 建議[!DNL Audience Manager]功能，因為它與治理、隱私和安全性相關
 * 識別符合政府法規的客戶資料政策
 
-**第5節：績效與報表(18%)**
+**第5節：效能與報告(18%)**
 
 * 決定如何在AAM中設定報表，以根據業務需求收集訊號、特徵和區段效能
 
@@ -113,7 +113,7 @@ ht-degree: 3%
 
 {{readiness}}
 
-[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"}.
+[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"}。
 
 <br>
 
@@ -131,14 +131,14 @@ ht-degree: 3%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
-**第1節：實作分析**
+**區段1：實作分析**
 
 * [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [Analytics整合](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=zh-Hant){target="_blank"}
+* [Analytics整合](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
 * [Adobe Experience Cloud Identity服務](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 **第2節：解決方案設計和Recommendations**
@@ -146,7 +146,7 @@ ht-degree: 3%
 * [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] 教學課程](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
-**第3節：細分和啟用**
+**第3節：細分與啟動**
 
 * [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
@@ -156,9 +156,9 @@ ht-degree: 3%
 
 * [[!DNL Audience Manager] 指南](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
-* [Analytics管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=zh-Hant){target="_blank"}
+* [Analytics管理指南](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
-**第5節：績效與報表**
+**第5節：效能與報表**
 
 * [Adobe Experience Cloud Identity服務](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
@@ -215,6 +215,6 @@ ht-degree: 3%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

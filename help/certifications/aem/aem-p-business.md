@@ -1,6 +1,6 @@
 ---
 title: 商務從業人員專業認證
-description: 瞭解如何成為Adobe的認證商務從業者專業人員 [!DNL Experience Manager].
+description: 瞭解如何成為Adobe [!DNL Experience Manager]的認證商務從業者專業人員。
 solution: Experience Manager
 product: Experience Manager
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Experience Manager] 商務從業者專業人士
+# Adobe[!DNL Experience Manager]商務從業人員專業人士的認證歷程
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >現在提供免費的隨選資源，協助您準備考試：
 >
->* **課程：** 如果您剛開始使用，或需要重新整理程式，請接受 [Adobe Experience Manager基礎課程](https://app.rockinfo.com/courses/240) 存取重要概念、產品逐步說明和知識檢查的解釋。 本課程將為您提供認證歷程的知識基礎。
+>* **課程：**&#x200B;若您剛開始上課或需要複習者，請參加[Adobe Experience Manager基礎課程](https://app.rockinfo.com/courses/240)，取得重要概念、產品逐步說明及知識檢查的說明。 本課程將為您提供認證歷程的知識基礎。
 >
->* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/122) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。
+>* **備考指南：** [備考指南](https://app.rockinfo.com/courses/122)提供量身打造的認證備考流程，包括取得此認證所需的資料。
 >
 >_如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 * 至少擁有0至12個月的AEM特色與功能使用經驗，足以吸引開發人員尋找業務解決方案
 * 在設定、實施和管理持續整合/持續部署任務方面至少可經歷0至12個月
 
-您應該已經習慣於AdobeManaged Services和Adobe [!DNL Experience Manager] as a Cloud Service，且能設定Adobe [!DNL Experience Manager] 環境和基礎結構。
+您應該能夠在AdobeManaged Services和Adobe[!DNL Experience Manager]as a Cloud Service中舒適地工作，並能夠設定Adobe[!DNL Experience Manager]環境和基礎架構。
 
 此外，您應該具備：
 
@@ -82,7 +82,7 @@ ht-degree: 0%
 * 說明符合業務需求的AEM功能
 * 說明為內容編輯進行培訓所需的程式概念
 
-**第2節：架構(22%)**
+**區段2：架構(22%)**
 
 * 使用內部部署或Adobe託管（雲端）環境，識別適合滿足業務需求的資訊架構
 * 說明AEM如何與協力廠商服務連線
@@ -98,7 +98,7 @@ ht-degree: 0%
 * 在案例中，說明在預算和/或範圍內達成業務目標的正確方法
 * 找出將業務目標與開發團隊連結起來的方式
 
-**第4節：設定與實施(13%)**
+**第4節：設定與實作(13%)**
 
 * 識別使用內容元件的最佳AEM實務
 * 在情景中，識別功能的正確實施
@@ -119,7 +119,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -200,6 +200,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

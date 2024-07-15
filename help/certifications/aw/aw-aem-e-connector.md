@@ -1,6 +1,6 @@
 ---
 title: 增強型聯結器專家認證
-description: 瞭解如何在Adobe中成為認證Adobe Certified Expert [!DNL Workfront] 的 [!DNL Experience Manager]
+description: 瞭解如何在Adobe [!DNL Workfront] 中成為 [!DNL Experience Manager]的認證Adobe Certified Expert
 solution: Workfront
 role: Developer
 badge: label="考試AD0-E906" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Workfront] 的 [!DNL Experience Manager] 增強型聯結器專家
+# [!DNL Experience Manager]增強型聯結器專家的Adobe[!DNL Workfront]認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/244) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/244)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -54,13 +54,13 @@ ht-degree: 0%
 
 * AEM Assets開發人員認證專家
 * AEM Sites開發人員認證專家
-* [!DNL Workfront] 核心開發人員認證專家
+* [!DNL Workfront]核心開發人員認證專家
 
 而且，您應該具備：
 
 * 1年以上的CMS使用經驗
 * 1年以上的AEM使用經驗
-* 1年以上 [!DNL Workfront] 體驗
+* 1年以上[!DNL Workfront]經驗
 * 2年以上的Java/J2EE開發人員經驗
 * 共同架構至少一個以AEM為基礎的解決方案
 * 體驗直接與客戶合作，建立自訂解決方案
@@ -75,10 +75,10 @@ ht-degree: 0%
 
 **第1節：技術需求(25%)**
 
-* 使用 [!DNL Workfront] 自訂Forms
+* 使用[!DNL Workfront]自訂Forms
 * 在案例中，示範檔案管理
 * 示範在環境中提升程式碼的知識
-* 在案例中，識別如何將值傳遞至 [!DNL Workfront] 自訂表格
+* 在案例中，識別如何將值傳遞至[!DNL Workfront]個自訂表單
 * 疑難排解伺服器端程式碼
 
 **區段2：設定(26%)**
@@ -91,10 +91,10 @@ ht-degree: 0%
 **第3節：業務實務(21%)**
 
 * 解譯使用者端需求，以建議適當的工作流程策略
-* 示範如何設定 [!DNL Workfront] 核准和校訂工作流程
+* 示範如何設定[!DNL Workfront]核准和校訂工作流程
 * 在案例中，識別使用校訂檢視器、設定和標籤功能的最佳實務
 * 展示對於在行銷活動管理中追蹤交付專案的瞭解
-* 在案例中，找出變更管理的主要考量因素 [!DNL Workfront] 實施
+* 在案例中，識別[!DNL Workfront]實作的變更管理的主要考量事項
 
 **第4節：聯結器的安裝和設定(28%)**
 
@@ -117,7 +117,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -186,6 +186,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

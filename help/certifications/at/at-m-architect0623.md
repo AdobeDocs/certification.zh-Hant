@@ -1,6 +1,6 @@
 ---
 title: 架構師主要新認證
-description: 瞭解如何成為認證 [!DNL Adobe Target] 架構師Master。
+description: 瞭解如何成為認證的 [!DNL Adobe Target] 架構師大師。
 solution: Target
 product: Target
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 的認證歷程 [!DNL Adobe Target] 架構師Master
+# [!DNL Adobe Target]架構者主人的憑證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/237) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/237)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 此認證的預定候選者包括下列團隊/組織的成員：
 
 * 轉換率最佳化工程師/架構師
-* 個人化工程師/架構師
+* Personalization工程師/架構師
 * 數位解決方案架構師
 * 數位轉型顧問
 * 體驗最佳化銷售機會
@@ -69,10 +69,10 @@ ht-degree: 0%
 
 * 多個Adobe Experience Cloud程式(Adobe Analytics、Adobe Campaign、Adobe Experience Manager、Adobe Experience Cloud Debugger、Target API)
 * JavaScript （Ajax、JQuery等）
-* 用於偵錯來自Target之回應的瀏覽器型偵錯工具（Chrome開發人員工具、VEC Helper）、JSON
+* 瀏覽器型偵錯工具(Chrome開發人員工具、VEC Helper)、JSON，用於偵錯來自Target的回應
 * 原生應用程式的偵錯工具(Charles Proxy、Fiddler)
 * HTML、CSS、HTTP、XML設定
-* 原生行動開發IDE、iOS開發基本知識、Android開發基本知識
+* 原生行動開發IDE、iOS開發的基本知識、Android開發的基本知識
 * Postman等API工具
 * VEC協助程式
 
@@ -93,39 +93,40 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**區段1： [!DNL Adobe Target] 基本面(13%)**
+**區段1： [!DNL Adobe Target]基本面(13%)**
 
-* 識別適當的 [!DNL Adobe Target] 特定情境的使用情況
-* 說明的基本技術 [!DNL Adobe Target] 實施
+* 識別特定情境的適當[!DNL Adobe Target]使用方式
+* 說明[!DNL Adobe Target]實作的基本技術
 
-**第2節：與整合 [!DNL Adobe Target] (18%)**
+**區段2：與[!DNL Adobe Target] (18%)整合**
 
-* 套用流程以整合 [!DNL Adobe Target] 搭配Adobe Analytics (A4T)
-* 套用流程以整合 [!DNL Adobe Target] 至Adobe Experience Manager
+* 套用處理序，將[!DNL Adobe Target]與Adobe Analytics (A4T)整合
+* 套用處理序，將[!DNL Adobe Target]整合至Adobe Experience Manager
 * 說明與Adobe Experience Cloud解決方案和Adobe Experience Platform解決方案的整合
 * 說明與Adobe Experience Cloud受眾的整合
 
-**區段3： [!DNL Adobe Target] 管理與治理(6%)**
+**區段3：[!DNL Adobe Target]管理與治理(6%)**
 
-* 定義進行中 [!DNL Adobe Target] 實作策略與系統治理
+* 定義進行中的[!DNL Adobe Target]實作策略與系統治理
 * 套用流程和最佳實務來管理使用者
 * 說明實作設定的管理層面
 
-**區段4： [!DNL Adobe Target] 和支援的接觸點(6%)**
+**區段4： [!DNL Adobe Target]和支援的接觸點(6%)**
 
 * 說明使用者端傳送實施
 * 說明伺服器端傳遞實作
 * 說明行動、電子郵件目標定位和API的實作需求
 
-**第5節：善用 [!DNL Adobe Target] 建議(11%)**
+**第5節：運用[!DNL Adobe Target]個建議(11%)**
 
 * 展示對於建議、目錄和條件的瞭解
 * 套用程式以設定Target建議
 
-**第6節：架構者、設計與實施 [!DNL Adobe Target] (18%)**
+**第6節：架構者、設計與實作[!DNL Adobe Target] (18%)**
 
-* 選取正確的Target請求實作（全域、訂購確認、混合）評估及設計 [!DNL Adobe Target] 實施
-* 說明的實作 [!DNL Adobe Target] 在原生行動應用程式中
+* 選取正確的Target請求實作（全域、訂單確認、混合）
+評估並設計[!DNL Adobe Target]實作
+* 說明原生行動應用程式中[!DNL Adobe Target]的實作
 
 **第7節：疑難排解(28%)**
 
@@ -133,7 +134,7 @@ ht-degree: 0%
 * 疑難排解Target請求和回應錯誤
 * 疑難排解活動設定錯誤
 * 瞭解整合錯誤
-* 疑難排解 [!DNL Adobe Target] Recommendations錯誤
+* 疑難排解[!DNL Adobe Target]個Recommendations錯誤
 
 <br>
 
@@ -151,7 +152,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -218,6 +219,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

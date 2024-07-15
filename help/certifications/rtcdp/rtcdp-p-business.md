@@ -1,6 +1,6 @@
 ---
 title: 專業認證
-description: 瞭解如何成為認證 [!DNL Experience Platform] 專業在 [!DNL Real-Time Customer Data Platform]
+description: 瞭解如何在 [!DNL Real-Time Customer Data Platform]中成為認證 [!DNL Experience Platform] 專業人員
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Real-Time CDP] 商務從業者專業人士
+# Adobe[!DNL Real-Time CDP]商務從業人員專業人士的認證歷程
 
 {{intro}}
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 >
 >現在提供免費的隨選資源，協助您準備考試：
 >
->* **課程：** 如果您剛開始使用，或需要重新整理程式，請使用 [Adobe Experience Platform基礎課程](https://app.rockinfo.com/courses/216) 存取重要概念、產品逐步說明和知識檢查的解釋。 本課程提供基礎知識，讓您在認證歷程中精益求精。
+>* **課程：**&#x200B;若您剛開始上課或需要複習者，請參加[Adobe Experience Platform基礎課程](https://app.rockinfo.com/courses/216)，取得重要概念、產品逐步說明及知識檢查的說明。 本課程提供基礎知識，讓您在認證歷程中精益求精。
 >
->* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/133) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。
+>* **備考指南：** [備考指南](https://app.rockinfo.com/courses/133)提供量身打造的認證備考流程，包括取得此認證所需的資料。
 >
 >_如果系統提示您登入，請使用您的Adobe ID。_
 
@@ -105,9 +105,9 @@ ht-degree: 0%
 * 在Platform中對客戶區段執行資料分析
 * 展示對資料流程概念的理解
 
-**第4節：方案和設定檔(18%)**
+**第4節：結構描述和設定檔(18%)**
 
-* 展示對Adobe的理解 [!DNL Experience Platform] 概念
+* 示範對Adobe[!DNL Experience Platform]概念的理解
 * 使用設定檔功能
 
 <br>
@@ -126,7 +126,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -205,6 +205,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

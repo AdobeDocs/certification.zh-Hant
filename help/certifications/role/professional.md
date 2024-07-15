@@ -4,7 +4,7 @@ description: 適用於專業使用者的認證選項概觀
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 44%
+ht-degree: 13%
 
 ---
 
@@ -17,30 +17,30 @@ ht-degree: 44%
 
 **Analytics**
 
-* [商業從業人員](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
-* [Developer](/help/certifications/aa/aa-p-developer.md) <!--AD0-E213-->
+* [商務從業人員](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
+* [開發人員](/help/certifications/aa/aa-p-developer.md) <!--AD0-E213-->
 
 
 **Audience Manager**
 
-* [商業從業人員](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
+* [商務從業人員](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
 
 **Campaign Classic**
 
-* [商業從業人員](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
-* [Developer](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
+* [商務從業人員](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
+* [開發人員](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
 
 **Commerce**
 
-* [商業從業人員](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
-* [Developer](/help/certifications/ac/ac-p-developer.md) <!--AD0-E717-->
-* [Developer](/help/certifications/ac/ac-p-fedeveloper.md) <!--AD0-E719-->
+* [商務從業人員](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
+* [開發人員](/help/certifications/ac/ac-p-developer.md) <!--AD0-E717-->
+* [開發人員](/help/certifications/ac/ac-p-fedeveloper.md) <!--AD0-E719-->
 
 **Experience Manager**
 
-* [商業從業人員](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
+* [商務從業人員](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
 * [開發人員（網站）](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
-* [開發人員（資產）](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
+* [開發人員(Assets)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
 * [後端開發人員(Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
 * [技術基礎](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
 
@@ -50,7 +50,7 @@ ht-degree: 44%
 
 **Real-Time CDP**
 
-* [商業從業人員](/help/certifications/rtcdp/rtcdp-p-business.md) <!--AD0-E602-->
+* [商務從業人員](/help/certifications/rtcdp/rtcdp-p-business.md) <!--AD0-E602-->
 
 **Target**
 
@@ -59,7 +59,7 @@ ht-degree: 44%
 **Workfront**
 
 * [開發人員(Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
-* [Project Manager](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
+* [專案管理員](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
 * [開發人員（核心）](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
 
 >[!MORELIKETHIS]

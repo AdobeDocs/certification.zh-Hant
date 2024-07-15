@@ -16,7 +16,7 @@ ht-degree: 0%
 
 若要維護Adobe認證，您必須每兩年更新一次。 如果您在認證到期之前沒有續約，則需要再次參加完整的認證測驗，才能重新認證。
 
-檢視您目前和過期的認證，位於 **認證** 標籤，在 [Adobe認證管理系統](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
+在[Adobe認證管理系統](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}的&#x200B;**認證**&#x200B;標籤下，檢視您目前和過期的認證。
 
 ## 如何更新我的認證？
 
@@ -34,7 +34,7 @@ Adobe提供各種資源與工具，協助您更新認證，包括：
 
 ## 價格為何？
 
-大多數的認證都可以續約 **免費**. 有些認證尚未提供免費續約選項。 若要更新這些認證，您需要重新參加完整的認證考試。
+大部分的認證都可以免費續約&#x200B;****。 有些認證尚未提供免費續約選項。 若要更新這些認證，您需要重新參加完整的認證考試。
 
 ## 免費續約選項
 
@@ -57,6 +57,6 @@ Adobe提供各種資源與工具，協助您更新認證，包括：
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

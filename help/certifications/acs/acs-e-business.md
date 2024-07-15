@@ -1,6 +1,6 @@
 ---
 title: 商務從業者專家認證
-description: 瞭解如何成為Adobe領域的認證Adobe商業從業者專家 [!DNL Campaign Standard]
+description: 瞭解如何成為Adobe [!DNL Campaign Standard]的認證Adobe商務從業者專家
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Campaign Standard] 商務從業者專家
+# Adobe[!DNL Campaign Standard]商務從業者專家的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/255) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [測驗準備指南](https://app.rockinfo.com/courses/255)提供量身打造的測驗準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 此外，您應該具備：
 
-* 使用Adobe的欄位體驗 [!DNL Campaign Standard] 有規律的頻率
+* 以固定頻率使用Adobe[!DNL Campaign Standard]的欄位體驗
 * 處理資料檔案的功能
 * 瞭解關聯式資料庫、觸發程式、API和技術工作流程的概念
 * 瞭解如何建立行銷工作流程，並運用基礎資料以啟動行銷工作流程
@@ -73,13 +73,13 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1節：傳遞管理(25%)**
+**區段1：傳遞管理(25%)**
 
 * 套用設定和部署傳遞的最佳實務
 * 判斷正確的傳遞設定
-* 將電子郵件設計工具功能套用至適當的案例
+* 將電子郵件Designer功能套用至適當的案例
 
-**第2節：行銷活動管理(25%)**
+**區段2：行銷活動管理(25%)**
 
 * 套用設定以執行工作流程
 * 在規劃、概述和修改行銷活動時套用最佳實務
@@ -89,7 +89,7 @@ ht-degree: 0%
 * 根據業務/行銷活動需求設計新的工作流程
 * 解讀客戶需求
 
-**區段4：報表(15%)**
+**區段4：報告(15%)**
 
 * 根據客戶需求，決定要產生的適當報表
 * 在案例中，自訂現成可用的動態報表
@@ -101,10 +101,10 @@ ht-degree: 0%
 * 監視和識別錯誤
 * 分析和解讀部署結果
 
-**第6節：資料管理與管理(15%)**
+**區段6：資料管理和管理(15%)**
 
 * 說明資料模型資源
-* 執行 [!DNL Campaign Standard] 管理
+* 執行[!DNL Campaign Standard]管理
 * 套用程式以建置目標對象
 
 <br>
@@ -131,7 +131,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -198,7 +198,7 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。
 

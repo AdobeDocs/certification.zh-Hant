@@ -1,6 +1,6 @@
 ---
 title: 商務從業者認證
-description: 瞭解如何成為認證 [!DNL Adobe Analytics] 商務從業者專家
+description: 瞭解如何獲得 [!DNL Adobe Analytics] 商務從業者專家認證
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 的認證歷程 [!DNL Adobe Analytics] 商務從業者專家
+# [!DNL Adobe Analytics]商務從業者專家的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/220) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/220)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -67,15 +67,15 @@ ht-degree: 0%
 * 溝通結果的能力，並可根據報告分析提出行動方案
 * 協助客戶瞭解如何擷取/提取他們想要的資訊（例如，協助他們定義業務問題）
 * 從功能的角度瞭解這項技術的運作方式，並瞭解使用者端的實作（例如資料的位置、收集方式和追蹤方式）
-* 至少一年 [!DNL Adobe Analytics] 實作體驗
+* 至少一年的[!DNL Adobe Analytics]實作體驗
 * 基本瞭解Digital Analytics如何篩選/結構化資料
-* 對整合的認識 [!DNL Adobe Analytics] 與其他Adobe解決方案
+* 瞭解[!DNL Adobe Analytics]與其他Adobe解決方案的整合
 
 此外，您也應熟悉下列技術和環境：
 
 * FTP使用者端
-* 目前 [!DNL Adobe Analytics] Workspace功能和Workspace以外的其他報告選項(例如 排程專案和排程報告)
-* 偵錯相關工具 [!DNL Adobe Analytics] (封包監視器，例如Adobe Debugger、瀏覽器開發人員工具、Charles)
+* 目前的[!DNL Adobe Analytics]個Workspace功能和Workspace以外的其他報告選項(例如 排程專案和排程報告)
+* 與[!DNL Adobe Analytics]相關的偵錯工具(封包監視器，例如Adobe Debugger、瀏覽器開發人員工具、Charles)
 * Admin Console(Analytics報表套裝Admin Console與Experience CloudAdmin Console)
 * AdobeLaunch基礎知識/基本知識
 * 應用程式、SPA、基本網站瞭解
@@ -107,7 +107,7 @@ ht-degree: 0%
 * 指定情境，決定要使用的適當專案
 * 套用程式以建立、設定和使用行動計分卡
 
-**區段3：細分和計算量度(22%)**
+**第3節：細分和計算量度(22%)**
 
 * 決定如何開發及設定區段
 * 套用程式以與組織中的其他人共用區段
@@ -118,16 +118,16 @@ ht-degree: 0%
 **第4節：一般工具知識與疑難排解(12%)**
 
 * 分析報表並找出資料品質問題
-* 定義存在於中的尺寸與引數的不同型別 [!DNL Adobe Analytics] （eVar、prop和事件）
-* 決定如何將資料帶入和帶出 [!DNL Adobe Analytics]
+* 定義[!DNL Adobe Analytics]中現有的不同維度和引數型別（eVar、prop和事件）
+* 決定如何將資料帶入[!DNL Adobe Analytics]與帶出
 * 識別來自行銷URL的資訊
 
-**第5節：管理(10%)**
+**區段5：管理(10%)**
 
-* 套用處理作業以設定 [!UICONTROL 行銷管道] 報告與 [!UICONTROL 行銷管道] 處理規則
+* 套用處理序，以使用[!UICONTROL 行銷管道]處理規則設定[!UICONTROL 行銷管道]報表
 * 套用程式以設定「分類匯入工具」和「規則產生器」
 * 套用程式，以根據現有區段設定虛擬報表套裝
-* 使用 [!UICONTROL 資料摘要] Manager管理員UI
+* 使用[!UICONTROL 資料摘要]管理員管理UI
 * 瞭解資料控管
 
 <br>
@@ -154,7 +154,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -232,7 +232,7 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。
 

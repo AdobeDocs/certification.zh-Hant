@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Journey Optimizer] 商務從業者專業人士
+# Adobe[!DNL Journey Optimizer]商務從業人員專業人士的認證歷程
 
 {{intro}}
 
@@ -21,10 +21,10 @@ ht-degree: 0%
 >
 >現在提供免費的隨選課程，協助您準備考試。 選擇最符合您體驗水準的課程，立即開始您的學習歷程！
 >
->* 此 [Adobe Experience Platform基礎課程](https://app.rockinfo.com/courses/216) 介紹Adobe Experience Cloud，這是以唯一專為大規模個人化而設計的平台所建置的端對端數位行銷工具套裝。
->* 此 [Adobe Journey Optimizer基礎課程](https://app.rockinfo.com/courses/113) 提供此特定應用程式的知識基礎。
->* 此 [Adobe Journey Optimizer商業從業者專業課程](https://app.rockinfo.com/courses/107) 以基礎課程為基礎，協助您準備專業級認證考試。
->* 此 [考試準備指南](https://app.rockinfo.com/courses/232) 提供量身打造的考試準備流程，包括成功考試所需的資料。
+>* [Adobe Experience Platform基礎課程](https://app.rockinfo.com/courses/216)推出Adobe Experience Cloud，這是建構在唯一大規模個人化平台上的端對端數位行銷工具套件。
+>* [Adobe Journey Optimizer基礎課程](https://app.rockinfo.com/courses/113)提供此特定應用程式的知識基礎。
+>* [Adobe Journey Optimizer商務從業人員專業課程](https://app.rockinfo.com/courses/107)以基礎課程為基礎，協助您準備專業級認證考試。
+>* 「[備考指南](https://app.rockinfo.com/courses/232)」提供您備考程式中的量身打造路徑，包括您成功備考所需的資料。
 >
 >_如果系統提示您登入，請使用您的Adobe ID。_
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ### 目標對象 {#intended-audience}
 
-* Adobe [!DNL Journey Optimizer] 業務顧問
+* Adobe[!DNL Journey Optimizer]業務顧問
 * 行銷人員
 * 行銷自動化業務從業人員
 * 行銷活動管理員
@@ -75,7 +75,7 @@ ht-degree: 0%
 * 使用訂閱清單
 * 檢閱設定檔屬性和事件（在UI中載入設定檔）
 * 瞭解並使用登陸頁面
-* 瞭解何時使用不同型別的歷程/行銷活動，並有能力在Adobe中善用「行銷活動」功能 [!DNL Journey Optimizer] 用於建立一次性電子郵件爆炸
+* 瞭解何時使用不同型別的歷程/行銷活動，並能夠利用Adobe[!DNL Journey Optimizer]中的「行銷活動」功能來建立一次性電子郵件爆炸
 * 瞭解資料來源、事件和動作的功能
 * 監視和檢閱歷程報告以追蹤電子郵件參與/跳出/錯誤率/垃圾郵件率/網域問題
 * 建立及驗證基本區段標準
@@ -96,7 +96,7 @@ ht-degree: 0%
 
 * 撰寫對象（使用新的對象撰寫器）
 * 匯入對象（上傳CSV對象）
-* 電子郵件的HTML上傳和自動轉換（新的HTML轉換工具）
+* 上傳和自動轉換電子郵件HTML  （新html轉換工具）
 * 建立內容實驗
 * 測量內容實驗的結果
 * 標籤/篩選/搜尋歷程、行銷活動等
@@ -142,7 +142,7 @@ ht-degree: 0%
 * 識別片段型別
 * 識別如何建立電子郵件範本
 
-**第4節：AEP基礎(20%)**
+**區段4： AEP基礎(20%)**
 
 * 在給定情況下，決定何時使用不同型別的資料
 * 識別檢閱設定檔屬性和對象成員資格的位置
@@ -169,7 +169,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -179,7 +179,7 @@ ht-degree: 0%
 
 [參加Adobe Experience Platform基礎課程](https://app.rockinfo.com/courses/216){target="_blank"}
 [參加Adobe Journey Optimizer基礎課程](https://app.rockinfo.com/courses/113){target="_blank"}
-[參加Adobe Journey Optimizer商業從業者專業課程](https://app.rockinfo.com/courses/107){target="_blank"}
+[參加Adobe Journey Optimizer商務從業人員專業課程](https://app.rockinfo.com/courses/107){target="_blank"}
 
 **參加練習測試**
 
@@ -244,7 +244,7 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。
 

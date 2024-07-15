@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Journey Optimizer] 開發人員專家
+# Adobe[!DNL Journey Optimizer]開發人員專家的認證歷程
 
 {{intro}}
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 >
 >現在提供免費的隨選資源，協助您準備考試：
 >
->* **課程：** 免費、隨選 [Adobe Journey Optimizer開發人員專家課程](https://app.rockinfo.com/courses/147) 包括關鍵概念的解釋、實作示範和知識檢查。
+>* **課程：**&#x200B;免費隨選[Adobe Journey Optimizer Developer Expert課程](https://app.rockinfo.com/courses/147)包含重要概念的解釋、實作示範和知識檢查。
 >
->* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/143) 提供量身打造的考試準備流程，包括考試成功所需的深入學習資料。
+>* **備考指南：** [備考指南](https://app.rockinfo.com/courses/143)提供量身打造的備考程式，包括您考試成功所需的深入學習資料。
 >
 >_如果系統提示您登入，請使用您的Adobe ID。_
 
@@ -76,7 +76,7 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 
 {{exam-objectives}}
 
-**第1節：管理與設定(20%)**
+**區段1：管理與設定(20%)**
 
 * 識別執行各種工作所需的許可權
 * 說明沙箱的概念，以及如何跨業務單位使用資料
@@ -99,13 +99,13 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 * 套用處理以建立決定
 * 套用程式，以新增不同管道上的優惠方案
 
-**第4節：內容製作(22%)**
+**區段4：內容製作(22%)**
 
 * 示範如何建立電子郵件、簡訊、應用程式內訊息和推播通知
 * 解譯協助程式函式和個人化語法，以顯示將顯示內容
 * 展示對於驗證、證明、偵錯和發佈歷程的瞭解
 
-**第5節：資料模型製作(18%)**
+**第5節：資料模型(18%)**
 
 * 區分設定檔和事件型別結構描述
 * 說明如何設定資料來源和資料擷取
@@ -129,7 +129,7 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -137,7 +137,7 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 
 {{take-course}}
 
-[參加Adobe Journey Optimizer開發人員專家課程](https://app.rockinfo.com/courses/147)
+[參加Adobe Journey Optimizer Developer Expert課程](https://app.rockinfo.com/courses/147)
 
 **參加練習測試**
 
@@ -202,6 +202,6 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

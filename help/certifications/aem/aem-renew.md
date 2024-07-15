@@ -1,6 +1,6 @@
 ---
 title: 認證續約
-description: 瞭解如何更新您的 [!DNL Experience Manager Sites] 認證過期之前。
+description: 瞭解如何在您的 [!DNL Experience Manager Sites] 認證過期前更新。
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User,Developer,Data Architect
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# 更新您的Adobe [!DNL Experience Manager] 認證
+# 更新您的Adobe[!DNL Experience Manager]認證
 
 您的Adobe認證有效期為兩年。 如果您快要迎來兩年的成績，是時候更新您的認證以保持其作用中了。
 
@@ -25,27 +25,27 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->**請先登入：** 下列連結將可運作 **僅限** 之後 **成功登入** 至 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}.
+>**請先登入：**&#x200B;下列連結在&#x200B;**成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}後**&#x200B;只能運作&#x200B;**。**
 >
 ><br>
 >
->**若要共用連結：** 如果您想要與同事分享更新考試或評量的連結，請連結至整體考試更新頁面，而非考試本身的URL，以避免登入問題。
+>**若要共用連結：**&#x200B;如果您想要與同事共用更新考試或評量的連結，請連結至整體考試更新頁面，而非考試本身的URL，以避免登入問題。
 
 >[!BEGINTABS]
 
 >[!TAB 專業]
 
-+++Adobe [!DNL Experience Manager] 商務從業者專業人士
++++Adobe[!DNL Experience Manager]專業商務從業人員
 
-## 您應該具備下列專案 **主要** 認證：
+## 您應該有下列&#x200B;**使用中**&#x200B;認證：
 
-* Adobe [!DNL Experience Manager] 商務從業者專業人士
+* Adobe[!DNL Experience Manager]專業商務從業人員
 
 ## 續約認證的說明：
 
-* **步驟1**：已成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
-* **步驟2**：檢閱考試目標和資源
-* **步驟3**：考試及格
+* **步驟1**：已成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟2**：檢閱考試目標與資源
+* **步驟3**：參加並通過測驗
 
 ## 準備就緒
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 * 交貨：隨選/非監督
 * 可用語言：英文
 * 費用：免費
-* 考試ID：AD5-E843Adobe [!DNL Experience Manager] 商務從業者專業人士
+* 測驗識別碼： AD5-E843Adobe[!DNL Experience Manager]商務從業者專業人員
 
 **範圍和目標：**
 
@@ -96,67 +96,67 @@ ht-degree: 0%
 
 **區段1**
 
-* [製作內容片段](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=zh-Hant){target="_blank"}
+* [編寫內容片段](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=zh-Hant){target="_blank"}
 * [關於Adobe Experience Manager Assets as a DAM解決方案](https://experienceleague.adobe.com/docs/experience-manager-65/assets/assets.html){target="_blank"}
-* [Adobe Experience Manager Assets支援的格式](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html#:~:text=Not%20applicable-,Supported%20raster%20image%20formats%20in%20Experience%20Manager,-The%20supported%20raster){target="_blank"}
-* [概觀](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transformer/overview.html){target="_blank"}
+* Adobe Experience Manager Assets支援的[格式](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html#:~:text=Not%20applicable-,Supported%20raster%20image%20formats%20in%20Experience%20Manager,-The%20supported%20raster){target="_blank"}
+* [總覽](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transformer/overview.html){target="_blank"}
 * [AEM Forms簡介](https://experienceleague.adobe.com/docs/experience-manager-65/forms/getting-started/introduction-aem-forms.html){target="_blank"}
 * [標籤頁面](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-tagging-feature-video-use.html){target="_blank"}
 
 **區段2**
 
-* [設定AEMas a Cloud Service的存取權](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/overview.html#:~:text=The%20AEM%20Users%20product%20profile%20affords%20users%20read%2Donly%20access%20to%20AEM%20via%20membership%20in%20AEM%E2%80%99s%20Contributors%20group.){target="_blank"}
+* [設定AEM as a Cloud Service的存取權](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/overview.html#:~:text=The%20AEM%20Users%20product%20profile%20affords%20users%20read%2Donly%20access%20to%20AEM%20via%20membership%20in%20AEM%E2%80%99s%20Contributors%20group.){target="_blank"}
 * [AEM使用者、群組和許可權](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/aem-users-groups-and-permissions.html){target="_blank"}
-* [Sitemap](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/seo/sitemaps.html){target="_blank"}
+* [Sitemaps](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/seo/sitemaps.html){target="_blank"}
 * [Adobe Experience Manager與Creative Cloud整合最佳實務](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/aem-cc-integration-best-practices.html){target="_blank"}
 * [AEM-CIF核心元件與Adobe Experience Platform整合](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html){target="_blank"}
 * [使用者管理與安全性](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html){target="_blank"}
 * [Admin Console概觀](https://helpx.adobe.com/tw/enterprise/using/admin-console.html){target="_blank"}
-* [AEM發佈](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/publish.html){target="_blank"}
+* [AEM Publish](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/publish.html){target="_blank"}
 
 **區段3**
 
 * [AEM Screens簡介](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/introduction.html){target="_blank"}
-* [透過AEMas a Cloud Service強化您的數位體驗](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3){target="_blank"}
-* [Adobe Experience Manager as a Headless CMS簡介](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html?lang=zh-Hant){target="_blank"}
+* [使用AEM as a Cloud Service強化您的數位體驗](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3){target="_blank"}
+* [Adobe Experience Manager as a Headless CMS簡介](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html){target="_blank"}
 * [從建立到傳遞，管理產品、說明和支援內容。](https://business.adobe.com/products/experience-manager/guides/aem-guides.html){target="_blank"}
 * [Experience Manager Assets Brand Portal概觀](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
-* [專案角色與責任](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html){target="_blank"}
+* [專案角色和責任](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html){target="_blank"}
 * [新增頁面註解](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/annotations.html){target="_blank"}
 * [製作頁面的快速入門手冊](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/getting-started/quick-start.html){target="_blank"}
-* [透過AEM Assets使用連線資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/connected-assets.html){target="_blank"}
+* [搭配AEM Assets使用連線Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/connected-assets.html){target="_blank"}
 * [規劃](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/planning.html#before-you-start){target="_blank"}
-* [定義測試案例](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/test-cases.html){target="_blank"}
+* [定義您的測試案例](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/test-cases.html){target="_blank"}
 
 **區段4**
 
 * [啟動](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=zh-Hant){target="_blank"}
 * [使用工作流程編輯器](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/workflow/use-the-workflow-editor.html){target="_blank"}
-* [Assets管理員搜尋邊欄](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/assets-admin-search-rail.html#:~:text=The%20Assets%20admin%20search%20rail,using%20custom%20criteria%20in%20Omnisearch.&amp;text=The%20asset%20set%20in%20Search，邊欄%20configuration%20for%20AEM%20assets。){target="_blank"}
+* [Assets管理搜尋邊欄](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/assets-admin-search-rail.html#:~:text=The%20Assets%20admin%20search%20rail,using%20custom%20criteria%20in%20Omnisearch.&amp;text=The%20asset%20set%20in%20Search，邊欄%20configuration%20for%20AEM%20assets。){target="_blank"}
 
 ## 更新您的認證
 
-請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 第一。 然後，若要更新您的認證，請按一下下方的按鈕。
+請確定您已依照上述步驟1操作，並先成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}。 然後，若要更新您的認證，請按一下下方的按鈕。
 
-[!BADGE 接受Adobe [!DNL Experience Manager] 商務從業人員專業更新考試AD5-E843]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E843 newtab=true"}
+[!BADGE 參加Adobe[!DNL Experience Manager]商務從業人員專業更新考試AD5-E843]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E843 newtab=true"}
 
 >[!NOTE]
 >
->這項考試是免費的、公開的，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等待 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
+>這項考試是免費的、公開的，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候&#x200B;**30天**&#x200B;再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
 +++
 
-+++Adobe [!DNL Experience Manager] Sites開發人員專業版
++++Adobe[!DNL Experience Manager] Sites Developer Professional
 
-## 您應該具備下列專案 **主要** 認證：
+## 您應該有下列&#x200B;**使用中**&#x200B;認證：
 
-* Adobe [!DNL Experience Manager] Sites開發人員專業版
+* Adobe[!DNL Experience Manager] Sites Developer Professional
 
 ## 續約認證的說明：
 
-* **步驟1**：已成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
-* **步驟2**：檢閱考試目標和資源
-* **步驟3**：考試及格
+* **步驟1**：已成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟2**：檢閱考試目標與資源
+* **步驟3**：參加並通過測驗
 
 ## 準備就緒
 
@@ -168,7 +168,7 @@ ht-degree: 0%
 * 交貨：隨選/非監督
 * 可用語言：英文
 * 費用：免費
-* 考試ID：AD5-E837Adobe [!DNL Experience Manager] 開發人員專業版
+* 測驗識別碼： AD5-E837Adobe[!DNL Experience Manager] Developer Professional
 
 **範圍和目標：**
 
@@ -197,7 +197,7 @@ ht-degree: 0%
 * 在某種情況下，請決定對AEM環境中的問題進行偵錯所需的步驟
 * 說明AEM維護版本
 * 識別如何跨拓撲設定AEM
-* 決定規劃和移轉至AEMas a Cloud Service所需的步驟
+* 決定規劃和移轉至AEM as a Cloud Service所需的步驟
 
 ## 準備
 
@@ -209,8 +209,8 @@ ht-degree: 0%
 
 * [設定Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html){target="_blank"}
 * [瞭解快取](https://experienceleague.adobe.com/docs/experience-manager-learn/ams/dispatcher/understanding-cache.html){target="_blank"}
-* [重複使用內容：多網站管理員和即時副本](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/reusing-content/msm/overview.html){target="_blank"}
-* [設定OSGi](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html){target="_blank"}
+* [重複使用內容：多網站管理員與即時副本](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/reusing-content/msm/overview.html){target="_blank"}
+* [正在設定OSGi](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html){target="_blank"}
 * [內容搜尋與索引](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/indexing.html){target="_blank"}
 * [SAML 2.0驗證處理常式](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/saml-2-0-authenticationhandler.html){target="_blank"}
 
@@ -224,15 +224,15 @@ ht-degree: 0%
 * [Sling模型](https://sling.apache.org/documentation/bundles/models.html){target="_blank"}
 * [OSGi元件生命週期](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/osgi-services/lifecycle.html){target="_blank"}
 * [HTL規格](https://experienceleague.adobe.com/docs/experience-manager-htl/content/specification.html){target="_blank"}
-* [開發和擴充工作流程](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/workflows.html){target="_blank"}
+* [開發和延伸工作流程](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/workflows.html){target="_blank"}
 * [內容片段模型](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html){target="_blank"}
 * [體驗片段](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/experience-fragments.html){target="_blank"}
-* [用於內容片段的AEM GraphQL API](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/content-fragments.html){target="_blank"}
+* 用於內容片段的[AEM GraphQL API](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/content-fragments.html){target="_blank"}
 
 **區段3**
 
 * [AEM專案結構](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html){target="_blank"}
-* [工作區篩選器](https://jackrabbit.apache.org/filevault/filter.html){target="_blank"}
+* [Workspace篩選器](https://jackrabbit.apache.org/filevault/filter.html){target="_blank"}
 * [AEM專案原型](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/using.html){target="_blank"}
 
 **區段4**
@@ -241,32 +241,32 @@ ht-degree: 0%
 * [復寫佇列問題](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-17467.html){target="_blank"}
 * [發行資訊](https://docs.mktossl.com/docs/experience-manager-cloud-service/content/release-notes/home.html){target="_blank"}
 * [建議的部署](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/recommended-deploys.html){target="_blank"}
-* [AEMas a Cloud Service移轉歷程快速入門](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
+* [開始移轉至AEM as a Cloud Service的歷程](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
 * [使用Best Practice Analyzer](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/best-practices-analyzer/using-best-practices-analyzer.html){target="_blank"}
 
 ## 更新您的認證
 
-請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 第一。 然後，若要更新您的認證，請按一下下方的按鈕。
+請確定您已依照上述步驟1操作，並先成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}。 然後，若要更新您的認證，請按一下下方的按鈕。
 
-[!BADGE 接受Adobe [!DNL Experience Manager] Sites開發人員專業更新考試AD5-E837]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true"}
+[!BADGE 參加Adobe[!DNL Experience Manager] Sites Developer Professional更新考試AD5-E837]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true"}
 
 >[!NOTE]
 >
->這項考試是免費的、公開的，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等待 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
+>這項考試是免費的、公開的，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候&#x200B;**30天**&#x200B;再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
 +++
 
-+++Adobe [!DNL Experience Manager] Assets開發人員專業版
++++Adobe[!DNL Experience Manager] Assets Developer Professional
 
-## 您應該具備下列專案 **主要** 認證：
+## 您應該有下列&#x200B;**使用中**&#x200B;認證：
 
-* Adobe [!DNL Experience Manager] Assets開發人員專業版
+* Adobe[!DNL Experience Manager] Assets Developer Professional
 
 ## 續約認證的說明：
 
-* **步驟1**：已成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
-* **步驟2**：檢閱考試目標和資源
-* **步驟3**：考試及格
+* **步驟1**：已成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟2**：檢閱考試目標與資源
+* **步驟3**：參加並通過測驗
 
 ## 準備就緒
 
@@ -278,7 +278,7 @@ ht-degree: 0%
 * 交貨：隨選/非監督
 * 可用語言：英文
 * 費用：免費
-* 考試ID：AD5-E850Adobe [!DNL Experience Manager] Assets開發人員專業版
+* 考試ID： AD5-E850Adobe[!DNL Experience Manager] Assets Developer Professional
 
 **範圍和目標：**
 
@@ -292,8 +292,8 @@ ht-degree: 0%
 
 第2節：資產組織與資產主控台24.46%
 
-* 示範如何建立和組織集合中的資產
-* 示範如何使用標籤來組織資產
+* 示範如何在集合中建立和組織Assets
+* 示範如何使用標籤來整理Assets
 * 瞭解如何運用OOTB搜尋篩選條件和Facet
 * 說明如何設定及產生AEM Asset報表
 * 說明如何管理資產檔案夾的使用者許可權
@@ -326,15 +326,15 @@ ht-degree: 0%
 **區段1**
 
 * [位置 — 工作流程模型](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-best-practices.html#locations){target="_blank"}
-* [工作流程程式參考資訊](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/workflows-process-ref.html){target="_blank"}
-* [管理工作流程例項](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/workflows-administering.html){target="_blank"}
+* [工作流程處理序參考](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/workflows-process-ref.html){target="_blank"}
+* [管理工作流程執行個體](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/workflows-administering.html){target="_blank"}
 
 **區段2**
 
 * [已儲存的搜尋](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-collections-touch-ui.html#saved-searches){target="_blank"}
 * [在DAM更新資產工作流程中啟用智慧標籤（選用）](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/config-smart-tagging.html#enable-smart-tagging-in-the-update-asset-workflow-optional){target="_blank"}
 * [新增述詞](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html#adding-a-predicate){target="_blank"}
-* [資產報表](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html){target="_blank"}
+* [資產報告](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html){target="_blank"}
 
 **區段3**
 
@@ -345,7 +345,7 @@ ht-degree: 0%
 
 **區段4**
 
-* [Adobe Experience Manager Assets支援的格式](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html){target="_blank"}
+* Adobe Experience Manager Assets支援的[格式](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html){target="_blank"}
 
 **區段5**
 
@@ -354,65 +354,65 @@ ht-degree: 0%
 
 ## 更新您的認證
 
-請確定您已依照上述步驟1操作，並成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"} 第一。 然後，若要更新您的認證，請按一下下方的按鈕。
+請確定您已依照上述步驟1操作，並先成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}。 然後，若要更新您的認證，請按一下下方的按鈕。
 
-[!BADGE 接受Adobe [!DNL Experience Manager] Assets開發人員專業更新考試AD5-E850]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E850 newtab=true"}
+[!BADGE 參加Adobe[!DNL Experience Manager] Assets Developer Professional更新考試AD5-E850]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E850 newtab=true"}
 
 >[!NOTE]
 >
->這項考試是免費的、公開的，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等待 **30天** 再試一次。 若未遵守，可能會導致您的認證被撤銷。
+>這項考試是免費的、公開的，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候&#x200B;**30天**&#x200B;再試一次。 若未遵守，可能會導致您的認證被撤銷。
 
 +++
 
 >[!TAB 專家與大師]
 
-## 您必須至少具備下列其中一項 **主要** 要更新的認證：
+## 您必須至少擁有下列&#x200B;**個使用中**&#x200B;認證其中之一才能續約：
 
-* Adobe [!DNL Experience Manager Sites] 開發人員專家
-* Adobe [!DNL Experience Manager Sites] 商務從業者專家
-* Adobe [!DNL Experience Manager Sites] 架構師Master
-* Adobe [!DNL Experience Manager] 開發/作業工程師專家
-* Adobe [!DNL Experience Manager Forms] 開發人員專家
+* Adobe[!DNL Experience Manager Sites]開發人員專家
+* Adobe[!DNL Experience Manager Sites]商務從業者專家
+* Adobe[!DNL Experience Manager Sites]架構者主版
+* Adobe[!DNL Experience Manager]開發/作業工程師專家
+* Adobe[!DNL Experience Manager Forms]開發人員專家
 
-## 更新Adobe的說明 [!DNL Experience Manager] 認證
+## 更新Adobe[!DNL Experience Manager]認證的說明
 
-* **步驟1：** 已成功登入 [Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
-* **步驟2：** 學習Experience League的課程
-* **步驟3：** 從下列選項中選擇，以完成續約。
+* **步驟1：**&#x200B;已成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
+* **步驟2：**&#x200B;學習Experience League中的課程
+* **步驟3：**&#x200B;從下列選項中選擇以完成續約。
 
   **選項A：**
-選取 **三個課程** 完成及通過每個課程評估，分數為80%或以上。 課程評量是免費、隨選、非監督及公開的。 您可以重複這些課程，直到成功通過80%的評量為止。
+選取**三門課程**，完成並通過每門課程評估，其分數為80%或以上。 課程評量是免費、隨選、非監督及公開的。 您可以重複這些課程，直到成功通過80%的評量為止。
 
   **選項B：**
-首先，選取 **兩個課程** 完成及通過每個課程評估，分數為80%或以上。 課程評量是免費、隨選、非監督及公開的。 您可以重複這些課程，直到成功通過80%的評量為止。
+首先，選取**兩門課程**&#x200B;完成並通過每門課程評量，評量分數為80%或以上。 課程評量是免費、隨選、非監督及公開的。 您可以重複這些課程，直到成功通過80%的評量為止。
 
-  第二， **提交客戶推薦表單** 以獲得Adobe認證的個人身分，驗證您是否已繼續領導和/或參與Adobe Experience Cloud實作專案。 本表確認您在認證續約2年期間參與了至少100小時的示範專案參與。
+  其次，**提交客戶參考表**，以經過Adobe認證的個人，負責領導、管理及/或參與Adobe Experience Cloud實作專案，以驗證您的持續工作。 本表確認您在認證續約2年期間參與了至少100小時的示範專案參與。
 
-  [Adobe Experience Manager客戶參考表格](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA100){target="_blank"}
+  [Adobe Experience Manager客戶參考表單](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA100){target="_blank"}
 
   當您的客戶參考資料經過稽核後，Adobe數位體驗認證計畫會通知您。 如果您的參考未被接受，只要是在憑證過期之前，您就可以再次提交直到成功。
 
 >[!NOTE]
 >
->如果您保留多個 [!DNL Adobe Experience Manager] 專家及主要認證，僅需完成一項認證的更新要求，其餘認證會自動更新。
+>如果您持有多個[!DNL Adobe Experience Manager]專家與主要認證，請僅完成一個認證的續約要求，其餘的認證將會自動續約。
 
 ## 專家與碩士的課程與課程評估：
 
 | 專家與碩士課程 | 課程評估 |
 | ------- | ------- |
-| [移至Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html){target="_blank"} | [ADR-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA101){target="_blank"} |
-| [規劃您移至Adobe的作業 [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html){target="_blank"} | [ADR-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA102){target="_blank"} |
+| [正在移至Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html){target="_blank"} | [ADR-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA101){target="_blank"} |
+| [正在規劃您移至Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html){target="_blank"} | [ADR-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA102){target="_blank"} |
 | [Adobe簡介 [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=zh-Hant){target="_blank"} | [ADR-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA103){target="_blank"} |
-| [使用GraphQL API進行Headless內容管理](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html){target="_blank"} | [ADR-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA104){target="_blank"} |
-| [使用Adobe個人化體驗 [!DNL Experience Manager] 和 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html){target="_blank"} | [ADR-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA105){target="_blank"} |
-| [整合 [!DNL Experience Manager Forms Cloud Service] 替換為 [!DNL Salesforce]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADR-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA106){target="_blank"} |
+| 使用GraphQL API的[Headless內容管理](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html){target="_blank"} | [ADR-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA104){target="_blank"} |
+| [使用Adobe [!DNL Experience Manager] 和 [!DNL Adobe Target]個人化體驗](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html){target="_blank"} | [ADR-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA105){target="_blank"} |
+| [整合 [!DNL Experience Manager Forms Cloud Service] 與 [!DNL Salesforce]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADR-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA106){target="_blank"} |
 | [Adobe [!DNL Experience Manager Cloud Manager] 技能培養](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADR-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA107){target="_blank"} |
-| [Adobe [!DNL Experience Manager Sites] 架構師](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADR-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA108){target="_blank"} |
+| 架構師的[Adobe [!DNL Experience Manager Sites] ](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADR-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA108){target="_blank"} |
 
 >[!ENDTABS]
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

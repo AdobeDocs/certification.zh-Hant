@@ -1,6 +1,6 @@
 ---
 title: 專業認證
-description: 瞭解如何成為認證Adobe [!DNL Experience Manager] 專業。
+description: 瞭解如何成為認證Adobe [!DNL Experience Manager] 專業人員。
 solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Experience Manager] Assets開發人員專業版
+# Adobe[!DNL Experience Manager] Assets Developer Professional的認證歷程
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >現在提供免費的隨選資源，協助您準備考試：
 >
->* **課程：** 如果您剛開始使用，或需要重新整理程式，請接受 [Adobe Experience Manager基礎課程](https://app.rockinfo.com/courses/240) 存取重要概念、產品逐步說明和知識檢查的解釋。 本課程將為您提供認證歷程的知識基礎。
+>* **課程：**&#x200B;若您剛開始上課或需要複習者，請參加[Adobe Experience Manager基礎課程](https://app.rockinfo.com/courses/240)，取得重要概念、產品逐步說明及知識檢查的說明。 本課程將為您提供認證歷程的知識基礎。
 >
->* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/120) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。
+>* **備考指南：** [備考指南](https://app.rockinfo.com/courses/120)提供量身打造的認證備考流程，包括取得此認證所需的資料。
 >
 >_如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### 最低體驗 {#minimum-experience}
 
-您應該已經習慣於AdobeManaged Services和Adobe [!DNL Experience Manager as a Cloud Service]，且能設定Adobe [!DNL Experience Manager] 環境和基礎結構。
+您應該能夠在AdobeManaged Services和Adobe[!DNL Experience Manager as a Cloud Service]中舒適地工作，並能夠設定Adobe[!DNL Experience Manager]環境和基礎架構。
 
 您應該有：
 
@@ -88,7 +88,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1節：資產工作流程(24%)**
+**區段1：資產工作流程(24%)**
 
 * 說明自訂OOTB工作流程的流程
 * 識別何時建立或自訂資產工作流程，以實施客戶需求
@@ -96,10 +96,10 @@ ht-degree: 0%
 * 區分雲端和內部部署工作流程
 * 說明如何使用「工作流程」主控台來監控狀態和進度
 
-**第2節：資產組織和資產主控台(22%)**
+**第2節：資產組織與資產主控台(22%)**
 
-* 示範如何建立和組織集合中的資產
-* 示範如何使用標籤來組織資產
+* 示範如何在集合中建立和組織Assets
+* 示範如何使用標籤來整理Assets
 * 瞭解如何運用OOTB搜尋篩選條件和Facet
 * 說明如何設定及產生AEM Asset報表
 * 說明如何管理資產檔案夾的使用者許可權
@@ -111,13 +111,13 @@ ht-degree: 0%
 * 在案例中，判斷如何運用中繼資料設定檔來符合需求
 * 瞭解階層式中繼資料結構的運作方式
 
-**第4節：資產型別(18%)**
+**區段4：資產型別(18%)**
 
 * 說明可用於資產型別的OOTB功能
 * 說明內容片段和內容片段模型
 * 示範如何使用以及何時使用內容片段變數
 
-**第5節：資產功能集和功能(12%)**
+**第5節：資產功能集與功能(12%)**
 
 * 說明使用Brand Portal的常見使用案例和優點
 * 說明使用Dynamic Media的常見使用案例和優點
@@ -217,6 +217,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

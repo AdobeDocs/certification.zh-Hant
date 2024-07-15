@@ -1,6 +1,6 @@
 ---
 title: 專業認證
-description: 瞭解如何成為認證Adobe專業人員，在 [!DNL Customer Journey Analytics]
+description: 瞭解如何在 [!DNL Customer Journey Analytics]中成為認證Adobe專業人員
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Customer Journey Analytics] 商務從業者專業人士
+# Adobe[!DNL Customer Journey Analytics]商務從業人員專業人士的認證歷程
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >現在提供免費的隨選資源，協助您準備考試：
 >
->* **課程：** 如果您剛開始使用，或需要重新整理程式，請接受 [Adobe Experience Platform基礎課程](https://app.rockinfo.com/courses/216) 存取重要概念、產品逐步說明和知識檢查的解釋。 本課程將為您提供認證歷程的知識基礎。
+>* **課程：**&#x200B;若您剛開始上課或需要複習者，請參加[Adobe Experience Platform基礎課程](https://app.rockinfo.com/courses/216)，取得重要概念、產品逐步說明及知識檢查的說明。 本課程將為您提供認證歷程的知識基礎。
 >
->* **考試準備指南：** 此 [考試準備指南](https://app.rockinfo.com/courses/131) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。
+>* **備考指南：** [備考指南](https://app.rockinfo.com/courses/131)提供量身打造的認證備考流程，包括取得此認證所需的資料。
 >
 >_如果系統提示您登入，請使用您的Adobe ID。_
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### 最低體驗 {#minimum-experience}
 
-最理想的合格候選者是具有至少6個月Adobe經驗的分析師 [!DNL Customer Journey Analytics] 以及對其結合使用方式的基本瞭解 [!DNL Adobe Experience Platform]. 應徵者能夠使用適當的報表和視覺效果選項，針對特定業務需求執行基本和進階分析。
+最理想的合格候選者為在Adobe[!DNL Customer Journey Analytics]方面擁有至少6個月經驗的分析師，且對其結合[!DNL Adobe Experience Platform]的運作方式有基本的瞭解。 應徵者能夠使用適當的報表和視覺效果選項，針對特定業務需求執行基本和進階分析。
 
 <br>
 
@@ -75,19 +75,19 @@ ht-degree: 0%
 * 使用適當的元件和篩選器建立資料子集
 * 建立非管理員元件以解決業務問題
 
-**區段2：報表(32%)**
+**區段2：報告(32%)**
 
 * 決定適當的視覺效果或表格以解決業務問題
 * 根據資料來源、身分和日期範圍決定要使用的資料檢視
 * 決定如何使用與套用日期範圍
 
-**第3節：分配(12%)**
+**區段3：分佈(12%)**
 
 * 排程並與主要利害關係人共用報告
 * 特定報表或儀表板中可用的組織欄位
 * 以邏輯方式組織專案
 
-**第4節：資料分析(26%)**
+**區段4：資料分析(26%)**
 
 * 執行探索性分析和解讀結果，以提供深入分析
 * 評估受眾以與其他AEP工具共用
@@ -109,7 +109,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -187,6 +187,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

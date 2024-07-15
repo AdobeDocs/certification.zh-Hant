@@ -1,6 +1,6 @@
 ---
 title: 商務從業者專家認證
-description: 瞭解如何成為認證Adobe業務從業者專家 [!DNL Marketo Engage].
+description: 瞭解如何在 [!DNL Marketo Engage]中成為認證Adobe業務從業專家。
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Marketo Engage] 商務從業者專家
+# Adobe[!DNL Marketo Engage]商務從業者專家的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/144) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/144)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 * 行銷營運經理/專家/專家/分析師
 * 數位行銷經理/專家/專家/分析師
 * Campaign經理/專家/專家/分析師
-* [!DNL Marketo Engage] 顧問
+* [!DNL Marketo Engage]個顧問
 * 數位/行銷自動化經理/專家/專家/分析師
 * 行銷系統管理員
 * Demand generation manager
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### 最低體驗 {#minimum-experience}
 
-* 大約18個月的Adobe經驗 [!DNL Marketo Engage] 建立行銷活動及利用客戶行為資料所需的功能
+* 擁有大約18個月的Adobe[!DNL Marketo Engage]功能體驗，是建立行銷活動及利用客戶行為資料所需的功能
 
 您應是行銷人員，且具備以下相關經驗：
 
@@ -84,7 +84,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1節：管理與維護(12%)**
+**區段1：管理與維護(12%)**
 
 * 決定Marketo與CRM之間的對應程式
 * 使用稽核軌跡識別資產所發生的情況
@@ -103,14 +103,14 @@ ht-degree: 0%
 * 提供不同型別權杖的使用範例
 * 概述Marketo中Webhook的用途及其使用方式
 * 識別並套用PMCF的適當使用
-* 說明全域資產的好處及使用方法
+* 說明全域Assets的好處及使用方法
 * 展示表單的功能
 * 執行並分析A/B測試策略
 * 識別已使用「使用者」參考方案或資產的位置
 * 疑難排解通訊限制
 * 在事件程式中使用網路研討會提供者資訊
 
-**第3節：銷售機會管理(12%)**
+**區段3：銷售機會管理(12%)**
 
 * 概述定義生命週期模型的關鍵決策點
 * 針對潛在客戶評分套用最佳實務
@@ -118,14 +118,14 @@ ht-degree: 0%
 * 解釋潛在客戶活動記錄
 * 指定情境，識別建立來源
 
-**第4節：資料管理(10%)**
+**區段4：資料管理(10%)**
 
 * 示範如何設定資料管理計畫
 * 分析執行個體的資料品質
 * 識別與智慧列示相關之Marketo資料保留原則的幾個關鍵專案
 * 概述區段的運作方式
 
-**區段5：報表(4%)**
+**區段5：報告(4%)**
 
 * 根據行銷活動結果，決定如何設定方案以提供最佳報告
 * 在案例中，能夠調查並指派適當的贏取方案
@@ -162,7 +162,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -240,7 +240,7 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。
 

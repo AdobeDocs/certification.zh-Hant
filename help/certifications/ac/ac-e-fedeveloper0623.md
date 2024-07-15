@@ -1,6 +1,6 @@
 ---
 title: 前端開發人員專家新認證
-description: 瞭解如何成為Adobe領域的認證Adobe Developer專家 [!DNL Commerce].
+description: 瞭解如何成為Adobe [!DNL Commerce]的認證Adobe Developer專家。
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 的認證歷程 [!DNL Adobe Commerce] 前端開發人員專家
+# [!DNL Adobe Commerce]前端開發人員專家的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/139) 提供量身打造的認證測試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/139)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 * [!DNL Adobe Commerce] - 2.4.6版
 * 對前端結構和版面配置的基本瞭解
-* 體驗和瞭解HTML、CSS （和前置處理器）、LESS、JavaScript和UI元件、jQuery、Underscore、Require.JS、Knockout、還有PHP範本、DB知識和內容管理
+* 體驗和瞭解HTML、CSS （和前置處理器）、LESS、JavaScript和UI元件、jQuery、Underscore、Require.JS、Knockout、PHP範本、DB知識和內容管理
 * 熟悉平台、CMS區塊、Widget、CMS頁面、類別頁面、產品頁面、購物車和結帳，以及帳戶儀表板區域
 * 對管理員設定的基本瞭解或知識
 * 具有擴充和覆寫樣式、配置和JS檔案的知識
@@ -77,7 +77,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1節：主題管理（主題階層、影像設定、翻譯） (16%)**
+**第1節：主題管理（主題階層、影像組態、翻譯） (16%)**
 
 * 說明Adobe Commerce主題資料夾結構以及它與資料夾型主題的相關性
 * 示範建立新主題的能力（繼承/遞補、設計例外、主題屬性）
@@ -95,7 +95,7 @@ ht-degree: 0%
 * 展示建立及自訂範本的能力
 * 套用範本安全性（逸出輸出）
 
-**第3節：樣式(18%)**
+**區段3：樣式(18%)**
 
 * 識別樣式 — m.less、樣式 — l.less、print.less的用途
 * 說明特定部分檔案(_extends.less、_extend.less、_theme.less、_widgets.less、_module.less，)之間的差異
@@ -106,7 +106,7 @@ ht-degree: 0%
 * 展示實作與自訂LESS程式庫元件的能力
 * 識別使用者端和伺服器端編譯之間的差異及其運作方式
 
-**第4節：JavaScript （影像widget、影像庫、客戶資料模組、去底版範本） (22%)**
+**區段4： JavaScript （影像介面工具集、影像庫、客戶資料模組、淘汰範本） (22%)**
 
 * 示範初始化和呼叫JavaScript元件的能力
 * 區分不同JavaScript元件的使用案例
@@ -125,7 +125,7 @@ ht-degree: 0%
 * 自訂異動電子郵件
 * 示範管理員開發工具的使用情況
 
-**第6節：工具（CLI與程式碼） (10%)**
+**第6節：工具（CLI和Grunt） (10%)**
 
 * 示範基本bin/Magento命令的使用方式
 * 說明撰寫器命令的使用方式（安裝、更新、需要、移除）
@@ -157,7 +157,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -224,6 +224,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

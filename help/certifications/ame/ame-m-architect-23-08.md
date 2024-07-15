@@ -1,6 +1,6 @@
 ---
 title: 架構師主要認證
-description: 瞭解如何在Adobe中成為認證Adobe架構師 [!DNL Marketo Engage].
+description: 瞭解如何在Adobe [!DNL Marketo Engage]中成為認證Adobe架構師。
 solution: Marketo Engage
 product: Marketo
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Marketo Engage] 架構師Master
+# Adobe[!DNL Marketo Engage]架構者主人的憑證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/248) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [測驗準備指南](https://app.rockinfo.com/courses/248)提供量身打造的測驗準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->此認證的先決條件為。 您必須要有使用中（未過期）的Adobe [!DNL Marketo Engage] 商務從業人員 **專家** 參加Adobe的認證 [!DNL Marketo Engage] 架構師主要考試。
+>此認證的先決條件為。 您必須擁有有效（未過期）的Adobe[!DNL Marketo Engage]商務從業人員&#x200B;**專家**&#x200B;認證，才能參加Adobe[!DNL Marketo Engage]架構師主要考試。
 
-* 先決條件：使用中（未過期）Adobe [!DNL Marketo Engage] 商務從業人員專家認證
+* 先決條件：使用中（未過期）Adobe[!DNL Marketo Engage]商務從業者專家認證
 * 等級：主版（3-5年經驗）
 * 從業者認證
 * 及格分數：32/50
@@ -89,14 +89,14 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1節：專案領導力(16%)**
+**區段1：專案領導力(16%)**
 
 * 透過案例研究，找出合適的利害關係人
 * 評估一組需求並建議專案範圍、預算、資源及範圍
 * 在修改流程後，決定哪些人需要啟用和有效率的啟用轉出計畫
 * 評估稽核並建議優先順序和時間表
 
-**第2節：Marketo Engage架構設計(48%)**
+**區段2：Marketo Engage架構設計(48%)**
 
 * 收集需求/需求，並推薦領導管理和生命週期設計
 * 檢閱現有的實作並提供結果
@@ -108,7 +108,7 @@ ht-degree: 0%
 * 在案例中，概述個人生命週期中受建議變更/需求影響的各個階段
 * 評估一組需求並建議行銷活動邏輯的方法
 
-**區段3：報表和歸因(20%)**
+**第3節：報告與歸因(20%)**
 
 * 提供要檢閱的模型，說明生命週期模型工具中繞線的概念
 * 提供線上廣告或自然社交或內容，建議報告方法
@@ -118,7 +118,7 @@ ht-degree: 0%
 * 識別並描述不同歸因模型的利弊
 * 根據業務需求，說明針對報告設定的管道影響
 
-**第4節：進階作業(16%)**
+**區段4：進階作業(16%)**
 
 * 在案例中，找出改善管理或治理的適當步驟
 * 根據一組需求，建議有效的資料結構
@@ -151,7 +151,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -193,7 +193,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->此認證的先決條件為。 您必須要有使用中（未過期）的Adobe [!DNL Marketo Engage] 商務從業人員 **專家** 認證以取得Adobe [!DNL Marketo Engage] 架構師主要考試。
+>此認證的先決條件為。 您必須有有效（未過期）的Adobe[!DNL Marketo Engage]商務從業人員&#x200B;**專家**&#x200B;認證，才能參加Adobe[!DNL Marketo Engage]架構師主要考試。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -222,6 +222,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。

@@ -1,6 +1,6 @@
 ---
 title: 開發人員專業認證
-description: 瞭解如何成為認證Adobe Developer專業人士，在 [!DNL Campaign Classic].
+description: 瞭解如何在 [!DNL Campaign Classic]中成為認證Adobe Developer專業人員。
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe的認證歷程 [!DNL Campaign Classic] 開發人員專業版
+# Adobe[!DNL Campaign Classic]開發人員專業人員的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->**可用的新研究資源：** 此 [考試準備指南](https://app.rockinfo.com/courses/250) 提供量身打造的認證考試準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>**可用的新學習資源：** [測驗準備指南](https://app.rockinfo.com/courses/250)提供量身打造的測驗準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -53,8 +53,8 @@ ht-degree: 0%
 
 您應該有：
 
-* Adobe至少一年 [!DNL Campaign Classic] 軟體體驗
-* 至少一年的JavaScript程式設計、包括ETL在內的SQL開發，以及Web技術(XML、HTML和Web服務)組合經驗
+* Adobe[!DNL Campaign Classic]軟體體驗至少一年
+* 在JavaScript程式設計、包括ETL在內的SQL開發以及網頁技術(XML、HTML和網頁服務)方面至少有一年的綜合經驗
 * 對行銷自動化的基本瞭解
 * 瞭解關聯式資料庫概念
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第1節：系統組態(25%)**
+**區段1：系統組態(25%)**
 
 * 示範「管理」節點中的設定之全系統組態
 * 套用程式以擴充OOTB收件者綱要
@@ -75,12 +75,12 @@ ht-degree: 0%
 * 識別開啟和關閉分項清單的組態設定
 * 區分型別規則型別
 * 識別利用自訂Target Map的需求及其對OOTB功能的影響
-* 說明如何在Adobe中存取其他Adobe Experience Cloud解決方案外部產生的對象 [!DNL Campaign Classic]
+* 說明如何在Adobe[!DNL Campaign Classic]中存取其他Adobe Experience Cloud解決方案外部產生的對象
 * 說明互動和優惠方案的業務使用案例
 * 描述訊息中心的業務使用案例
 * 識別V8 API資料匯入功能
 
-**第2節：自訂(16%)**
+**區段2：自訂(16%)**
 
 * 套用此程式以編輯行銷活動綱要
 * 識別設定以確保正確的結構描述延伸，或設定自訂結構描述
@@ -91,7 +91,7 @@ ht-degree: 0%
 * 識別使用內容管理的使用案例
 * 套用至程式以更新OOTB表單
 
-**第3節：營運安全性(10%)**
+**區段3：作業安全性(10%)**
 
 * 說明新增使用者群組和角色的程式
 * 套用程式以翻譯具有正確使用者許可權和階層的使用者管理矩陣
@@ -119,7 +119,7 @@ ht-degree: 0%
 * 識別不同服務記錄檔中的錯誤
 * 說明工作流程熱度圖讀數
 
-**區段6： Campaign設定(14%)**
+**區段6：行銷活動設定(14%)**
 
 * 套用程式，以使用行銷活動範本建立行銷活動
 * 說明建立核准的程式
@@ -152,7 +152,7 @@ ht-degree: 0%
 
 +++步驟2：使用這些免費的學習資料準備考試
 
-**研究材料**
+**學習資料**
 
 {{study-materials-intro}}
 
@@ -219,6 +219,6 @@ ht-degree: 0%
 
 ## 問題
 
-檢視認證 [常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [聯絡我們](mailto:certif@adobe.com){target="_blank"}.
+其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。
