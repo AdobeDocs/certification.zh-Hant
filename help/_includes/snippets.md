@@ -1,7 +1,7 @@
 ---
-source-git-commit: 0b468095d89029882f3b2492d52a4cf03731d4df
+source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
 workflow-type: tm+mt
-source-wordcount: '1842'
+source-wordcount: '1802'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 <!--divider-->
 
 ## 介紹 {#intro}
-
->[!WARNING]
->
->有些使用者報告在嘗試登入Adobe認證管理系統時發生錯誤，導致他們無法參加考試。 我們正在努力解決此問題。 我們將聯絡受影響的使用者，以取得進一步資訊。
 
 本頁提供如何取得此認證的資訊。 其中包括考試說明、學習資料、認證程式的逐步指示，以及如何更新您的認證。
 
