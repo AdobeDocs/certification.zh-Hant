@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="考試AD0-E409" type="neutral"
 mini-toc-levels: 1
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: 150bbde0e2f440fffa3d9f53fbba0a58a3652688
 workflow-type: tm+mt
 source-wordcount: '588'
 ht-degree: 0%
@@ -125,7 +125,7 @@ ht-degree: 0%
 **第6節：架構者、設計與實作[!DNL Adobe Target] (18%)**
 
 * 選取正確的Target請求實作（全域、訂單確認、混合）
-評估並設計[!DNL Adobe Target]實作
+* 評估並設計[!DNL Adobe Target]實作
 * 說明原生行動應用程式中[!DNL Adobe Target]的實作
 
 **第7節：疑難排解(28%)**
