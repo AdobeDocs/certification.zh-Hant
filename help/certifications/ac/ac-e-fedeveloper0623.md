@@ -7,9 +7,9 @@ role: Developer
 badge: label="考試AD0-E720" type="neutral"
 mini-toc-levels: 1
 exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: d0bf65a667035e122f9731c23d207dd35e68487f
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '725'
 ht-degree: 0%
 
 ---
@@ -132,14 +132,6 @@ ht-degree: 0%
 * 區別部署模式的適當使用案例
 * 定義群組設定及使用方式
 * 說明Cloud提供的其他工具（Fastly、下載資料庫、內容部署、使用UI分支）
-
-<br>
-
-### 整備問卷
-
-{{readiness}}
-
-[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
 
 <br>
 
