@@ -8,9 +8,9 @@ role: User
 badge: label="考試AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: b553b0d2e70535480d1c0826b6f24a0925830dc3
+source-git-commit: 5673c232251041578d0fbcdd87e5e5a1cbcafd1f
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '590'
 ht-degree: 0%
 
 ---
@@ -62,6 +62,7 @@ ht-degree: 0%
 * 正在準備產品組合，以擁有足夠資料進行最佳化
 * 建立/提取報表
 * ROAS競標策略
+* 混合競標和最佳化策略
 * 設定轉換追蹤
 * 設定目標
 * 針對目標管理投資組合
@@ -226,5 +227,5 @@ ht-degree: 0%
 
 檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。
+其他問題？ [連絡我們](mailto:certif@adobe.com)。
 
