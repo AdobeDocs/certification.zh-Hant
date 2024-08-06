@@ -7,7 +7,7 @@ role: Developer
 badge: label="考試AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
 hidefromtoc: true
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 4%
@@ -263,4 +263,4 @@ ht-degree: 4%
 
 檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。
+其他問題？ [連絡我們](mailto:certif@adobe.com)。

@@ -4,7 +4,7 @@ description: 瞭解如何獲得Adobe認證。 在取得認證之前、期間和�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: 8439a5bd025d0bd30b85bc32b1017c00829fe609
 workflow-type: tm+mt
 source-wordcount: '1496'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Adobe支援或檢查都無法處理重新排程和取消請求。 48小時以內
 
 **認證考試價格**
 
-| Adobe認證 | 價格(USD) | 印度價格(USD) |
+| Adobe 認證 | 價格(USD) | 印度價格(USD) |
 | ------- | ------- | ------- |
 | Adobe認證專家 | 125美元 | $95 |
 | Adobe Certified Expert | 225美元 | 150美元 |
@@ -225,4 +225,4 @@ _所有銷售都是最終銷售。不接受_&#x200B;退貨與退款。 Adobe考�
 
 檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。
+其他問題？ [連絡我們](mailto:certif@adobe.com)。

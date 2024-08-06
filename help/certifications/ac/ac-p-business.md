@@ -7,7 +7,7 @@ role: User
 badge: label="考試AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 此外，您應該對電子商務體驗有基本的瞭解，並熟悉下列概念：
 
-* 數位行銷（SEO、CMS、電子郵件行銷、銷售技巧[交叉銷售、追加銷售]、分析、報告和監視）
+* 數位行銷(SEO、CMS、電子郵件行銷、銷售技巧[交叉銷售、向上銷售]、分析、報告和監視)
 * 電子商務術語（銷售/行銷策略，例如全頻道和多頻道）
 * 定價與促銷活動
 * 客戶購買歷程
@@ -213,4 +213,4 @@ ht-degree: 0%
 
 檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。
+其他問題？ [連絡我們](mailto:certif@adobe.com)。

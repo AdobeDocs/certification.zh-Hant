@@ -9,7 +9,7 @@ badge: label="考試AD0-E600與AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
 hidefromtoc: true
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '1474'
 ht-degree: 0%
@@ -74,7 +74,7 @@ ht-degree: 0%
 >
 ><br>
 >
->**如果您已排程AD0-E600**，我們強烈建議您在考試入口網站取消約會（請參閱下面的步驟3），並在新考試發行時重新排程。 如有疑問，請連絡[認證支援](mailto:certif@adobe.com){target="_blank"}。
+>**如果您已排程AD0-E600**，我們強烈建議您在考試入口網站取消約會（請參閱下面的步驟3），並在新考試發行時重新排程。 如有疑問，請連絡[認證支援](mailto:certif@adobe.com)。
 
 AD0-E600測驗會驗證涵蓋基本功能的技能與知識，以及專家級Adobe[!DNL Experience Platform]經常執行的任務。
 
@@ -183,7 +183,7 @@ AD0-E600測驗會驗證涵蓋基本功能的技能與知識，以及專家級Ado
 >
 ><br>
 >
->**如果您已排程AD0-E600**，我們強烈建議您在考試入口網站取消約會，並在新考試發行時重新排程。 如有疑問，請連絡[認證支援](mailto:certif@adobe.com){target="_blank"}。
+>**如果您已排程AD0-E600**，我們強烈建議您在考試入口網站取消約會，並在新考試發行時重新排程。 如有疑問，請連絡[認證支援](mailto:certif@adobe.com)。
 
 {{schedule-and-pay}}
 
@@ -211,7 +211,7 @@ AD0-E600測驗會驗證涵蓋基本功能的技能與知識，以及專家級Ado
 >
 ><br>
 >
->**如果您已排程AD0-E600**，我們強烈建議您在考試入口網站取消約會，並在新考試發行時重新排程。 如有疑問，請連絡[認證支援](mailto:certif@adobe.com){target="_blank"}。
+>**如果您已排程AD0-E600**，我們強烈建議您在考試入口網站取消約會，並在新考試發行時重新排程。 如有疑問，請連絡[認證支援](mailto:certif@adobe.com)。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -244,7 +244,7 @@ AD0-E600測驗會驗證涵蓋基本功能的技能與知識，以及專家級Ado
 >
 ><br>
 >
->**如果您已經通過AD0-E600Adobe[!DNL Experience Platform]技術基礎測驗，並且正在準備AD7-E601測驗**，建議您保留您的約會，因為通過AD7-E601測驗將會授予Adobe[!DNL Real-Time Customer Data Platform]專家認證。 如有疑問，請連絡[認證支援](mailto:certif@adobe.com){target="_blank"}。
+>**如果您已經通過AD0-E600Adobe[!DNL Experience Platform]技術基礎測驗，並且正在準備AD7-E601測驗**，建議您保留您的約會，因為通過AD7-E601測驗將會授予Adobe[!DNL Real-Time Customer Data Platform]專家認證。 如有疑問，請連絡[認證支援](mailto:certif@adobe.com)。
 
 AD7-E601考試涵蓋建立、管理和瞭解客戶個人檔案、細分、跨來源的目的地和其他主題。 該測驗會驗證採用Real-time CDP進行受眾細分、目的地匯出和即時啟用以符合資料和隱私權法規的統一設定檔所需的基礎技能和知識。 應徵者應該具有客戶資料平台(CDP)經驗以及Adobe[!DNL Experience Platform]的知識。
 
@@ -431,4 +431,4 @@ AD7-E601考試涵蓋建立、管理和瞭解客戶個人檔案、細分、跨來
 
 檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。
+其他問題？ [連絡我們](mailto:certif@adobe.com)。

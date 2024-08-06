@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '2295'
 ht-degree: 0%
@@ -208,7 +208,7 @@ Adobe[!DNL Commerce] Developer Professional
 
 **區段4：配置/UI (18%)**
 
-* 說明CMS頁面和區塊的使用方式
+* 說明CMS頁面和區塊的使用情況
 * 指定情境，修改版面
 * 指定情境，修改頁面樣式
 * 說明主題結構
@@ -478,4 +478,4 @@ Adobe[!DNL Commerce]前端開發人員專業人員
 
 檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
-其他問題？ [連絡我們](mailto:certif@adobe.com){target="_blank"}。
+其他問題？ [連絡我們](mailto:certif@adobe.com)。
