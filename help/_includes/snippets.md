@@ -1,7 +1,7 @@
 ---
-source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
+source-git-commit: 77e59533d17d4bcf02805f69b89e9bfbf44110d2
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1835'
 ht-degree: 0%
 
 ---
@@ -190,6 +190,10 @@ Adobe使用Examity管理線上監考的考試。 在測驗入口網站中，您�
 >[!NOTE]
 >
 >您必須先登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，才能按一下下面的[考試]按鈕。
+
+>[!WARNING]
+>
+>Adobe Digital Experience Certification計畫正準備升級。 因此，考生目前無法安排在2024年9月26日之後舉行的測驗。 升級完成後，排程將恢復正常。
 
 <!--divider-->
 
