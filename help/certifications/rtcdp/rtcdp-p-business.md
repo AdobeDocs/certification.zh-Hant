@@ -8,7 +8,7 @@ recommendations: disable, exclude
 badge: label="考試AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: ef8afa56b9e78e616f7949f302526e258721518b
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
@@ -38,7 +38,7 @@ ht-degree: 0%
 ### 考試詳細資料 {#exam-details}
 
 * 等級：專業（0至12個月經驗）
-* 及格分數：28/50
+* 及格分數：33/50
 * 時間：100分鐘
 * 傳遞：線上監護（需要存取攝影機）
 * 可用語言：英文
