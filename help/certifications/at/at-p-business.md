@@ -7,9 +7,9 @@ role: User
 badge: label="考試AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 591a2c0a135e1a4acdf6e6fde6961b24044eae0f
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '627'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/235)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>現在提供免費的隨選資源，協助您準備考試：
+>
+>* **新課程：**&#x200B;如果您剛開始上課或需要複習者，請參加[Adobe Target基礎課程](https://app.rockinfo.com/courses/273)，以取得重要概念、產品逐步說明及知識檢查的說明。 本課程將為您提供認證歷程的知識基礎。
+>
+>* **備考指南：** [備考指南](https://app.rockinfo.com/courses/235)提供量身打造的認證備考流程，包括取得此認證所需的資料。
+>
+>_如果系統提示您登入，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -134,6 +140,12 @@ ht-degree: 0%
 **參加練習測試**
 
 {{practice-test}}
+
+**參加課程**
+
+{{take-course}}
+
+[Adobe Target基礎課程](https://app.rockinfo.com/courses/273)
 
 **考試準備指南**
 

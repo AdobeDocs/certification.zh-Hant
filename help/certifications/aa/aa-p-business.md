@@ -7,9 +7,9 @@ role: User
 badge: label="考試AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 591a2c0a135e1a4acdf6e6fde6961b24044eae0f
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**可用的新學習資源：** [考試準備指南](https://app.rockinfo.com/courses/145)提供量身打造的考試準備流程，包括成功取得此認證所需的資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
+>現在提供免費的隨選資源，協助您準備考試：
+>
+>* **課程：**&#x200B;若您剛開始上課或需要複習者，請參加[Adobe Analytics基礎課程](https://app.rockinfo.com/courses/263)，取得重要概念、產品逐步說明及知識檢查的說明。 本課程將為您提供認證歷程的知識基礎。
+>
+>* **備考指南：** [備考指南](https://app.rockinfo.com/courses/145)提供量身打造的備考程式，包括您考試成功所需的深入學習資料。
+>
+>_如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
 
 ## 考試說明 {#exam-description}
 
@@ -128,6 +134,12 @@ ht-degree: 0%
 **學習資料**
 
 {{study-materials-intro}}
+
+**參加課程**
+
+{{take-course}}
+
+[Adobe Analytics基礎課程](https://app.rockinfo.com/courses/263)
 
 **考試準備指南**
 
