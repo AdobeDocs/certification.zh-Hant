@@ -7,9 +7,9 @@ role: User
 badge: label="考試AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 1c42b43504436e797f4d3a68c4438ed0d956fc14
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '738'
 ht-degree: 0%
 
 ---
@@ -157,10 +157,6 @@ ht-degree: 0%
 **學習資料**
 
 {{study-materials-intro}}
-
-**參加練習測試**
-
-{{practice-test}}
 
 **考試準備指南**
 
