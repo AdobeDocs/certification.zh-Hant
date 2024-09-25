@@ -1,7 +1,7 @@
 ---
-source-git-commit: e98d6f96841c0efbe07c33625ac728069393a99e
+source-git-commit: b343d44734e84224e6e266235573a3c29a273721
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1836'
 ht-degree: 0%
 
 ---
@@ -123,13 +123,13 @@ Adobe使用名為Examity的廠商來管理排程的監考考試。 所有新的�
 
 **購買憑單**
 
-您可以使用憑單支付考試費用。 若要購買考試憑單，請前往[Adobe認證憑單中心](https://market.xvoucher.com/adobe/global){target="_blank"}。
+您可以使用憑單支付考試費用。 若要購買考試憑單，請前往[Adobe認證憑單中心](https://certification.adobe.com/certifications/vouchers){target="_blank"}。
 
 您可在排程考試時套用憑單代碼。 如需憑單折扣資訊，請參閱下文。
 
 所有考生透過Adobe認證憑單中心購買時，可獲得10項或更多考試的批次購買折扣。
 
-如需憑單的詳細資訊，請參閱[常見問題集](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}。
+如需憑單的詳細資訊，請參閱[常見問題集](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}。
 
 **折扣**
 
@@ -143,7 +143,7 @@ Adobe使用名為Examity的廠商來管理排程的監考考試。 所有新的�
 
 合作夥伴折扣：銅級以上的合作夥伴可獲得所有Adobe認證考試和課程折扣。 您可以在解決方案合作夥伴入口網站上閱讀更多有關這些折扣，以及如何存取合作夥伴權益的資訊。
 
-憑券折扣：所有考生透過Adobe認證憑券中心購買時，可獲得10次或更多次考試的批次購買折扣。
+憑券折扣：所有考生透過[Adobe認證憑券中心](https://certification.adobe.com/certifications/vouchers){target="_blank"}購買時，可獲得10項或更多項考試的批次購買折扣。
 
 備註：大量折扣無法與任何其他優惠或折扣結合。
 
@@ -183,7 +183,7 @@ Adobe使用Examity管理線上監考的考試。 在測驗入口網站中，您�
 
 * **排程、重新排程或取消您的考試。**&#x200B;請注意，取消和重新排程必須在排定的考試約會之前48小時開始。 應徵者必須自行修改此約會。
 
-* **為您的考試付費。**&#x200B;在考試入口網站以憑單或信用卡支付您的認證考試費用。 若要購買考試憑單，請移至： [Adobe認證憑單系統](https://market.xvoucher.com/adobe/global){target="_blank"}。 您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
+* **為您的考試付費。**&#x200B;在考試入口網站以憑單或信用卡支付您的認證考試費用。 若要購買考試憑單，請移至： [Adobe認證憑單中心](https://certification.adobe.com/certifications/vouchers){target="_blank"}。 您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
 
 * **參加考試。**
 
