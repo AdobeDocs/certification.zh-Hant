@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -13,6 +13,8 @@ ht-degree: 0%
 ---
 
 # 更新您的認證 {#renew}
+
+{{renewals-hold}}
 
 若要維護Adobe認證，您必須每兩年更新一次。 如果您在認證到期之前沒有續約，則需要再次參加完整的認證測驗，才能重新認證。
 

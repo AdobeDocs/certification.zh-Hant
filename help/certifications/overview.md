@@ -4,10 +4,10 @@ description: 在Adobe瞭解 [!DNL Experience Cloud] 認證。 了解獲得認證
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
-source-wordcount: '437'
-ht-degree: 6%
+source-wordcount: '552'
+ht-degree: 5%
 
 ---
 
@@ -16,6 +16,16 @@ ht-degree: 6%
 瞭解Adobe的Experience Cloud認證，以及取得認證可為您做哪些事。
 
 ![橫幅](/help/certifications/assets/home_banner_smallwide.png)
+
+>[!NOTE]
+>Adobe數位體驗認證計畫更新
+>
+>**Adobe數位體驗認證計畫正在移動！**&#x200B;新的Adobe認證入口網站將於2024年10月22日啟動。 請記下這些&#x200B;**重要日期：**
+>
+>* **2024年10月14日：**&#x200B;將資料移轉至新入口網站時，無法排程考試、練習測驗，也無法存取Adobe認證管理系統
+>* **2024年10月22日：** Adobe認證入口網站啟動！ 新的入口網站會提供您的認證記錄，以及所有考試資訊、學習資源和排程功能。 您的帳戶也將提供截止日期為2021年1月1日的練習測試分數和輔導報告。
+>
+>請於10月22日返回這裡檢視有關登入新Adobe認證入口網站的詳細資訊！
 
 Adobe數位體驗認證計畫的建立是為了協助您證明Adobe[!DNL Experience Cloud]產品的技能。 獲得Adobe認證可讓您展現自己的專業知識，給客戶和僱主留下深刻印象。
 
