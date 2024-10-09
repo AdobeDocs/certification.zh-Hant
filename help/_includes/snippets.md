@@ -1,7 +1,7 @@
 ---
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: a6939c76c6440e9de928688b256fd3410046b174
 workflow-type: tm+mt
-source-wordcount: '1989'
+source-wordcount: '1983'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,6 @@ ht-degree: 0%
 本頁提供如何取得此認證的資訊。 其中包括考試說明、學習資料、認證程式的逐步指示，以及如何更新您的認證。
 
 >[!NOTE]
->Adobe數位體驗認證計畫更新
 >
 >**Adobe數位體驗認證計畫正在移動！**&#x200B;新的Adobe認證入口網站將於2024年10月22日啟動。 請記下這些&#x200B;**重要日期：**
 >
