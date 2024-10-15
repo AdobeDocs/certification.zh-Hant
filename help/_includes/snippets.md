@@ -1,7 +1,7 @@
 ---
-source-git-commit: a6939c76c6440e9de928688b256fd3410046b174
+source-git-commit: db72e72c2b642102d1ecb991df04138e6bd7f630
 workflow-type: tm+mt
-source-wordcount: '1983'
+source-wordcount: '1970'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 介紹 {#intro}
 
-本頁提供如何取得此認證的資訊。 其中包括考試說明、學習資料、認證程式的逐步指示，以及如何更新您的認證。
+本頁先前提供如何取得此認證的資訊。 如需更新資訊，請參閱附註。
 
 >[!NOTE]
 >
