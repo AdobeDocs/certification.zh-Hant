@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: 839b73b72e72e4460d78028047abc8bf6ada0675
+source-git-commit: ecdd9647a660eb3662f925408a4fd27fb9a3c2d9
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -38,11 +38,11 @@ Adobe提供各種資源與工具，協助您更新認證，包括：
 
 大部分的認證都可以免費續約&#x200B;****。 有些認證尚未提供免費續約選項。 若要更新這些認證，您需要重新參加完整的認證考試。
 
-## 免費續約選項
-
-您可透過持續學習或參加隨選續約考試，免費續約下列連結下的認證。 如果您在這裡找不到您的認證，您將需要重新參加完整的認證測驗。
-
 <!-- 
+
+## Free renewal options
+
+The certifications found under the links below can be renewed for free, either through continuous learning or by taking an on-demand renewal exam. If you do not find your certification here, you will need to renew by retaking the full certification exam.
 
 >[!NOTE]
 >
