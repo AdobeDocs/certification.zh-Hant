@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: d7b3688b-2ed8-4855-951b-80ac1be932eb
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '16'
 ht-degree: 0%
 
 ---
@@ -18,34 +18,40 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-您的Adobe認證有效期為兩年。 如果您快要迎來兩年的成績，是時候更新您的認證以保持其作用中了。
+<!--
 
-首先，在下方標籤上選取適當的層級（專業、專家或主版）。 接著，請仔細檢閱更新認證所需的動作。
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
-在認證過期之前，請務必提供足夠的時間完成所有需求。
-
-請務必注意，如果認證過期，您必須重新參加認證考試，此考試並非免費。
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**請先登入：**&#x200B;下列連結在&#x200B;**成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}後**&#x200B;只能運作&#x200B;**。**
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**若要共用連結：**&#x200B;如果您想要與同事共用更新考試或評量的連結，請連結至整體考試更新頁面，而非考試本身的URL，以避免登入問題。
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
->[!TAB 專業]
+>[!TAB Professional]
 
 >[!NOTE]
 >
->2025年專業續約。
+>Professional renewal in 2025.
 
 >[!ENDTABS]
 
-## 問題
+## Questions
 
-檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-其他問題？ [連絡我們](mailto:certif@adobe.com)。
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

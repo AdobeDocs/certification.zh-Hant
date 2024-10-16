@@ -6,9 +6,9 @@ product: Experience Platform
 role: User,Developer,Data Architect
 badge: label="Adobe Journey Optimizer續約" type="neutral"
 hidefromtoc: true
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '20'
 ht-degree: 0%
 
 ---
@@ -17,23 +17,29 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-通過認證測驗後，您的認證有效期為兩年。
+<!--
 
-我們很高興宣佈，您現在可以透過新的免費形式更新您的認證。 其中涉及使用隨選Experience League課程與教學課程 — 只需完成三項活動，即可免費續約您的認證。 認證到期前，您必須續約，否則您必須參加完整測驗，才能再次獲得認證。
+When you pass a certification exam, your certification is valid for two years.
+
+We're happy to announce that you are now able to renew your certification via a new, no-cost format. It involves using on-demand Experience League courses and tutorials—simply complete three activities to renew your certification at no cost. You must renew before your certification expires, or you will need to take the full exam to become certified again. 
 
 >[!IMPORTANT]
 >
->**請先登入：**&#x200B;下列連結在&#x200B;**成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}後**&#x200B;只能運作&#x200B;**。**
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**若要共用連結：**&#x200B;如果您想要與同事共用更新考試或評量的連結，請連結至整體考試更新頁面，而非考試本身的URL，以避免登入問題。
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!NOTE]
->專家更新即將推出。
+>Expert renewal coming soon.
 
-## 問題
+## Questions
 
-檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-其他問題？ [連絡我們](mailto:certif@adobe.com)。
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

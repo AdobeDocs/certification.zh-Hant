@@ -1,7 +1,7 @@
 ---
-source-git-commit: db72e72c2b642102d1ecb991df04138e6bd7f630
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '1970'
+source-wordcount: '2012'
 ht-degree: 0%
 
 ---
@@ -252,6 +252,16 @@ Adobe使用Examity管理線上監考的考試。 在測驗入口網站中，您�
 
 ## 保留續約 {#renewals-hold}
 
->[!WARNING]
+>[!NOTE]
 >
->Adobe Digital Experience Certification計畫即將進行變更。 如果您正在更新認證，請注意&#x200B;**2024年10月13日是完成更新的最後日期。**
+>Adobe數位體驗認證計畫簡化了認證續約流程，讓您的體驗更加方便。 正在實作這個新處理序時，**續約已暫時擱置。**
+>
+>* 若您的認證將於2024年10月14日至2025年9月30日之間屆滿，您的認證將延長至2025年10月1日。
+>
+>* 有關更新更新更新流程的詳細資訊將於3月初分享，確保所有認證持有人將有足夠的時間更新其認證。
+
+<!--divider-->
+
+## 問題 {#questions}
+
+**問題？** [連絡我們](mailto:certif@adobe.com)

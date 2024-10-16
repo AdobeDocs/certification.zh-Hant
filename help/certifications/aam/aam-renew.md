@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '1729'
+source-wordcount: '15'
 ht-degree: 0%
 
 ---
@@ -18,317 +18,323 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-您的Adobe認證有效期為兩年。 如果您快要迎來兩年的成績，是時候更新您的認證以保持其作用中了。
+<!--
 
-首先，在下方標籤上選取適當的層級（專業、專家或主版）。 接著，請仔細檢閱更新認證所需的動作。
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
-在認證過期之前，請務必提供足夠的時間完成所有需求。
-
-請務必注意，如果認證過期，您必須重新參加認證考試，此考試並非免費。
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**請先登入：**&#x200B;下列連結在&#x200B;**成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}後**&#x200B;只能運作&#x200B;**。**
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**若要共用連結：**&#x200B;如果您想要與同事共用更新考試或評量的連結，請連結至整體考試更新頁面，而非考試本身的URL，以避免登入問題。
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
->[!TAB 專業]
+>[!TAB Professional]
 
-## 續約認證的說明：
+## Instructions for renewing your certification:
 
-* **步驟1**：已成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
-* **步驟2**：檢閱考試目標與資源
-* **步驟3**：參加並通過測驗
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### Adobe[!DNL Audience Manager]商務從業人員專業更新測驗
+### Adobe [!DNL Audience Manager] Business Practitioner Professional Renewal Exam
 
-您目前的認證（未過期）應該位於：
+You should be currently certified (not expired) in:
 
-* Adobe[!DNL Audience Manager]專業商務從業人員
+* Adobe [!DNL Audience Manager] Business Practitioner Professional
 
-### 準備就緒
+### Get ready
 
-**考試詳細資料：**
+**Exam details:**
+  
+* Level: Professional (0-12 months' experience)
+* Passing Score: 27/35
+* Time: 70 minutes
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E852 Adobe [!DNL Audience Manager] Business Practitioner Professional Renewal Exam
 
-* 等級：專業（0至12個月經驗）
-* 及格分數：27/35
-* 時間：70分鐘
-* 交貨：隨選/非監督
-* 可用語言：英文
-* 費用：免費
-* 測驗識別碼： AD5-E852Adobe[!DNL Audience Manager]商務從業者專業更新測驗
+### Exam Objectives and Scope
 
-### 考試目標與範圍
+**Section 1: Segment Creation and Syndication (32%)**
 
-**區段1：區段建立與整合(32%)**
+* Identify ways to utilize first-, second-, and third-party data for targeting and analytical purposes
+* Describe the basic process for the activation of business or campaign goals
+* Differentiate the methods for segment activation
+* Identify the different types of destinations
+* Identify the different types of sources
 
-* 找出將第一方、第二方和第三方資料用於目標定位和分析目的的方法
-* 說明啟動業務或行銷活動目標的基本程式
-* 區分割槽段啟用方法
-* 識別不同型別的目的地
-* 識別不同型別的來源
+**Section 2: Trait Creation (16%)**
 
-**區段2：特徵建立(16%)**
+* Given a scenario, identify signals, traits, segments, and audiences
+* Identify the uses of different types of traits
 
-* 在情境中，識別訊號、特徵、區段和對象
-* 識別不同型別特徵的使用
+**Section 3: Reporting and Measurements (16%)**
 
-**第3節：報告與測量(16%)**
+* Given a scenario, generate reports to measure activation or campaign goals
+* Given a scenario, compare audiences on the basis of match rates
 
-* 在案例中，產生報表以測量啟用或行銷活動目標
-* 在案例中，根據符合率來比較對象
+**Section 4: Troubleshooting (10%)**
 
-**第4節：疑難排解(10%)**
+* Given a scenario, troubleshoot inbound data from different sources and source types
+* Validate format for inbound data files
 
-* 在特定的情況下，疑難排解來自不同來源和來源型別的傳入資料
-* 驗證傳入資料檔案的格式
+**Section 5: Taxonomy (12%)**
 
-**區段5：分類(12%)**
+* Identify best practices for organized folder structure using clear and consistent nomenclature
+* Classify traits and segments into folders using consistent and clear nomenclature
 
-* 使用清楚且一致的命名法，識別整理資料夾結構的最佳實務
-* 使用一致且清楚的命名法，將特徵和區段分類至資料夾
+**Section 6: Profile Merge, ID Sync, and Audience Marketplace (14%)**
 
-**第6節：設定檔合併、識別碼同步和Audience Marketplace(14%)**
+* Organize user traits into a single unified profile to create household- or device-based audiences
+* Identify activation using Audience Marketplace
 
-* 將使用者特徵組織到單一統一設定檔中，以建立以家庭或裝置為基礎的受眾
-* 使用Audience Marketplace識別啟動
+### Get prepped
 
-### 準備
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+Here are some suggested resources to help you prepare:
 
-以下是一些可幫助您準備的建議資源：
+**Section 1**
 
-**區段1**
+* [Types of Data Collected](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-types-collected.html?lang=en){target="_blank"}
+* [Data Security in Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-security.html){target="_blank"}
+* [Data Privacy Requests](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-requests.html){target="_blank"}
+* [Audience Manager Overview](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=en){target="_blank"}
+* [Customer Data Feed FAQ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/faqs/faq-cdf.html){target="_blank"}
+* [Destination Builder](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-reference/destination-builder.html){target="_blank"}
+* [Destination Macros Defined](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-reference/destination-macros.html){target="_blank"}
+* [Activate audiences to batch profile export destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html?lang=en){target="_blank"}
+* [Add New Device-Based Destinations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/add-device-based-destinations.html?lang=en){target="_blank"}
+ 
+**Section 2**
 
-* [收集的資料型別](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-types-collected.html?lang=en){target="_blank"}
-* [Audience Manager中的資料安全性](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-security.html){target="_blank"}
-* [資料隱私權請求](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-requests.html){target="_blank"}
-* [Audience Manager概述](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=zh-Hant){target="_blank"}
-* [客戶資料摘要常見問題集](https://experienceleague.adobe.com/docs/audience-manager/user-guide/faqs/faq-cdf.html){target="_blank"}
-* [目的地產生器](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-reference/destination-builder.html){target="_blank"}
-* [定義的巨集目的地](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-reference/destination-macros.html){target="_blank"}
-* [啟用對象以批次設定檔匯出目的地](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html?lang=en){target="_blank"}
-* [新增以裝置為基礎的目的地](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/add-device-based-destinations.html?lang=en){target="_blank"}
+* [Understand segments in Analytics and Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/audience-analytics-workflow/aam-analytics-segments.html?lang=en){target="_blank"}
+* [Understanding Signals](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-understanding-signals.html?lang=en){target="_blank"}
+* [Prefix Requirements for Key Variables](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-variable-prefixes.html?lang=en){target="_blank"}
+* [Trait Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=en){target="_blank"}
+* [Create Algorithmic Traits](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-algorithmic-traits.html?lang=en){target="_blank"}
 
-**區段2**
+**Section 3**
 
-* [瞭解Analytics和Audience Manager中的區段](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/audience-analytics-workflow/aam-analytics-segments.html?lang=zh-Hant){target="_blank"}
-* [瞭解訊號](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-understanding-signals.html?lang=en){target="_blank"}
-* [索引鍵變數的前置詞需求](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-variable-prefixes.html?lang=en){target="_blank"}
-* [特徵Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=en){target="_blank"}
-* [建立演演算法特徵](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-algorithmic-traits.html?lang=en){target="_blank"}
+* [Conversions reports](https://experienceleague.adobe.com/docs/analytics/technotes/ga-to-aa/reports/conversions-reports.html?lang=en){target="_blank"}
+* [Unique User Reach](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-unique-reach.html?lang=en){target="_blank"}
+* [Ad Unit Overlap](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-ad-unit-overlap.html?lang=en){target="_blank"}
+* [Understand Match Rates](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html?lang=en){target="_blank"}
+* [Causes of Low Match Rates for Addressable Audiences](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=en#low-match-rates){target="_blank"}
+* [Understanding ID synchronization and match rates](https://experienceleague.adobe.com/docs/id-service/using/intro/match-rates.html?lang=en){target="_blank"}
 
-**區段3**
+**Section 4**
 
-* [轉換報表](https://experienceleague.adobe.com/docs/analytics/technotes/ga-to-aa/reports/conversions-reports.html?lang=en){target="_blank"}
-* [不重複使用者觸及](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-unique-reach.html?lang=en){target="_blank"}
-* [廣告單位重疊](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-ad-unit-overlap.html?lang=en){target="_blank"}
-* [瞭解匹配率](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html?lang=en){target="_blank"}
-* [可定址對象低符合率的成因](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=en#low-match-rates){target="_blank"}
-* [瞭解ID同步和匹配率](https://experienceleague.adobe.com/docs/id-service/using/intro/match-rates.html?lang=en){target="_blank"}
+* [Onboarding Status Report: About](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#onboarding-status-about){target="_blank"}
+* [Data Sources List and Settings](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html?lang=en){target="_blank"}
+* [Inbound Data File Contents: Syntax, Invalid Characters, Variables, and Examples](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=en){target="_blank"}
 
-**區段4**
+**Section 5**
 
-* [上線狀態報告：關於](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#onboarding-status-about){target="_blank"}
-* [資料來源清單與設定](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html?lang=en){target="_blank"}
-* [傳入資料檔案內容：語法、無效字元、變數和範例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=en){target="_blank"}
+* [Audience Manager Use Cases](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/intro-to-audience-manager/audience-manager-use-cases.html?lang=en){target="_blank"}
+* [Create a trait taxonomy](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=en){target="_blank"}
+* [Classifying Traits with a Common Taxonomy](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html?lang=en){target="_blank"}
+* [Create a segment taxonomy](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-segment-taxonomy.html?lang=en){target="_blank"}
 
-**區段5**
+**Section 6**
 
-* [Audience Manager使用案例](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/intro-to-audience-manager/audience-manager-use-cases.html?lang=en){target="_blank"}
-* [建立特徵分類](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=en){target="_blank"}
-* [使用通用分類法將特徵分類](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html?lang=en){target="_blank"}
-* [建立區段分類法](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-segment-taxonomy.html?lang=en){target="_blank"}
-
-**區段6**
-
-* [設定檔合併規則的一般使用案例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html?lang=en){target="_blank"}
-* [設定檔合併規則總覽](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=en)
-* [開始使用設定檔合併規則](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-start.html?lang=en){target="_blank"}
-* [建立、定價和管理資料摘要](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-providers/marketplace-create-manage-feeds.html?lang=en){target="_blank"}
+* [General Use Cases for Profile Merge Rules](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html?lang=en){target="_blank"}
+* [Profile Merge Rules Overview](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=en)
+* [Getting Started with Profile Merge Rules](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-start.html?lang=en){target="_blank"}
+* [Create, Price, and Manage Data Feeds](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-providers/marketplace-create-manage-feeds.html?lang=en){target="_blank"}
 * [Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace.html?lang=en){target="_blank"}
 
-### 更新您的認證
+### Renew your certification
 
-請確定您已依照上述步驟1操作，並先成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}。 然後，若要更新您的認證，請按一下下列連結。
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the link below.
 
-[!BADGE 參加Adobe[!DNL Audience Manager]商務從業人員專業更新考試 — AD5-E852]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E852 newtab=true"}
+[!BADGE Take the Adobe [!DNL Audience Manager] Business Practitioner Professional Renewal Exam - AD5-E852]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E852 newtab=true"}
 
 >[!NOTE]
 >
->這項考試是免費的、公開的，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候&#x200B;**30天**&#x200B;再試一次。 若未遵守，可能會導致您的認證被撤銷。
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
->[!TAB 專家]
+>[!TAB Expert]
 
-## 續約認證的說明：
+## Instructions for renewing your certification:
 
-* **步驟1**：已成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
-* **步驟2**：檢閱考試目標與資源
-* **步驟3**：參加並通過測驗
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### 您目前的認證（未過期）應該位於：
+### You should be currently certified (not expired) in:
 
-* Adobe Audience Manager商業從業者專家
+* Adobe Audience Manager Business Practitioner Expert
 
-### 準備就緒
+### Get ready
 
-**考試詳細資料：**
+**Exam details:**
+  
+* Level: Expert (1-3 years' experience)
+* Passing Score: 23/30
+* Time: 68 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E826 - Adobe Audience Manager Business Practitioner Expert Renewal Exam
 
-* 等級：專家（1-3年經驗）
-* 及格分數：23/30
-* 時間：68分鐘
-* 交貨：隨選/非監督
-* 可用語言：英文
-* 費用：免費
-* 測驗ID：AD5-E826 - Adobe Audience Manager商務從業者專家更新測驗
+### Exam Objectives and Scope
 
-### 考試目標與範圍
+**Section 1: Segment Creation and Syndication (25%)**
 
-**區段1：區段建立與整合(25%)**
+* Determine the appropriate method to create segments utilizing 1p/2p/3p data for targeting and analytical purposes
+* Given a scenario, recommend segments for activation that align to business or campaign goals
+* Determine the appropriate method to syndicate segments to destinations for activation
 
-* 確定適當的方法，利用1p/2p/3p資料建立區段以用於目標定位和分析目的
-* 在案例中，建議符合業務或行銷活動目標的啟用區段
-* 決定合適的方法，將區段聯合發佈至目的地以供啟用
+**Section 2: Trait Creation (17%)**
 
-**區段2：特徵建立(17%)**
+* Recommend traits for a given audience strategy
+* Determine the correct method to create and update rule-based and/or onboarded traits
 
-* 為指定的受眾策略建議特徵
-* 決定建立和更新規則型及/或已上線特徵的正確方法
+**Section 3: Reporting and Measurements (21%)**
 
-**第3節：報告與測量(21%)**
+* Given a scenario, analyze reports to provide actionable next steps to meet business goals
+* Given a scenario, analyze audience optimization
 
-* 在案例中，分析報表以提供可操作的後續步驟來達成業務目標
-* 在情景中，分析受眾最佳化
+**Section 4: Troubleshooting and Administration (26%)**
 
-**第4節：疑難排解與管理(26%)**
+* Given a scenario, verify audience delivery information to ensure scheduled delivery needs
+* Determine the appropriate practice to validate offline inbound files
+* Given a scenario, determine the correct method to perform QA against the ID sync
+* Determine the appropriate method to navigate and activate from the Adobe Audience Marketplace
 
-* 在案例中，驗證對象傳送資訊，以確保排程的傳送需求
-* 決定驗證離線傳入檔案的適當實務
-* 在案例中，請判斷對ID同步執行QA的正確方法
-* 決定從AdobeAudience Marketplace導覽及啟動的適當方法
+**Section 5: Taxonomy (11%)**
 
-**區段5：分類(11%)**
+* Determine the appropriate structure to create traits and segments that utilize a clear and consistent nomenclature
+* Determine the correct technique to maintain an organized platform using a clear folder structure
+* Differentiate between the different types of destinations
 
-* 決定適當的結構，以建立使用清晰且一致命名法的特性和區段
-* 決定使用明確的資料夾結構來維持有組織的平台的正確技巧
-* 區分不同型別的目的地
+### Get prepped
 
-### 準備
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+Here are some suggested resources to help you prepare:
 
-以下是一些可幫助您準備的建議資源：
+[!BADGE Sample questions]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
 
-[!BADGE 範例問題]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
+### Resources:
 
-### 資源：
-
-* [Adobe [!DNL Audience Manager] 產品檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [Adobe支援 — Experience Cloud對象](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
-* [Adobe Experience Cloud學習與支援](https://helpx.adobe.com/support/experience-cloud.html){target="_blank"}
+* [Adobe [!DNL Audience Manager] Product Documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [Adobe Support - Experience Cloud Audiences](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
+* [Adobe Experience Cloud Learn and Support](https://helpx.adobe.com/support/experience-cloud.html){target="_blank"}
 * [Experience League [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}
 
-**重新啟動您的認證**
+**Restart your certification**
 
-請確定您已依照上述步驟1操作，並先成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}。 然後，若要更新您的認證，請按一下下面的Adobe Audience Manager商務從業者專家 — AD5-E826連結。
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe Audience Manager Business Practitioner Expert - AD5-E826 link below.
 
-[!BADGE 參加Adobe Audience Manager商務從業者專家更新考試AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
-
->[!NOTE]
->
->這項考試是免費的、公開的，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候&#x200B;**30天**&#x200B;再試一次。 若未遵守，可能會導致您的認證被撤銷。
-
-
->[!TAB 主版]
-
-## 更新認證的說明
-
-* **步驟1** — 檢閱考試目標
-* **步驟2** — 檢閱資源
-* **步驟3** — 參加並通過測驗
-
-### 您目前的認證（未過期）應該位於：
-
-* Adobe Audience Manager Architect主機
-
-### 準備就緒
-
-**考試詳細資料：**
-
-* 等級：主版（3-5年經驗）
-* 及格分數：22/29
-* 時間：58分鐘
-* 交貨：隨選/非監督
-* 可用語言：英文
-* 費用：免費
-* 考試ID：AD5-E825 - Adobe Audience Manager Architect主要更新考試
-
-## 考試目標與範圍：
-
-**區段1：實作分析(28%)**
-
-* 決定如何指南AAM並支援其實作為獨立產品或雲端解決方案的一部分
-* 分析傳出目的地選項並推薦AAM實作方法
-* 決定業務使用案例的資料上線策略
-* 識別訪客資料檢視器、標籤、RBAC等功能，以符合業務目標
-* 決定如何設計和測試建立區段和特徵所需的畫素
-
-**第2節：解決方案設計和Recommendations (17%)**
-
-* 根據客戶使用案例來判斷受眾和啟用的AAM功能
-* 套用程式性概念，以運用對象身分解決方案來補充設計架構
-* 識別屬性和行為資料，並將其對應至特定業務使用案例
-* 套用程式概念以設計資料夾分類法和命名慣例
-
-**區段3：細分和啟動(31%)**
-
-* 套用程式概念以在[!DNL Audience Manager]中建立目的地
-* 識別訊號以建立規則型、已上線和演演算法特徵
-* 套用程式概念以使用頻率/造訪間隔建立區段
-* 決定如何使用設定檔合併規則建立區段
-* 套用程式性概念以建立演演算法或預測性模型
-* 根據使用案例決定分段邏輯
-
-**第4節：隱私權與資料控管(7%)**
-
-* 建議[!DNL Audience Manager]功能，因為它與治理、隱私和安全性相關
-* 識別符合政府法規的客戶資料政策
-
-**第5節：效能與報告(17%)**
-
-* 決定如何在AAM中設定報表，以根據業務需求收集訊號、特徵和區段效能
-
-### 準備
-
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
-
-以下是一些可幫助您準備的建議資源：
-
-* [AAM：技術基礎](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
-* [AAM：整合系列](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
-* [AAM：進階功能](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
-* [啟動訓練與資源](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
-
-### 更新您的認證
-
-請確定您已依照上述步驟1操作，並先成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}。 然後，若要更新您的認證，請按一下下面的Adobe Audience Manager Architect主要更新 — AD5-E825連結。
-
-[!BADGE 參加Adobe Audience Manager Architect主要更新考試AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+[!BADGE Take the Adobe Audience Manager Business Practitioner Expert renewal exam AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E826 newtab=true"} 
 
 >[!NOTE]
 >
->這項考試是免費的、公開的，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候&#x200B;**30天**&#x200B;再試一次。 若未遵守，可能會導致您的認證被撤銷。
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+
+
+>[!TAB Master]
+
+## Instructions for renewing your certification
+
+* **Step 1** - Review the exam objectives
+* **Step 2** - Review the resources
+* **Step 3** - Take and pass the exam
+
+### You should be currently certified (not expired) in:
+
+* Adobe Audience Manager Architect master
+
+### Get ready
+
+**Exam details:**
+  
+* Level: Master (3-5 years' experience)
+* Passing Score: 22/29
+* Time: 58 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E825 - Adobe Audience Manager Architect Master Renewal Exam
+
+## Exam Objectives and Scope:
+
+**Section 1: Implementation Analysis (28%)**
+
+* Determine how to guide and support implementation of AAM as a stand-alone product or as part of a cloud solution
+* Analyze outbound destination options and recommend an AAM implementation approach
+* Determine a data onboarding strategy for a business use case
+* Identify features such as visitor profile viewer, tags, RBAC, and so on, to align with business goals
+* Determine how to design and test pixels required to create segments and traits
+
+**Section 2: Solution Design and Recommendations (17%)**
+
+* Determine AAM capabilities based on customer use case for audience and activation
+* Apply procedural concepts to utilize audience identity solutions to compliment design architecture
+* Identify attribute and behavioral data and map it to specific business use cases
+* Apply procedural concepts to design folder taxonomy and naming convention
+
+**Section 3: Segmentation and Activation (31%)**
+
+* Apply procedural concepts to create destinations in [!DNL Audience Manager]
+* Identify signals to create Rule-Based, Onboarded, and Algorithmic Traits
+* Apply procedural concepts to create segments using frequency/recency
+* Determine how to create segments using profile merge rules
+* Apply procedural concepts to create an algorithmic or predictive model
+* Determine segmentation logic based on use cases
+
+**Section 4: Privacy and Data Governance (7%)**
+
+* Recommend [!DNL Audience Manager] capabilities as it relates to governance, privacy, and security
+* Identify customer data policies that are in line with government regulations
+
+**Section 5: Performance and Reporting (17%)**
+
+* Determine how to configure reports in AAM to gather signal, traits, and segment performance per business requirements
+
+### Get prepped
+
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+Here are some suggested resources to help you prepare:
+
+* [AAM: Technical Foundations](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
+* [AAM: Integration Series](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
+* [AAM: Advanced Features](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
+* [ Launch Training & Resources](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
+
+### Renew your certification
+
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe Audience Manager Architect Master renewal - AD5-E825 link below.
+
+[!BADGE Take the Adobe Audience Manager Architect Master renewal exam AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E825 newtab=true"}
+
+>[!NOTE]
+>
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 
 >[!ENDTABS]
 
-### 問題
+### Questions
 
-檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-其他問題？ [連絡我們](mailto:certif@adobe.com)。
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

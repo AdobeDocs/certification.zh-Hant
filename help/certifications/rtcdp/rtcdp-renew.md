@@ -7,10 +7,10 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '692'
-ht-degree: 1%
+source-wordcount: '13'
+ht-degree: 0%
 
 ---
 
@@ -18,142 +18,148 @@ ht-degree: 1%
 
 {{renewals-hold}}
 
-您的Adobe認證有效期為兩年。 如果您快要迎來兩年的成績，是時候更新您的認證以保持其作用中了。
+<!--
 
-首先，在下方標籤上選取適當的層級（專業、專家或主版）。 接著，請仔細檢閱更新認證所需的動作。
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
-在認證過期之前，請務必提供足夠的時間完成所有需求。
-
-請務必注意，如果認證過期，您必須重新參加認證考試，此考試並非免費。
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**請先登入：**&#x200B;下列連結在&#x200B;**成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}後**&#x200B;只能運作&#x200B;**。**
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**若要共用連結：**&#x200B;如果您想要與同事共用更新考試或評量的連結，請連結至整體考試更新頁面，而非考試本身的URL，以避免登入問題。
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
->[!TAB 專業]
+>[!TAB Professional]
 
-+++Adobe[!DNL Real-Time CDP]專業商務從業人員
++++Adobe [!DNL Real-Time CDP] Business Practitioner Professional
 
-## 您應該有下列&#x200B;**使用中**&#x200B;認證：
+## You should have the following **active** certification:
 
-* Adobe[!DNL Real-Time CDP]專業商務從業人員
+* Adobe [!DNL Real-Time CDP] Business Practitioner Professional
 
-## 續約認證的說明：
+## Instructions for renewing your certification:
 
-* **步驟1**：已成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
-* **步驟2**：檢閱考試目標與資源
-* **步驟3**：參加並通過測驗
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-## 準備就緒
+## Get ready
 
-**考試詳細資料：**
+**Exam details:**
 
-* 等級：專業（0至12個月經驗）
-* 及格分數：29/38
-* 時間：76分鐘
-* 交貨：隨選/非監督
-* 可用語言：英文
-* 費用：免費
-* 測驗識別碼： AD5-E845Adobe[!DNL Real-Time CDP]商務從業者專業人員
+* Level: Professional (0-12 months' experience)
+* Passing Score: 29/38
+* Time: 76 minutes
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E845 Adobe [!DNL Real-Time CDP] Business Practitioner Professional
 
-**範圍和目標：**
+**Scope and objectives:**
 
-區段1：區段和啟用11%
+Section 1: Segments and Activation 11%
 
-* 建立區段並啟用至目的地
-* 設定新目的地
-* 套用目標身份所需的概念
-* 識別屬性對應和將區段排程至目的地
+* Create segment and activate to destination
+* Configure new destinations
+* Apply concepts required to target identities in destinations
+* Identify attribute mappings and scheduling of segments to destination
 
-第2節：隱私權與資料控管8%
+Section 2: Privacy and Data Governance 8%
 
-* 展示對於DULE政策及其對於目的地資料可用性之影響的瞭解
-* 確保遵循隱私權和資料合規性措施
+* Demonstrate an understanding of DULE policies and their impacts on data availability at destinations
+* Ensure privacy and data compliance measures are followed
 
-第3節：業務分析12%
+Section 3: Business Analysis 12%
 
-* 識別與業務KPI相關聯的使用案例
-* 在Platform中對客戶區段執行資料分析
-* 展示對資料流程概念的理解
+* Identify use cases which tie back to business KPIs
+* Perform data analysis on customer segments in platform
+* Demonstrate an understanding of data flow concepts
 
-第4節：方案和設定檔7%
+Section 4: Schemas and Profiles 7%
 
-* 展示對Adobe Experience Platform概念的理解
-* 使用設定檔功能
+* Demonstrate an understanding of Adobe Experience Platform concepts
+* Use profile features
 
-## 準備
+## Get prepped
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-以下是一些可幫助您準備的建議資源：
+Here are some suggested resources to help you prepare:
 
-**區段1**
+**Section 1**
 
-* [區段產生器UI指南](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html){target="_blank"}
-* [啟用串流目的地的對象](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html){target="_blank"}
-* [目的地型別和類別](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html){target="_blank"}
-* [串流區段](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
-* [啟用資料的護欄](https://experienceleague.adobe.com/docs/experience-platform/destinations/guardrails.html){target="_blank"}
-* [啟用對象以批次設定檔匯出目的地](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
-* [目的地概觀](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=zh-Hant){target="_blank"}
-* [目的地啟用工作流程中的身分處理](https://experienceleague.adobe.com/docs/experience-platform/destinations/how-destinations-work/identity-handling.html){target="_blank"}
-* [支援的身分](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/social/facebook.html#supported-identities){target="_blank"}
-* [啟用對象以批次設定檔匯出目的地](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
+* [Segment Builder UI guide](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html){target="_blank"}
+* [Activate audiences to streaming destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html){target="_blank"}
+* [Destination types and categories](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html){target="_blank"}
+* [Streaming segmentation](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
+* [Guardrails for activation data](https://experienceleague.adobe.com/docs/experience-platform/destinations/guardrails.html){target="_blank"}
+* [Activate audiences to batch profile export destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
+* [Destinations overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html){target="_blank"}
+* [Identity handling in the destinations activation workflow](https://experienceleague.adobe.com/docs/experience-platform/destinations/how-destinations-work/identity-handling.html){target="_blank"}
+* [Supported identities](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/social/facebook.html#supported-identities){target="_blank"}
+* [Activate audiences to batch profile export destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
+  
+**Section 2**
 
-**區段2**
+* [Data Governance overview](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html){target="_blank"}
+* [Data Governance in Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
+* [Data usage policies overview](https://experienceleague.adobe.com/docs/experience-platform/data-governance/policies/overview.html){target="_blank"}
+* [Manage data usage labels in the UI](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/user-guide.html){target="_blank"}
+* [Automatic policy enforcement](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/auto-enforcement.html){target="_blank"}
+* [Use the Request Builder](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=en#request-builder){target="_blank"}
+ 
+**Section 3**
 
-* [資料控管總覽](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=zh-Hant){target="_blank"}
-* Real-Time CDP中的[資料控管](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
-* [資料使用原則總覽](https://experienceleague.adobe.com/docs/experience-platform/data-governance/policies/overview.html?lang=zh-Hant){target="_blank"}
-* [在UI中管理資料使用標籤](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/user-guide.html?lang=zh-Hant){target="_blank"}
-* [自動執行原則](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/auto-enforcement.html?lang=zh-Hant){target="_blank"}
-* [使用請求產生器](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=zh-Hant#request-builder){target="_blank"}
+* [Segmentation Service overview](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html){target="_blank"}
+* [Intelligently re-engage your customers to return](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/intelligent-re-engagement.html){target="_blank"}
+* [Customer AI overview](https://experienceleague.adobe.com/docs/experience-platform/intelligent-services/customer-ai/overview.html){target="_blank"}
+* [Create sequential audiences](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-sequential-audiences.html){target="_blank"}
+* [Build a multi-entity segment](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html?lang=en#build-a-multi-entity-segment){target="_blank"}
+* [Streaming segmentation](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
+* [Create audiences](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-audiences.html){target="_blank"}
+* [Monitor dataflows for identities in the UI](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-identities.html){target="_blank"}
+* [Activate audiences to batch profile export destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
+* [Partial batch ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/batch/partial.html){target="_blank"}
+ 
+**Section 4**
+ 
+* [Export datasets to cloud storage destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/export-datasets.html){target="_blank"}
+* [Event forwarding overview](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/overview.html){target="_blank"}
+* [Identity Service overview](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html){target="_blank"}
+* [Merge policies overview](https://experienceleague.adobe.com/docs/experience-platform/profile/merge-policies/overview.html){target="_blank"}
+* [Real-Time Customer Profile UI guide](https://experienceleague.adobe.com/docs/experience-platform/profile/ui/user-guide.html){target="_blank"}
+* [Profiles dashboard](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
+* [Browse profiles in Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-browse.html){target="_blank"}
 
-**區段3**
+## Renew your certification
 
-* [分段服務總覽](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=zh-Hant){target="_blank"}
-* [聰明地重新與您的客戶互動，以便返回](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/intelligent-re-engagement.html){target="_blank"}
-* [Customer AI總覽](https://experienceleague.adobe.com/docs/experience-platform/intelligent-services/customer-ai/overview.html){target="_blank"}
-* [建立循序對象](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-sequential-audiences.html){target="_blank"}
-* [建置多實體區段](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html?lang=en#build-a-multi-entity-segment){target="_blank"}
-* [串流區段](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
-* [建立對象](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-audiences.html){target="_blank"}
-* [監視UI中身分的資料流](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-identities.html){target="_blank"}
-* [啟用對象以批次設定檔匯出目的地](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
-* [部分批次擷取](https://experienceleague.adobe.com/docs/experience-platform/ingestion/batch/partial.html){target="_blank"}
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the button below.
 
-**區段4**
-
-* [將資料集匯出至雲端儲存空間目的地](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/export-datasets.html){target="_blank"}
-* [事件轉送概觀](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/overview.html){target="_blank"}
-* [身分識別服務總覽](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=zh-Hant){target="_blank"}
-* [合併原則概述](https://experienceleague.adobe.com/docs/experience-platform/profile/merge-policies/overview.html){target="_blank"}
-* [即時客戶設定檔UI指南](https://experienceleague.adobe.com/docs/experience-platform/profile/ui/user-guide.html?lang=zh-Hant){target="_blank"}
-* [設定檔儀表板](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
-* [在Real-time Customer Data Platform中瀏覽設定檔](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-browse.html){target="_blank"}
-
-## 更新您的認證
-
-請確定您已依照上述步驟1操作，並先成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}。 然後，若要更新您的認證，請按一下下方的按鈕。
-
-[!BADGE 參加Adobe[!DNL Real-Time CDP]商務從業人員專業更新考試AD5-E845]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E845 newtab=true"}
+[!BADGE Take the Adobe [!DNL Real-Time CDP] Business Practitioner Professional Renewal Exam AD5-E845]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E845 newtab=true"} 
 
 >[!NOTE]
 >
->這項考試是免費的、公開的，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候&#x200B;**30天**&#x200B;再試一次。 若未遵守，可能會導致您的認證被撤銷。
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
 >[!ENDTABS]
 
-## 問題
+## Questions
 
-檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-其他問題？ [連絡我們](mailto:certif@adobe.com)。
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

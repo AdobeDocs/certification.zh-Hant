@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '1211'
+source-wordcount: '14'
 ht-degree: 0%
 
 ---
@@ -18,200 +18,206 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-您的Adobe認證有效期為兩年。 如果您快要迎來兩年的成績，是時候更新您的認證以保持其作用中了。
+<!--
 
-首先，在下方標籤上選取適當的層級（專業、專家或主版）。 接著，請仔細檢閱更新認證所需的動作。
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
-在認證過期之前，請務必提供足夠的時間完成所有需求。
-
-請務必注意，如果您的認證在續約完成之前過期，就必須重新參加認證測驗，這是不免費的。
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires before you complete your renewal, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**請先登入：**&#x200B;下列連結在&#x200B;**成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}後**&#x200B;只能運作&#x200B;**。**
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**若要共用連結：**&#x200B;如果您想要與同事共用更新考試或評量的連結，請連結至整體考試更新頁面，而非考試本身的URL，以避免登入問題。
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
->[!TAB 專業]
+>[!TAB Professional]
 
-+++Adobe[!DNL Target]商務從業者專業更新考試
++++Adobe [!DNL Target] Business Practitioner Professional Renewal Exam
 
-## 您必須擁有下列&#x200B;**個使用中**&#x200B;認證才能續約：
+## You must have the following **active** certifications to renew:
 
-* [!DNL Adobe Target]商務從業人員專業人員
+* [!DNL Adobe Target] Business Practitioner Professional
 
-## 續約認證的說明：
+## Instructions for renewing your certification:
 
-* **步驟1**：已成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
-* **步驟2**：檢閱考試目標與資源
-* **步驟3**：參加並通過測驗
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### 準備就緒
+### Get ready
 
-**考試詳細資料：**
+**Exam details:**
+  
+* Level: Professional (0-12 months' experience)
+* Passing Score: 24/31
+* Time: 62 minutes
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E838 - Adobe [!DNL Target] Business Practitioner Professional
 
-* 等級：專業（0至12個月經驗）
-* 及格分數：24/31
-* 時間：62分鐘
-* 交貨：隨選/非監督
-* 可用語言：英文
-* 費用：免費
-* 測驗識別碼： AD5-E838 -Adobe[!DNL Target]商務從業者專業人員
+**Scope and objectives:**
 
-**範圍和目標：**
+Section 1: Planning and Strategy 26%
 
-第1節：規劃與策略26%
+* Identify business KPIs
+* Given a scenario of business KPIs and data analysis, identify opportunities for optimization
+* Describe how variables impact an activity
+* Construct test hypotheses based on a given scenario
+* Identify hypotheses elements
+* Describe KPI-based primary and secondary success metrics
+* Given a scenario, assess audience requirements
+* Describe appropriate analytics reporting sources (i.e., [!DNL Target] or Adobe [!DNL Analytics])
 
-* 識別業務KPI
-* 在業務KPI和資料分析特定情境下，找出最佳化機會
-* 說明變數對活動的影響
-* 根據指定情境建構測試假設
-* 識別假設元素
-* 說明以KPI為基礎的主要和次要成功量度
-* 在案例中，評估對象需求
-* 說明適當的分析報表來源(即[!DNL Target]或Adobe[!DNL Analytics])
+Section 2: Configuring, Executing and Managing 45%
 
-第2節：設定、執行及管理45%
+* Explain the use of Form-Based Experience Composer vs. the Visual Experience Composer (VEC)
+* Describe procedures to create an experience using VEC
+* Describe procedures to create an experience using Form-Based Composer
+* Describe procedures to manage experiences within an experience composer
+* Describe the workflow that applies to creating [!DNL Target] Activities
+* Given a scenario, apply procedures to create an A/B test activity
+* Given a scenario, apply procedures to create an XT activity
+* Given a scenario, apply procedures to create an MVT activity
+* Identify how AP is used for solutions
+* Identify when to use the Recommendation activity
+* Describe procedures to create an Audience in [!DNL Target]
+* Describe procedures to set Goals and Settings
+* Describe procedures to conduct Activity QA 
+* Describe procedures to manage Activities and Audiences in [!DNL Target] 
 
-* 說明表單式體驗撰寫器與視覺化體驗撰寫器(VEC)的使用方式
-* 說明使用VEC建立體驗的程式
-* 說明使用表單式撰寫器建立體驗的程式
-* 說明在體驗撰寫器中管理體驗的程式
-* 說明適用於建立[!DNL Target]活動的工作流程
-* 在案例中，套用程式以建立A/B測試活動
-* 在案例中，套用程式以建立XT活動
-* 在特定的情況下，套用程式以建立MVT活動
-* 識別解決方案如何使用AP
-* 識別何時使用建議活動
-* 說明在[!DNL Target]中建立對象的程式
-* 說明設定目標與設定的程式
-* 說明進行活動QA的程式
-* 說明在[!DNL Target]中管理活動和對象的程式
+Section 3: Analyzing and Reporting 19%
 
-第3節：分析和報告19%
+* Describe settings to help set the elements that appear in a report
+* Describe the difference in Adobe [!DNL Target] Sample Size Calculator settings between planning and validating
+* Describe common problems associated with A/B testing
+* Identify how Automated Personalization Summary reports differ from other reports
+* Describe the features of Experience Performance reports (MVT)
+* Describe best practices that should be followed in A/B testing execution
 
-* 說明有助於設定報表中顯示之元素的設定
-* 說明Adobe[!DNL Target]樣本大小計算器設定在計畫與驗證之間的差異
-* 說明A/B測試的相關常見問題
-* 識別Automated Personalization摘要報表與其他報表的差異
-* 說明體驗效能報表(MVT)的功能
-* 說明A/B測試執行中應遵循的最佳實務
+Section 4: QA and Troubleshooting 10%
 
-第4節：品質保證與疑難排解10%
+* Given a scenario, identify activity qualification issues
+* Identify the features of browser debugging tools (including Experience Cloud Debugger)
+* Identify metrics and reporting
 
-* 在情景中，識別活動資格問題
-* 識別瀏覽器偵錯工具的功能(包括Experience Cloud Debugger)
-* 識別量度和報表
+### Get prepped
 
-### 準備
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-您不必在參加測驗前完成訓練，僅靠訓練無法提供通過測驗所需的知識和技能。 訓練與成功的在職經驗相結合，對於提供您通過考試所需的存放庫至關重要。
+Here are some suggested resources to help you prepare:
 
-以下是一些可幫助您準備的建議資源：
+**Section 1**
 
-**區段1**
+* [Success metrics](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html){target="_blank"}
+* [Criteria](https://experienceleague.adobe.com/docs/target/using/recommendations/criteria/algorithms.html){target="_blank"}
+* [QuickStart for personalization testing and roadmap creation](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/create-personalization-roadmap-testing-plan.html){target="_blank"}
+* [Best practices for optimization with Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization.html){target="_blank"}
+* [Set metrics](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-set-metrics.html){target="_blank"}
+* [Create an activity-only audience](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
+* [Adobe Analytics as the reporting source for Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html){target="_blank"}
+* [Set up A4T reports in Analysis Workspace for Auto-Allocate activities](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html){target="_blank"}
 
-* [成功量度](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html){target="_blank"}
-* [條件](https://experienceleague.adobe.com/docs/target/using/recommendations/criteria/algorithms.html){target="_blank"}
-* [個人化測試和藍圖建立的快速入門](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/create-personalization-roadmap-testing-plan.html){target="_blank"}
-* [使用Adobe Target最佳化的最佳實務](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization.html){target="_blank"}
-* [設定量度](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-set-metrics.html){target="_blank"}
-* [建立僅限於此活動的對象](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
-* [Adobe Analytics作為Adobe Target (A4T)的報告來源](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html){target="_blank"}
-* [在Analysis Workspace中為自動分配活動設定A4T報告](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html){target="_blank"}
+**Section 2**
 
-**區段2**
+* [Create JSON offers](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
+* [Form-Based Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
+* [Create an activity-only audience](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
+* [Advanced Settings](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html#section_7CE95A2FA8F5438E936C365A6D43BC5B){target="_blank"}
+* [Activity QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
+* [Build audiences in Target](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/create-audience.html){target="_blank"}
+* [Modifications](https://experienceleague.adobe.com/docs/target/using/experiences/vec/modifications/vec-code-editor.html){target="_blank"}
+* [Form-Based Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
+* [Include the same experience on similar pages](https://experienceleague.adobe.com/docs/target/using/experiences/vec/temtest.html){target="_blank"}
+* [Goals and settings](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-goals-and-settings.html){target="_blank"}
+* [Create an A/B Test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html){target="_blank"}
+* [Experience Targeting (XT)](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/experience-target.html){target="_blank"}
+* [Estimate the traffic required for a successful Multivariate Test activity](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/create-mvt/traffic-estimator.html){target="_blank"}
+* [Manage exclusions](https://experienceleague.adobe.com/docs/target/using/activities/automated-personalization/managing-exclusions.html){target="_blank"}
 
-* [建立JSON選件](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
-* [表單式體驗撰寫器](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
-* [建立僅限於此活動的對象](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
-* [進階設定](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html#section_7CE95A2FA8F5438E936C365A6D43BC5B){target="_blank"}
-* [活動QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-* [在Target中建立對象](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/create-audience.html){target="_blank"}
-* [修改](https://experienceleague.adobe.com/docs/target/using/experiences/vec/modifications/vec-code-editor.html){target="_blank"}
-* [表單式體驗撰寫器](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
-* [在類似頁面上包含相同體驗](https://experienceleague.adobe.com/docs/target/using/experiences/vec/temtest.html){target="_blank"}
-* [目標與設定](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-goals-and-settings.html){target="_blank"}
-* [建立A/B測試](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html){target="_blank"}
-* [體驗鎖定目標(XT)](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/experience-target.html){target="_blank"}
-* [預估成功的多變數測試活動所需的流量](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/create-mvt/traffic-estimator.html){target="_blank"}
-* [管理排除專案](https://experienceleague.adobe.com/docs/target/using/activities/automated-personalization/managing-exclusions.html){target="_blank"}
+**Section 3**
 
-**區段3**
+* [Report settings](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+* [How long should you run an A/B test?](https://experienceleague.adobe.com/docs/target/using/activities/abtest/sample-size-determination.html){target="_blank"}
+* [Auto-Allocate overview](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#frequent-return-visitors-can-inflate-experience-conversion-rates.){target="_blank"}
+* [Automated Personalization Summary reports](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/reports-ap.html){target="_blank"}
+* [Auto-Target Summary report](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/auto-target-summary-report.html){target="_blank"}
+* [Experience Performance report (MVT)](https://experienceleague.adobe.com/docs/target/using/reports/multivariate-test-reports/experience-performance-report.html){target="_blank"}
+* [Ten common A/B testing pitfalls and how to avoid them](https://experienceleague.adobe.com/docs/target/using/activities/abtest/common-ab-testing-pitfalls.html){target="_blank"}
 
-* [報告設定](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
-* [A/B測試該執行多久？](https://experienceleague.adobe.com/docs/target/using/activities/abtest/sample-size-determination.html){target="_blank"}
-* [自動分配總覽](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#frequent-return-visitors-can-inflate-experience-conversion-rates.){target="_blank"}
-* [Automated Personalization摘要報告](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/reports-ap.html){target="_blank"}
-* [自動鎖定目標摘要報告](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/auto-target-summary-report.html){target="_blank"}
-* [體驗效能報表(MVT)](https://experienceleague.adobe.com/docs/target/using/reports/multivariate-test-reports/experience-performance-report.html){target="_blank"}
-* [十個常見的A/B測試陷阱以及避免方式](https://experienceleague.adobe.com/docs/target/using/activities/abtest/common-ab-testing-pitfalls.html){target="_blank"}
+**Section 4**
 
-**區段4**
+* [Troubleshoot activity errors](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
+* [Test an Adobe Target implementation with Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/experience-platform/debugger/solutions/target.html){target="_blank"}
+* [Report settings](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
 
-* [疑難排解活動錯誤](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
-* [使用Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/experience-platform/debugger/solutions/target.html)測試Adobe Target實作{target="_blank"}
-* [報告設定](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+### Renew your certification
 
-### 更新您的認證
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe [!DNL Target] Business Practitioner Professional Renewal Exam link below.
 
-請確定您已依照上述步驟1操作，並先成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}。 然後，若要更新您的認證，請按一下下面的Adobe[!DNL Target]商務從業者專業更新測驗連結。
-
-[!BADGE 參加Adobe[!DNL Target]商務從業人員專業更新考試AD5-E838]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E838 newtab=true"}
+[!BADGE Take the Adobe [!DNL Target] Business Practitioner Professional Renewal Exam AD5-E838]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E838 newtab=true"} 
 
 >[!NOTE]
 >
->這項考試是免費的、公開的，而且沒有監護。 您最多可以參加三次考試。 如果您在第三次嘗試後不成功，則必須等候&#x200B;**30天**&#x200B;再試一次。 若未遵守，可能會導致您的認證被撤銷。
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
->[!TAB 專家與大師]
+>[!TAB Expert and Master]
 
-## 您必須至少擁有下列&#x200B;**個使用中**&#x200B;認證其中之一才能續約：
+## You must have at least one of the following **active** certifications to renew:
 
-* [!DNL Adobe Target]商務從業者專家
-* [!DNL Adobe Target]架構者主版
+* [!DNL Adobe Target] Business Practitioner Expert
+* [!DNL Adobe Target] Architect Master
 
-## 續約[!DNL Adobe Target]認證的說明
+## Instructions for renewing your [!DNL Adobe Target] certification
 
-* **步驟1：**&#x200B;已成功登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，然後返回此頁面
-* **步驟2：**&#x200B;學習Experience League中的課程
-* **步驟3：**&#x200B;從下列選項中選擇以完成續約。
+* **Step 1:** Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2:** Study the courses in Experience League
+* **Step 3:** Choose from the options below to complete your renewal.
 
-  **選項A：**
-選取**三門課程**，完成並通過每門課程評估，其分數為80%或以上。 課程評量是免費、隨選、非監督及公開的。 您可以重複這些課程，直到成功通過80%的評量為止。
+   **Option A:**
+   Select **three courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-  **選項B：**
-首先，選取**兩門課程**&#x200B;完成並通過每門課程評量，評量分數為80%或以上。 課程評量是免費、隨選、非監督及公開的。 您可以重複這些課程，直到成功通過80%的評量為止。
+   **Option B:**
+   First, select **two courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-  其次，**提交客戶參考表**，以經過Adobe認證的個人，負責領導、管理及/或參與Adobe Experience Cloud實作專案，以驗證您的持續工作。 本表確認您在認證續約2年期間參與了至少100小時的示範專案參與。
+   Second, **submit a customer reference form** validating your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project. This form affirms that you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval. 
 
-  [ [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}的客戶參考表單
+   [Customer Reference Form for [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA400){target="_blank"}
 
-  當您的客戶參考資料經過稽核後，Adobe數位體驗認證計畫會通知您。 如果您的參考未被接受，只要是在憑證過期之前，您就可以再次提交直到成功。
+   You will be notified by the Adobe Digital Experience Certification Program when your customer reference has been reviewed. If your reference is not accepted, you may submit again until you are successful, as long as it is before your certification expires.
 
 >[!NOTE]
 >
->如果您持有多個[!DNL Adobe Target]專家與主要認證，請僅完成一個認證的續約要求，其餘的認證將會自動續約。
+>If you hold multiple [!DNL Adobe Target] Expert and Master certifications, complete the renewal requirements for just one certification, and the rest will be renewed automatically.
 
-## 專家與碩士的課程與課程評估：
+## Courses and Course Assessments for Expert and Master:
 
-| 專家與碩士課程 | 課程評估 |
+| Courses for Expert and Master | Course Assessment |
 | ------ | ------ |
-| [[!DNL Adobe Target] 裝置上決策總覽](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401){target="_blank"} |
-| [[!DNL Adobe Target] Personalization課程中的創新](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402){target="_blank"} |
-| [行動應用程式實作與Personalization課程](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403){target="_blank"} |
-| [開發人員引導式行動和IoT啟動課程](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA404){target="_blank"} |
-| [開發人員引導式網站啟動課程](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA405){target="_blank"} |
+| [[!DNL Adobe Target] On-Device Decisioning Overview](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA401){target="_blank"} |
+| [[!DNL Adobe Target] Innovations in Personalization Course](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA402){target="_blank"} |
+| [Mobile App Implementation and Personalization Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA403){target="_blank"} |
+| [Guided Mobile and IoT Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA404){target="_blank"} |
+| [Guided Website Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA405){target="_blank"} |
 
 >[!ENDTABS]
 
-## 問題
+## Questions
 
-檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-其他問題？ [連絡我們](mailto:certif@adobe.com)。
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

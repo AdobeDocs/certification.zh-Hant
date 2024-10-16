@@ -7,9 +7,9 @@ role: Developer
 badge: label="考試AD0-E306" type="neutral"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,7 @@ ht-degree: 0%
 
 {{intro}}
 
->[!NOTE]
->
->**可用的新學習資源：** [測驗準備指南](https://app.rockinfo.com/courses/256)提供量身打造的測驗準備流程，包括取得此認證所需的深入學習資料。 _如果系統提示您登入「備考指南」，請使用您的Adobe ID。_
-
-## 考試說明 {#exam-description}
-
-{{exam-description}}
-
-<br>
-
-### 考試詳細資料 {#exam-details}
+## 考試詳細資料 {#exam-details}
 
 * 等級：專家（1-3年經驗）
 * 及格分數：29/50
@@ -38,169 +28,4 @@ ht-degree: 0%
 * 費用：225美元（全球） / 150美元（印度）
 * 考試ID：AD0-E306
 
-<br>
-
-### 目標對象 {#intended-audience}
-
-* 行銷自動化管理員
-* Adobe Experience Cloud開發人員
-* 電子郵件行銷分析師
-* 應用程式開發人員
-* Campaign開發人員
-* Martech開發人員
-
-<br>
-
-### 最低體驗 {#minimum-experience}
-
-您應該有：
-
-* Adobe[!DNL Campaign Standard]軟體經驗至少兩年
-* 至少兩年於多管道數位行銷宣傳與網頁開發（例如REST API）的相關經驗
-* 能夠在Adobe Campaign中執行任務（包括範本開發、技術工作流程、方案開發和整合），並能夠使用控制面板監視執行個體
-* 在管道傳送環境（電子郵件、直接郵件、行動裝置和社交）中工作的體驗
-* 熟悉多重觸控、生命週期和重新啟用等行銷活動策略
-* 瞭解行銷量度，例如ROI、點進率和轉換。
-* 管理行銷自動化平台的體驗
-* CSS、HTML和JavaScript的基本知識，電子郵件
-* 關聯式資料庫和資料模型的基本知識
-* 瞭解並設定技術工作流程
-* 擴充收件者表格或綱要的體驗，以及資料管理
-* 已建立型別規則、工作流程、傳遞和行銷活動範本
-* 已設定的角色和許可權
-* 使用管理控制檯以及與其他Adobe應用程式的整合的體驗
-* 瞭解Adobe I/O和Adobe I/O Runtime
-* 透過多管道提供異動訊息和訊息傳送的體驗
-* 使用受管理套件的體驗
-
-<br>
-
-### 考試目標與範圍 {#exam-objectives}
-
-{{exam-objectives}}
-
-**區段1：資料模型化與管理(26%)**
-
-* 在特定的情況下，將使用者端需求轉換為自訂資源
-* 決定如何設定畫面和篩選定義
-* 給定一個情境，請決定定義索引鍵、索引和連結的正確策略
-* 決定發佈資源更新的正確方法
-* 疑難排解資料模型問題
-* 決定建立技術工作流程的正確方法
-
-**區段2：行銷活動管理(50%)**
-
-* 疑難排解工作流程錯誤
-* 決定建立行銷活動的正確方法
-* 決定使用對象和設定檔的正確方法
-* 透過型別套用及建立篩選規則
-* 決定建立和管理範本的正確方法
-* 決定設定登入頁面的正確方法
-* 決定使用服務和訂閱的正確方法
-* 在案例中，驗證傳遞機制
-* 決定使用創意設計工具建立電子郵件的正確方法
-* 決定建立自訂報表的正確方法
-
-**區段3：管理(24%)**
-
-* 確定建立使用者安全群組和組織單位的正確方法
-* 決定管理和部署套件的正確方法
-* 決定設定外部帳戶的正確方法
-* 決定設定選項的正確方法
-* 決定建立品牌的正確方法
-* 決定開發管道設定的正確方法
-
-<br>
-
-### 整備問卷
-
-{{readiness}}
-
-[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
-
-<br>
-
-## 如何取得認證 {#how-to-get-certified}
-
-{{how-to-get-certified-intro}}
-
-+++步驟1：建立帳戶
-
-{{create-your-account}}
-
-+++
-
-<br>
-
-+++步驟2：使用這些免費的學習資料準備考試
-
-**學習資料**
-
-{{study-materials-intro}}
-
-**參加練習測試**
-
-{{practice-test}}
-
-**考試準備指南**
-
-{{exam-prep-guide}}
-
-[考試準備指南](https://app.rockinfo.com/courses/256)
-
-+++
-
-<br>
-
-+++步驟3：排程並支付考試費用
-
-{{schedule-and-pay}}
-
-+++
-
-<br>
-
-+++步驟4：考試前後
-
-{{before-and-after}}
-
-+++
-
-<br>
-
-+++步驟5：參加考試
-
-{{about-certification-exam}}
-
-## 排程或參加考試AD0-E306
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E306" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   前往考試入口網站
-</span>
-</a>
-
-+++
-
-<br>
-
-+++步驟6：管理您的預算
-
-{{manage-your-badges}}
-
-+++
-
-<br>
-
-## 續約您的認證
-
-{{renewing-intro}}
-
-<br>
-
-## 問題
-
-檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
-
-其他問題？ [連絡我們](mailto:certif@adobe.com)。
+{{questions}}

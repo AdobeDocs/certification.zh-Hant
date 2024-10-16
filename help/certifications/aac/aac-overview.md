@@ -4,10 +4,10 @@ description: Adobe Advertising 認證選項概觀
 solution: Advertising
 product: Advertising Cloud
 exl-id: fffb8e56-5afa-4fc0-a384-8a00f96b74a2
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 8%
+source-wordcount: '74'
+ht-degree: 12%
 
 ---
 
@@ -22,10 +22,6 @@ Adobe為Advertising商務從業人員提供多項認證。  此頁面包含開�
 * [商務從業人員（搜尋）](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
 * [商務從業人員(DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
-## 續約
-
-請造訪[更新您的認證](/help/certifications/renew.md)頁面，檢視此產品是否有續約選項。
-
 ## 資源
 
 如需這些產品的詳細資訊，請使用這些[business.adobe.com](https://business.adobe.com/)連結，
@@ -33,8 +29,5 @@ Adobe為Advertising商務從業人員提供多項認證。  此頁面包含開�
 * [Adobe Advertising需求端平台(DSP)](https://business.adobe.com/products/advertising/demand-side-platform.html){target="_blank"}
 * [Adobe Advertising搜尋](https://business.adobe.com/products/advertising/search-marketing-management.html){target="_blank"}
 
-## 問題
+{{questions}}
 
-檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
-
-其他問題？ [連絡我們](mailto:certif@adobe.com)。

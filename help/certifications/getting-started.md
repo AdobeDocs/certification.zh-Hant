@@ -4,7 +4,8 @@ description: 開始使用 [!DNL Experience Cloud] 認證。 了解本計劃和�
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+hidefromtoc: true
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 1%
