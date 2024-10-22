@@ -1,7 +1,7 @@
 ---
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+source-git-commit: 623b5ac3fe79543a23f7ac0f79a688ad4a3c98ec
 workflow-type: tm+mt
-source-wordcount: '2228'
+source-wordcount: '2229'
 ht-degree: 0%
 
 ---
@@ -316,4 +316,4 @@ Adobe使用Examity管理線上監考的考試。 在測驗入口網站中，您�
 
 ## 問題 {#questions}
 
-**問題？** [連絡我們](mailto:certif@adobe.com)
+**問題？** [連絡我們](https://certification.adobe.com/support/contactus){target="_blank"}
