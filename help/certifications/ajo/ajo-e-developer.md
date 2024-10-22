@@ -7,124 +7,184 @@ role: Developer
 badge: label="考試AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
 hidefromtoc: true
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 4%
+source-wordcount: '349'
+ht-degree: 0%
 
 ---
 
 # Adobe[!DNL Journey Optimizer]開發人員專家的認證歷程
 
-{{intro}}
+>[!NOTE]
+>
+>**Adobe數位體驗認證計畫已移至新的[Adobe認證入口網站](https://certification.adobe.com/){target="_blank"}！**&#x200B;閱讀以下新功能及如何開始使用。
+
+## 新的Adobe認證入口網站有哪些內容？
+
+您在此頁面上找到的所有內容，以及其他更多內容！
+
+* 考試排程
+* 考試詳細資料
+* 研究資源
+* 練習測試
+* 徽章驗證和共用
+* 新的技術訓練課程
+* 全新Adobe數位體驗社群
+* 全新互動式控制面板，可追蹤並分享您的課程與認證活動
+
+## 常見問題集
+
+### 我該從哪裡開始？
+
+[立即登入](https://certification.adobe.com/){target="_blank"}並驗證您的設定檔資料。
+
+然後，探索我們的[課程](https://certification.adobe.com/courses/?/courses){target="_blank"}、[認證](https://certification.adobe.com/certifications){target="_blank"}、[社群](https://certification.adobe.com/community/){target="_blank"}和[可自訂儀表板](https://certification.adobe.com/user/dashboard){target="_blank"}。
+
+### 如何排程考試？
+
+您現在可以在Adobe認證入口網站上排程測驗。
+
+1. 移至[認證目錄](https://certification.adobe.com/certifications){target="_blank"}。
+2. 尋找您的考試
+3. 移至&#x200B;**排程或參加考試**&#x200B;標籤。
+4. 在&#x200B;**排程並支付測驗**&#x200B;區段中，您會找到測驗頁面連結。
+5. 按一下&#x200B;**排程考試**&#x200B;按鈕。
+
+### 哪裡可以找到我的認證記錄？
+
+您的使用中認證已移轉至Adobe認證入口網站上的[您的帳戶](https://certification.adobe.com/user/certifications){target="_blank"}。 移轉您剩餘的使用者資料時，您帳戶的某些部分可能尚未完全填入。 感謝您的耐心等候！
+
+### 哪裡可以找到我的憑單？
+
+您的憑單（包括從Xvoucher轉帳的憑單）將會顯示在Adobe認證入口網站的[您的帳戶](https://certification.adobe.com/user/purchases){target="_blank"}中。
+
+### 我的認證徽章在哪裡？
+
+您的徽章現在可在Adobe認證入口網站取得。
+
+1. 移至&#x200B;**我的帳戶** > [成就](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}。
+2. 尋找&#x200B;**使用中認證** Widget。
+
+* 若要檢視您的徽章驗證頁面，請按一下&#x200B;**共用**&#x200B;按鈕。 從該頁面，您可以分享到社群媒體。
+
+* 若要下載您的徽章，請按一下&#x200B;**徽章縮圖影像**。
+
+### 有問題嗎？
+
+檢視首頁底部的[作法影片](https://certification.adobe.com/#){target="_blank"}、造訪我們的[常見問題](https://certification.adobe.com/support/faq){target="_blank"}，或[連絡我們](https://certification.adobe.com/support/contactus){target="_blank"}。
+
+我們很高興您能探索Adobe數位體驗認證計畫的新首頁，並深入瞭解我們的新功能！
+
+<!-- 
 
 >[!NOTE]
 >
->此測驗(Adobe[!DNL Journey Optimizer]開發人員專家(AD0-E603))已更新。 如果您已開始學習或計畫接受此版本，請務必在2023年12月22日之前完成。 如果您正要開始，建議您參加此測驗的[最新版本](ajo-e-developer-23-10.md)。
+>This exam, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before December 22, 2023. If you are just getting started, we recommend taking the [newest version of this exam](ajo-e-developer-23-10.md).
 
-## 考試說明 {#exam-description}
+## Exam description {#exam-description}
 
 {{exam-description}}
 
 <br>
 
-### 考試詳細資料 {#exam-details}
+### Exam details {#exam-details}
 
-* 等級：專家（1-3年經驗）
-* 及格分數： 31/51
-* 時間：110分鐘
-* 傳遞：線上監護（需要存取攝影機）
-* 可用語言：英文
-* 費用：225美元（全球） / 150美元（印度）
-* 考試ID：AD0-E603
-
-<br>
-
-### 目標對象 {#intended-audience}
-
-* 資料架構師
-* 資料工程師
-* 解決方案架構師
-* 企業架構師
-* Marketing Automation開發人員
-* CDP開發人員
-* CDP架構者
+* Level: Expert (1-3 years experience)
+* Passing Score: 31/51
+* Time: 110 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E603
 
 <br>
 
-### 最低體驗 {#minimum-experience}
+### Intended audience {#intended-audience}
 
-您應至少一年使用各種CDP和行銷自動化系統的經驗，並能夠執行下列工作：
-
-* 設定使用者許可權
-* 建立和管理沙箱
-* 品牌設定
-* 瞭解結構描述設計概念
-* 設定資料來源和資料擷取
-* 建立區段
-* 設定體驗事件
-* 建立和管理優惠方案
-* 建立模擬（測試選件）
-* 建立電子郵件、簡訊、應用程式內訊息和推播通知
-* 使用協助程式功能的內容操控和個人化
-* 驗證、校樣和發佈訊息
-* 建立多頻道歷程
-* 歷程報告
-* 測試/驗證歷程
+* Data Architect
+* Data Engineer
+* Solution Architect
+* Enterprise Architect
+* Marketing Automation Developer
+* CDP Developer
+* CDP Architect
 
 <br>
 
-### 考試目標與範圍 {#exam-objectives}
+### Minimum experience {#minimum-experience}
+
+You should have at least one year experience working with various CDP and marketing automation systems, and be able to perform the following tasks:
+
+* Configuring user permissions
+* Creating and managing sandboxes
+* Brand configuration
+* Understand Schema design concepts
+* Setting up data sources and data ingestion
+* Creating segments
+* Setting up experience events
+* Creating and managing offers
+* Create simulations (testing offers)
+* Creating email, SMS, in app messages and push notifications
+* Content manipulation and personalization using helper functions
+* Validating, proofing, and publishing a message
+* Creating a multi-channel journey
+* Journey reporting
+* Testing/validating journeys
+
+<br>
+
+### Exam objectives and scope {#exam-objectives}
 
 {{exam-objectives}}
 
-**區段1：管理與設定(17%)**
+**Section 1: Administration and Configuration (17%)**
 
-* 確定角色以及套用至每個角色的許可權
-* 說明如何指派/重設/刪除沙箱
-* 展示對管道管理的瞭解
-* 展示對於事件/動作/資料來源的瞭解
+* Identify the roles and which permissions apply to each role
+* Describe how to assign/reset/delete a sandbox
+* Demonstrate an understanding of Channel Administration
+* Demonstrate an understanding of Events/Actions/Data Sources
 
-**區段2： Adobe Experience Platform Foundation (33%)**
+**Section 2: Adobe Experience Platform Foundation (33%)**
 
-* 展示對Experience Data Model (XDM)的瞭解
-* 說明如何設定資料來源和資料擷取
-* 展示對細分服務的瞭解
-* 說明如何設定AJO的結構描述
-* 判斷AJO上即時客戶個人檔案的行為
+* Demonstrate an understanding of Experience Data Model (XDM)
+* Explain how to set up data sources and data ingestion
+* Demonstrate an understanding of segmentation service
+* Explain how to configure schemas for AJO
+* Determine the behavior of the real-time customer profile on AJO
 
-**區段3：Offer decisioning(11%)**
+**Section 3: Offer Decisioning (11%)**
 
-* 展示對於建立和管理優惠方案及元件的瞭解
-* 示範如何使用測試設定檔來執行優惠方案模擬
+* Demonstrate an understanding of creating and managing offers and components
+* Demonstrate how to use test profiles to run offer simulation
 
-**區段4：內容製作(20%)**
+**Section 4: Content Authoring (20%)**
 
-* 示範如何建立電子郵件、簡訊、應用程式內訊息和推播通知
-* 使用協助程式功能，展示對內容操控和個人化的瞭解
-* 展示對於驗證、校樣和發佈訊息的瞭解
+* Demonstrate an understanding of how to create email, SMS, in app messages and push notifications
+* Demonstrate an understanding of content manipulation and personalization using helper functions
+* Demonstrate an understanding of validating, proofing, and publishing a message
 
-**區段5：Journey Orchestration(19%)**
+**Section 5: Journey Orchestration (19%)**
 
-* 說明建立多頻道歷程的程式
-* 識別存取報告儀表板的位置
-* 示範如何測試和驗證歷程
+* Explain the process of creating a multi-channel journey
+* Identify where to access report dashboards
+* Demonstrate how to test and validate a journey
 
 <br>
 
-### 整備問卷
+### Readiness questionnaire
 
 {{readiness}}
 
-[參加線上整備問卷](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
 
 <br>
 
-## 如何取得認證 {#how-to-get-certified}
+## How to get certified {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++步驟1：建立帳戶
++++Step 1: Create your account
 
 {{create-your-account}}
 
@@ -132,83 +192,83 @@ ht-degree: 4%
 
 <br>
 
-+++步驟2：使用這些免費的學習資料準備考試
++++Step 2: Prepare for your exam with these free study materials
 
-**學習資料**
+**Study Materials**
 
 {{study-materials-intro}}
 
-**區段1：管理與組態**
+**Section 1: Administration and configuration**
 
-* [Adobe [!DNL Journey Optimizer] 檔案](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
-   * 存取控制
-   * 設定訊息
-   * 事件設定
-   * 護欄
-   * 歷程
+    * Access Control
+    * Configuring Messages
+    * Event configuration
+    * Guardrails
+    * Journeys
+  
+* [Sandboxes overview](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html){target="_blank"} 
 
-* [沙箱總覽](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=zh-Hant){target="_blank"}
 
+**Section 2: AEP Foundation**
 
-**區段2： AEP Foundation**
+* [Adobe [!DNL Experience Platform] Documentation](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"} 
 
-* [Adobe [!DNL Experience Platform] 檔案](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
+    * XDM guide
+    * Real-time Customer Profile guide
+    * Platform Identity Service guide
+    * configure a Dataflow
+    * Source Connectors guide
+    * Data Ingestion guide
+    * Segmentation Service guide
+    * Schemas
 
-   * XDM指南
-   * 即時客戶設定檔指南
-   * Platform Identity Service指南
-   * 設定資料流
-   * Source聯結器指南
-   * Data Ingestion指南
-   * 分段服務指南
-   * 結構描述
+* [Introduction to Adobe [!DNL Experience Platform] course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"} 
+* [Getting started with Adobe [!DNL Experience Platform] for Data Engineers course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"} 
+* [Data Ingestion for Data Engineers course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"} 
+* [Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"} 
 
-* [Adobe簡介 [!DNL Experience Platform] 課程](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
-* [資料工程師的Adobe [!DNL Experience Platform] 快速入門](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
-* [資料工程師的資料擷取課程](https://experienceleague.adobe.com/?lang=zh-Hant?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
-* [數位體驗藍圖](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=zh-Hant){target="_blank"}
+**Section 3: Offer Decisioning**
 
-**區段3：Offer decisioning**
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
-* [Adobe [!DNL Journey Optimizer] 檔案](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
+    * Decision management
 
-   * 決策管理
+* [Adobe [!DNL Journey Optimizer] Videos and Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"} 
 
-* [Adobe [!DNL Journey Optimizer] 影片和Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}
+    * Create journeys
 
-   * 建立歷程
+**Section 4: Content Authoring**
 
-**區段4：內容製作**
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"} 
 
-* [Adobe [!DNL Journey Optimizer] 檔案](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
+    * Design content
+    * Journeys
+    * Messages
+    * Personalization
+    * Landing pages
 
-   * 設計內容
-   * 歷程
-   * 訊息
-   * 個人化
-   * 登陸頁面
+**Section 5: Journey Orchestration**
 
-**區段5：Journey Orchestration**
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
-* [Adobe [!DNL Journey Optimizer] 檔案](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
-
-   * 歷程
-   * 追蹤和監視
-   * 區段
-   * 設定檔與身分
+    * Journeys
+    * Track and monitor
+    * Segments
+    * Profiles and identity
 
 <br>
 
-**參加練習測試**
+**Take a practice test**
 
 {{practice-test}}
 
-+++
++++ 
 
 <br>
 
-+++步驟3：排程並支付考試費用
++++Step 3: Schedule & pay for exam
 
 {{schedule-and-pay}}
 
@@ -216,7 +276,7 @@ ht-degree: 4%
 
 <br>
 
-+++步驟4：考試前後
++++Step 4: Before and after the exam
 
 {{before-and-after}}
 
@@ -224,20 +284,20 @@ ht-degree: 4%
 
 <br>
 
-+++步驟5：參加考試
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
-## 排程或參加考試AD0-E603
+## Schedule or take exam AD0-E603
 
 >[!NOTE]
 >
->此測驗(Adobe[!DNL Journey Optimizer]開發人員專家(AD0-E603))已更新。 如果您已開始學習或計畫接受此版本，請務必在2023年12月22日之前完成。 如果您正要開始，建議您參加此測驗的[最新版本](ajo-e-developer-23-10.md)。
+>This exam, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before December 22, 2023. If you are just getting started, we recommend taking the [newest version of this exam](ajo-e-developer-23-10.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   前往考試入口網站
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Go to Examity portal
 </span>
 </a>
 
@@ -245,7 +305,7 @@ ht-degree: 4%
 
 <br>
 
-+++步驟6：管理您的預算
++++Step 6: Manage your badges
 
 {{manage-your-badges}}
 
@@ -253,14 +313,16 @@ ht-degree: 4%
 
 <br>
 
-## 續約您的認證
+## Renewing your certification
 
 {{renewing-intro}}
 
 <br>
 
-## 問題
+## Questions
 
-檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-其他問題？ [連絡我們](mailto:certif@adobe.com)。
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->

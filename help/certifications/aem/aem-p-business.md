@@ -6,26 +6,89 @@ product: Experience Manager
 role: User
 badge: label="考試AD0-E126" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: true
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
 
 # Adobe[!DNL Experience Manager]商務從業人員專業人士的認證歷程
 
-{{intro}}
+>[!NOTE]
+>
+>**Adobe數位體驗認證計畫已移至新的[Adobe認證入口網站](https://certification.adobe.com/){target="_blank"}！**&#x200B;閱讀以下新功能及如何開始使用。
 
-## 考試詳細資料 {#exam-details}
+## 新的Adobe認證入口網站有哪些內容？
 
-* 等級：專業（0至12個月經驗）
-* 及格分數：33/50
-* 時間：110分鐘
-* 傳遞：線上監護（需要存取攝影機）
-* 可用語言：英文
-* 費用：125美元（全球） / 95美元（印度）
-* 考試ID：AD0-E126
+您在此頁面上找到的所有內容，以及其他更多內容！
+
+* 考試排程
+* 考試詳細資料
+* 研究資源
+* 練習測試
+* 徽章驗證和共用
+* 新的技術訓練課程
+* 全新Adobe數位體驗社群
+* 全新互動式控制面板，可追蹤並分享您的課程與認證活動
+
+## 常見問題集
+
+### 我該從哪裡開始？
+
+[立即登入](https://certification.adobe.com/){target="_blank"}並驗證您的設定檔資料。
+
+然後，探索我們的[課程](https://certification.adobe.com/courses/?/courses){target="_blank"}、[認證](https://certification.adobe.com/certifications){target="_blank"}、[社群](https://certification.adobe.com/community/){target="_blank"}和[可自訂儀表板](https://certification.adobe.com/user/dashboard){target="_blank"}。
+
+### 如何排程考試？
+
+您現在可以在Adobe認證入口網站上排程測驗。
+
+1. 移至[認證目錄](https://certification.adobe.com/certifications){target="_blank"}。
+2. 尋找您的考試
+3. 移至&#x200B;**排程或參加考試**&#x200B;標籤。
+4. 在&#x200B;**排程並支付測驗**&#x200B;區段中，您會找到測驗頁面連結。
+5. 按一下&#x200B;**排程考試**&#x200B;按鈕。
+
+### 哪裡可以找到我的認證記錄？
+
+您的使用中認證已移轉至Adobe認證入口網站上的[您的帳戶](https://certification.adobe.com/user/certifications){target="_blank"}。 移轉您剩餘的使用者資料時，您帳戶的某些部分可能尚未完全填入。 感謝您的耐心等候！
+
+### 哪裡可以找到我的憑單？
+
+您的憑單（包括從Xvoucher轉帳的憑單）將會顯示在Adobe認證入口網站的[您的帳戶](https://certification.adobe.com/user/purchases){target="_blank"}中。
+
+### 我的認證徽章在哪裡？
+
+您的徽章現在可在Adobe認證入口網站取得。
+
+1. 移至&#x200B;**我的帳戶** > [成就](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}。
+2. 尋找&#x200B;**使用中認證** Widget。
+
+* 若要檢視您的徽章驗證頁面，請按一下&#x200B;**共用**&#x200B;按鈕。 從該頁面，您可以分享到社群媒體。
+
+* 若要下載您的徽章，請按一下&#x200B;**徽章縮圖影像**。
+
+### 有問題嗎？
+
+檢視首頁底部的[作法影片](https://certification.adobe.com/#){target="_blank"}、造訪我們的[常見問題](https://certification.adobe.com/support/faq){target="_blank"}，或[連絡我們](https://certification.adobe.com/support/contactus){target="_blank"}。
+
+我們很高興您能探索Adobe數位體驗認證計畫的新首頁，並深入瞭解我們的新功能！
+
+<!-- 
+
+## Exam details {#exam-details}
+
+* Level: Professional (0-12 months' experience)
+* Passing Score: 33/50
+* Time: 110 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E126
 
 {{questions}}
+
+-->
