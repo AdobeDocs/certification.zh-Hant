@@ -4,75 +4,75 @@ description: 在Adobe瞭解 [!DNL Experience Cloud] 認證。 了解獲得認證
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
+source-git-commit: 9838d4a95fe41718059ffd5bc6f374eaabf3a8e1
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 5%
+source-wordcount: '377'
+ht-degree: 3%
 
 ---
 
-# 歡迎在Adobe使用認證！
-
-瞭解Adobe的Experience Cloud認證，以及取得認證可為您做哪些事。
-
 ![橫幅](/help/certifications/assets/home_banner_smallwide.png)
 
->[!NOTE]
->Adobe數位體驗認證計畫更新
->
->**Adobe數位體驗認證計畫正在移動！**&#x200B;新的Adobe認證入口網站將於2024年10月22日啟動。 請記下這些&#x200B;**重要日期：**
->
->* **2024年10月14日：**&#x200B;將資料移轉至新入口網站時，無法排程考試、練習測驗，也無法存取Adobe認證管理系統
->* **2024年10月22日：** Adobe認證入口網站啟動！ 新的入口網站會提供您的認證記錄，以及所有考試資訊、學習資源和排程功能。 您的帳戶也將提供截止日期為2021年1月1日的練習測試分數和輔導報告。
->
->請於10月22日返回這裡檢視有關登入新Adobe認證入口網站的詳細資訊！
+# Adobe數位體驗認證計畫已移動！
 
-Adobe數位體驗認證計畫的建立是為了協助您證明Adobe[!DNL Experience Cloud]產品的技能。 獲得Adobe認證可讓您展現自己的專業知識，給客戶和僱主留下深刻印象。
+您可以在新的[Adobe認證入口網站](https://certification.adobe.com/){target="_blank"}找到我們。 閱讀以下入口網站的功能，並瞭解如何開始使用。
 
-Adobe[!DNL Experience Cloud]是一套數位行銷解決方案，可讓企業跨多個管道（包括網頁、行動裝置、電子郵件和社群媒體）提供個人化客戶體驗。 Adobe[!DNL Experience Cloud]包含一系列產品，例如Adobe[!DNL Real-Time CDP]、Adobe[!DNL Experience Manager]、Adobe[!DNL Commerce]、Adobe[!DNL Journey Optimizer]、Adobe[!DNL Customer Analytics]等等。
+## 新的Adobe認證入口網站有哪些內容？
 
-獲得Adobe認證，展現您的熟練程度，將您的事業提升到新的境界。
+您在此頁面上找到的所有內容，以及其他更多內容！
 
-[**依計畫檢視認證清單**](#view-all-certifications)
+* 考試排程
+* 考試詳細資料
+* 研究資源
+* 練習測試
+* 徽章驗證和共用
+* 新的技術訓練課程
+* 全新Adobe數位體驗社群
+* 全新互動式控制面板，可追蹤並分享您的課程與認證活動
 
-## 為何要取得認證？
+## 常見問題集
 
-取得Adobe[!DNL Experience Cloud]認證有許多優點：
+### 我該從哪裡開始？
 
-* **您的技能驗證：** Adobe認證向潛在客戶或僱主示範您具備有效使用[!DNL Experience Cloud]解決方案所需的技能和知識。
-* **職涯晉升：** Adobe認證可協助您在擁擠的職場中脫穎而出，並增加您受聘或晉升的機會。
-* **提高收入潛力：**&#x200B;認證人員通常比未認證的同事獲得更多收入，因為Adobe認證證明了他們的專業知識水準。
-* **存取專屬資源：**&#x200B;獲得Adobe認證後，您就可以存取專屬資源，例如訓練教材、測試版軟體發行和支援論壇，協助您掌握業界最新的軟體發展和趨勢。
-* **免費的練習測驗：** Adobe提供免費的練習測驗，以協助確保您已完全準備好參加認證測驗。
-* **免費認證續約：** Adobe認證的有效期為兩年，且大多數認證可透過隨選、未經監督的考試或完成一系列連續學習活動免費續約。
+[立即登入](https://certification.adobe.com/){target="_blank"}並驗證您的設定檔資料。
 
-Adobe數位認證計畫是專為不同領域的專業人士所設計，包括開發人員、商務從業人員及架構師。 無論您是經驗豐富的專家，還是剛開始工作，認證都能協助您提升職業生涯，並在競爭中保持領先地位。
+然後，探索我們的[課程](https://certification.adobe.com/courses/?/courses){target="_blank"}、[認證](https://certification.adobe.com/certifications){target="_blank"}、[社群](https://certification.adobe.com/community/){target="_blank"}和[可自訂儀表板](https://certification.adobe.com/user/dashboard){target="_blank"}。
 
-## 快速入門
+### 如何排程考試？
 
-瞭解Adobe數位體驗認證計畫，立即釋放您的專業潛能。
+您現在可以在Adobe認證入口網站上排程測驗。
 
-<a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">開始使用</span></a>
+1. 移至[認證目錄](https://certification.adobe.com/certifications){target="_blank"}。
+2. 尋找您的考試
+3. 移至&#x200B;**排程或參加考試**&#x200B;標籤。
+4. 在&#x200B;**排程並支付測驗**&#x200B;區段中，您會找到測驗頁面連結。
+5. 按一下&#x200B;**排程考試**&#x200B;按鈕。
 
-## 檢視所有認證 {#view-all-certifications}
+### 哪裡可以找到我的認證記錄？
 
-有關每個可用產品認證的所有詳細資訊都列在左側目錄和以下清單中：
+您的使用中認證已移轉至Adobe認證入口網站上的[您的帳戶](https://certification.adobe.com/user/certifications){target="_blank"}。 移轉您剩餘的使用者資料時，您帳戶的某些部分可能尚未完全填入。 感謝您的耐心等候！
 
-* [Adobe [!DNL Analytics]](/help/certifications/aa/aa-overview.md){target="_blank"}
-* [Adobe [!DNL Advertising]](/help/certifications/aac/aac-overview.md){target="_blank"}
-* [Adobe [!DNL Audience Manager]](/help/certifications/aam/aam-overview.md){target="_blank"}
-* [Adobe [!DNL Commerce]](/help/certifications/ac/ac-overview.md){target="_blank"}
-* [Adobe [!DNL Campaign Classic]](/help/certifications/acc/acc-overview.md){target="_blank"}
-* [Adobe [!DNL Campaign Standard]](/help/certifications/acs/acs-overview.md){target="_blank"}
-* [Adobe [!DNL Customer Journey Analytics]](/help/certifications/acja/acja-overview.md){target="_blank"}
-* [Adobe [!DNL Document Cloud]](/help/certifications/adc/adc-overview.md){target="_blank"}
-* [Adobe [!DNL Experience Manager]](/help/certifications/aem/aem-overview.md){target="_blank"}
-* [Adobe [!DNL Journey Optimizer]](/help/certifications/ajo/ajo-overview.md){target="_blank"}
-* [Adobe [!DNL Marketo Engage]](/help/certifications/ame/ame-overview.md){target="_blank"}
-* [Adobe [!DNL Real-Time CDP]](/help/certifications/rtcdp/rtcdp-overview.md){target="_blank"}
-* [Adobe [!DNL Target]](/help/certifications/at/at-overview.md){target="_blank"}
-* [Adobe [!DNL Workfront]](/help/certifications/aw/aw-overview.md){target="_blank"}
+### 哪裡可以找到我的憑單？
 
-您正在尋找Adobe[!DNL Creative Cloud]認證嗎？ 請造訪[Adobe認證專家](https://certifiedprofessional.adobe.com/en/home){target="_blank"}網站，瞭解如何取得Creative Cloud計畫的認證。
+您的憑單（包括從Xvoucher轉帳的憑單）將會顯示在Adobe認證入口網站的[您的帳戶](https://certification.adobe.com/user/purchases){target="_blank"}中。
 
-{{questions}}
+### 我的認證徽章在哪裡？
+
+您的徽章現在可在Adobe認證入口網站取得。
+
+1. 移至&#x200B;**我的帳戶** > [成就](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}。
+2. 尋找&#x200B;**使用中認證** Widget。
+
+* 若要檢視您的徽章驗證頁面，請按一下&#x200B;**共用**&#x200B;按鈕。 從該頁面，您可以分享到社群媒體。
+
+* 若要下載您的徽章，請按一下&#x200B;**徽章縮圖影像**。
+
+### 我可以在哪裡找到Adobe Creative Cloud認證？
+
+請造訪[Adobe認證專家](https://certifiedprofessional.adobe.com/en/home){target="_blank"}網站，瞭解如何取得Creative Cloud計畫的認證。
+
+### 有問題嗎？
+
+檢視首頁底部的[作法影片](https://certification.adobe.com/#){target="_blank"}、造訪我們的[常見問題](https://certification.adobe.com/support/faq){target="_blank"}，或[連絡我們](https://certification.adobe.com/support/contactus){target="_blank"}。
+
+我們很高興您能探索Adobe數位體驗認證計畫的新首頁，並深入瞭解我們的新功能！
