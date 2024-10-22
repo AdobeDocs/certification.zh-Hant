@@ -4,7 +4,7 @@ description: 在Adobe瞭解 [!DNL Experience Cloud] 認證。 了解獲得認證
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 9838d4a95fe41718059ffd5bc6f374eaabf3a8e1
+source-git-commit: 1c4e5dd4c7955fee989e99c1683734beea7bb6d1
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 3%
