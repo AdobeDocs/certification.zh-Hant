@@ -4,18 +4,20 @@ description: 在Adobe瞭解 [!DNL Experience Cloud] 認證。 了解獲得認證
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 1c4e5dd4c7955fee989e99c1683734beea7bb6d1
+source-git-commit: 8e6929bf11e7e122e54035c05310e6fa730f1760
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 3%
 
 ---
 
-![橫幅](/help/certifications/assets/home_banner_smallwide.png)
+
 
 # Adobe數位體驗認證計畫已移動！
 
 您可以在新的[Adobe認證入口網站](https://certification.adobe.com/){target="_blank"}找到我們。 閱讀以下入口網站的功能，並瞭解如何開始使用。
+
+![橫幅](/help/certifications/assets/home_banner_smallwide.png)
 
 ## 新的Adobe認證入口網站有哪些內容？
 
