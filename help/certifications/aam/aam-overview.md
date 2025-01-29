@@ -4,14 +4,16 @@ description: Adobe Audience Manager的認證選項概觀
 solution: Audience Manager
 product: Audience Manager
 exl-id: aeeef127-446c-4d22-8791-b93ea755545a
-source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
+source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # Adobe Audience Manager認證概述
+
+選取您的層級與工作角色以尋找認證考試詳細資料、存取學習資源，以及排程您的考試。 您也可以探索[完整認證目錄](https://certification.adobe.com/certifications){target="_blank"}以及[技術訓練課程](https://certification.adobe.com/courses/?/courses){target="_blank"}。
 
 **專業**
 
