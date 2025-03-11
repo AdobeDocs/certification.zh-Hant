@@ -8,7 +8,7 @@ badge: label="考試AD0-E208" type="neutral"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+source-git-commit: 31982155cb5a87645b8705688ff376d44c7e61dd
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 0%
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ### 如何排程考試？
 
-您現在可以在Adobe認證入口網站上排程測驗。
+您現在可以在Adobe認證入口網站排程測驗。
 
 1. 移至[認證目錄](https://certification.adobe.com/certifications){target="_blank"}。
 2. 尋找您的考試
@@ -75,4 +75,4 @@ ht-degree: 0%
 
 檢視首頁底部的[作法影片](https://certification.adobe.com/#){target="_blank"}、造訪我們的[常見問題](https://certification.adobe.com/support/faq){target="_blank"}，或[連絡我們](https://certification.adobe.com/support/contactus){target="_blank"}。
 
-我們很高興您能探索Adobe數位體驗認證計畫的新首頁，並深入瞭解我們的新功能！
+我們很高興您能探索Adobe Digital Experience Certification計畫的新首頁，並深入瞭解我們的新功能。

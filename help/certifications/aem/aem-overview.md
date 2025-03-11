@@ -3,22 +3,21 @@ title: Experience Manager認證概述
 description: Adobe Experience Manager 認證選項概觀
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
+source-git-commit: f4c6dcf6ae1fb7eba58a0823130b3021481a2d6d
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 8%
+source-wordcount: '87'
+ht-degree: 9%
 
 ---
 
-# Adobe[!DNL Experience Manager]認證概述
+# Adobe [!DNL Experience Manager]認證概述
 
 選取您的層級與工作角色以尋找認證考試詳細資料、存取學習資源，以及排程您的考試。 您也可以探索[完整認證目錄](https://certification.adobe.com/certifications){target="_blank"}以及[技術訓練課程](https://certification.adobe.com/courses/?/courses){target="_blank"}。
 
 **專業**
 
 * [商務從業人員](https://certification.adobe.com/certification/experience-manager-business-practitioner-professional){target="_blank"} <!--AD0-E126-->
-* [開發人員（網站） — 新](https://certification.adobe.com/certification/sites-developer-professional-v2){target="_blank"} <!--AD0-E128-->
-* [開發人員(Sites) - 2025年2月10日到期](https://certification.adobe.com/certification/sites-developer-professional){target="_blank"} <!--AD0-E123-->
+* [開發人員（網站）](https://certification.adobe.com/certification/sites-developer-professional-v2){target="_blank"} <!--AD0-E128-->
 * [開發人員(Assets)](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} <!--AD0-E129-->
 * [後端開發人員(Forms)](https://certification.adobe.com/certification/backend-developer-professional){target="_blank"} <!--AD0-E127-->
 * [技術基礎](https://certification.adobe.com/certification/technical-foundations-professional){target="_blank"} <!--AD0-E132-->
@@ -26,8 +25,7 @@ ht-degree: 8%
 **專家**
 
 * [商務從業者（網站）](https://certification.adobe.com/certification/sites-business-practitioner-expert){target="_blank"} <!--AD0-E121-->
-* [開發人員（網站） — 新](https://certification.adobe.com/certification/sites-developer-expert-v2){target="_blank"} <!--AD0-E137-->
-* [開發人員(Sites) - 2025年1月19日到期](https://certification.adobe.com/certification/sites-developer-expert){target="_blank"} <!--AD0-E134-->
+* [開發人員（網站）](https://certification.adobe.com/certification/sites-developer-expert-v2){target="_blank"} <!--AD0-E137-->
 * [DevOps](https://certification.adobe.com/certification/aem-devops-engineer-expert){target="_blank"} <!--AD0-E124-->
 * [開發人員(Forms)](https://certification.adobe.com/certification/aem-forms-developer-expert){target="_blank"} <!--AD0-E125-->
 * [Cloud Service移轉](https://certification.adobe.com/certification/cloud-service-migration-expert){target="_blank"} <!--AD0-E136-->
