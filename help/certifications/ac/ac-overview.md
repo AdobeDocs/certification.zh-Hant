@@ -4,10 +4,10 @@ description: Adobe Commerce 認證選項概觀
 solution: Commerce
 product: Magento
 exl-id: 8a9f63f9-b2f9-438f-b1f5-8706b2768626
-source-git-commit: f4c6dcf6ae1fb7eba58a0823130b3021481a2d6d
+source-git-commit: 62849867a001b41cd0139488bc4a72bd2ea504b7
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 9%
+source-wordcount: '68'
+ht-degree: 10%
 
 ---
 
@@ -25,8 +25,7 @@ ht-degree: 9%
 
 * [商務從業人員](https://certification.adobe.com/certification/adobe-commerce-business-practitioner-expert){target="_blank"} <!--AD0-E708-->
 * [開發人員](https://certification.adobe.com/certification/adobe-commerce-developer-expert-v2){target="_blank"} <!--AD0-E716-->
-* [前端開發人員 — 新](https://certification.adobe.com/certification/front-end-developer-expert-v2){target="_blank"} <!--AD0-E727-->
-* [前端開發人員 — 到期日為2025年3月30日](https://certification.adobe.com/certification/front-end-developer-expert){target="_blank"} <!--AD0-E720-->
+* [前端開發人員](https://certification.adobe.com/certification/front-end-developer-expert-v2){target="_blank"} <!--AD0-E727-->
 
 **主版**
 
