@@ -21,7 +21,7 @@ ht-degree: 6%
 * [開發人員(Assets)](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} <!--AD0-E129-->
 * [後端開發人員(Forms)](https://certification.adobe.com/certification/backend-developer-professional){target="_blank"} <!--AD0-E127-->
 * [技術基礎](https://certification.adobe.com/certification/technical-foundations-professional){target="_blank"} <!--AD0-E132-->
-* [數點陣圖書管理員](https://certification.adobe.com/certification/digital-librarian-professional) （請注意，此認證不計入合作夥伴需求。）{target="_blank"} <!--AD0-E143-->
+* [數點陣圖書管理員](https://certification.adobe.com/certification/digital-librarian-professional){target="_blank"} （請注意，此認證不計入合作夥伴需求。） <!--AD0-E143-->
 * [內容作者](https://certification.adobe.com/certification/sites-content-author-professional) （請注意，此認證不計入合作夥伴需求。）
   {target="_blank"} <!--AD0-E144-->
 
