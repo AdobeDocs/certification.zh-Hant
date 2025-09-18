@@ -4,9 +4,9 @@ description: Adobe Marketo Engage 認證選項概觀
 solution: Marketo Engage
 product: Marketo
 exl-id: 8746c2a3-351f-4f6b-875d-5c72526d3166
-source-git-commit: d0e1c6a499d5f3016d1147135e2e85d2b930372b
+source-git-commit: 59e40e4144cca7250af2e903106e422a29b37f3c
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '87'
 ht-degree: 9%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 9%
 
 * [認證專家](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->
 * [認證專家 — 日文](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-J-->
-* [數位行銷人員](https://certification.adobe.com/certification/digital-marketer-professional){target="_blank"} （請注意，此認證不計入合作夥伴需求。） <!--AD0-E564-->
+* [數位行銷人員](https://certification.adobe.com/certification/digital-marketer-professional) （請注意，此認證不計入合作夥伴需求。）{target="_blank"} <!--AD0-E564-->
 
 **專家**
 
@@ -28,7 +28,8 @@ ht-degree: 9%
 
 **主版**
 
-* [架構師](https://certification.adobe.com/certification/marketo-engage-architect-master){target="_blank"} <!--AD0-E560-->
+* [架構者 — 新增](https://certification.adobe.com/certification/engage-architect-master/1310){target="_blank"} <!--AD0-E563-->
+* [架構師 — 於2025年11月25日到期](https://certification.adobe.com/certification/marketo-engage-architect-master){target="_blank"} <!--AD0-E560-->
 
 {{questions}}
 
