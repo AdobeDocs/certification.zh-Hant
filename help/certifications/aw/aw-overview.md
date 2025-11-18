@@ -3,9 +3,9 @@ title: Workfront認證概述
 description: Adobe Workfront 認證選項概觀
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: 62849867a001b41cd0139488bc4a72bd2ea504b7
+source-git-commit: f6e091c196be679b3643aa7df87981812564dd11
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '85'
 ht-degree: 8%
 
 ---
@@ -22,7 +22,8 @@ _請注意，合格的認證不是認證。_
 **專業**
 
 * [開發人員(Fusion)](https://certification.adobe.com/certification/fusion-developer-professional){target="_blank"} <!--AD0-E902-->
-* [專案管理員](https://certification.adobe.com/certification/project-manager-professional){target="_blank"} <!--AD0-E903-->
+* [專案管理員 — 新增](https://certification.adobe.com/certification/project-manager-certified-professional){target="_blank"} <!--AD0-E911-->
+* [專案經理 — 到期日為2026年1月17日](https://certification.adobe.com/certification/project-manager-professional){target="_blank"} <!--AD0-E903-->
 * [開發人員（核心）](https://certification.adobe.com/certification/core-developer-professional){target="_blank"} <!--AD0-E908-->
 
 **專家**
