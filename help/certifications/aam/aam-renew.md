@@ -231,7 +231,7 @@ Here are some suggested resources to help you prepare:
 ### Resources:
 
 * [Adobe [!DNL Audience Manager] Product Documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=zh-Hant){target="_blank"}
-* [Adobe Support - Experience Cloud Audiences](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
+* [Adobe Support - Experience Cloud Audiences](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community?profile.language=zh-Hant){target="_blank"}
 * [Adobe Experience Cloud Learn and Support](https://helpx.adobe.com/tw/support/experience-cloud.html){target="_blank"}
 * [Experience League [!DNL Audience Manager]](https://experienceleague.adobe.com/zh-hant#recommended/solutions/audience-manager){target="_blank"}
 
