@@ -151,7 +151,7 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 **第5節：資料模型化**
 
 * [AJO指南，設定，對象，設定檔與身分，資料管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
-* [Experience Platform， Datasets， Source Connectors Guide， API教學課程， Platform Identity Service Guide， Segmentation UI， UI教學課程](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
+* [Experience Platform， Datasets， Source Connectors Guide， API教學課程， Platform Identity Service Guide， Segmentation UI， UI教學課程](https://experienceleague.adobe.com/docs/experience-platform.html?lang=zh-Hant){target="_blank"}
 
 +++ 
 
@@ -210,6 +210,6 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 
 ## 問題
 
-檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=zh-Hant){target="_blank"}。
 
 其他問題？ [連絡我們](mailto:certif@adobe.com)。
