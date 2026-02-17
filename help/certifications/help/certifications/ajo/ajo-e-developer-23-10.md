@@ -7,20 +7,20 @@ role: Developer
 badge: label="考試AD0-E606" type="neutral"
 hidefromtoc: true
 exl-id: null
-source-git-commit: 307d716211cf1c4b5c9cfe4e2698389bc8fde5f4
+source-git-commit: 3e0e0deed8d03499ce66d954fcd2ce140783c930
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '614'
 ht-degree: 1%
 
 ---
 
-# Adobe[!DNL Journey Optimizer]開發人員專家的認證歷程
+# Adobe [!DNL Journey Optimizer]開發人員專家的認證歷程
 
 {{intro}}
 
 >[!NOTE]
 >
->這是最新的Adobe[!DNL Journey Optimizer] Developer Expert考試(AD0-E606)。 如果您已開始學習或排程了[較舊版本](ajo-e-developer.md)，則必須在2023年12月22日前完成。
+>這是最新的Adobe [!DNL Journey Optimizer] Developer Expert測驗(AD0-E606)。
 
 
 ## 考試說明 {#exam-description}
@@ -80,14 +80,14 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 * 決定事件/動作/資料來源的適當應用程式
 * 識別何時使用AJO特定API — 節流、上限、隱藏、物件複製、互動式訊息執行
 
-**區段2：Journey Orchestration(22%)**
+**區段2： Journey Orchestration (22%)**
 
 * 在案例中，將目標客戶鎖定於多管道/多步驟歷程中
 * 解讀報表並偵錯效能度量
 * 在情景下，確定歷程型別的適當使用案例
 * 準備測試案例（例如實驗或多管道歷程）
 
-**區段3：Offer decisioning(16%)**
+**區段3： Offer Decisioning (16%)**
 
 * 展示對於建立和管理優惠方案及元件的瞭解
 * 示範如何使用測試設定檔來執行優惠方案模擬
@@ -135,25 +135,25 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 * [AJO指南，設定，簡訊頻道，歷程](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 * [AJO API](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
-**區段2：Journey Orchestration**
+**區段2： Journey Orchestration**
 
-* [AJO指南，歷程，運算式，追蹤和監視](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
+* [AJO指南、歷程、運算式、追蹤和監視](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 
-**區段3：Offer decisioning**
+**區段3： Offer Decisioning**
 
 * [AJO指南，決定管理， API參考](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 
 **區段4：內容製作**
 
 * [AJO指南，簡訊頻道，隱私權，設定，歷程，運算式，內容管理，追蹤和監視，推播通知頻道](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
-* [Journey OptimizerTutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}
+* [Journey Optimizer教學課程](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}
 
 **第5節：資料模型化**
 
 * [AJO指南，設定，對象，設定檔與身分，資料管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
-* [Experience Platform，資料集， Source Connectors Guide， APITutorials， Platform Identity Service Guide， Segmentation UI， UITutorials](https://experienceleague.adobe.com/docs/experience-platform.html?lang=zh-Hant){target="_blank"}
+* [Experience Platform， Datasets， Source Connectors Guide， API教學課程， Platform Identity Service Guide， Segmentation UI， UI教學課程](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
-+++
++++ 
 
 <br>
 
@@ -173,7 +173,7 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 
 <br>
 
-+++步驟5：參加考試
++++步驟5：參加測驗
 
 {{about-certification-exam}}
 
@@ -181,7 +181,7 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 
 >[!NOTE]
 >
->這是最新的Adobe[!DNL Journey Optimizer] Developer Expert考試(AD0-E606)。 如果您已開始學習或排程了[較舊版本](ajo-e-developer.md)，則必須在2023年12月22日前完成。
+>這是最新的Adobe [!DNL Journey Optimizer] Developer Expert測驗(AD0-E606)。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -210,6 +210,6 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 
 ## 問題
 
-檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=zh-Hant){target="_blank"}。
+檢視認證[常見問題集](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}。
 
 其他問題？ [連絡我們](mailto:certif@adobe.com)。
