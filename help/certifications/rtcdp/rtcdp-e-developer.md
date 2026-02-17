@@ -3,19 +3,19 @@ title: 專家認證
 description: 瞭解如何成為認證Adobe [!DNL Real-Time Customer Data Platform] 開發人員專家
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
-role: Developer,Data Architect
+role: Developer
 badge: label="考試AD0-E605" type="neutral"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
 workflow-type: tm+mt
 source-wordcount: '349'
 ht-degree: 0%
 
 ---
 
-# Adobe[!DNL Real-Time Customer Data Platform]開發人員專家的認證歷程
+# Adobe [!DNL Real-Time Customer Data Platform]開發人員專家的認證歷程
 
 >[!NOTE]
 >
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ### 如何排程考試？
 
-您現在可以在Adobe認證入口網站上排程測驗。
+您現在可以在Adobe認證入口網站排程測驗。
 
 1. 移至[認證目錄](https://certification.adobe.com/certifications){target="_blank"}。
 2. 尋找您的考試
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ### 哪裡可以找到我的認證記錄？
 
-您的使用中認證已移轉至Adobe認證入口網站上的[您的帳戶](https://certification.adobe.com/user/certifications){target="_blank"}。 移轉您剩餘的使用者資料時，您帳戶的某些部分可能尚未完全填入。 感謝您的耐心等候！
+您的使用中認證已經移轉至Adobe認證入口網站上的[您的帳戶](https://certification.adobe.com/user/certifications){target="_blank"}。 移轉您剩餘的使用者資料時，您帳戶的某些部分可能尚未完全填入。 感謝您的耐心等候！
 
 ### 哪裡可以找到我的憑單？
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 ### 有問題嗎？
 
-檢視首頁底部的[作法影片](https://certification.adobe.com/#){target="_blank"}、造訪我們的[常見問題](https://certification.adobe.com/support/faq){target="_blank"}，或[連絡我們](https://certification.adobe.com/support/contactus){target="_blank"}。
+檢視首頁底部的[作法影片](https://certification.adobe.com/#){target="_blank"}、造訪我們的[常見問題集](https://certification.adobe.com/support/faq){target="_blank"}，或[連絡我們](https://certification.adobe.com/support/contactus){target="_blank"}。
 
 我們很高興您能探索Adobe數位體驗認證計畫的新首頁，並深入瞭解我們的新功能！
 

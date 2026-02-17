@@ -1,10 +1,10 @@
 ---
 title: 認證首頁
 description: 在Adobe瞭解 [!DNL Experience Cloud] 認證。 了解獲得認證能為您做什麼。
-role: User,Developer,Data Architect
+role: User,Developer
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 8e6929bf11e7e122e54035c05310e6fa730f1760
+source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 3%
@@ -13,7 +13,7 @@ ht-degree: 3%
 
 
 
-# Adobe數位體驗認證計畫已移動！
+# Adobe Digital Experience Certification計畫已移至其他位置！
 
 您可以在新的[Adobe認證入口網站](https://certification.adobe.com/){target="_blank"}找到我們。 閱讀以下入口網站的功能，並瞭解如何開始使用。
 
@@ -42,7 +42,7 @@ ht-degree: 3%
 
 ### 如何排程考試？
 
-您現在可以在Adobe認證入口網站上排程測驗。
+您現在可以在Adobe認證入口網站排程測驗。
 
 1. 移至[認證目錄](https://certification.adobe.com/certifications){target="_blank"}。
 2. 尋找您的考試
@@ -52,7 +52,7 @@ ht-degree: 3%
 
 ### 哪裡可以找到我的認證記錄？
 
-您的使用中認證已移轉至Adobe認證入口網站上的[您的帳戶](https://certification.adobe.com/user/certifications){target="_blank"}。 移轉您剩餘的使用者資料時，您帳戶的某些部分可能尚未完全填入。 感謝您的耐心等候！
+您的使用中認證已經移轉至Adobe認證入口網站上的[您的帳戶](https://certification.adobe.com/user/certifications){target="_blank"}。 移轉您剩餘的使用者資料時，您帳戶的某些部分可能尚未完全填入。 感謝您的耐心等候！
 
 ### 哪裡可以找到我的憑單？
 
@@ -71,10 +71,10 @@ ht-degree: 3%
 
 ### 我可以在哪裡找到Adobe Creative Cloud認證？
 
-請造訪[Adobe認證專家](https://certifiedprofessional.adobe.com/en/home){target="_blank"}網站，瞭解如何取得Creative Cloud計畫的認證。
+請造訪[Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"}網站，瞭解如何取得Creative Cloud計畫的認證。
 
 ### 有問題嗎？
 
-檢視首頁底部的[作法影片](https://certification.adobe.com/#){target="_blank"}、造訪我們的[常見問題](https://certification.adobe.com/support/faq){target="_blank"}，或[連絡我們](https://certification.adobe.com/support/contactus){target="_blank"}。
+檢視首頁底部的[作法影片](https://certification.adobe.com/#){target="_blank"}、造訪我們的[常見問題集](https://certification.adobe.com/support/faq){target="_blank"}，或[連絡我們](https://certification.adobe.com/support/contactus){target="_blank"}。
 
 我們很高興您能探索Adobe數位體驗認證計畫的新首頁，並深入瞭解我們的新功能！
