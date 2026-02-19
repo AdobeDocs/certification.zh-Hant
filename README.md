@@ -9,4 +9,4 @@ ht-degree: 0%
 
 此存放庫已移轉至GitHub Enterprise Cloud
 
-<https://github.com/Adobe-Enterprise-Docs/certification.en>
+<https://github.com/Adobe-Enterprise-Docs/certification.zh-Hant>
