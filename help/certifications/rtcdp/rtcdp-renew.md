@@ -1,6 +1,6 @@
 ---
 title: 認證續約
-description: 瞭解如何在 [!DNL Experience Platform] 中更新 [!DNL Real-Time Customer Data Platform]認證。
+description: 瞭解如何在 [!DNL Real-Time Customer Data Platform]中更新 [!DNL Experience Platform] 認證。
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
@@ -10,7 +10,7 @@ hidefromtoc: true
 exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
 source-git-commit: 51821a1e368916d6bd4d0224be99ee5ae5b97ae1
 workflow-type: tm+mt
-source-wordcount: '13'
+source-wordcount: '12'
 ht-degree: 0%
 
 ---
