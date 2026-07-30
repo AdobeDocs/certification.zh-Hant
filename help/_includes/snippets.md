@@ -1,7 +1,7 @@
 ---
 source-git-commit: 623b5ac3fe79543a23f7ac0f79a688ad4a3c98ec
 workflow-type: tm+mt
-source-wordcount: '2229'
+source-wordcount: '2373'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 <!--divider-->
 
-## 介紹 {#intro}
+## 簡介 {#intro}
 
 >[!NOTE]
 >
->**Adobe數位體驗認證計畫已移至新的[Adobe認證入口網站](https://certification.adobe.com/){target="_blank"}！**&#x200B;閱讀以下新功能及如何開始使用。
+>**Adobe數位體驗認證計畫已移至新的[Adobe認證入口網站](https://certification.adobe.com/){target="_blank"}！** 閱讀以下新功能及如何開始使用。
 
 ## 新的Adobe認證入口網站有哪些內容？
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ### 如何排程考試？
 
-您現在可以在Adobe認證入口網站上排程測驗。
+您現在可以在Adobe認證入口網站排程測驗。
 
 1. 移至[認證目錄](https://certification.adobe.com/certifications){target="_blank"}。
 2. 尋找您的考試
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ### 哪裡可以找到我的認證記錄？
 
-您的使用中認證已移轉至Adobe認證入口網站上的[您的帳戶](https://certification.adobe.com/user/certifications){target="_blank"}。 移轉您剩餘的使用者資料時，您帳戶的某些部分可能尚未完全填入。 感謝您的耐心等候！
+您的使用中認證已經移轉至Adobe認證入口網站上的[您的帳戶](https://certification.adobe.com/user/certifications){target="_blank"}。 移轉您剩餘的使用者資料時，您帳戶的某些部分可能尚未完全填入。 感謝您的耐心等候！
 
 ### 哪裡可以找到我的憑單？
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 ### 有問題嗎？
 
-檢視首頁底部的[作法影片](https://certification.adobe.com/#){target="_blank"}、造訪我們的[常見問題](https://certification.adobe.com/support/faq){target="_blank"}，或[連絡我們](https://certification.adobe.com/support/contactus){target="_blank"}。
+檢視首頁底部的[作法影片](https://certification.adobe.com/#){target="_blank"}、造訪我們的[常見問題集](https://certification.adobe.com/support/faq){target="_blank"}，或[連絡我們](https://certification.adobe.com/support/contactus){target="_blank"}。
 
 我們很高興您能探索Adobe數位體驗認證計畫的新首頁，並深入瞭解我們的新功能！
 
@@ -132,7 +132,7 @@ ht-degree: 0%
 
 <!--divider-->
 
-## 範例問題 {#sample-questions}
+## 問題範例 {#sample-questions}
 
 範例問題可讓您檢視在實際考試中會遇到的專案型別和格式。 不需要登入。 樣本問題的結果不會儲存，也不會預測您的實際測試結果。
 
@@ -140,7 +140,7 @@ ht-degree: 0%
 
 ## 參加練習測試 {#practice-test}
 
-建議您先參加免費的練習測試，然後再開始使用。 您將可以不受限制地存取所有可用的練習測驗，以進行Adobe的專家級測驗。
+建議您先參加免費的練習測試，然後再開始使用。 您將可以不受限制地存取所有可用的練習測試，以供Adobe的專家級考試使用。
 
 我們的練習測試都是從與即時測驗相同的Blueprint開發。 練習測驗可協助您瞭解即時測驗涵蓋的主題。
 
@@ -150,7 +150,7 @@ ht-degree: 0%
 
 1. 首先，使用您的Adobe ID登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}。
 
-2. 接著，前往[Adobe認證考試準備入口網站](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"}尋找您的練習測驗。
+2. 接著，前往[Adobe認證測驗準備入口網站](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"}尋找您的練習測驗。
 
 <!--divider-->
 
@@ -158,11 +158,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此區段中的某些專案只有在您登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}後才能運作。 請花一點時間登入。
+>此區段中的部分功能只有在您登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}後才能運作。 請花一點時間登入。
 
 **測驗傳遞**
 
-Adobe使用名為Examity的廠商來管理排程的監考考試。 所有新的認證考試皆已監考。 續約考試是隨選且非監考的。
+Adobe使用名為Examity的廠商來管理已排程、已監考的考試。 所有新的認證考試皆已監考。 續約考試是隨選且非監考的。
 
 **排程、重新排程或取消考試**
 
@@ -170,15 +170,15 @@ Adobe使用名為Examity的廠商來管理排程的監考考試。 所有新的�
 
 1. 首先，使用您的Adobe ID登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}。
 
-2. 接著，前往[考試入口網站](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"}，並依照畫面提供的指示進行。
+2. 接著，前往[考試入口網站](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx？){target="_blank"}，並依照熒幕提供的指示進行。
 
-必須在&#x200B;**排定的考試約會之前** 48小時開始取消和重新排程。 應徵者必須自行修改此約會。 Adobe支援或考試供應商都無法處理重新排程和取消請求。 48小時以內的取消作業，除考試費用外，另須支付重排費用。
+必須在&#x200B;**排定的考試約會之前** 48小時開始取消和重新排程。 應徵者必須自行修改此約會。 Adobe支援或測驗供應商都無法處理重新排程和取消請求。 48小時以內的取消作業，除考試費用外，另須支付重排費用。
 
 **如何付款**
 
 以信用卡付款：當您排程考試時，系統會提示您輸入信用卡進行付款。
 
-依憑券付款：若要購買考試憑券，請移至：Adobe認證憑券中心。 您可在排程考試時套用憑單代碼。 如需憑單折扣資訊，請參閱下文。
+依憑券付款：若要購買考試憑券，請前往：Adobe認證憑券中心。 您可在排程考試時套用憑單代碼。 如需憑單折扣資訊，請參閱下文。
 
 **購買憑單**
 
@@ -186,7 +186,7 @@ Adobe使用名為Examity的廠商來管理排程的監考考試。 所有新的�
 
 您可在排程考試時套用憑單代碼。 如需憑單折扣資訊，請參閱下文。
 
-所有考生透過Adobe認證憑單中心購買時，可獲得10項或更多考試的批次購買折扣。
+所有考生透過Adobe認證憑券中心購買時，均可獲得10項或更多測驗批次購買的折扣。
 
 如需憑單的詳細資訊，請參閱[常見問題集](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}。
 
@@ -202,7 +202,7 @@ Adobe使用名為Examity的廠商來管理排程的監考考試。 所有新的�
 
 合作夥伴折扣：銅級以上的合作夥伴可獲得所有Adobe認證考試和課程折扣。 您可以在解決方案合作夥伴入口網站上閱讀更多有關這些折扣，以及如何存取合作夥伴權益的資訊。
 
-憑券折扣：所有考生透過[Adobe認證憑券中心](https://certification.adobe.com/certifications/vouchers){target="_blank"}購買時，可獲得10項或更多項考試的批次購買折扣。
+憑單折扣：所有考生透過[Adobe認證憑單中心](https://certification.adobe.com/certifications/vouchers){target="_blank"}購買時，可獲得10項或更多項考試的批次購買折扣。
 
 備註：大量折扣無法與任何其他優惠或折扣結合。
 
@@ -215,7 +215,7 @@ Adobe使用名為Examity的廠商來管理排程的監考考試。 所有新的�
 * 執行您的系統測試。
 * 確定您的電腦上已安裝Zoom。 Zoom必須擁有使用相機與麥克風的許可權、共用熒幕的許可權，以及讓您的監護人暫時接管電腦的許可權。
 * 開始考試前關閉快顯封鎖程式。
-* 前往Adobe認證管理系統，按一下[排程/修改我的考試預約]，選取您的考試，然後前往您的考試設定檔，在考試設定檔中再次檢查您的時區。
+* 前往Adobe Credential Management系統，按一下「排程/修改我的考試預約」，選取您的考試，然後前往您的考試設定檔，在考試設定檔中再次檢查您的時區。
 
 >[!IMPORTANT]
 >
@@ -224,7 +224,7 @@ Adobe使用名為Examity的廠商來管理排程的監考考試。 所有新的�
 **考試日**
 
 * 早點來！ 您的監考員會在您的約會開始時間準時開始您的工作階段，以便在約會之前有時間登入考試。
-* 準備您的案頭空間。 移除任何額外的顯示器、電子產品、書籍、筆記型電腦、紙張等。 從您的案頭。
+* 準備您的案頭空間。 從您的桌上型電腦移除任何額外的顯示器、電子產品、書籍、筆記型電腦、紙張等。
 * 插入您的電腦。
 * 關閉熒幕共用和瀏覽器以外的所有應用程式。 您的Proctor會指示您開啟工作管理員，以顯示沒有其他應用程式正在執行。
 * 注意：如果您已中斷連線，將會收到來自Examity Support的電子郵件通知，以協助您重新連線。 您也可以選擇直接聯絡Examity支援以重新連線。
@@ -232,7 +232,7 @@ Adobe使用名為Examity的廠商來管理排程的監考考試。 所有新的�
 **考試之後**
 
 * 完成測驗後，您將會收到暫時通過或未通過，但最終分數可能需要72小時。 檢閱完測試並完成之後，您會在「歷史記錄」標籤下的「Adobe認證管理」中找到計分卡。
-* 若您第一次參加Adobe認證測驗時未通過，則必須至少等待24小時再重新參加測驗。 若第二次或後續嘗試不及格，則需等候14天再重新參加測驗。 每次嘗試都將產生單獨的考試費用。
+* 如果您第一次參加Adobe檢定測驗未通過，則必須至少等待24小時再重新參加測驗。 若第二次或後續嘗試不及格，則需等候14天再重新參加測驗。 每次嘗試都將產生單獨的考試費用。
 
 <!--divider-->
 
@@ -240,17 +240,17 @@ Adobe使用名為Examity的廠商來管理排程的監考考試。 所有新的�
 
 Adobe使用Examity管理線上監考的考試。 在測驗入口網站中，您可以：
 
-* **排程、重新排程或取消您的考試。**&#x200B;請注意，取消和重新排程必須在排定的考試約會之前48小時開始。 應徵者必須自行修改此約會。
+* **排程、重新排程或取消您的考試。** 請注意，取消和重新排程必須在排程的考試預約48小時之前開始。 應徵者必須自行修改此約會。
 
-* **為您的考試付費。**&#x200B;在考試入口網站以憑單或信用卡支付您的認證考試費用。 若要購買考試憑單，請移至： [Adobe認證憑單中心](https://certification.adobe.com/certifications/vouchers){target="_blank"}。 您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
+* **為您的測驗付費。** 在考試入口網站中，以憑券或信用卡支付認證考試費用。 若要購買考試憑單，請移至： [Adobe認證憑單中心](https://certification.adobe.com/certifications/vouchers){target="_blank"}。 您可在排程考試時套用憑單代碼。 如果您有折扣，則會在結帳時套用。
 
 * **參加考試。**
 
-**請注意：**&#x200B;您必須先登入[Adobe認證管理系統](https://www.certmetrics.com/adobe){target="_blank"}，才能按一下下面的[考試]按鈕。
+**請注意：**&#x200B;您必須先登入[Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}，才能按一下下面的[考試]按鈕。
 
 >[!WARNING]
 >
->Adobe Digital Experience Certification計畫正準備升級。 因此，考生目前無法安排在2024年10月13日之後進行的測驗。 升級完成後，排程將恢復正常。
+>Adobe數位體驗認證計畫正在準備升級。 因此，考生目前無法安排在2024年10月13日之後進行的測驗。 升級完成後，排程將恢復正常。
 
 <!--divider-->
 
@@ -262,14 +262,14 @@ Adobe使用Examity管理線上監考的考試。 在測驗入口網站中，您�
 
 **對於現有的使用者，有兩種方式可以接受您的Adobe認證徽章：**
 
-* **步驟1：**&#x200B;登入[Credly](https://www.credly.com/users/sign_in){target="_blank"}。 (您必須使用與取得Adobe認證相同的電子郵件，否則不會看到徽章。)
+* **步驟1：**&#x200B;登入[Credly](https://www.credly.com/users/sign_in){target="_blank"}。 （您必須使用與取得Adobe認證相同的電子郵件，否則不會看到徽章。）
 * **步驟2：**&#x200B;或移至您從Credly收到的電子郵件以接受徽章。
 * **步驟3：**&#x200B;接受並共用您的徽章。
 
 **若為新使用者，請依照下列指示接受您的Adobe認證徽章：**
 
 * **步驟1：**&#x200B;移至您從Credly收到的電子郵件以接受徽章。
-* **步驟2：**&#x200B;建立帳戶。 (您必須使用與取得Adobe認證相同的電子郵件，否則不會看到徽章。)
+* **步驟2：**&#x200B;建立帳戶。 （您必須使用與取得Adobe認證相同的電子郵件，否則不會看到徽章。）
 * **步驟3：**&#x200B;接受並共用您的徽章。
 
 [了解更多](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}
