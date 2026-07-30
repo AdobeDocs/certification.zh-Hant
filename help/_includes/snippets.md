@@ -110,7 +110,7 @@ ht-degree: 0%
 >
 > **需要政府識別碼：**&#x200B;您必須使用政府核發的像片ID作為有效的識別碼。 不允許軟式副本或數位ID。<br><br> **Adobe ID帳戶名稱：**&#x200B;您的Adobe ID帳戶名稱必須與您政府機關識別碼上的名稱相符。 若要更新您的Adobe ID帳戶名稱，請傳送電子郵件至<certif@adobe.com>。 請提前&#x200B;**72小時要求更正**。 如果考試時姓名不符，您必須額外付費報名參加新考試。
 
-您必須有Adobe ID才能排程並參加考試。 如果您沒有Adobe ID，可以在[這裡](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html)建立一個。
+您必須有Adobe ID才能排程並參加考試。 如果您沒有Adobe ID，可以在[這裡](https://helpx.adobe.com/tw/manage-account/using/create-update-adobe-id.html)建立一個。
 
 必須具有Adobe ID的原因有三：
 
@@ -278,7 +278,7 @@ Adobe使用Examity管理線上監考的考試。 在測驗入口網站中，您�
 
 ## 續約您的認證 {#renewing-intro}
 
-認證將在兩年後到期。 若要維護您的認證，您必須在認證過期之前進行更新。 如需詳細資訊，請造訪[更新您的認證](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}頁面。
+認證將在兩年後到期。 若要維護您的認證，您必須在認證過期之前進行更新。 如需詳細資訊，請造訪[更新您的認證](https://experienceleague.adobe.com/docs/certification/program/renew.html?lang=zh-Hant){target="_blank"}頁面。
 
 <!--divider-->
 
