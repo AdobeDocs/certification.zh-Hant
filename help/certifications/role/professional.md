@@ -3,11 +3,9 @@ title: 專業技術認證
 description: 適用於專業使用者的認證選項概觀
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 13%
-
+source-wordcount: '77'
+ht-degree: 12%
 ---
-
 # 專業技術認證
 
 **Advertising**

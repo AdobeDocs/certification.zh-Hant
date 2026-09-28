@@ -1,26 +1,24 @@
 ---
 title: 商務從業人員專業認證
-description: 瞭解如何成為Adobe [!DNL Advertising Search] 商務從業者專業人員。
+description: 瞭解如何獲得Adobe [!DNL Advertising Search]商務從業者專業認證。
 solution: Advertising
 product: Advertising Cloud
 level: Experienced
 role: User
 badge: label="考試AD0-E501" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: yes
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
 source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '387'
 ht-degree: 0%
-
 ---
-
 # [!DNL Adobe Advertising Search]商務從業人員專業人士的認證歷程
 
 >[!NOTE]
 >
->**Adobe數位體驗認證計畫已移至新的[Adobe認證入口網站](https://certification.adobe.com/){target="_blank"}！**&#x200B;閱讀以下新功能及如何開始使用。
+>**Adobe數位體驗認證計畫已移至新的[Adobe認證入口網站](https://certification.adobe.com/){target="_blank"}！** 閱讀以下新功能及如何開始使用。
 
 ## 新的Adobe認證入口網站有哪些內容？
 
@@ -45,7 +43,7 @@ ht-degree: 0%
 
 ### 如何排程考試？
 
-您現在可以在Adobe認證入口網站上排程測驗。
+您現在可以在Adobe認證入口網站排程測驗。
 
 1. 移至[認證目錄](https://certification.adobe.com/certifications){target="_blank"}。
 2. 尋找您的考試
@@ -55,7 +53,7 @@ ht-degree: 0%
 
 ### 哪裡可以找到我的認證記錄？
 
-您的使用中認證已移轉至Adobe認證入口網站上的[您的帳戶](https://certification.adobe.com/user/certifications){target="_blank"}。 移轉您剩餘的使用者資料時，您帳戶的某些部分可能尚未完全填入。 感謝您的耐心等候！
+您的使用中認證已經移轉至Adobe認證入口網站上的[您的帳戶](https://certification.adobe.com/user/certifications){target="_blank"}。 移轉您剩餘的使用者資料時，您帳戶的某些部分可能尚未完全填入。 感謝您的耐心等候！
 
 ### 哪裡可以找到我的憑單？
 
@@ -74,6 +72,6 @@ ht-degree: 0%
 
 ### 有問題嗎？
 
-檢視首頁底部的[作法影片](https://certification.adobe.com/#){target="_blank"}、造訪我們的[常見問題](https://certification.adobe.com/support/faq){target="_blank"}，或[連絡我們](https://certification.adobe.com/support/contactus){target="_blank"}。
+檢視首頁底部的[作法影片](https://certification.adobe.com/#){target="_blank"}、造訪我們的[常見問題集](https://certification.adobe.com/support/faq){target="_blank"}，或[連絡我們](https://certification.adobe.com/support/contactus){target="_blank"}。
 
 我們很高興您能探索Adobe數位體驗認證計畫的新首頁，並深入瞭解我們的新功能！
