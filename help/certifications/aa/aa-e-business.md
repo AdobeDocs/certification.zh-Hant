@@ -1,25 +1,32 @@
 ---
 title: 商務從業者認證
-description: 瞭解如何獲得 [!DNL Adobe Analytics] 商務從業者專家認證
+description: 瞭解如何成為[!DNL Adobe Analytics]商務從業者專家的認證
 solution: Analytics
 product: Analytics
 role: User
 badge: label="考試AD0-E208" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 31982155cb5a87645b8705688ff376d44c7e61dd
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '385'
 ht-degree: 0%
-
 ---
-
 # [!DNL Adobe Analytics]商務從業者專家的認證歷程
 
 >[!NOTE]
 >
->**Adobe數位體驗認證計畫已移至新的[Adobe認證入口網站](https://certification.adobe.com/){target="_blank"}！**&#x200B;閱讀以下新功能及如何開始使用。
+>**Adobe數位體驗認證計畫已移至新的[Adobe認證入口網站](https://certification.adobe.com/){target="_blank"}！** 閱讀以下新功能及如何開始使用。
 
 ## 新的Adobe認證入口網站有哪些內容？
 
@@ -54,7 +61,7 @@ ht-degree: 0%
 
 ### 哪裡可以找到我的認證記錄？
 
-您的使用中認證已移轉至Adobe認證入口網站上的[您的帳戶](https://certification.adobe.com/user/certifications){target="_blank"}。 移轉您剩餘的使用者資料時，您帳戶的某些部分可能尚未完全填入。 感謝您的耐心等候！
+您的使用中認證已經移轉至Adobe認證入口網站上的[您的帳戶](https://certification.adobe.com/user/certifications){target="_blank"}。 移轉您剩餘的使用者資料時，您帳戶的某些部分可能尚未完全填入。 感謝您的耐心等候！
 
 ### 哪裡可以找到我的憑單？
 
@@ -73,6 +80,6 @@ ht-degree: 0%
 
 ### 有問題嗎？
 
-檢視首頁底部的[作法影片](https://certification.adobe.com/#){target="_blank"}、造訪我們的[常見問題](https://certification.adobe.com/support/faq){target="_blank"}，或[連絡我們](https://certification.adobe.com/support/contactus){target="_blank"}。
+檢視首頁底部的[作法影片](https://certification.adobe.com/#){target="_blank"}、造訪我們的[常見問題集](https://certification.adobe.com/support/faq){target="_blank"}，或[連絡我們](https://certification.adobe.com/support/contactus){target="_blank"}。
 
 我們很高興您能探索Adobe Digital Experience Certification計畫的新首頁，並深入瞭解我們的新功能。

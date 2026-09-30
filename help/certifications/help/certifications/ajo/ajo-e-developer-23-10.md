@@ -1,19 +1,26 @@
 ---
 title: 專家認證
-description: 瞭解如何成為認證Adobe [!DNL Journey Optimizer] 開發人員專家。
+description: 瞭解如何成為認證Adobe [!DNL Journey Optimizer]開發人員專家。
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="考試AD0-E606" type="neutral"
-hidefromtoc: true
-exl-id: null
-source-git-commit: 3e0e0deed8d03499ce66d954fcd2ce140783c930
+hidefromtoc: 'yes'
+exl-id:
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '614'
-ht-degree: 1%
-
+source-wordcount: '696'
+ht-degree: 9%
 ---
-
 # Adobe [!DNL Journey Optimizer]開發人員專家的認證歷程
 
 {{intro}}
@@ -131,8 +138,8 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 
 **區段1：管理與組態**
 
-* [Experience Platform，存取控制，沙箱指南](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=zh-Hant){target="_blank"}
-* [AJO指南，設定，簡訊頻道，歷程](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
+* [Experience Platform存取控制沙箱指南](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=zh-Hant){target="_blank"}
+* [AJO指南、設定、SMS頻道、歷程](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 * [AJO API](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
 **區段2： Journey Orchestration**
@@ -141,17 +148,17 @@ Adobe Journey Optimizer由Experience Platform提供技術支援。 除了Adobe J
 
 **區段3： Offer Decisioning**
 
-* [AJO指南，決定管理， API參考](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
+* [AJO指南、決定管理、API參考](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
 
 **區段4：內容製作**
 
-* [AJO指南，簡訊頻道，隱私權，設定，歷程，運算式，內容管理，追蹤和監視，推播通知頻道](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
-* [Journey Optimizer教學課程](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}
+* [AJO指南、SMS頻道、隱私權、設定、歷程、運算式、內容管理、追蹤和監視、推播通知頻道](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
+* [Journey Optimizer 教學課程](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}
 
 **第5節：資料模型化**
 
-* [AJO指南，設定，對象，設定檔與身分，資料管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
-* [Experience Platform， Datasets， Source Connectors Guide， API教學課程， Platform Identity Service Guide， Segmentation UI， UI教學課程](https://experienceleague.adobe.com/docs/experience-platform.html?lang=zh-Hant){target="_blank"}
+* [AJO指南、設定、對象、設定檔與身分、資料管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant){target="_blank"}
+* [Experience Platform，資料集， Source Connectors指南， API教學課程， Platform Identity Service指南，分段UI， UI教學課程](https://experienceleague.adobe.com/docs/experience-platform.html?lang=zh-Hant){target="_blank"}
 
 +++ 
 

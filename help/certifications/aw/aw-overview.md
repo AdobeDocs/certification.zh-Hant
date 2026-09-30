@@ -3,20 +3,25 @@ title: Workfront認證概述
 description: Adobe Workfront 認證選項概觀
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-TQID: https://experienceleague.adobe.com/miyrwA1qYchoaIn7eHSG1OiKRhPqwRJIM3-Tk84vS7Y
+TQID: 'https://experienceleague.adobe.com/miyrwA1qYchoaIn7eHSG1OiKRhPqwRJIM3-Tk84vS7Y'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 1e4670eb3b3bbe59e6c4ac4c1c955d916f4788de
+    internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: 118
+source-wordcount: '118'
 ht-degree: 5%
-
 ---
-
 # Adobe [!DNL Workfront]認證概述
 
 選取您的層級與工作角色以尋找認證考試詳細資料、存取學習資源，以及排程您的考試。 您也可以探索[完整認證目錄](https://certification.adobe.com/certifications){target="_blank"}以及[技術訓練課程](https://certification.adobe.com/courses/?/courses){target="_blank"}。

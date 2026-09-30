@@ -1,20 +1,27 @@
 ---
 title: 認證續約
-description: 瞭解如何在您的Adobe [!DNL Marketo Engage] 認證過期前更新。
+description: 瞭解如何在您的Adobe [!DNL Marketo Engage]認證過期前更新。
 solution: Marketo Engage
 product: Marketo
 role: User
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
 source-wordcount: '16'
 ht-degree: 0%
-
 ---
-
-# 更新您的Adobe[!DNL Marketo Engage]認證
+# 續約您的Adobe [!DNL Marketo Engage]認證
 
 {{renewals-hold}}
 
