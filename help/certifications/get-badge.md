@@ -1,22 +1,29 @@
 ---
-title: Adobe Real-time Customer Data Platform認證
+title: Adobe Real-Time Customer Data Platform認證
 description: 您擁有受眾細分、目的地匯出和即時啟動的技術知識，這些是符合資料和隱私權法規、客戶資料平台(CDP)的統一設定檔，並且具備Adobe Experience Platform的知識。
 solution: Real-Time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
 badge: label="如何取得認證" type="neutral"
-source-git-commit: a033bd6a57abf06eb6712cf1aca076b39e8a4739
+product_v2:
+  - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
+    internal-label: Real-Time Customer Data Platform
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '413'
 ht-degree: 0%
-
 ---
-
 # 如何取得認證 {#how-to-get-certified}
 
 >[!NOTE]
 >
->**Adobe數位體驗認證計畫已移至新的[Adobe認證入口網站](https://certification.adobe.com/){target="_blank"}！**&#x200B;閱讀以下新功能及如何開始使用。
+>**Adobe數位體驗認證計畫已移至新的[Adobe認證入口網站](https://certification.adobe.com/){target="_blank"}！** 閱讀以下新功能及如何開始使用。
 
 ## 新的Adobe認證入口網站有哪些內容？
 
@@ -41,7 +48,7 @@ ht-degree: 0%
 
 ### 如何排程考試？
 
-您現在可以在Adobe認證入口網站上排程測驗。
+您現在可以在Adobe認證入口網站排程測驗。
 
 1. 移至[認證目錄](https://certification.adobe.com/certifications){target="_blank"}。
 2. 尋找您的考試
@@ -51,7 +58,7 @@ ht-degree: 0%
 
 ### 哪裡可以找到我的認證記錄？
 
-您的使用中認證已移轉至Adobe認證入口網站上的[您的帳戶](https://certification.adobe.com/user/certifications){target="_blank"}。 移轉您剩餘的使用者資料時，您帳戶的某些部分可能尚未完全填入。 感謝您的耐心等候！
+您的使用中認證已經移轉至Adobe認證入口網站上的[您的帳戶](https://certification.adobe.com/user/certifications){target="_blank"}。 移轉您剩餘的使用者資料時，您帳戶的某些部分可能尚未完全填入。 感謝您的耐心等候！
 
 ### 哪裡可以找到我的憑單？
 
@@ -70,6 +77,6 @@ ht-degree: 0%
 
 ### 有問題嗎？
 
-檢視首頁底部的[作法影片](https://certification.adobe.com/#){target="_blank"}、造訪我們的[常見問題](https://certification.adobe.com/support/faq){target="_blank"}，或[連絡我們](https://certification.adobe.com/support/contactus){target="_blank"}。
+檢視首頁底部的[作法影片](https://certification.adobe.com/#){target="_blank"}、造訪我們的[常見問題集](https://certification.adobe.com/support/faq){target="_blank"}，或[連絡我們](https://certification.adobe.com/support/contactus){target="_blank"}。
 
 我們很高興您能探索Adobe數位體驗認證計畫的新首頁，並深入瞭解我們的新功能！

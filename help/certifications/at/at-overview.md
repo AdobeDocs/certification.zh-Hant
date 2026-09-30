@@ -3,13 +3,17 @@ title: Target認證概述
 description: Adobe Target 認證選項概觀
 solution: Target
 exl-id: 2e1ee659-e9be-429e-9fdb-1f5ba1976bae
-source-git-commit: 51821a1e368916d6bd4d0224be99ee5ae5b97ae1
+product_v2:
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+    internal-label: Target
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 9%
-
+source-wordcount: '108'
+ht-degree: 6%
 ---
-
 # [!DNL Adobe Target]認證概述
 
 選取您的層級與工作角色以尋找認證考試詳細資料、存取學習資源，以及排程您的考試。 您也可以探索[完整認證目錄](https://certification.adobe.com/certifications){target="_blank"}以及[技術訓練課程](https://certification.adobe.com/courses/?/courses){target="_blank"}。
