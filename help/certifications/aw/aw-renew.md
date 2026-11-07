@@ -548,7 +548,7 @@ Here are some suggested resources to help you prepare:
 
 * [Experience Manager as a Cloud Service documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=zh-Hant){target="_blank"} - (Integration with Adobe [!DNL Workfront])
 * [[!DNL Workfront] documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=zh-Hant){target="_blank"} (Reporting elements, Project finances, Resource utilization, Use agile planning tools in boards, Configure proofing functionality)
-* [System Admin Essentials Webinar: What IS [!DNL Workfront] Governance?](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721#M13550){target="_blank"}
+* [System Admin Essentials Webinar: What IS [!DNL Workfront] Governance?](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721?profile.language=zh-Hant#M13550){target="_blank"}
 * [Configure asset metadata mapping between Adobe [!DNL Workfront] and Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/configure-asset-metadata-mapping.html?lang=zh-Hant){target="_blank"}
 * [About Metadata](https://www.adobe.com/digitalimag/pdfs/about_metadata.pdf){target="_blank"}
 * [Use the Milestone view](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html?lang=zh-Hant){target="_blank"}
